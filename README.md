@@ -5,7 +5,7 @@ _linguistic data, text, and code relating to the Gothic language_
 
 ## Current work
 
-* markup of Wright's 2010 Grammar of Gothic
+* [markup of Wright's 2010 Grammar of Gothic](wright-1910-grammar/)
 * moving verb code over from [germanic-philology](https://github.com/jtauber/germanic-philology)
 
 
