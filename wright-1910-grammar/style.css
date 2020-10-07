@@ -19,6 +19,13 @@ h1 {
   font-size: 18pt;
   margin: 0;
 }
+h2 {
+  font-variant: small-caps;
+  font-weight: normal;
+  text-align: center;
+  font-size: 18pt;
+  margin: 1em 0;
+}
 .note {
   font-size: 16pt;
   line-height: 22pt;
