@@ -2,8 +2,8 @@
 
 ## Status of Grammar Chapters
 
-* **markup 1** refers to the structural divisions, headings, tables, etc.
-* **markup 2** refers to the semantic markup of languages, words, references, etc.
+* **markup 1** refers to the TEI-like markup of structural divisions, headings, tables, etc.
+* **markup 2** refers to the TEI-like semantic markup of languages, words, references, etc.
 * **html** refers to an initial HTML render designed to mimic the print edition
 
 | chapter | markup 1              | markup 2              | html                   |
