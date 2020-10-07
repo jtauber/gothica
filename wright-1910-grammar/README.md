@@ -4,7 +4,7 @@
 
 * **markup 1** refers to the structurual divisions, headings, tables, etc.
 * **markup 2** refers to the semantic markup of languages, words, references, etc.
-* **html** refers to an initial HTML rendered designed to mimic the print edition
+* **html** refers to an initial HTML render designed to mimic the print edition
 
 | chapter | markup 1    | markup 2 | html                   |
 |---------|-------------|----------|------------------------|
