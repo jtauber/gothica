@@ -1,6 +1,3 @@
-# gothica
-_linguistic data, text, and code relating to the Gothic language_
-
 **NOTE**: just getting started so don't expect much here just yet.
 
 ## Current work
