@@ -1,4 +1,4 @@
-# Grammar of the Gothic Language
+# Wright's 1910 Grammar of the Gothic Language
 
 ## Status of Grammar Chapters
 
