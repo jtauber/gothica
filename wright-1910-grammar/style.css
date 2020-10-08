@@ -55,10 +55,7 @@ h3 {
   font-weight: bold;
   white-space: nowrap;
 }
-.w {
-  font-weight: bold;
-}
-.seg {
+.phr, .w, .m, .c, .seg {
   font-weight: bold;
 }
 
