@@ -9,11 +9,11 @@
 | chapter | markup 1              | markup 2              | html                   |
 |---------|-----------------------|-----------------------|------------------------|
 | I       | in progress           |                       |                        |
-| II      | in progress           |                       |                        |
+| II      | [link](chapter02.xml) |                       |                        |
 | III     | done                  | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | in progress           |                       |                        |
 | V       | in progress           |                       |                        |
-| VI      | [link](chapter07.xml) |                       |                        |
+| VI      | [link](chapter06.xml) |                       |                        |
 | VII     | [link](chapter07.xml) |                       |                        |
 | VIII    | in progress           |                       |                        |
 | IX      | in progress           |                       |                        |

@@ -92,3 +92,7 @@ div.float-list-item {
   padding-left: 2em;
   text-indent: -2em;
 }
+
+.ditto {
+  padding: 0 1em;
+}
