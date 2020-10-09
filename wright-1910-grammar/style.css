@@ -17,20 +17,26 @@ h1 {
   font-weight: normal;
   text-align: center;
   font-size: 18pt;
-  margin: 0;
+  margin: 0.5em 0;
+}
+h1:first-of-type {
+  margin-top: 2em;
 }
 h2 {
   font-variant: small-caps;
   font-weight: normal;
   text-align: center;
   font-size: 18pt;
-  margin: 1em 0;
+  margin: 1.5em 0 1em;
 }
 h3 {
   font-weight: bold;
   text-align: center;
   font-size: 18pt;
-  margin: 1em 0;
+  margin: 1em 0 0.5em;
+}
+p {
+  margin: 0.5em 0;
 }
 .note {
   font-size: 16pt;
@@ -71,4 +77,18 @@ td {
 
 table.border td {
   border: 1px solid #666;
+}
+
+div.float-list {
+  display: flex;
+  align-items: flex-start;
+  margin: 0.5em 0;
+}
+div.float-list-head {
+  white-space: nowrap;
+  margin: 0 1em 0 0;
+}
+div.float-list-item {
+  padding-left: 2em;
+  text-indent: -2em;
 }
