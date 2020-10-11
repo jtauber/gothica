@@ -4,21 +4,21 @@
 
 Consider the following scan from Wright's book:
 
-![](img/img1.png)
+![](https://raw.githubusercontent.com/jtauber/gothica/main/wright-1910-grammar/img/img1.png)
 
 I'm taking the raw text:
 
-![](img/img2.png)
+![](https://raw.githubusercontent.com/jtauber/gothica/main/wright-1910-grammar/img/img2.png)
 
 and marking it up something like this:
 
-![](img/img3.png)
+![](https://raw.githubusercontent.com/jtauber/gothica/main/wright-1910-grammar/img/img3.png)
 
 Note that this is just the work-in-progress hand markup and is subject to change.
 
 But once this is done, not only can I produce a nice HTML version:
 
-![](img/img4.png)
+![](https://raw.githubusercontent.com/jtauber/gothica/main/wright-1910-grammar/img/img4.png)
 
 (eventually linkable) but I can start to extract machine-actionable language data such as sound and word correspondences.
 
