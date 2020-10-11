@@ -12,7 +12,7 @@
 | II      | [link](chapter02.xml) |                       |                        |
 | III     | done                  | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | in progress           |                       |                        |
-| V       | in progress           |                       |                        |
+| V       | [link](chapter05.xml) |                       |                        |
 | VI      | [link](chapter06.xml) |                       |                        |
 | VII     | [link](chapter07.xml) |                       |                        |
 | VIII    | in progress           |                       |                        |
