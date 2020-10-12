@@ -6,7 +6,7 @@ body {
 
   font-family: 'Noto Serif', serif;
   font-size: 14pt;
-  line-height: 20pt;
+  line-height: 22pt;
 }
 main {
   margin: 2rem;
@@ -17,7 +17,7 @@ h1 {
   font-weight: normal;
   text-align: center;
   font-size: 18pt;
-  line-height: 24pt;
+  line-height: 26pt;
   letter-spacing: 1px;
   margin: 0.5em 0;
 }
@@ -27,7 +27,7 @@ h1:first-of-type {
 h2 {
   text-transform: uppercase;  /* until we have proper smallcaps */
   font-size: 14pt;
-  line-height: 20pt;
+  line-height: 22pt;
 
   font-weight: normal;
   text-align: center;
@@ -38,7 +38,7 @@ h3 {
   font-weight: bold;
   text-align: center;
   font-size: 14pt;
-  line-height: 20pt;
+  line-height: 22pt;
   margin: 1em 0 0.5em;
 }
 p {
