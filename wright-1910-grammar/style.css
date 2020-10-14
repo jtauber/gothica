@@ -75,6 +75,9 @@ p {
 .phr, .w, .m, .c, .seg {
   font-weight: bold;
 }
+.bibl-title {
+  font-style: italic;
+}
 
 table {
   margin: 0 auto;

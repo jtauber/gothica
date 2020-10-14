@@ -4,11 +4,25 @@
 
   <div type="section" n="122">
     <p>
-      § 122. By ablaut is meant the gradation of vowels both in stem and suffix, which was caused by the primitive Indo-Germanic system of accentuation. See § 32.
+      <label>§ 122.</label> By ablaut is meant the gradation of vowels both in stem and suffix, which was caused by the primitive Indo-Germanic system of accentuation. See <ref>§ 32</ref>.
     </p>
 
     <p>
-      The vowels vary within certain series of related vowels, called ablaut-series. In Gothic, to which this chapter will chiefly be limited, there are seven such series, which appear most clearly in the stem-forms of the various classes of strong verbs. Four stem-forms are to be distinguished in a Gothic strong verb which has vowel gradation as the characteristic mark of its different stems:—(1) the present stem, to which belong all the forms of the present, (2) the stem of the preterite singular, (3) the stem of the preterite plural, to which also belongs the whole of the preterite subjunctive, (4) the stem of the past participle.
+      The vowels vary within certain series of related vowels, called ablaut-series. In <lang>Gothic</lang>, to which this chapter will chiefly be limited, there are seven such series, which appear most clearly in the stem-forms of the various classes of strong verbs. Four stem-forms are to be distinguished in a <lang>Gothic</lang> strong verb which has vowel gradation as the characteristic mark of its different stems:—
+      <list>
+        <item>
+          (1) the present stem, to which belong all the forms of the present,
+        </item>
+        <item>
+          (2) the stem of the preterite singular,
+        </item>
+        <item>
+          (3) the stem of the preterite plural, to which also belongs the whole of the preterite subjunctive,
+        </item>
+        <item>
+          (4) the stem of the past participle.
+        </item>
+      </list>
     </p>
 
     <p>
@@ -16,206 +30,271 @@
     </p>
 
     <table>
-      <row>     <cell></cell> <cell>i.</cell>    <cell>ii.</cell> <cell>iii.</cell>  <cell>iv.</cell>   </row>
-      <row>   <cell>I.</cell> <cell>ei</cell>    <cell>ái</cell>  <cell>i(aí)</cell> <cell>i(aí)</cell> </row>
-      <row>  <cell>II.</cell> <cell>iu</cell>    <cell>áu</cell>  <cell>u(aú)</cell> <cell>u(aú)</cell> </row>
-      <row> <cell>III.</cell> <cell>i(aí)</cell> <cell>a</cell>   <cell>u(aú)</cell> <cell>u(aú)</cell> </row>
-      <row>  <cell>IV.</cell> <cell>i(aí)</cell> <cell>a</cell>   <cell>ē</cell>     <cell>u(aú)</cell> </row>
-      <row>   <cell>V.</cell> <cell>i(aí)</cell> <cell>a</cell>   <cell>ē</cell>     <cell>i(aí)</cell> </row>
-      <row>  <cell>VI.</cell> <cell>a</cell>     <cell>ō</cell>   <cell>ō</cell>     <cell>a</cell>     </row>
-      <row> <cell>VII.</cell> <cell>ē</cell>     <cell>ō</cell>   <cell>ō</cell>     <cell>ē</cell>     </row>
+      <row>     <cell></cell> <cell>i.</cell>                   <cell>ii.</cell>        <cell>iii.</cell>                 <cell>iv.</cell>                  </row>
+      <row>   <cell>I.</cell> <cell><c>ei</c></cell>            <cell><c>ái</c></cell>  <cell><c>i</c>(<c>aí</c>)</cell>  <cell><c>i</c>(<c>aí</c>)</cell>  </row>
+      <row>  <cell>II.</cell> <cell><c>iu</c></cell>            <cell><c>áu</c></cell>  <cell><c>u</c>(<c>aú</c>)</cell>  <cell><c>u</c>(<c>aú</c>)</cell>  </row>
+      <row> <cell>III.</cell> <cell><c>i</c>(<c>aí</c>)</cell>  <cell><c>a</c></cell>   <cell><c>u</c>(<c>aú</c>)</cell>  <cell><c>u</c>(<c>aú</c>)</cell>  </row>
+      <row>  <cell>IV.</cell> <cell><c>i</c>(<c>aí</c>)</cell>  <cell><c>a</c></cell>   <cell><c>ē</c></cell>             <cell><c>u</c>(<c>aú</c>)</cell>  </row>
+      <row>   <cell>V.</cell> <cell><c>i</c>(<c>aí</c>)</cell>  <cell><c>a</c></cell>   <cell><c>ē</c></cell>             <cell><c>i</c>(<c>aí</c>)</cell>  </row>
+      <row>  <cell>VI.</cell> <cell><c>a</c></cell>             <cell><c>ō</c></cell>   <cell><c>ō</c></cell>             <cell><c>a</c></cell>             </row>
+      <row> <cell>VII.</cell> <cell><c>ē</c></cell>             <cell><c>ō</c></cell>   <cell><c>ō</c></cell>             <cell><c>ē</c></cell>             </row>
     </table>
 
     <div type="note">
       <p>
-        Note.—On the difference between i and aí, see §§ 67, 69; u and aú, see §§ 71, 73.
+        <label>Note.—</label>On the difference between <c>i</c> and <c>aí</c>, see <ref>§§ 67, 69</ref>; <c>u</c> and <c>aú</c>, see <ref>§§ 71, 73</ref>.
       </p>
     </div>
     <pb n="46"/>
     <p>
-      But although the series of vowels is seen most clearly in the stem-forms of strong verbs, the learner must not assume that ablaut occurs in strong verbs only. Every syllable of every word of whatever part of speech contains some form of ablaut. E.g. the sonantal elements in the following stem-syllables stand in ablaut relation to each other:—un-weis, unknowing, ignorant: witan, to know; *leisan [láis (§ 333), I know], to know: láisareis, teacher: lists, cunning, wile.
+      But although the series of vowels is seen most clearly in the stem-forms of strong verbs, the learner must not assume that ablaut occurs in strong verbs only. Every <hi>syllable</hi> of every word of whatever part of speech contains some form of ablaut. E.g. the sonantal elements in the following stem-syllables stand in ablaut relation to each other:—<w>un-weis</w>, <gloss>unknowing, ignorant</gloss> : <w>witan</w>, <gloss>to know</gloss>; <w>*leisan</w> [<w>láis</w> (<ref>§ 333</ref>), <gloss>I know</gloss>], <gloss>to know</gloss> : <w>láisareis</w>, <gloss>teacher</gloss> : <w>lists</w>, <gloss>cunning, wile</gloss>.
     </p>
 
     <p>
-      liufs, dear: ga-láubjan, to believe: lubō, love; siuks, sick, ill: saúhts, sickness; ana-biudan, to command: anabū̌sns, command; fra-liusan, to lose: fra-lusts, loss.
+      <w>liufs</w>, <gloss>dear</gloss> : <w>ga-láubjan</w>, <gloss>to believe</gloss> : <w>lubō</w>, <gloss>love</gloss>;
+      <w>siuks</w>, <gloss>sick, ill</gloss> : <w>saúhts</w>, <gloss>sickness</gloss>;
+      <w>ana-biudan</w>, <gloss>to command</gloss> : <w>anabū̌sns</w>, <gloss>command</gloss>;
+      <w>fra-liusan</w>, <gloss>to lose</gloss> : <w>fra-lusts</w>, <gloss>loss</gloss>.
     </p>
     <p>
-      bindan, to bind: bandi, band, bond: ga-bundi, bond; rinnan, to run: rannjan (wv.), to let run: runs, a running, issue; þaírsan, to be withered: þaúrsnan, to become withered: þaúrsus, withered.
+      <w>bindan</w>, <gloss>to bind</gloss> : <w>bandi</w>, <gloss>band, bond</gloss> : <w>ga-bundi</w>, <gloss>bond</gloss>;
+      <w>rinnan</w>, <gloss>to run</gloss> : <w>rannjan</w> (<grm>wv.</grm>), <gloss>to let run</gloss> : <w>runs</w>, <gloss>a running, issue</gloss>;
+      <w>þaírsan</w>, <gloss>to be withered</gloss> : <w>þaúrsnan</w>, <gloss>to become withered</gloss> : <w>þaúrsus</w>, <gloss>withered</gloss>.
     </p>
     <p>
-      baíran, to bear: barn, child: bērusjōs, parents: baúr, son; qiman, to come: ga-qumþs, a coming together, assembly; man, I think: muns, thought; ga-taíran, to tear in pieces: ga-taúra, a tear, rent; qinō, woman: qēns, wife, woman.
+      <w>baíran</w>, <gloss>to bear</gloss> : <w>barn</w>, <gloss>child</gloss> : <w>bērusjōs</w>, <gloss>parents</gloss> : <w>baúr</w>, <gloss>son</gloss>;
+      <w>qiman</w>, <gloss>to come</gloss> : <w>ga-qumþs</w>, <gloss>a coming together, assembly</gloss>;
+      <w>man</w>, <gloss>I think</gloss> : <w>muns</w>, <gloss>thought</gloss>;
+      <w>ga-taíran</w>, <gloss>to tear in pieces</gloss> : <w>ga-taúra</w>, <gloss>a tear, rent</gloss>;
+      <w>qinō</w>, <gloss>woman</gloss> : <w>qēns</w>, <gloss>wife, woman</gloss>.
     </p>
     <p>
-      mitan, to measure: us-mēt, manner of life, common-wealth; giban, to give: gabei, wealth.
+      <w>mitan</w>, <gloss>to measure</gloss> : <w>us-mēt</w>, <gloss>manner of life, common-wealth</gloss>;
+      <w>giban</w>, <gloss>to give</gloss> : <w>gabei</w>, <gloss>wealth</gloss>.
     </p>
     <p>
-      batiza, better: bōta, advantage; saþs, full: ga-sōþjan, to fill, satisfy; dags, day: ahtáu-dōgs (aj.), eight days old; fraþjan, to understand: frōdei, understanding; graban, to dig: grōba, ditch, hole.
+      <w>batiza</w>, <gloss>better</gloss> : <w>bōta</w>, <gloss>advantage</gloss>;
+      <w>saþs</w>, <gloss>full</gloss> : <w>ga-sōþjan</w>, <gloss>to fill, satisfy</gloss>;
+      <w>dags</w>, <gloss>day</gloss> : <w>ahtáu-dōgs</w> (<grm>aj.</grm>), <gloss>eight days old</gloss>;
+      <w>fraþjan</w>, <gloss>to understand</gloss> : <w>frōdei</w>, <gloss>understanding</gloss>;
+      <w>graban</w>, <gloss>to dig</gloss> : <w>grōba</w>, <gloss>ditch, hole</gloss>.
     </p>
     <p>
-      mana-sēþs, mankind, world, lit. man-seed: saian, to sow; ga-dēþs, deed: dōms, judgment, cp. Gr. τί-θημι, I place, put: θωμός, heap; waian, to blow: wōds, raging, mad.
+      <w>mana-sēþs</w>, <gloss>mankind, world</gloss>, <abbr>lit.</abbr> <gloss>man-seed</gloss> : <w>saian</w>, <gloss>to sow</gloss>;
+      <w>ga-dēþs</w>, <gloss>deed</gloss> : <w>dōms</w>, <gloss>judgment</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>τί-θημι</w>, <gloss>I place, put</gloss> : <w>θωμός</w>, <gloss>heap</gloss>;
+      <w>waian</w>, <gloss>to blow</gloss>: <w>wōds</w>, <gloss>raging, mad</gloss>.
     </p>
     <p>
       Examples of ablaut relation in other than stem-syllables are:—
     </p>
     <p>
-      Nom. pl. anstei-s, favours: gen. sing. anstái-s: acc. pl. ansti-ns; nom. pl. sunju-s (original form *suneu-es, § 88), sons: gen. sing. sunáu-s: acc. pl. sunu-ns; fulgi-ns (aj.),<pb n="47"/>hidden: fulha-ns, pp. of filhan, to hide; gen. sing. dagi-s, of a day: acc. pl. daga-ns; baíra-m, we bear: baíri-þ, ye bear = Gr. φέρο-μεν: φέρε-τε; brōþa-r, brother: dat. sing. brōp-r, cp. Gr. πατή-ρ: dat. πατ-ρ-ί; gen. sing. *aúhsi-ns, of an ox: acc. pl. *aúhsa-ns: gen. pl. aúhs-nē.
+      <grm>Nom. pl.</grm> <w>anstei-s</w>, <gloss>favours</gloss> : <grm>gen. sing.</grm> <w>anstái-s</w> : <grm>acc. pl.</grm> <w>ansti-ns</w>;
+      <grm>nom. pl.</grm> <w>sunju-s</w> (original form <w>*suneu-es</w>, <ref>§ 88</ref>), <gloss>sons</gloss> : <grm>gen. sing.</grm> <w>sunáu-s</w> : <grm>acc. pl.</grm> <w>sunu-ns</w>;
+      <w>fulgi-ns</w> (<grm>aj.</grm>),<pb n="47"/><gloss>hidden</gloss> : <w>fulha-ns</w>, <grm>pp.</grm> of <w>filhan</w>, <gloss>to hide</gloss>;
+      <grm>gen. sing.</grm> <w>dagi-s</w>, <gloss>of a day</gloss> : <grm>acc. pl.</grm> <w>daga-ns</w>;
+      <w>baíra-m</w>, <gloss>we bear</gloss> : <w>baíri-þ</w>, <gloss>ye bear</gloss> = <lang>Gr.</lang> <w>φέρο-μεν</w> : <w>φέρε-τε</w>;
+      <w>brōþa-r</w>, <gloss>brother</gloss> : <grm>dat. sing.</grm> <w>brōp-r</w>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>πατή-ρ</w> : <grm>dat.</grm> <w>πατ-ρ-ί</w>;
+      <grm>gen. sing.</grm> <w>*aúhsi-ns</w>, <gloss>of an ox</gloss> : <grm>acc. pl.</grm> <w>*aúhsa-ns</w> : <grm>gen. pl.</grm> <w>aúhs-nē</w>.
     </p>
   </div>
 
   <div type="section" n="123">
     <p>
-      § 123. In the following paragraphs will be given the Germanic equivalents of the above seven ablaut series, with one or two illustrations from Gothic. For further examples see the various classes of strong verbs, §§ 299–310.
+      <label>§ 123.</label> In the following paragraphs will be given the Germanic equivalents of the above seven ablaut series, with one or two illustrations from <lang>Gothic</lang>. For further examples see the various classes of strong verbs, <ref>§§ 299–310</ref>.
     </p>
   </div>
 
   <div type="section" n="124">
     <p>
-      § 124.
+      <label>§ 124.</label>
     </p>
 
-    <div type="subsection">
+    <div type="subsection" n="1">
       <head>Ablaut-series I.</head>
 
       <table>
-        <row> <cell>Gothic</cell>     <cell>ei</cell>                 <cell>ái</cell>    <cell>i(aí)</cell>   <cell>i(aí)</cell>   </row>
-        <row> <cell>Prim.Germ.</cell> <cell>ī</cell>                  <cell>ai</cell>    <cell>i</cell>       <cell>i</cell>       </row>
-        <row> <cell></cell>           <cell>steigan, to ascend</cell> <cell>stáig</cell> <cell>stigum</cell>  <cell>stigans</cell> </row>
-        <row> <cell></cell>           <cell>þeihan, to thrive</cell>  <cell>þáih</cell>  <cell>paíhum</cell>  <cell>paíhans</cell> </row>
+        <row> <cell><lang>Gothic</lang></cell>      <cell><c>ei</c></cell>                                <cell><c>ái</c></cell>    <cell><c>i</c>(<c>aí</c>)</cell>  <cell><c>i</c>(<c>aí</c>)</cell>  </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>ī</c></cell>                                 <cell><c>ai</c></cell>    <cell><c>i</c></cell>             <cell><c>i</c></cell>             </row>
+        <row> <cell></cell>                         <cell><w>steigan</w>, <gloss>to ascend</gloss></cell> <cell><w>stáig</w></cell> <cell><w>stigum</w></cell>        <cell><w>stigans</w></cell>       </row>
+        <row> <cell></cell>                         <cell><w>þeihan</w>, <gloss>to thrive</gloss></cell>  <cell><w>þáih</w></cell>  <cell><w>paíhum</w></cell>        <cell><w>paíhans</w></cell>       </row>
       </table>
       <div type="note">
         <p>
-          Note.—Cp. the parallel Greek series πείθω : πέποιθα : ἔπιθον.
+          <label>Note.—</label><abbr>Cp.</abbr> the parallel Greek series <w>πείθω</w> : <w>πέποιθα</w> : <w>ἔπιθον</w>.
         </p>
       </div>
     </div>
 
-    <div type="subsection">
+    <div type="subsection" n="2">
       <head>II.</head>
 
       <table>
-        <row> <cell>Goth.</cell>      <cell>iu</cell>              <cell>áu</cell>   <cell>u(aú)</cell>  <cell>u(aú)</cell>   </row>
-        <row> <cell>Prim.Germ.</cell> <cell>eu</cell>              <cell>au</cell>   <cell>u</cell>      <cell>o</cell>       </row>
-        <row> <cell></cell>           <cell>biugan, to bend</cell> <cell>báug</cell> <cell>bugum</cell>  <cell>bugans</cell>  </row>
-        <row> <cell></cell>           <cell>tiuhan, to lead</cell> <cell>táuh</cell> <cell>taúhum</cell> <cell>taúhans</cell> </row>
+        <row> <cell><lang>Goth.</lang></cell>       <cell><c>iu</c></cell>                              <cell><c>áu</c></cell>   <cell><c>u</c>(<c>aú</c>)</cell> <cell><c>u</c>(<c>aú</c>)</cell>  </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>eu</c></cell>                              <cell><c>au</c></cell>   <cell><c>u</c></cell>            <cell><c>o</c></cell>             </row>
+        <row> <cell></cell>                         <cell><w>biugan</w>, <gloss>to bend</gloss></cell>  <cell><w>báug</w></cell> <cell><w>bugum</w></cell>        <cell><w>bugans</w></cell>        </row>
+        <row> <cell></cell>                         <cell><w>tiuhan</w>, <gloss>to lead</gloss></cell>  <cell><w>táuh</w></cell> <cell><w>taúhum</w></cell>       <cell><w>taúhans</w></cell>       </row>
       </table>
 
       <div type="note">
         <p>
-          Note.—1. On iu and eu, see §§ 63, 85–6; on u and o, see §§ 62, 70. 2. Cp. Gr. ἐλεύ(θ)σομαι (fut.): εἰλήλοθα: ἤλυθον.
+          <list>
+            <item>
+              <label>Note.—</label>1. On <c>iu</c> and <c>eu</c>, see <ref>§§ 63, 85–6</ref>; on <c>u</c> and <c>o</c>, see <ref>§§ 62, 70</ref>.
+            </item>
+            <item>
+              2. <abbr>Cp.</abbr> <lang>Gr.</lang> <w>ἐλεύ(θ)σομαι</w> (<grm>fut.</grm>) : <w>εἰλήλουθα</w> : <w>ἤλυθον</w>.
+            </item>
+          </list>
         </p>
       </div>
     </div>
 
-    <div type="subsection">
+    <div type="subsection" n="3">
       <head>III.</head>
 
       <table>
-        <row> <cell>Goth.</cell>      <cell>i(aí)</cell>	            <cell>a</cell>	  <cell>u(aú)</cell>	 <cell>u(aú)</cell>    </row>
-        <row> <cell>Prim.Germ.</cell> <cell>e, i</cell>               <cell>a</cell>    <cell>u</cell>       <cell>o, u</cell>     </row>
-        <row> <cell></cell>           <cell>hilpan, to help</cell>    <cell>halp</cell> <cell>hulpum</cell>  <cell>hulpans</cell>  </row>
-        <row> <cell></cell>           <cell>bindan, to bind</cell>    <cell>band</cell> <cell>bundum</cell>  <cell>bundans</cell>  </row>
-        <row> <cell></cell>           <cell>waírpan, to become</cell> <cell>warþ</cell> <cell>waúrþum</cell> <cell>waúrþans</cell> </row>
+        <row> <cell><lang>Goth.</lang></cell>       <cell><c>i</c>(<c>aí</c>)</cell>                      <cell><c>a</c></cell>     <cell><c>u</c>(<c>aú</c>)</cell>  <cell><c>u</c>(<c>aú</c>)</cell>  </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>e</c>, <c>i</c></cell>                       <cell><c>a</c></cell>     <cell><c>u</c></cell>             <cell><c>o</c>, <c>u</c></cell>   </row>
+        <row> <cell></cell>                         <cell><w>hilpan</w>, <gloss>to help</gloss></cell>    <cell><w>halp</w></cell>  <cell><w>hulpum</w></cell>        <cell><w>hulpans</w></cell>       </row>
+        <row> <cell></cell>                         <cell><w>bindan</w>, <gloss>to bind</gloss></cell>    <cell><w>band</w></cell>  <cell><w>bundum</w></cell>        <cell><w>bundans</w></cell>       </row>
+        <row> <cell></cell>                         <cell><w>waírpan</w>, <gloss>to become</gloss></cell> <cell><w>warþ</w></cell>  <cell><w>waúrþum</w></cell>       <cell><w>waúrþans</w></cell>      </row>
       </table>
 
       <div type="note">
-        <p>
-          Note.—1. On e and i, see § 60 (1); on o and u, see §§ 62, 70.
-        </p>
-        <p>
-          2. To this class belong all strong verbs having a medial nasal or liquid + consonant, and a few others in which the vowel is followed by two consonants other than nasal or liquid + consonant.
-        </p>
-        <p>
-          3. Cp. Gk. δέρκομαι : δέδορκα : ἔδρακον; πέμπω : πέπομφα.
-        </p>
+        <list>
+          <item>
+            <p>
+              <label>Note.—</label>1. On <c>e</c> and <c>i</c>, see <ref>§ 60 (1)</ref>; on <c>o</c> and <c>u</c>, see <ref>§§ 62, 70</ref>.
+            </p>
+          </item>
+          <item>
+            <p>
+              2. To this class belong all strong verbs having a medial nasal or liquid + consonant, and a few others in which the vowel is followed by two consonants other than nasal or liquid + consonant.
+            </p>
+          </item>
+          <item>
+            <p>
+              3. <abbr>Cp.</abbr> <lang>Gk.</lang> <w>δέρκομαι</w> : <w>δέδορκα</w> : <w>ἔδρακον</w>;
+              <w>πέμπω</w> : <w>πέπομφα</w>.
+            </p>
+          </item>
+        </list>
       </div>
     </div>
     <pb n="48"/>
-    <div type="subsection">
+    <div type="subsection" n="4">
       <head>IV.</head>
 
       <table>
-        <row> <cell>Goth.</cell>      <cell>i(aí)</cell>           <cell>a</cell>   <cell>ē</cell>     <cell>u(aú)</cell>   </row>
-        <row> <cell>Prim.Germ.</cell> <cell>e</cell>               <cell>a</cell>   <cell>ǣ</cell>     <cell>o</cell>       </row>
-        <row> <cell></cell>           <cell>niman, to take</cell>  <cell>nam</cell> <cell>nēmum</cell> <cell>numans</cell>  </row>
-        <row> <cell></cell>           <cell>baíran, to bear</cell> <cell>bar</cell> <cell>bērum</cell> <cell>baúrans</cell> </row>
+        <row> <cell><lang>Goth.</lang></cell>       <cell><c>i</c>(<c>aí</c>)</cell>                    <cell><c>a</c></cell>   <cell><c>ē</c></cell>     <cell><c>u</c>(<c>aú</c>)</cell>  </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>e</c></cell>                               <cell><c>a</c></cell>   <cell><c>ǣ</c></cell>     <cell><c>o</c></cell>             </row>
+        <row> <cell></cell>                         <cell><w>niman</w>, <gloss>to take</gloss></cell>   <cell><w>nam</w></cell> <cell><w>nēmum</w></cell> <cell><w>numans</w></cell>        </row>
+        <row> <cell></cell>                         <cell><w>baíran</w>, <gloss>to bear</gloss></cell>  <cell><w>bar</w></cell> <cell><w>bērum</w></cell> <cell><w>baúrans</w></cell>       </row>
       </table>
 
       <div type="note">
-        <p>
-          Note.—1. On i and e, see § 66; ē and ǣ see § 75; u and o, see § 70.
-        </p>
-        <p>
-          2. To this class belong all strong verbs whose stems end in a single liquid or a nasal.
-        </p>
-        <p>
-          3. Cp. Gr. μένω : μονή : μί-μνω; δέρω : δορά : δε-δαρ-μένος.
-        </p>
+        <list>
+          <item>
+            <p>
+              <label>Note.—</label>1. On <c>i</c> and <c>e</c>, see <ref>§ 66</ref>;
+              <c>ē</c> and <c>ǣ</c> see <ref>§ 75</ref>;
+              <c>u</c> and <c>o</c>, see <ref>§ 70</ref>.
+            </p>
+          </item>
+          <item>
+            <p>
+              2. To this class belong all strong verbs whose stems end in a single liquid or a nasal.
+            </p>
+          </item>
+          <item>
+            <p>
+              3. <abbr>Cp.</abbr> <lang>Gr.</lang> <w>μένω</w> : <w>μονή</w> : <w>μί-μνω</w>;
+              <w>δέρω</w> : <w>δορά</w> : <w>δε-δαρ-μένος</w>.
+            </p>
+          </item>
+        </list>
       </div>
     </div>
-    <div type="subsection">
+    <div type="subsection" n="5">
       <head>V.</head>
 
       <table>
-        <row> <cell>Goth.</cell>      <cell>i(aí)</cell>          <cell>a</cell>   <cell>ē</cell>     <cell>i(aí)</cell>   </row>
-        <row> <cell>Prim.Germ.</cell> <cell>e</cell>              <cell>a</cell>   <cell>ǣ</cell>     <cell>e</cell>       </row>
-        <row> <cell></cell>           <cell>giban, to give</cell> <cell>gaf</cell> <cell>gēbum</cell> <cell>gibans</cell>  </row>
-        <row> <cell></cell>           <cell>saíƕan, to see</cell> <cell>saƕ</cell> <cell>sēƕum</cell> <cell>saíƕans</cell> </row>
+        <row> <cell><lang>Goth.</lang></cell>       <cell><c>i</c>(<c>aí</c>)</cell>                  <cell><c>a</c></cell>   <cell><c>ē</c></cell>     <cell><c>i</c>(<c>aí</c>)</cell>  </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>e</c></cell>                             <cell><c>a</c></cell>   <cell><c>ǣ</c></cell>     <cell><c>e</c></cell>             </row>
+        <row> <cell></cell>                         <cell><w>giban</w>, <gloss>to give</gloss></cell> <cell><w>gaf</w></cell> <cell><w>gēbum</w></cell> <cell><w>gibans</w></cell>        </row>
+        <row> <cell></cell>                         <cell><w>saíƕan</w>, <gloss>to see</gloss></cell> <cell><w>saƕ</w></cell> <cell><w>sēƕum</w></cell> <cell><w>saíƕans</w></cell>       </row>
       </table>
 
       <div type="note">
-        <p>
-          Note.—1. On i and e, see § 66; ē and ǣ, see § 75.
-        </p>
-        <p>
-          2. To this class belong strong verbs whose stems end in a single consonant other than a liquid or a nasal.
-        </p>
-        <p>
-          3. Cp. Gk. πέτομαι : πότμος : ἐ-πτ-όμην; τρέπω : τέ-τροφα : τρα-πέσθαι.
-        </p>
+        <list>
+          <item>
+            <p>
+              <label>Note.—</label>1. On <c>i</c> and <c>e</c>, see <ref>§ 66</ref>; <c>ē</c> and <c>ǣ</c>, see <ref>§ 75</ref>.
+            </p>
+          </item>
+          <item>
+            <p>
+              2. To this class belong strong verbs whose stems end in a single consonant other than a liquid or a nasal.
+            </p>
+          </item>
+          <item>
+            <p>
+              3. <abbr>Cp.</abbr> <lang>Gk.</lang> <w>πέτομαι</w> : <w>πότμος</w> : <w>ἐ-πτ-όμην</w>;
+              <w>τρέπω</w> : <w>τέ-τροφα</w> : <w>τρα-πέσθαι</w>.
+            </p>
+          </item>
+        </list>
       </div>
     </div>
 
-    <div type="subsection">
+    <div type="subsection" n="6">
       <head>VI.</head>
       
       <table>
-        <row> <cell>Goth.</cell>      <cell>a</cell>                 <cell>ō</cell>    <cell>ō</cell>      <cell>a</cell>       </row>
-        <row> <cell>Prim.Germ.</cell> <cell>a</cell>                 <cell>ō</cell>    <cell>ō</cell>      <cell>a</cell>       </row>
-        <row> <cell></cell>           <cell>faran, to go</cell>      <cell>fōr</cell>  <cell>fōrum</cell>  <cell>farans</cell>  </row>
-        <row> <cell></cell>           <cell>slahan, to strike</cell> <cell>slōh</cell> <cell>slōhum</cell> <cell>slahans</cell> </row>
+        <row> <cell><lang>Goth.</lang></cell>       <cell><c>a</c></cell>                                 <cell><c>ō</c></cell>    <cell><c>ō</c></cell>      <cell><c>a</c></cell>       </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>a</c></cell>                                 <cell><c>ō</c></cell>    <cell><c>ō</c></cell>      <cell><c>a</c></cell>       </row>
+        <row> <cell></cell>                         <cell><w>faran</w>, <gloss>to go</gloss></cell>       <cell><w>fōr</w></cell>  <cell><w>fōrum</w></cell>  <cell><w>farans</w></cell>  </row>
+        <row> <cell></cell>                         <cell><w>slahan</w>, <gloss>to strike</gloss></cell>  <cell><w>slōh</w></cell> <cell><w>slōhum</w></cell> <cell><w>slahans</w></cell> </row>
       </table>
 
       <div type="note">
         <p>
-          Note.—The stems of verbs belonging to this class end in a single consonant.
+          <label>Note.—</label>The stems of verbs belonging to this class end in a single consonant.
         </p>
       </div>
     </div>
 
-    <div type="subsection">
+    <div type="subsection" n="7">
       <head>VII.</head>
 
       <table>
-        <row> <cell>Goth.</cell>      <cell>ē(ai)</cell>         <cell>ō</cell>       <cell>ō</cell>         <cell>ē(ai)</cell>  </row>
-        <row> <cell>Prim.Germ.</cell> <cell>ǣ</cell>             <cell>ō</cell>       <cell>ō</cell>         <cell>ǣ</cell>      </row>
-        <row> <cell></cell>           <cell>lētan, to let</cell> <cell>laí-lōt</cell> <cell>laí-lōtum</cell> <cell>lētans</cell> </row>
-        <row> <cell></cell>           <cell>saian, to sow</cell> <cell>saí-sō</cell>  <cell>saí-sōum</cell>  <cell>saians</cell> </row>
+        <row> <cell><lang>Goth.</lang></cell>       <cell><c>ē</c>(<c>ai</c>)</cell>                  <cell><c>ō</c></cell>       <cell><c>ō</c></cell>         <cell><c>ē</c>(<c>ai</c>)</cell>  </row>
+        <row> <cell><lang>Prim.Germ.</lang></cell>  <cell><c>ǣ</c></cell>                             <cell><c>ō</c></cell>       <cell><c>ō</c></cell>         <cell><c>ǣ</c></cell>             </row>
+        <row> <cell></cell>                         <cell><w>lētan</w>, <gloss>to let</gloss></cell>  <cell><w>laí-lōt</w></cell> <cell><w>laí-lōtum</w></cell> <cell><w>lētans</w></cell>        </row>
+        <row> <cell></cell>                         <cell><w>saian</w>, <gloss>to sow</gloss></cell>  <cell><w>saí-sō</w></cell>  <cell><w>saí-sōum</w></cell>  <cell><w>saians</w></cell>        </row>
       </table>
 
       <div type="note">
-        <p>
-          Note.—1. On ē and ai, see §§ 75–6.
-        </p>
-        <p>
-          2. Cp. Gk. ἵ-η-μι : Dor. ἀφ-έ-ω-κα; τί-θημι : θωμός.
-        </p>
+        <list>
+          <item>
+            <p>
+              <label>Note.—</label>1. On <c>ē</c> and <c>ai</c>, see <ref>§§ 75–6</ref>.
+            </p>
+          </item>
+          <item>
+            <p>
+              2. <abbr>Cp.</abbr> <lang>Gk.</lang> <w>ἵ-η-μι</w> : <lang>Dor.</lang> <w>ἀφ-έ-ω-κα</w>;
+              <w>τί-θημι</w> : <w>θωμός</w>.
+            </p>
+          </item>
+        </list>
       </div>
     </div>
   </div>
   <pb n="49"/>
   <div type="section" n="125">
     <p>
-      § 125. The ablaut-series as given in § 124 have, for practical reasons, been limited to the phases of ablaut as they appear in the various classes of strong verbs. From an Indo-Germanic point of view the series I–V belong to one and the same series which underwent in Germanic various modifications upon clearly defined lines. What is called the sixth ablaut-series in the Germanic languages is really a mixture of several original series, owing to several Indg. vowel-sounds having fallen together in prim. Germanic; thus the a, which occurs in the present and the past participle, corresponds to three Indg. vowels, viz. a (§ 36), o (§ 39), and ǝ (§ 41); and the ō in the preterite corresponds to Indg. ā (§ 42) and Indg. ō (§ 45). In a few isolated cases there are also phases of ablaut which do not manifest themselves in the various parts of strong verbs, as e. g. acc. pl. *aúhsa-ns, oxen: gen. pl. aúhs-nē, where the vowel disappears altogether, as in Gr. πέτομαι: ἐ-πτ-όμην; slaúhts, slaughter: slahan (VI), to slay; lats, slothful: lētan (VII), to let; raþjō, number, account: rēdan (VII), to counsel; lūkan, to lock: pret. sing. láuk (II), which is an aorist-present like Gr. τῡ́φω, τρῑ́βω, another similar aorist-present form is trudan (IV), to tread. For the phases of ablaut which do not occur in the various parts of strong verbs, and for traces of ablaut-series other than those given above, the student should consult Brugmann’s Kurze vergleichende Grammatik der indogermanischen Sprachen, pp. 138–50.
+      <label>§ 125.</label> The ablaut-series as given in <ref>§ 124</ref> have, for practical reasons, been limited to the phases of ablaut as they appear in the various classes of strong verbs. From an Indo-Germanic point of view the series I–V belong to one and the same series which underwent in Germanic various modifications upon clearly defined lines. What is called the sixth ablaut-series in the Germanic languages is really a mixture of several original series, owing to several <lang>Indg.</lang> vowel-sounds having fallen together in <lang>prim. Germanic</lang>; thus the <c>a</c>, which occurs in the present and the past participle, corresponds to three <lang>Indg.</lang> vowels, viz. <c>a</c> (<ref>§ 36</ref>), <c>o</c> (<ref>§ 39</ref>), and <c>ǝ</c> (<ref>§ 41</ref>); and the <c>ō</c> in the preterite corresponds to <lang>Indg.</lang> <c>ā</c> (<ref>§ 42</ref>) and <lang>Indg.</lang> <c>ō</c> (<ref>§ 45</ref>). In a few isolated cases there are also phases of ablaut which do not manifest themselves in the various parts of strong verbs, as <abbr>e. g.</abbr> <grm>acc. pl.</grm> <w>*aúhsa-ns</w>, <gloss>oxen</gloss> : <grm>gen. pl.</grm> <w>aúhs-nē</w>, where the vowel disappears altogether, as in <lang>Gr.</lang> <w>πέτομαι</w> : <w>ἐ-πτ-όμην</w>; <w>slaúhts</w>, <gloss>slaughter</gloss> : <w>slahan</w> (VI), <gloss>to slay</gloss>; <w>lats</w>, <gloss>slothful</gloss> : <w>lētan</w> (VII), <gloss>to let</gloss>; <w>raþjō</w>, <gloss>number, account</gloss> : <w>rēdan</w> (VII), <gloss>to counsel</gloss>; <w>lūkan</w>, <gloss>to lock</gloss> : <grm>pret. sing.</grm> <w>láuk</w> (II), which is an aorist-present like <lang>Gr.</lang> <w>τῡ́φω</w>, <w>τρῑ́βω</w>, another similar aorist-present form is <w>trudan</w> (IV), <gloss>to tread</gloss>. For the phases of ablaut which do not occur in the various parts of strong verbs, and for traces of ablaut-series other than those given above, the student should consult <bibl><author>Brugmann</author>’s <title>Kurze vergleichende Grammatik der indogermanischen Sprachen</title>, <biblScope unit="page" from="138" to="150"><abbr>pp.</abbr> 138–50</biblScope></bibl>.
     </p>
   </div>
 </div>
