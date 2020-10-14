@@ -33,8 +33,8 @@ Paradigms and lexical information will also be extractable.
 | chapter | markup 1              | markup 2              | html                   |
 |---------|-----------------------|-----------------------|------------------------|
 | I       | in progress           |                       |                        |
-| II      | [link](chapter02.xml) | in progress           |                        |
-| III     | done                  | [link](chapter03.xml) | [link](chapter03.html) |
+| II      | superceded            | [link](chapter02.xml) | [link](chapter02.html) |
+| III     | superceded            | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | in progress           |                       |                        |
 | V       | [link](chapter05.xml) |                       |                        |
 | VI      | [link](chapter06.xml) |                       |                        |
@@ -45,6 +45,6 @@ Paradigms and lexical information will also be extractable.
 | XI      |                       |                       |                        |
 | XII     |                       |                       |                        |
 | XIII    |                       |                       |                        |
-| XIV     | done                  | [link](chapter14.xml) | [link](chapter14.html) |
+| XIV     | superceded            | [link](chapter14.xml) | [link](chapter14.html) |
 | XV      |                       |                       |                        |
 | XVI     |                       |                       |                        |

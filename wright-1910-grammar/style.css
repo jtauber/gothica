@@ -4,9 +4,14 @@ body {
   display: flex;
   justify-content: space-around;
 
-  font-family: 'Noto Serif', serif;
+  font-family: 'Noto Serif';
   font-size: 14pt;
-  line-height: 22pt;
+  line-height: 20pt;
+  /*
+  color: #333;
+  text-shadow: 0 0 2px #000;
+  background: #FFFFF7;
+  */
 }
 main {
   margin: 2rem;
@@ -17,7 +22,7 @@ h1 {
   font-weight: normal;
   text-align: center;
   font-size: 18pt;
-  line-height: 26pt;
+  line-height: 24pt;
   letter-spacing: 1px;
   margin: 0.5em 0;
 }
@@ -27,7 +32,7 @@ h1:first-of-type {
 h2 {
   text-transform: uppercase;  /* until we have proper smallcaps */
   font-size: 14pt;
-  line-height: 22pt;
+  line-height: 20pt;
 
   font-weight: normal;
   text-align: center;
@@ -38,7 +43,7 @@ h3 {
   font-weight: bold;
   text-align: center;
   font-size: 14pt;
-  line-height: 22pt;
+  line-height: 20pt;
   margin: 1em 0 0.5em;
 }
 p {
@@ -46,7 +51,7 @@ p {
 }
 .note {
   font-size: 12pt;
-  line-height: 18pt;
+  line-height: 16pt;
 }
 
 .section-label {
