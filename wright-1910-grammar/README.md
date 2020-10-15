@@ -37,7 +37,7 @@ Paradigms and lexical information will also be extractable.
 | III     | superceded            | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | [link](chapter04.xml) |                       |                        |
 | V       | [link](chapter05.xml) |                       |                        |
-| VI      | [link](chapter06.xml) | in progress           |                        |
+| VI      | superceded            | [link](chapter06.xml) | [link](chapter06.html)  |
 | VII     | superceded            | [link](chapter07.xml) | [link](chapter07.html) |
 | VIII    | in progress           |                       |                        |
 | IX      | in progress           |                       |                        |

@@ -3,18 +3,27 @@
   <head>THE GERMANIC EQUIVALENTS OF THE GOTHIC VOWEL-SOUNDS</head>
 
   <div type="subchapter" n="1">
-    <head>A. The Vowels of Accented Syllables</head>
+    <head>A. The Vowels of Accented Syllables.</head>
 
     <div type="subsubchapter" n="1">
-      <head>1. Short Vowels</head>
+      <head>1. Short Vowels.</head>
 
       <div type="section" n="91">
         <list rend="float">
           <head>
-            § 91. Gothic a
+            <label>§ 91.</label> <lang>Gothic</lang> <c>a</c>
           </head>
           <item>
-            = Germ. a, as fadar, father; akrs, field; tagr, tear; gasts, guest; ahtáu, eight; band, he bound; nam, he took; gaf, he gave. Cp. § 65.
+            = <lang>Germ.</lang> <c>a</c>, as
+            <w>fadar</w>, <gloss>father</gloss>;
+            <w>akrs</w>, <gloss>field</gloss>;
+            <w>tagr</w>, <gloss>tear</gloss>;
+            <w>gasts</w>, <gloss>guest</gloss>;
+            <w>ahtáu</w>, <gloss>eight</gloss>;
+            <w>band</w>, <gloss>he bound</gloss>;
+            <w>nam</w>, <gloss>he took</gloss>;
+            <w>gaf</w>, <gloss>he gave</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 65</ref>.
           </item>
         </list>
       </div>
@@ -22,13 +31,22 @@
       <div type="section" n="92">
         <list rend="float">
           <head>
-            § 92. Goth. aí
+            <label>§ 92.</label> <lang>Goth.</lang> <c>aí</c>
           </head>
           <item>
-            = (1) Germ. e, as taíhun, ten; faíhu, cattle; saíƕan, to see; baíran, to bear. Cp. § 67.
+            = (1) <lang>Germ.</lang> <c>e</c>, as
+            <w>taíhun</w>, <gloss>ten</gloss>;
+            <w>faíhu</w>, <gloss>cattle</gloss>;
+            <w>saíƕan</w>, <gloss>to see</gloss>;
+            <w>baíran</w>, <gloss>to bear</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 67</ref>.
           </item>
           <item>
-            = (2) Germ. i, as baíriþ, he bears; þaíhum, we throve, pp. þaíhans; laíƕum, we lent, pp. laíƕans. Cp. § 69.
+            = (2) <lang>Germ.</lang> <c>i</c>, as
+            <w>baíriþ</w>, <gloss>he bears</gloss>;
+            <w>þaíhum</w>, <gloss>we throve</gloss>, <grm>pp.</grm> <w>þaíhans</w>;
+            <w>laíƕum</w>, <gloss>we lent</gloss>, <grm>pp.</grm> <w>laíƕans</w>.
+            <abbr>Cp.</abbr> <ref>§ 69</ref>.
           </item>
         </list>
       </div>
@@ -36,13 +54,23 @@
       <div type="section" n="93">
         <list rend="float">
           <head>
-            § 93. Goth. i
+            <label>§ 93.</label> <lang>Goth.</lang> <c>i</c>
           </head>
           <item>
-            = (1) Germ. i, as fisks, fish; bitum, we bit, pp. bitans; nimis, thou takest; bindan, to bind. Cp. § 68.
+            = (1) <lang>Germ.</lang> <c>i</c>, as
+            <w>fisks</w>, <gloss>fish</gloss>;
+            <w>bitum</w>, <gloss>we bit</gloss>, <grm>pp.</grm> <w>bitans</w>;
+            <w>nimis</w>, <gloss>thou takest</gloss>;
+            <w>bindan</w>, <gloss>to bind</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 68</ref>.
           </item>
           <item>
-            = (2) Germ. e, as swistar, sister; hilpan, to help; niman, to take; giban, to give, pp. gibans. Cp. § 66.
+            = (2) <lang>Germ.</lang> <c>e</c>, as
+            <w>swistar</w>, <gloss>sister</gloss>;
+            <w>hilpan</w>, <gloss>to help</gloss>;
+            <w>niman</w>, <gloss>to take</gloss>;
+            <w>giban</w>, <gloss>to give</gloss>, <grm>pp.</grm> <w>gibans</w>.
+            <abbr>Cp.</abbr> <ref>§ 66</ref>.
           </item>
         </list>
       </div>
@@ -50,14 +78,22 @@
       <div type="section" n="94">
         <list rend="float">
           <head>
-            § 94. Goth. aú
+            <label>§ 94.</label> <lang>Goth.</lang> <c>aú</c>
           </head>
           <item>
-            = (1) Germ. o, as waúrd, word; daúhtar, daughter; pp. taúhans, drawn. Cp. § 70.
+            = (1) <lang>Germ.</lang> <c>o</c>, as
+            <w>waúrd</w>, <gloss>word</gloss>;
+            <w>daúhtar</w>, <gloss>daughter</gloss>;
+            <grm>pp.</grm> <w>taúhans</w>, <gloss>drawn</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 70</ref>.
           </item>
           <pb n="40"/>
           <item>
-            = (2) Germ. u, as waúrms, worm; waúrkjan, to work; taúhum, we drew. Cp. § 73.
+            = (2) <lang>Germ.</lang> <c>u</c>, as
+            <w>waúrms</w>, <gloss>worm</gloss>;
+            <w>waúrkjan</w>, <gloss>to work</gloss>;
+            <w>taúhum</w>, <gloss>we drew</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 73</ref>.
           </item>
         </list>
       </div>
@@ -65,28 +101,43 @@
       <div type="section" n="95">
         <list rend="float">
           <head>
-            § 95. Goth. u
+            <label>§ 95.</label> <lang>Goth.</lang> <c>u</c>
           </head>
           <item>
-            = (1) Germ. u, as juggs, young; fralusts, loss; budum, we offered; bundum, we bound, pp. bundans; hulpum, we helped. Cp. § 72.
+            = (1) <lang>Germ.</lang> <c>u</c>, as
+            <w>juggs</w>, <gloss>young</gloss>;
+            <w>fralusts</w>, <gloss>loss</gloss>;
+            <w>budum</w>, <gloss>we offered</gloss>;
+            <w>bundum</w>, <gloss>we bound</gloss>, <grm>pp.</grm> <w>bundans</w>;
+            <w>hulpum</w>, <gloss>we helped</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 72</ref>.
           </item>
           <item>
-            = (2) Germ. o, as juk, yoke; pp. hulpans, helped; pp. budans, offered; pp. numans, taken. Cp. §§ 62, 70.
+            = (2) <lang>Germ.</lang> <c>o</c>, as
+            <w>juk</w>, yoke;
+            <grm>pp.</grm> <w>hulpans</w>, <gloss>helped</gloss>;
+            <grm>pp.</grm> <w>budans</w>, <gloss>offered</gloss>;
+            <grm>pp.</grm> <w>numans</w>, <gloss>taken</gloss>.
+            <abbr>Cp.</abbr> <ref>§§ 62, 70</ref>.
           </item>
         </list>
       </div>
     </div>
 
     <div type="subsubchapter" n="2">
-      <head>2. Long Vowels</head>
+      <head>2. Long Vowels.</head>
 
       <div type="section" n="96">
         <list rend="float">
           <head>
-            § 96. Goth. ā
+            <label>§ 96.</label> <lang>Goth.</lang> <c>ā</c>
           </head>
           <item>
-            = Germ. ā, as hāhan, to hang; pāhta, he thought; brāhta, he brought. Cp. §§ 59, 74.
+            = <lang>Germ.</lang> <c>ā</c>, as
+            <w>hāhan</w>, <gloss>to hang</gloss>;
+            <w>pāhta</w>, <gloss>he thought</gloss>;
+            <w>brāhta</w>, <gloss>he brought</gloss>.
+            <abbr>Cp.</abbr> <ref>§§ 59, 74</ref>.
           </item>
         </list>
       </div>
@@ -94,13 +145,22 @@
       <div type="section" n="97">
         <list rend="float">
           <head>
-            § 97. Goth. ē
+            <label>§ 97.</label> <lang>Goth.</lang> <c>ē</c>
           </head>
           <item>
-            = (1) Germ. ē, as hēr, here; fēra, country, region. Cp. § 77.
+            = (1) <lang>Germ.</lang> <c>ē</c>, as
+            <w>hēr</w>, <gloss>here</gloss>;
+            <w>fēra</w>, <gloss>country, region</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 77</ref>.
           </item>
           <item>
-            = (2) Germ. ǣ, as qēns, wife; gadēþs, deed; bērum, we bore; sētum, we sat; slēpan, to sleep. Cp. § 75.
+            = (2) <lang>Germ.</lang> <c>ǣ</c>, as
+            <w>qēns</w>, <gloss>wife</gloss>;
+            <w>gadēþs</w>, <gloss>deed</gloss>;
+            <w>bērum</w>, <gloss>we bore</gloss>;
+            <w>sētum</w>, <gloss>we sat</gloss>;
+            <w>slēpan</w>, <gloss>to sleep</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 75</ref>.
           </item>
         </list>
       </div>
@@ -108,10 +168,13 @@
       <div type="section" n="98">
         <list rend="float">
           <head>
-          § 98. Goth. ai
+          <label>§ 98.</label> <lang>Goth.</lang> <c>ai</c>
           </head>
           <item>
-            = Germ. ǣ(j), as saian, to sow; waian, to blow. Cp. § 76.
+            = <lang>Germ.</lang> <c>ǣ(j)</c>, as
+            <w>saian</w>, <gloss>to sow</gloss>;
+            <w>waian</w>, <gloss>to blow</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 76</ref>.
           </item>
         </list>
       </div>
@@ -119,10 +182,14 @@
       <div type="section" n="99">
         <list rend="float">
           <head>
-          § 99. Goth. ei
+          <label>§ 99.</label> <lang>Goth.</lang> <c>ei</c>
           </head>
           <item>
-            = Germ. ī, as seins, his; swein, pig; steigan, to ascend. Cp. § 78.
+            = <lang>Germ.</lang> <c>ī</c>, as
+            <w>seins</w>, <gloss>his</gloss>;
+            <w>swein</w>, <gloss>pig</gloss>;
+            <w>steigan</w>, <gloss>to ascend</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 78</ref>.
           </item>
         </list>
       </div>
@@ -130,10 +197,16 @@
       <div type="section" n="100">
         <list rend="float">
           <head>
-          § 100. Goth. ō
+          <label>§ 100.</label> <lang>Goth.</lang> <c>ō</c>
           </head>
           <item>
-            = Germ. ō, as fōtus, foot; brōþar, brother; fōr, I fared, went, pl. fōrum; saísō, I sowed; stōjan, to judge. Cp. §§ 79, 81.
+            = <lang>Germ.</lang> <c>ō</c>, as
+            <w>fōtus</w>, <gloss>foot</gloss>;
+            <w>brōþar</w>, <gloss>brother</gloss>;
+            <w>fōr</w>, <gloss>I fared, went</gloss>, <grm>pl.</grm> <w>fōrum</w>;
+            <w>saísō</w>, <gloss>I sowed</gloss>;
+            <w>stōjan</w>, <gloss>to judge</gloss>.
+            <abbr>Cp.</abbr> <ref>§§ 79, 81</ref>.
           </item>
         </list>
       </div>
@@ -141,10 +214,13 @@
       <div type="section" n="101">
         <list rend="float">
           <head>
-          § 101. Goth. au
+          <label>§ 101.</label> <lang>Goth.</lang> <c>au</c>
           </head>
           <item>
-            = Germ. ō(w), as staua, judge, stauida, I judged; bauan, to inhabit. Cp. § 80.
+            = <lang>Germ.</lang> <c>ō(w)</c>, as
+            <w>staua</w>, <gloss>judge</gloss>, <w>stauida</w>, <gloss>I judged</gloss>;
+            <w>bauan</w>, <gloss>to inhabit</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 80</ref>.
           </item>
         </list>
        </div>
@@ -152,25 +228,35 @@
        <div type="section" n="102">
         <list rend="float">
           <head>
-          § 102. Goth. ū
+          <label>§ 102.</label> <lang>Goth.</lang> <c>ū</c>
           </head>
           <item>
-            = Germ. ū, as rūms, room; þūsundi, thousand; galūkan, to lock, shut; jūhiza, younger. Cp. § 82.
+            = <lang>Germ.</lang> <c>ū</c>, as
+            <w>rūms</w>, <gloss>room</gloss>;
+            <w>þūsundi</w>, <gloss>thousand</gloss>;
+            <w>galūkan</w>, <gloss>to lock, shut</gloss>;
+            <w>jūhiza</w>, <gloss>younger</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 82</ref>.
           </item>
         </list>
       </div>
     </div>
     <pb n="41"/>
     <div type="subsubchapter" n="3">
-      <head>3. Diphthongs</head>
+      <head>3. Diphthongs.</head>
 
       <div type="section" n="103">
         <list rend="float">
           <head>
-            § 103. Goth. ái
+            <label>§ 103.</label> <lang>Goth.</lang> <c>ái</c>
           </head>
           <item>
-            = Germ. ai, as stáins, stone; wáit, I know; stáig, I, he ascended; háitan, to name, call. Cp. § 83.
+            = <lang>Germ.</lang> <c>ai</c>, as
+            <w>stáins</w>, <gloss>stone</gloss>;
+            <w>wáit</w>, <gloss>I know</gloss>;
+            <w>stáig</w>, <gloss>I, he ascended</gloss>;
+            <w>háitan</w>, <gloss>to name, call</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 83</ref>.
           </item>
         </list>
       </div>
@@ -178,13 +264,21 @@
       <div type="section" n="104">
         <list rend="float">
           <head>
-            § 104. Goth. áu
+            <label>§ 104.</label> <lang>Goth.</lang> <c>áu</c>
           </head>
           <item>
-            = (1) Germ. au, as áugō, eye; áukan, to add, increase; káus, he chose, tested. Cp. § 84.
+            = (1) <lang>Germ.</lang> <c>au</c>, as
+            <w>áugō</w>, <gloss>eye</gloss>;
+            <w>áukan</w>, <gloss>to add, increase</gloss>;
+            <w>káus</w>, <gloss>he chose, tested</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 84</ref>.
           </item>
           <item>
-            = (2) Germ. aw, as snáu, he hastened, inf. sniwan; máujōs, of a girl, nom. mawi; táujan, to do, pret. tawida. Cp. § 150.
+            = (2) <lang>Germ.</lang> <c>aw</c>, as
+            <w>snáu</w>, <gloss>he hastened</gloss>, <grm>inf.</grm> <w>sniwan</w>;
+            <w>máujōs</w>, <gloss>of a girl</gloss>, <grm>nom.</grm> <w>mawi</w>;
+            <w>táujan</w>, <gloss>to do</gloss>, pret. <w>tawida</w>.
+            <abbr>Cp.</abbr> <ref>§ 150</ref>.
           </item>
         </list>
       </div>
@@ -192,16 +286,28 @@
       <div type="section" n="105">
         <list rend="float">
           <head>
-            § 105. Goth. iu
+            <label>§ 105.</label> <lang>Goth.</lang> <c>iu</c>
           </head>
           <item>
-            = (1) Germ. iu, as niujis, new; liuhtjan, to light; kiusiþ, he chooses. Cp. §§ 63, 85.
+            = (1) <lang>Germ.</lang> <c>iu</c>, as
+            <w>niujis</w>, <gloss>new</gloss>;
+            <w>liuhtjan</w>, <gloss>to light</gloss>;
+            <w>kiusiþ</w>, <gloss>he chooses</gloss>.
+            <abbr>Cp.</abbr> <ref>§§ 63, 85</ref>.
           </item>
           <item>
-            = (2) Germ. eu, as diups, deep; liuhaþ, light; fraliusan, to lose. Cp. §§ 63, 85–6.
+            = (2) <lang>Germ.</lang> <c>eu</c>, as
+            <w>diups</w>, <gloss>deep</gloss>;
+            <w>liuhaþ</w>, <gloss>light</gloss>;
+            <w>fraliusan</w>, <gloss>to lose</gloss>.
+            <abbr>Cp.</abbr> <ref>§§ 63, 85–6</ref>.
           </item>
           <item>
-            = (3) Germ. ew, iw, as kniu (gen. kniwis), knee; qius (gen. qiwis), quick, alive; siuns, sight, face. Cp. § 150.
+            = (3) <lang>Germ.</lang> <c>ew</c>, <c>iw</c>, as
+            <w>kniu</w> (<grm>gen.</grm> <w>kniwis</w>), <gloss>knee</gloss>;
+            <w>qius</w> (<grm>gen.</grm> <w>qiwis</w>), <gloss>quick, alive</gloss>;
+            <w>siuns</w>, <gloss>sight, face</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 150</ref>.
           </item>
         </list>
       </div>
@@ -209,21 +315,32 @@
   </div>
 
   <div type="subchapter" n="2">
-    <head>B. The Vowels of Medial Syllables</head>
+    <head>B. The Vowels of Medial Syllables.</head>
 
     <div type="subsubchapter" n="1">
-      <head>1. Short Vowels</head>
+      <head>1. Short Vowels.</head>
 
       <div type="section" n="106">
         <list rend="float">
           <head>
-            § 106. Goth. a
+            <label>§ 106.</label> <lang>Goth.</lang> <c>a</c>
           </head>
           <item>
-            = (1) Germ. a (§ 39 and note), as acc. pl. dagans, days, dat. pl. dagam; niman, to take; nimam, we take; nimand, they take; acc. sing. hanan, cock, acc. pl. hanans; masc. acc. sing. blindana, blind, dat. Sing. blindamma; manags, many.
+            = (1) <lang>Germ.</lang> <c>a</c> (<ref>§ 39 and note</ref>), as
+            <grm>acc. pl.</grm> <w>dagans</w>, <gloss>days</gloss>, <grm>dat. pl.</grm> <w>dagam</w>;
+            <w>niman</w>, <gloss>to take</gloss>;
+            <w>nimam</w>, <gloss>we take</gloss>;
+            <w>nimand</w>, <gloss>they take</gloss>;
+            <grm>acc. sing.</grm> <w>hanan</w>, <gloss>cock</gloss>, <grm>acc. pl.</grm> <w>hanans</w>;
+            <grm>masc. acc. sing.</grm> <w>blindana</w>, <gloss>blind</gloss>, <grm>dat. sing.</grm> <w>blindamma</w>;
+            <w>manags</w>, <gloss>many</gloss>.
           </item>
           <item>
-            = (2) Germ. e, as ufar, over; ƕaþar, which of two; acc. sing. brōþar, brother. Cp. § 60, 3.
+            = (2) <lang>Germ.</lang> <c>e</c>, as
+            <w>ufar</w>, <gloss>over</gloss>;
+            <w>ƕaþar</w>, <gloss>which of two</gloss>;
+            <grm>acc. sing.</grm> <w>brōþar</w>, <gloss>brother</gloss>.
+            <abbr>Cp.</abbr> <ref>§ 60, 3</ref>.
           </item>
         </list>
       </div>
@@ -231,13 +348,21 @@
       <div type="section" n="107">
         <list rend="float">
           <head>
-            § 107. Goth. i
+            <label>§ 107.</label> <lang>Goth.</lang> <c>i</c>
           </head>
           <item>
-            = (1) Germ. i, Indg. i (§ 38), as acc. pl. gastins, guests, dat. pl. gastim; batists, best; hardiza, harder.
+            = (1) <lang>Germ.</lang> <c>i</c>, <lang>Indg.</lang> <c>i</c> (<ref>§ 38</ref>), as
+            <grm>acc. pl.</grm> <w>gastins</w>, <gloss>guests</gloss>, <grm>dat. pl.</grm> <w>gastim</w>;
+            <w>batists</w>, <gloss>best</gloss>;
+            <w>hardiza</w>, <gloss>harder</gloss>.
           </item>
           <item>
-            = (2) Germ. i, Indg. e (§ 60, 3), as gen. sing. dagis, of a day; harjis, of an army; hanins, of a cock, dat. Sing. hanin; gen. pl. suniwē, of sons; nimis, thou takest, nimiþ, he takes.
+            = (2) <lang>Germ.</lang> <c>i</c>, <lang>Indg.</lang> <c>e</c> (<ref>§ 60, 3</ref>), as
+            <grm>gen. sing.</grm> <w>dagis</w>, <gloss>of a day</gloss>;
+            <w>harjis</w>, <gloss>of an army</gloss>;
+            <w>hanins</w>, <gloss>of a cock</gloss>, <grm>dat. sing.</grm> <w>hanin</w>;
+            <grm>gen. pl.</grm> <w>suniwē</w>, <gloss>of sons</gloss>;
+            <w>nimis</w>, <gloss>thou takest</gloss>, <w>nimiþ</w>, <gloss>he takes</gloss>.
           </item>
         </list>
       </div>
@@ -245,28 +370,34 @@
       <div type="section" n="108">
         <list rend="float">
           <head>
-            § 108. Goth. u
+            <label>§ 108.</label> <lang>Goth.</lang> <c>u</c>
           </head>
           <item>
-            = (1) Germ. u (§ 72), as sunus, son, dat. pl. sunum; acc. pl. brōþruns, brothers, dat. pl. brōþrum; nēmun, they took.
+            = (1) <lang>Germ.</lang> <c>u</c> (<ref>§ 72</ref>), as
+            <w>sunus</w>, <gloss>son</gloss>, <grm>dat. pl.</grm> <w>sunum</w>;
+            <grm>acc. pl.</grm> <w>brōþruns</w>, <gloss>brothers</gloss>, <grm>dat. pl.</grm> <w>brōþrum</w>;
+            <w>nēmun</w>, <gloss>they took</gloss>.
           </item>
           <item>
-            = (2) Germ. w (§ 150), as nom. pl. sunjus, sons.
+            = (2) <lang>Germ.</lang> <c>w</c> (<ref>§ 150</ref>), as
+            <grm>nom. pl.</grm> <w>sunjus</w>, <gloss>sons</gloss>.
           </item>
         </list>
       </div>
     </div>
 
     <div type="subsubchapter" n="2">
-      <head>2. Long Vowels</head>
+      <head>2. Long Vowels.</head>
 
       <div type="section" n="109">
         <list rend="float">
           <head>
-            § 109. Goth. ē
+            <label>§ 109.</label> <lang>Goth.</lang> <c>ē</c>
           </head>
           <item>
-            = Germ. ǣ (§§ 75, 89 note), as nasidēs, thou didst save, beside nasida, he saved; dat. sing. ƕammēh, to each.
+            = <lang>Germ.</lang> <c>ǣ</c> (<ref>§§ 75, 89 note</ref>), as
+            <w>nasidēs</w>, <gloss>thou didst save</gloss>, beside <w>nasida</w>, <gloss>he saved</gloss>;
+            <grm>dat. sing.</grm> <w>ƕammēh</w>, <gloss>to each</gloss>.
           </item>
         </list>
       </div>
@@ -274,16 +405,23 @@
       <div type="section" n="110">
         <list rend="float">
           <head>
-            § 110. Goth. ei
+            <label>§ 110.</label> <lang>Goth.</lang> <c>ei</c>
           </head>
           <item>
-            = (1) Germ. ī (§§ 78, 89 note), as sineigs, old; acc. sing. managein, multitude; nēmeis, thou mightest take, beside nēmi, he might take.
+            = (1) <lang>Germ.</lang> <c>ī</c> (<ref>§§ 78, 89 note</ref>), as
+            <w>sineigs</w>, <gloss>old</gloss>;
+            <grm>acc. sing.</grm> <w>managein</w>, <gloss>multitude</gloss>;
+            <w>nēmeis</w>, <gloss>thou mightest take</gloss>, beside <w>nēmi</w>, <gloss>he might take</gloss>.
           </item>
           <item>
-            = (2) Germ. ij (§ 153), as nom. sing. haírdeis, shepherd; nom. pl. gasteis, guests.
+            = (2) <lang>Germ.</lang> <c>ij</c> (<ref>§ 153</ref>), as
+            <grm>nom. sing.</grm> <w>haírdeis</w>, <gloss>shepherd</gloss>;
+            <grm>nom. pl.</grm> <w>gasteis</w>, <gloss>guests</gloss>.
           </item>
           <item>
-            = (3) Germ. i(j)i (§ 153), as sōkeis, thou seekest; gen. sing. haírdeis, of a shepherd.
+            = (3) <lang>Germ.</lang> <c>i(j)i</c> (<ref>§ 153</ref>), as
+            <w>sōkeis</w>, <gloss>thou seekest</gloss>;
+            <grm>gen. sing.</grm> <w>haírdeis</w>, <gloss>of a shepherd</gloss>.
           </item>
         </list>
       </div>
@@ -291,28 +429,38 @@
       <div type="section" n="111">
         <list rend="float">
           <head>
-            § 111. Goth. ō
+            <label>§ 111.</label> <lang>Goth.</lang> <c>ō</c>
           </head>
           <item>
-            = Germ. ō (§§ 79, 89 note), as witōþ, law; nom. pl. dagōs, days; nom. acc. pl. gibōs, gifts, gen. sing. gibōs, dat. pl. gibōm; fem. nom. acc. pl. blindōs, blind; gen. sing. tuggōns, of a tongue; salbōn, to anoint, salbōþ, he anoints, salbōda, I anointed.
+            = <lang>Germ.</lang> <c>ō</c> (<ref>§§ 79, 89 note</ref>), as
+            <w>witōþ</w>, <gloss>law</gloss>;
+            <grm>nom. pl.</grm> <w>dagōs</w>, <gloss>days</gloss>;
+            <grm>nom. acc. pl.</grm> <w>gibōs</w>, <gloss>gifts</gloss>, <grm>gen. sing.</grm> <w>gibōs</w>, <grm>dat. pl.</grm> <w>gibōm</w>;
+            <grm>fem. nom. acc. pl.</grm> <w>blindōs</w>, <gloss>blind</gloss>;
+            <grm>gen. sing.</grm> <w>tuggōns</w>, <gloss>of a tongue</gloss>;
+            <w>salbōn</w>, <gloss>to anoint</gloss>, <w>salbōþ</w>, <gloss>he anoints</gloss>, <w>salbōda</w>, <gloss>I anointed</gloss>.
           </item>
         </list>
       </div>
     </div>
     <pb n="43"/>
     <div type="subsubchapter" n="3">
-      <head>3. Diphthongs</head>
+      <head>3. Diphthongs.</head>
 
       <div type="section" n="112">
         <list rend="float">
           <head>
-            § 112. Goth. ái
+            <label>§ 112.</label> <lang>Goth.</lang> <c>ái</c>
           </head>
           <item>
-            = (1) Germ. ai older ẽi, oĩ (§ 90), as nimáis, thou mayest take; gen. sing. anstáis, of a favour.
+            = (1) <lang>Germ.</lang> <c>ai</c> older <c>eĩ</c>, <c>oĩ</c> (<ref>§ 90</ref>), as
+            <w>nimáis</w>, <gloss>thou mayest take</gloss>;
+            <grm>gen. sing.</grm> <w>anstáis</w>, <gloss>of a favour</gloss>.
           </item>
           <item>
-            = (2) Germ. ǣ(j)i (§ 90), as habáis, thou hast; habáiþ, he has.
+            = (2) <lang>Germ.</lang> <c>ǣ(j)i</c> (<ref>§ 90</ref>), as
+            <w>habáis</w>, <gloss>thou hast</gloss>;
+            <w>habáiþ</w>, <gloss>he has</gloss>.
           </item>
         </list>
       </div>
@@ -320,10 +468,11 @@
       <div type="section" n="113">
         <list rend="float">
           <head>
-            § 113. Goth. áu
+            <label>§ 113.</label> <lang>Goth.</lang> <c>áu</c>
           </head>
           <item>
-            = Germ. au older oũ (§ 90 note), as gen. sing. sunáus, of a son.
+            = <lang>Germ.</lang> <c>au</c> older <c>oũ</c> (<ref>§ 90 note</ref>), as
+            <grm>gen. sing.</grm> <w>sunáus</w>, <gloss>of a son</gloss>.
           </item>
         </list>
       </div>
@@ -331,30 +480,49 @@
   </div>
 
   <div type="subchapter" n="3">
-    <head>C. Final Vowels</head>
+    <head>C. Final Vowels.</head>
 
     <div type="subsubchapter" n="1">
-      <head>1. Short Vowels</head>
+      <head>1. Short Vowels.</head>
 
       <div type="section" n="114">
         <list rend="float">
           <head>
-            § 114. Goth. a
+            <label>§ 114.</label> <lang>Goth.</lang> <c>a</c>
           </head>
           <item>
-            = (1) Germ. ō (§ 89), as nima, I take; nom. sing. giba, gift; nom. acc. pl. waúrda, words; haírtōna, hearts; acc. ƕana, whom, cp. ƕanōh; and similarly in the acc. blindana, blind; ina, him; þana, the, þata, the, that.
+            = (1) <lang>Germ.</lang> <c>ō</c> (<ref>§ 89</ref>), as
+            <w>nima</w>, <gloss>I take</gloss>;
+            <grm>nom. sing.</grm> <w>giba</w>, <gloss>gift</gloss>;
+            <grm>nom. acc. pl.</grm> <w>waúrda</w>, <gloss>words</gloss>;
+            <w>haírtōna</w>, <gloss>hearts</gloss>;
+            <grm>acc.</grm> <w>ƕana</w>, <gloss>whom</gloss>, <abbr>cp.</abbr> <w>ƕanōh</w>;
+            and similarly in the <grm>acc.</grm> <w>blindana</w>, <gloss>blind</gloss>;
+            <w>ina</w>, <gloss>him</gloss>;
+            <w>þana</w>, <gloss>the</gloss>, <w>þata</w>, the, <gloss>that</gloss>.
           </item>
           <item>
-            = (2) Germ. ǣ, Indg. ē (§ 89), as ƕamma, to whom, beside ƕammēh; and similarly in daga, to a day; imma, to him; nasida, he saved; ūtana, from without; nimáima, we may take; nēmeima, we might take.
+            = (2) <lang>Germ.</lang> <c>ǣ</c>, <lang>Indg.</lang> <c>ē</c> (<ref>§ 89</ref>), as
+            <w>ƕamma</w>, <gloss>to whom</gloss>, beside <w>ƕammēh</w>;
+            and similarly in <w>daga</w>, <gloss>to a day</gloss>;
+            <w>imma</w>, <gloss>to him</gloss>;
+            <w>nasida</w>, <gloss>he saved</gloss>;
+            <w>ūtana</w>, <gloss>from without</gloss>;
+            <w>nimáima</w>, <gloss>we may take</gloss>;
+            <w>nēmeima</w>, <gloss>we might take</gloss>.
           </item>
           <item>
-            = (3) Germ. ōn (§ 87, (1)), as acc. sing. giba, gift; nasida, I saved.
+            = (3) <lang>Germ.</lang> <c>ōn</c> (<ref>§ 87, (1)</ref>), as
+            <grm>acc. sing.</grm> <w>giba</w>, <gloss>gift</gloss>;
+            <w>nasida</w>, <gloss>I saved</gloss>.
           </item>
           <item>
-            = (4) Germ. ēn or ōn (§ 87 (1)), as nom. hana, cock, manna, man.
+            = (4) <lang>Germ.</lang> <c>ēn</c> or <c>ōn</c> (<ref>§ 87 (1)</ref>), as
+            <grm>nom.</grm> <w>hana</w>, <gloss>cock</gloss>, <w>manna</w>, <gloss>man</gloss>.
           </item>
           <item>
-            = (5) Germ. ai (§ 90), baírada, he is borne = Gr. mid. φέρεται; baíraza, thou art borne = Gr. mid. φέρεαι from *φέρεσαι.
+            = (5) <lang>Germ.</lang> <c>ai</c> (<ref>§ 90</ref>), <w>baírada</w>, <gloss>he is borne</gloss> = <lang>Gr.</lang> <grm>mid.</grm> <w>φέρεται</w>;
+            <w>baíraza</w>, <gloss>thou art borne</gloss> = <lang>Gr.</lang> <grm>mid.</grm> <w>φέρεαι</w> from <w>*φέρεσαι</w>.
           </item>
         </list>
       </div>
@@ -362,17 +530,22 @@
       <div type="section" n="115">
         <list rend="float">
           <head>
-            § 115. Goth. i
+            <label>§ 115.</label> <lang>Goth.</lang> <c>i</c>
           </head>
           <item>
-            = (1) Germ. ī (§ 89), as bandi, band; nēmi, he might take, beside nēmeis, thou mightest take.
+            = (1) <lang>Germ.</lang> <c>ī</c> (<ref>§ 89</ref>), as
+            <w>bandi</w>, <gloss>band</gloss>;
+            <w>nēmi</w>, <gloss>he might take</gloss>, beside <w>nēmeis</w>, <gloss>thou mightest take</gloss>.
           </item>
           <pb n="44"/>
           <item>
-            = (2) Germ. j (§ 155), as acc. sing. hari, army, haírdi, shepherd; kuni, generation.
+            = (2) <lang>Germ.</lang> <c>j</c> (<ref>§ 155</ref>), as
+            <grm>acc. sing.</grm> <w>hari</w>, <gloss>army</gloss>, <w>haírdi</w>, <gloss>shepherd</gloss>;
+            <w>kuni</w>, <gloss>generation</gloss>.
           </item>
           <item>
-            = (3) Germ. -ij- (§ 154), as voc. haírdi, shepherd.
+            = (3) <lang>Germ.</lang> <c>-ij-</c> (<ref>§ 154</ref>), as
+            <grm>voc.</grm> <w>haírdi</w>, <gloss>shepherd</gloss>.
           </item>
         </list>
       </div>
@@ -380,31 +553,40 @@
       <div type="section" n="116">
         <list rend="float">
           <head>
-            § 116. Goth. u
+            <label>§ 116.</label> <lang>Goth.</lang> <c>u</c>
           </head>
           <item>
-            = (1) Germ. u (§ 88), as filu, much; acc. sing. sunu, son; faíhu, cattle.
+            = (1) <lang>Germ.</lang> <c>u</c> (<ref>§ 88</ref>), as
+            <w>filu</w>, <gloss>much</gloss>;
+            <grm>acc. sing.</grm> <w>sunu</w>, <gloss>son</gloss>;
+            <w>faíhu</w>, <gloss>cattle</gloss>.
           </item>
           <item>
-            = (2) Germ. w (§ 150 (2)), as skadus from *skadwaz, shadow.
+            = (2) <lang>Germ.</lang> <c>w</c> (<ref>§ 150 (2)</ref>), as
+            <w>skadus</w> from <w>*skadwaz</w>, <gloss>shadow</gloss>.
           </item>
         </list>
       </div>
     </div>
 
     <div type="subsubchapter" n="2">
-      <head>2. Long Vowels</head>
+      <head>2. Long Vowels.</head>
 
       <div type="section" n="117">
         <list rend="float">
           <head>
-            § 117. Goth. ē
+            <label>§ 117.</label> <lang>Goth.</lang> <c>ē</c>
           </head>
           <item>
-            = (1) Germ. ǣ̃, Indg. ē̃ (§ 89), as hidrē, hither; ƕadrē, whither.
+            = (1) <lang>Germ.</lang> <c>ǣ̃</c>, <lang>Indg.</lang> <c>ē̃</c> (<ref>§ 89</ref>), as
+            <w>hidrē</w>, <gloss>hither</gloss>;
+            <w>ƕadrē</w>, <gloss>whither</gloss>.
           </item>
           <item>
-            = (2) Germ. -ǣ̃n, Indg. ē̃m (§ 87 (1)), as gen. pl. dagē, of days; gastē, of guests; hananē, of cocks.
+            = (2) <lang>Germ.</lang> <c>-ǣ̃n</c>, <lang>Indg.</lang> <c>ē̃m</c> (<ref>§ 87 (1)</ref>), as
+            <grm>gen. pl.</grm> <w>dagē</w>, <gloss>of days</gloss>;
+            <w>gastē</w>, <gloss>of guests</gloss>;
+            <w>hananē</w>, <gloss>of cocks</gloss>.
           </item>
         </list>
       </div>
@@ -412,10 +594,12 @@
       <div type="section" n="118">
         <list rend="float">
           <head>
-            § 118. Goth. ei
+            <label>§ 118.</label> <lang>Goth.</lang> <c>ei</c>
           </head>
           <item>
-            = Germ. ij (§ 154), as imperative 2 pers. sing. nasei, save thou; sōkei, seek thou.
+            = <lang>Germ.</lang> <c>ij</c> (<ref>§ 154</ref>), as
+            <grm>imperative 2 pers. sing.</grm> <w>nasei</w>, <gloss>save thou</gloss>;
+            <w>sōkei</w>, <gloss>seek thou</gloss>.
           </item>
         </list>
       </div>
@@ -423,37 +607,49 @@
       <div type="section" n="119">
         <list rend="float">
           <head>
-            § 119. Goth. ō
+            <label>§ 119.</label> <lang>Goth.</lang> <c>ō</c>
           </head>
           <item>
-            = (1) Germ. ō̃ (§ 89), as tuggō, tongue; haírtō, heart; ƕaprō, whence; ufarō, from above; þiubjō, secretly.
+            = (1) <lang>Germ.</lang> <c>ō̃</c> (<ref>§ 89</ref>), as
+            <w>tuggō</w>, <gloss>tongue</gloss>;
+            <w>haírtō</w>, <gloss>heart</gloss>;
+            <w>ƕaprō</w>, <gloss>whence</gloss>;
+            <w>ufarō</w>, <gloss>from above</gloss>;
+            <w>þiubjō</w>, <gloss>secretly</gloss>.
           </item>
           <item>
-            = (2) Germ. -ō̃n (§ 87 (1)), as gen. pl. gibō, of gifts; tuggōnō, of tongues.
+            = (2) <lang>Germ.</lang> <c>-ō̃n</c> (<ref>§ 87 (1)</ref>), as
+            <grm>gen. pl.</grm> <w>gibō</w>, <gloss>of gifts</gloss>;
+            <w>tuggōnō</w>, <gloss>of tongues</gloss>.
           </item>
         </list>
       </div>
     </div>
 
     <div type="subsubchapter" n="3">
-      <head>3. Diphthongs</head>
+      <head>3. Diphthongs.</head>
 
       <div type="section" n="120">
         <list rend="float">
           <head>
-            § 120. Goth. ái
+            <label>§ 120.</label> <lang>Goth.</lang> <c>ái</c>
           </head>
           <item>
-            = (1) Germ. ai, as masc. nom. pl. blindái, blind, cp. þái (§ 265).
+            = (1) <lang>Germ.</lang> <c>ai</c>, as
+            <grm>masc. nom. pl.</grm> <w>blindái</w>, <gloss>blind</gloss>, <abbr>cp.</abbr> <w>þái</w> (<ref>§ 265</ref>).
           </item>
           <item>
-            = (2) Germ. ai older ēi (§ 90), as dat. sing. anstái, to a favour.
+            = (2) <lang>Germ.</lang> <c>ai</c> older <c>ēi</c> (<ref>§ 90</ref>), as
+            <grm>dat. sing.</grm> <w>anstái</w>, <gloss>to a favour</gloss>.
           </item>
           <item>
-            = (3) Germ. ai, Indg. oĩ (§ 90 note), as nimái, he may take.
+            = (3) <lang>Germ.</lang> <c>ai</c>, <lang>Indg.</lang> <c>oĩ</c> (<ref>§ 90 note</ref>), as
+            <w>nimái</w>, <gloss>he may take</gloss>.
           </item>
           <item>
-            = (4) Germ. ai older ōĩ, Indg. āĩ (§ 90), as dat. gibái, to a gift; izái, to her.
+            = (4) <lang>Germ.</lang> <c>ai</c> older <c>ōĩ</c>, <lang>Indg.</lang> <c>āĩ</c> (<ref>§ 90</ref>), as
+            <grm>dat.</grm> <w>gibái</w>, <gloss>to a gift</gloss>;
+            <w>izái</w>, <gloss>to her</gloss>.
           </item>
         </list>
       </div>
@@ -461,13 +657,15 @@
       <div type="section" n="121">
         <list rend="float">
           <head>
-            § 121. Goth. áu
+            <label>§ 121.</label> <lang>Goth.</lang> <c>áu</c>
           </head>
           <item>
-            = (1) Germ. au, Indg. ēu (§ 90), as dat. sing. sunáu, to a son.
+            = (1) <lang>Germ.</lang> <c>au</c>, <lang>Indg.</lang> <c>ēu</c> (<ref>§ 90</ref>), as
+            <grm>dat. sing.</grm> <w>sunáu</w>, <gloss>to a son</gloss>.
           </item>
           <item>
-            = (2) Germ. au, Indg. ōu (§ 90), as ahtáu, eight.
+            = (2) <lang>Germ.</lang> <c>au</c>, <lang>Indg.</lang> <c>ōu</c> (<ref>§ 90</ref>), as
+            <w>ahtáu</w>, <gloss>eight</gloss>.
           </item>
         </list>
       </div>
