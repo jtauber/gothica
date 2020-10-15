@@ -42,7 +42,7 @@ Paradigms and lexical information will also be extractable.
 | VIII    | in progress           |                       |                        |
 | IX      | in progress           |                       |                        |
 | X       |                       |                       |                        |
-| XI      |                       |                       |                        |
+| XI      | in progress           |                       |                        |
 | XII     |                       |                       |                        |
 | XIII    |                       |                       |                        |
 | XIV     | superceded            | [link](chapter14.xml) | [link](chapter14.html) |
