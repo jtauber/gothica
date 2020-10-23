@@ -33,18 +33,18 @@ Paradigms and lexical information will also be extractable.
 | chapter | markup 1              | markup 2              | html                   |
 |---------|-----------------------|-----------------------|------------------------|
 | I       | in progress           |                       |                        |
-| II      | superceded            | [link](chapter02.xml) | [link](chapter02.html) |
-| III     | superceded            | [link](chapter03.xml) | [link](chapter03.html) |
+| II      | superseded            | [link](chapter02.xml) | [link](chapter02.html) |
+| III     | superseded            | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | [link](chapter04.xml) |                       |                        |
 | V       | [link](chapter05.xml) |                       |                        |
-| VI      | superceded            | [link](chapter06.xml) | [link](chapter06.html)  |
-| VII     | superceded            | [link](chapter07.xml) | [link](chapter07.html) |
+| VI      | superseded            | [link](chapter06.xml) | [link](chapter06.html)  |
+| VII     | superseded            | [link](chapter07.xml) | [link](chapter07.html) |
 | VIII    | in progress           |                       |                        |
 | IX      | in progress           |                       |                        |
 | X       |                       |                       |                        |
 | XI      | in progress           |                       |                        |
 | XII     | in progress           |                       |                        |
 | XIII    |                       |                       |                        |
-| XIV     | superceded            | [link](chapter14.xml) | [link](chapter14.html) |
+| XIV     | superseded            | [link](chapter14.xml) | [link](chapter14.html) |
 | XV      | [link](chapter15.xml) |                       |                        |
 | XVI     |                       |                       |                        |
