@@ -20,9 +20,7 @@ But once this is done, not only can I produce a nice HTML version:
 
 ![](https://raw.githubusercontent.com/jtauber/gothica/main/wright-1910-grammar/img/img4.png)
 
-(eventually linkable) but I can start to extract machine-actionable language data such as sound and word correspondences.
-
-Paradigms and lexical information will also be extractable.
+(eventually linkable) but I can start to extract machine-actionable language data such as sound and word correspondences, paradigms, and glosses as well as produce character, morph, and word indices.
 
 ## Status of Grammar Chapters
 
