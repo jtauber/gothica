@@ -110,3 +110,16 @@ div.float-list-item {
 .ditto {
   padding: 0 1.5em;
 }
+main {
+  position: relative;
+}
+span.pb > span {
+  font-size: 80%;
+  color: #369;
+  position: absolute;
+  right: 100%;
+  padding-right: 2em;
+}
+span.pb > span::before {
+  content: 'p';
+}
