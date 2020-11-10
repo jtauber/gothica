@@ -35,11 +35,11 @@ But once this is done, not only can I produce a nice HTML version:
 | III     | superseded            | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | [link](chapter04.xml) |                       |                        |
 | V       | [link](chapter05.xml) |                       |                        |
-| VI      | superseded            | [link](chapter06.xml) | [link](chapter06.html)  |
+| VI      | superseded            | [link](chapter06.xml) | [link](chapter06.html) |
 | VII     | superseded            | [link](chapter07.xml) | [link](chapter07.html) |
 | VIII    | in progress           |                       |                        |
 | IX      | [link](chapter09.xml) |                       |                        |
-| X       |                       |                       |                        |
+| X       | [link](chapter10.xml) |                       |                        |
 | XI      | in progress           |                       |                        |
 | XII     | in progress           |                       |                        |
 | XIII    |                       |                       |                        |

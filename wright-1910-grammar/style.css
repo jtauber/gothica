@@ -81,15 +81,17 @@ p {
 
 table {
   margin: 0 auto;
+  min-width: 30rem;
   border-collapse: collapse;
 }
 
 td {
-  padding: 5px 10px;
+  padding: 0px 10px;
   font-size: 14pt;
 }
 
 table.border td {
+  padding: 5px 10px;
   border: 1px solid #666;
 }
 
