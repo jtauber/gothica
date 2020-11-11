@@ -80,21 +80,32 @@ p {
 }
 
 table {
-  margin: 0 auto;
+  margin: 1em auto;
   min-width: 30rem;
   border-collapse: collapse;
 }
-
+table caption {
+  margin: 1em 0;
+}
 td {
   padding: 0px 10px;
   font-size: 14pt;
+  white-space: nowrap;
 }
-
 table.border td {
   padding: 5px 10px;
   border: 1px solid #666;
 }
-
+td.right-bracket::after {
+  vertical-align: middle;
+  font-size: 200%;
+  content: ' {';
+}
+td.left-bracket::before {
+  vertical-align: middle;
+  font-size: 200%;
+  content: '} ';
+}
 div.float-list {
   display: flex;
   align-items: flex-start;
