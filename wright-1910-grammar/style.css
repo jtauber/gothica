@@ -7,16 +7,17 @@ body {
   font-family: 'Noto Serif';
   font-size: 14pt;
   line-height: 20pt;
-  /*
+}
+body.old {
   color: #333;
-  text-shadow: 0 0 2px #000;
+  text-shadow: 0 0 2px #333;
   background: #FFFFF7;
-  */
 }
 main {
   margin: 2rem;
   max-width: 37rem;
   text-align: justify;
+  position: relative;  /* for page number positioning */
 }
 h1 {
   font-weight: normal;
@@ -78,6 +79,9 @@ p {
 .bibl-title {
   font-style: italic;
 }
+.ditto {
+  padding: 0 1.5em;
+}
 
 table {
   margin: 1em auto;
@@ -120,12 +124,7 @@ div.float-list-item {
   text-indent: -2em;
 }
 
-.ditto {
-  padding: 0 1.5em;
-}
-main {
-  position: relative;
-}
+/* page breaks */
 span.pb > span {
   font-size: 80%;
   color: #369;
