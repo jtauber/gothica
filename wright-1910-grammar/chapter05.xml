@@ -4,54 +4,89 @@
 
   <div type="section" n="87">
     <p>
-      § 87. In order to establish and illustrate the Gothic treatment of the vowels of final syllables by comparison with other non-Germanic languages, Lat., Greek, &amp;c., it will be useful to state here a law, relating to the general Germanic treatment of Indo-Germanic final consonants, which properly belongs to a later chapter:—
+      <label>§ 87.</label> In order to establish and illustrate the <lang>Gothic</lang> treatment of the vowels of final syllables by comparison with other non-Germanic languages, <lang>Lat.</lang>, <lang>Greek</lang>, &amp;c., it will be useful to state here a law, relating to the general Germanic treatment of <lang>Indo-Germanic</lang> final consonants, which properly belongs to a later chapter:—
     </p>
 
     <list>
-      <item>
+      <item n="1">
         <p>
-          (1) Final -m became -n. This -n remained when protected by a particle, e. g. Goth. þan-a (§ 265), the = Skr. tám, Lat. is-tum, Gr. τόν. But when it was not protected by a particle, it, as also Indo-Germanic final -n, was dropped in prim. Germanic after short vowels; and the preceding vowel underwent in Gothic just the same treatment as if it had been originally final, i. e. it was dropped with the exception of u, e. g. acc. sing. Goth. wulf, wolf = Skr. vŕkam, Gr. λύκον, Lat. lupum; nom. acc. sing. Goth. juk, yoke = Skr. yugám, Gr. ζυγόν, Lat. jugum; inf. niman from *nemanan, to take; acc. sing. Goth. ga-qumþ, a coming<pb n="34"/>together, assembly = Skr. gátim, Gr. βάσιν, prim. form *gmtím, a going; cp. also the Lat. endings in partim, sitim, &amp;c.
+          <label>(1)</label> Final <c>-m</c> became <c>-n</c>. This <c>-n</c> remained when protected by a particle, e. g. <lang>Goth.</lang> <w>þan-a</w> (<ref>§ 265</ref>), <gloss>the</gloss> = <lang>Skr.</lang> <w>tám</w>, <lang>Lat.</lang> <w>is-tum</w>, <lang>Gr.</lang> <w>τόν</w>. But when it was not protected by a particle, it, as also <lang>Indo-Germanic</lang> final <c>-n</c>, was dropped in <lang>prim. Germanic</lang> after short vowels;
+          and the preceding vowel underwent in <lang>Gothic</lang> just the same treatment as if it had been originally final, i. e. it was dropped with the exception of <c>u</c>, e. g. <grm>acc. sing.</grm> <lang>Goth.</lang> <w>wulf</w>, <gloss>wolf</gloss> = <lang>Skr.</lang> <w>vŕkam</w>, <lang>Gr.</lang> <w>λύκον</w>, <lang>Lat.</lang> <w>lupum</w>;
+          <grm>nom. acc. sing.</grm> <lang>Goth.</lang> <w>juk</w>, <gloss>yoke</gloss> = <lang>Skr.</lang> <w>yugám</w>, <lang>Gr.</lang> <w>ζυγόν</w>, <lang>Lat.</lang> <w>jugum</w>;
+          <grm>inf.</grm> <w>niman</w> from <w>*nemanan</w>, <gloss>to take</gloss>;
+          <grm>acc. sing.</grm> <lang>Goth.</lang> <w>ga-qumþ</w>, <gloss>a coming<pb n="34"/>together, assembly</gloss> = <lang>Skr.</lang> <w>gátim</w>, <lang>Gr.</lang> <w>βάσιν</w>, prim. form <w>*gmtím</w>, <gloss>a going</gloss>;
+          cp. also the <lang>Lat.</lang> endings in <w>partim</w>, <w>sitim</w>, &amp;c.
         </p>
     
         <p>
-          Acc. sing. Goth. sunu, son = Skr. sūnúm, cp. the endings in Gr. ἡδύν, sweet; Lat. fructum, fruit; acc. sing. Goth. fōtu, foot, cp. Lat. pedem, Gr. πόδα (§ 53). But the -un from Indg. vocalic -m disappeared in words of more than two syllables, as acc. sing. guman from *ʒomanun = Lat. hominem, man; brōþar from *Ҍrōþerun, brother, cp. Lat. frātrem. In Gothic sibun, seven, and taíhun, ten, for older *sibu, *taíhu, the final -n was re-introduced through the influence of the inflected forms (§ 247).
+          <grm>Acc. sing.</grm> <lang>Goth.</lang> <w>sunu</w>, <gloss>son</gloss> = <lang>Skr.</lang> <w>sūnúm</w>, cp. the endings in <lang>Gr.</lang> <w>ἡδύν</w>, <gloss>sweet</gloss>;
+          <lang>Lat.</lang> <w>fructum</w>, <gloss>fruit</gloss>;
+          <grm>acc. sing.</grm> <lang>Goth.</lang> <w>fōtu</w>, <gloss>foot</gloss>, cp. <lang>Lat.</lang> <w>pedem</w>, <lang>Gr.</lang> <w>πόδα</w> (<ref>§ 53</ref>). But the <c>-un</c> from <lang>Indg.</lang> vocalic <c>-m</c> disappeared in words of more than two syllables, as <grm>acc. sing.</grm> <w>guman</w> from <w>*ʒomanun</w> = <lang>Lat.</lang> <w>hominem</w>, <gloss>man</gloss>;
+          <w>brōþar</w> from <w>*Ҍrōþerun</w>, <gloss>brother</gloss>, cp. <lang>Lat.</lang> <w>frātrem</w>. In <lang>Gothic</lang> <w>sibun</w>, <gloss>seven</gloss>, and <w>taíhun</w>, <gloss>ten</gloss>, for older <w>*sibu</w>, <w>*taíhu</w>, the final <c>-n</c> was re-introduced through the influence of the inflected forms (<ref>§ 247</ref>).
         </p>
     
-        <div type="node">
+        <div type="note">
           <p>
-            Note.—The oldest Norse runic inscriptions still retained these final vowels, as acc. Sing. staina beside Goth. stáin, stone; acc. sing. neut. horna beside Goth. haúrn, horn; nom. sing. gastiR beside Goth. gasts, guest, stranger.
+            <label>Note.—</label>The oldest Norse runic inscriptions still retained these final vowels, as 
+            <grm>acc. sing.</grm> <w>staina</w> beside <lang>Goth.</lang> <w>stáin</w>, <gloss>stone</gloss>;
+            <grm>acc. sing. neut.</grm> <w>horna</w> beside <lang>Goth.</lang> <w>haúrn</w>, <gloss>horn</gloss>;
+            <grm>nom. sing.</grm> <w>gastiR</w> beside <lang>Goth.</lang> <w>gasts</w>, <gloss>guest, stranger</gloss>.
           </p>
         </div>
     
         <p>
-          On the other hand, final -n merely became reduced after long vowels in prim. Germanic, and only disappeared in the course of the individual Germanic languages; the process being that the long oral vowels became nasalized and then at a later stage became oral again (cp. § 59 note). After the disappearance of the nasal element, the long vowel remained in Gothic when it originally had the ‘slurred’ (circumflex) accent, but became shortened when it originally had the ‘broken’ (acute) accent, as gen. pl. dagē, of days; gastē, of guests; hananē, of cocks; haírtanē, of hearts; baúrgē, of cities; the -ē of which corresponds to a prim. Germanic ·ǣ̃n, Indg. ·ē̃m, but this ending only occurs in Gothic and has never been satisfactorily explained; the ending in the other Germanic and Indo-Germanic languages presupposes ·ō̃m which appears as -ō in the Gothic gen. pl. gibō, of gifts; bandjō, of bands; tuggōnō, of tongues; manageinō, of multitudes, cp. Gr. θεῶν, of gods; but acc. sing. giba from *ʒeҌōn, Indg. -ā́m, cp. Gr. χώρᾱν, land, and acc. fem.) þō, the = Skr.<pb n="35"/>tā́m, acc. fem. ni áinō-hun (§ 89 note), no one; nom. Sing. hana from *χanēn or -ōn, cp. Gr. ποιμήν, shepherd ἡγεμών, leader; nasida from *naziđōn, I saved.
+          On the other hand, final <c>-n</c> merely became reduced after long vowels in <lang>prim. Germanic</lang>, and only disappeared in the course of the individual Germanic languages;
+          the process being that the long oral vowels became nasalized and then at a later stage became oral again (cp. <ref>§ 59 note</ref>). After the disappearance of the nasal element, the long vowel remained in <lang>Gothic</lang> when it originally had the ‘slurred’ (circumflex) accent, but became shortened when it originally had the ‘broken’ (acute) accent, as
+          <grm>gen. pl.</grm> <w>dagē</w>, <gloss>of days</gloss>;
+          <w>gastē</w>, <gloss>of guests</gloss>;
+          <w>hananē</w>, <gloss>of cocks</gloss>;
+          <w>haírtanē</w>, <gloss>of hearts</gloss>;
+          <w>baúrgē</w>, <gloss>of cities</gloss>;
+          the <c>-ē</c> of which corresponds to a <lang>prim. Germanic</lang> <c>-ǣ̃n</c>, <lang>Indg.</lang> <c>-ē̃m</c>, but this ending only occurs in <lang>Gothic</lang> and has never been satisfactorily explained;
+          the ending in the other Germanic and <lang>Indo-Germanic</lang> languages presupposes <c>-ō̃m</c> which appears as <c>-ō</c> in the <lang>Gothic</lang> <grm>gen. pl.</grm> <w>gibō</w>, <gloss>of gifts</gloss>;
+          <w>bandjō</w>, <gloss>of bands</gloss>;
+          <w>tuggōnō</w>, <gloss>of tongues</gloss>;
+          <w>manageinō</w>, <gloss>of multitudes</gloss>, cp. <lang>Gr.</lang> <w>θεῶν</w>, <gloss>of gods</gloss>;
+          but <grm>acc. sing.</grm> <w>giba</w> from <w>*ʒeҌōn</w>, <lang>Indg.</lang> <c>-ā́m</c>, cp. <lang>Gr.</lang> <w>χώρᾱν</w>, <gloss>land</gloss>, and <grm>acc. fem.</grm> <w>þō</w>, <gloss>the</gloss> = <lang>Skr.</lang><pb n="35"/><w>tā́m</w>, <grm>acc. fem.</grm> <w>ni áinō-hun</w> (<ref>§ 89 note</ref>), <gloss>no one</gloss>;
+          <grm>nom. sing.</grm> <w>hana</w> from <w>*χanēn</w> or <c>-ōn</c>, cp. <lang>Gr.</lang> <w>ποιμήν</w>, <gloss>shepherd</gloss> <w>ἡγεμών</w>, <gloss>leader</gloss>;
+          <w>nasida</w> from <w>*naziđōn</w>, <gloss>I saved</gloss>.
         </p>
     
-        <div type="node">
+        <div type="note">
           <p>
-            Note.—For full details concerning the Germ. treatment in final syllables of Indg. vowels with the ‘slurred’ and ‘broken’ accent, see Streitberg’s ‘Urgermanische Grammatik’, ch. ix.
+            <label>Note.—</label>For full details concerning the Germ. treatment in final syllables of <lang>Indg.</lang> vowels with the ‘slurred’ and ‘broken’ accent, see Streitberg’s ‘Urgermanische Grammatik’, ch. ix.
           </p>
         </div>
       </item>
 
-      <item>
+      <item n="2">
         <p>
-          (2) The Indg. final explosives disappeared in prim. Germanic, except after a short accented vowel, as pres. subj. baírái, OE. OS. OHG. bere, from an original form *bhéroĩt, he may bear; pret. pl. bērun, OE. bǣron, OS. OHG. bārun, they bore, original ending -nt with vocalic n (§ 54); Goth. mēna from an original form *mēnōt, moon; Goth. þat-a, OE. þæt, OS. that, Indg. *tod, that, the; OE. hwæt, OS. hwat = Lat. quod, what, beside Gothic ƕa (§ 273); OE. æt, OS. at = Lat. ad, at.
+          <label>(2)</label> The <lang>Indg.</lang> final explosives disappeared in <lang>prim. Germanic</lang>, except after a short accented vowel, as
+          <grm>pres. subj.</grm> <w>baírái</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>bere</w>, from an original form <w>*bhéroĩt</w>, <gloss>he may bear</gloss>;
+          <grm>pret. pl.</grm> <w>bērun</w>, <lang>OE.</lang> <w>bǣron</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>bārun</w>, <gloss>they bore</gloss>, original ending <c>-nt</c> with vocalic <c>n</c> (<ref>§ 54</ref>);
+          <lang>Goth.</lang> <w>mēna</w> from an original form <w>*mēnōt</w>, <gloss>moon</gloss>;
+          <lang>Goth.</lang> <w>þat-a</w>, <lang>OE.</lang> <w>þæt</w>, <lang>OS.</lang> <w>that</w>, <lang>Indg.</lang> <w>*tod</w>, <gloss>that, the</gloss>;
+          <lang>OE.</lang> <w>hwæt</w>, <lang>OS.</lang> <w>hwat</w> = <lang>Lat.</lang> <w>quod</w>, <gloss>what</gloss>, beside <lang>Gothic</lang> <w>ƕa</w> (<ref>§ 273</ref>);
+          <lang>OE.</lang> <w>æt</w>, <lang>OS.</lang> <w>at</w> = <lang>Lat.</lang> <w>ad</w>, <gloss>at</gloss>.
         </p>
       </item>
 
-      <item>
+      <item n="3">
         <p>
-          (3) Indg. final -r remained, as Goth. fadar, O.Icel. faðir, OE. fæder, OS. fader, OHG. fater = Lat. pater, Gr. πατήρ, father.
+          <label>(3)</label> <lang>Indg.</lang> final <c>-r</c> remained, as <lang>Goth.</lang> <w>fadar</w>, <lang>O.Icel.</lang> <w>faðir</w>, <lang>OE.</lang> <w>fæder</w>, <lang>OS.</lang> <w>fader</w>, <lang>OHG.</lang> <w>fater</w> = <lang>Lat.</lang> <w>pater</w>, <lang>Gr.</lang> <w>πατήρ</w>, <gloss>father</gloss>.
         </p>
       </item>
     </list>
 
     <div type="note">
       <p>
-        Note.—So far as the historic period of Gothic is concerned, the law relating to the treatment of Indo-Germanic final consonants may be stated in general terms thus:—With the exception of -s and -r all other Indo-Germanic final consonants were dropped in Gothic. In the case of the explosives it cannot be determined whether they had or had not previously undergone the first sound-shifting (§§ 128–32).
-
-        Of Indo-Germanic final consonant groups, the only one preserved in Gothic is -ns, before which short vowels are retained, e.g. acc. pl. masc. Goth. þans = Gr. Cretan τόνς (Attic τούς), the; acc. pl. Goth. wulfans, wolves, cp. Gr. Cretan κόρμονς = Att. κόσμους, ornaments; acc. pl. Goth. þrins = Gr. Cretan τρίνς, three; acc. pl. Goth. sununs, sons, cp. Gr. Cretan υἰύνς, sons. Cp. the law stated in § 88.
+        <label>Note.—</label>So far as the historic period of <lang>Gothic</lang> is concerned, the law relating to the treatment of <lang>Indo-Germanic</lang> final consonants may be stated in general terms thus:—With the exception of <c>-s</c> and <c>-r</c> all other <lang>Indo-Germanic</lang> final consonants were dropped in <lang>Gothic</lang>. In the case of the explosives it cannot be determined whether they had or had not previously undergone the first sound-shifting (<ref>§§ 128–32</ref>).
+      </p>
+      <p>
+        Of <lang>Indo-Germanic</lang> final consonant groups, the only one preserved in <lang>Gothic</lang> is <c>-ns</c>, before which short vowels are retained, e.g. <grm>acc. pl. masc.</grm> <lang>Goth.</lang> <w>þans</w> = <lang>Gr. Cretan</lang> <w>τόνς</w> (<lang>Attic</lang> <w>τούς</w>), <gloss>the</gloss>;
+        <grm>acc. pl.</grm> <lang>Goth.</lang> <w>wulfans</w>, <gloss>wolves</gloss>, cp. <lang>Gr. Cretan</lang> <w>κόρμονς</w> = <lang>Att.</lang> <w>κόσμους</w>, <gloss>ornaments</gloss>;
+        <grm>acc. pl.</grm> <lang>Goth.</lang> <w>þrins</w> = <lang>Gr. Cretan</lang> <w>τρίνς</w>, <gloss>three</gloss>;
+        <grm>acc. pl.</grm> <lang>Goth.</lang> <w>sununs</w>, <gloss>sons</gloss>, cp. <lang>Gr. Cretan</lang> <w>υἰύνς</w>, <gloss>sons</gloss>. Cp. the law stated in <ref>§ 88</ref>.
       </p>
     </div>
   </div>
@@ -61,32 +96,59 @@
 
     <div type="section">
       <p>
-        § 88. With the exception of u all other prim. Indo-Germanic final short vowels, or short vowels which became final in prim. Germanic (§ 87), were dropped in Gothic, as<pb n="36"/>also were short vowels in the final syllables of dissyllabic and polysyllabic words when followed by a single consonant:—
+        <label>§ 88.</label> With the exception of <c>u</c> all other prim. <lang>Indo-Germanic</lang> final short vowels, or short vowels which became final in <lang>prim. Germanic</lang> (<ref>§ 87</ref>), were dropped in <lang>Gothic</lang>, as<pb n="36"/>also were short vowels in the final syllables of dissyllabic and polysyllabic words when followed by a single consonant:—
       </p>
 
       <p>
-        Goth. wáit = Gr. οἶδα, Skr. vḗda, I know; wáist = Gr. οἶσθα, Skr. vḗttha, thou knowest; hlaf, I stole = Gr. κέκλοφα.
+        <lang>Goth.</lang> <w>wáit</w> = <lang>Gr.</lang> <w>οἶδα</w>, <lang>Skr.</lang> <w>vḗda</w>, <gloss>I know</gloss>;
+        <w>wáist</w> = <lang>Gr.</lang> <w>οἶσθα</w>, <lang>Skr.</lang> <w>vḗttha</w>, <gloss>thou knowest</gloss>;
+        <w>hlaf</w>, <gloss>I stole</gloss> = <lang>Gr.</lang> <w>κέκλοφα</w>.
       </p>
 
       <p>
-        Goth. akrs, field = Gr. ἀγρός; wulfs = Gr. λύκος, Skr. vŕkas, Lat. lupus, wolf, cp. nom. sing. O.Norse runic inscription HoltingaR; numans from *nomanaz, taken; gen. sing. dagis, from *đaʒesa, of a day, cp. O.Bulgarian česo = Goth. ƕis, whose; af, of, from = Gr. ἄπο; nom. sing. haírdeis, shepherd, from *χirđij-az.
+        <lang>Goth.</lang> <w>akrs</w>, <gloss>field</gloss> = <lang>Gr.</lang> <w>ἀγρός</w>;
+        <w>wulfs</w> = <lang>Gr.</lang> <w>λύκος</w>, <lang>Skr.</lang> <w>vŕkas</w>, <lang>Lat.</lang> <w>lupus</w>, <gloss>wolf</gloss>, cp. <grm>nom. sing.</grm> <lang>O.Norse runic inscription</lang> <w>HoltingaR</w>;
+        <w>numans</w> from <w>*nomanaz</w>, <gloss>taken</gloss>;
+        <grm>gen. sing.</grm> <w>dagis</w>, from <w>*đaʒesa</w>, <gloss>of a day</gloss>, cp. <lang>O.Bulgarian</lang> <w>česo</w> = <lang>Goth.</lang> <w>ƕis</w>, <gloss>whose</gloss>;
+        <w>af</w>, <gloss>of, from</gloss> = <lang>Gr.</lang> <w>ἄπο</w>;
+        <grm>nom. sing.</grm> <w>haírdeis</w>, <gloss>shepherd</gloss>, from <w>*χirđij-az</w>.
       </p>
 
       <p>
-        Voc. sing. Goth. wulf = Gr. λύκε, Lat. lupe, Skr. vŕka; nim, take thou = Gr. νέμε; nasei, from *nasiji, save thou; baíriþ, ye bear = Gr. φέρετε; wáit, he knows = Gr. οἶδε; láiƕ, he lent = Gr. λέλοιπε, he has left; fimf, five, cp. Gr. πέντε; mik (acc.), me, cp. Gr. ἐμέγε; nom. pl. Goth. gumans from *ʒomaniz, men = Lat. homines, cp. Gr. ἄκμονες, anvils; nom. pl. gasteis from *ʒastij-(i)z, guests = Lat. hostēs, from *hostejes, strangers, enemies, cp. Gr. πόλεις from *πόλεjες, cities; nom. pl. sunjus, from *suniuz, older *suneu-es, sons = Skr. sūnávas, cp. Gr. ἡδεῖς from *ἡδέϝες, sweet.
+        <grm>Voc. sing.</grm> <lang>Goth.</lang> <w>wulf</w> = <lang>Gr.</lang> <w>λύκε</w>, <lang>Lat.</lang> <w>lupe</w>, <lang>Skr.</lang> <w>vŕka</w>;
+        <w>nim</w>, <gloss>take thou</gloss> = <lang>Gr.</lang> <w>νέμε</w>;
+        <w>nasei</w>, from <w>*nasiji</w>, <gloss>save thou</gloss>;
+        <w>baíriþ</w>, <gloss>ye bear</gloss> = <lang>Gr.</lang> <w>φέρετε</w>;
+        <w>wáit</w>, <gloss>he knows</gloss> = <lang>Gr.</lang> <w>οἶδε</w>;
+        <w>láiƕ</w>, <gloss>he lent</gloss> = <lang>Gr.</lang> <w>λέλοιπε</w>, <gloss>he has left</gloss>;
+        <w>fimf</w>, <gloss>five</gloss>, cp. <lang>Gr.</lang> <w>πέντε</w>;
+        <w>mik</w> (<grm>acc.</grm>), <gloss>me</gloss>, cp. <lang>Gr.</lang> <w>ἐμέγε</w>;
+        <grm>nom. pl.</grm> <lang>Goth.</lang> <w>gumans</w> from <w>*ʒomaniz</w>, men = <lang>Lat.</lang> <w>homines</w>, cp. <lang>Gr.</lang> <w>ἄκμονες</w>, <gloss>anvils</gloss>;
+        <grm>nom. pl.</grm> <w>gasteis</w> from <w>*ʒastij-(i)z</w>, <gloss>guests</gloss> = <lang>Lat.</lang> <w>hostēs</w>, from <w>*hostejes</w>, <gloss>strangers, enemies</gloss>, cp. <lang>Gr.</lang> <w>πόλεις</w> from <w>*πόλεjες</w>, <gloss>cities</gloss>;
+        <grm>nom. pl.</grm> <w>sunjus</w>, from <w>*suniuz</w>, older <w>*suneu-es</w>, <gloss>sons</gloss> = <lang>Skr.</lang> <w>sūnávas</w>, cp. <lang>Gr.</lang> <w>ἡδεῖς</w> from <w>*ἡδέϝες</w>, <gloss>sweet</gloss>.
       </p>
 
       <p>
-        hráin, from *hráini (neut.), clean, pure, cp. Gr. ἴδρι, skilful; dat. sing. gumin from *ʒomini = Lat. homini, to a man, cp. Gr. ποιμένι, to a shepherd; dat. sing. brōþr from *ƀrōþri = Lat. frātri, to a brother, cp. Gr. πατρί; baíris = Skr. bhárasi, thou bearest; baíriþ = Skr. bhárati, he bears; baírand = Gr. Dor. φέροντι, Skr. bháranti, they bear; nom. sing. gasts = O.Norse runic inscription gastiR, guest, Lat. hostis; waírs, from *wirsiz (av.), worse, cp. Lat. magis, more.
+        <w>hráin</w>, from <w>*hráini</w> (<grm>neut.</grm>), <gloss>clean, pure</gloss>, cp. <lang>Gr.</lang> <w>ἴδρι</w>, <gloss>skilful</gloss>;
+        <grm>dat. sing.</grm> <w>gumin</w> from <w>*ʒomini</w> = <lang>Lat.</lang> <w>homini</w>, <gloss>to a man</gloss>, cp. <lang>Gr.</lang> <w>ποιμένι</w>, <gloss>to a shepherd</gloss>;
+        <grm>dat. sing.</grm> <w>brōþr</w> from <w>*ƀrōþri</w> = <lang>Lat.</lang> <w>frātri</w>, <gloss>to a brother</gloss>, cp. <lang>Gr.</lang> <w>πατρί</w>;
+        <w>baíris</w> = <lang>Skr.</lang> <w>bhárasi</w>, <gloss>thou bearest</gloss>;
+        <w>baíriþ</w> = <lang>Skr.</lang> <w>bhárati</w>, <gloss>he bears</gloss>;
+        <w>baírand</w> = <lang>Gr. Dor.</lang> <w>φέροντι</w>, <lang>Skr.</lang> <w>bháranti</w>, <gloss>they bear</gloss>;
+        <grm>nom. sing.</grm> <w>gasts</w> = <lang>O.Norse runic inscription</lang> <w>gastiR</w>, <gloss>guest</gloss>, <lang>Lat.</lang> <w>hostis</w>;
+        <w>waírs</w>, from <w>*wirsiz</w> (<grm>av.</grm>), <gloss>worse</gloss>, cp. <lang>Lat.</lang> <w>magis</w>, <gloss>more</gloss>.
       </p>
 
       <p>
-        Nom. acc. neut. Goth. faíhu = Lat. pecu, cattle, cp. Gr. ἄστυ, city; filu, much = Gr. πολύ, many; nom. sing. sunus = Skr. sūnús, son, cp. the endings in Gr. νέκυς, corpse, Lat. fructus, fruit.
+        <grm>Nom. acc. neut.</grm> <lang>Goth.</lang> <w>faíhu</w> = <lang>Lat.</lang> <w>pecu</w>, <gloss>cattle</gloss>, cp. <lang>Gr.</lang> <w>ἄστυ</w>, <gloss>city</gloss>;
+        <w>filu</w>, <gloss>much</gloss> = <lang>Gr.</lang> <w>πολύ</w>, <gloss>many</gloss>;
+        <grm>nom. sing.</grm> <w>sunus</w> = <lang>Skr.</lang> <w>sūnús</w>, <gloss>son</gloss>, cp. the endings in <lang>Gr.</lang> <w>νέκυς</w>, <gloss>corpse</gloss>, <lang>Lat.</lang> <w>fructus</w>, <gloss>fruit</gloss>.
       </p>
       <pb n="37"/>
       <div>
         <p>
-          Note.—The law of final vowels does not affect originally monosyllabic words, cp. e.g. nom. sing. Goth. is, he = Lat. is, beside gasts = Lat. hostis; Goth. ƕa, what = Lat. quod, beside juk, yoke = Lat. jugum.
+          <label>Note.—</label>The law of final vowels does not affect originally monosyllabic words, cp. e.g. <grm>nom. sing.</grm> <lang>Goth.</lang> <w>is</w>, <gloss>he</gloss> = <lang>Lat.</lang> <w>is</w>, beside <w>gasts</w> = <lang>Lat.</lang> <w>hostis</w>;
+          <lang>Goth.</lang> <w>ƕa</w>, <gloss>what</gloss> = <lang>Lat.</lang> <w>quod</w>, beside <w>juk</w>, <gloss>yoke</gloss> = <lang>Lat.</lang> <w>jugum</w>.
         </p>
       </div>
     </div>
@@ -97,44 +159,72 @@
 
     <div type="section" n="89">
       <p>
-        § 89. Prim. Indg. long final vowels, or those which became final in prim. Germanic (§ 87 and note), became shortened in polysyllabic words, when the vowels in question originally had the ‘broken’ accent, but remained unshortened when they originally had the ‘slurred’ accent.
+        <label>§ 89.</label> <lang>Prim. Indg.</lang> long final vowels, or those which became final in <lang>prim. Germanic</lang> (<ref>§ 87 and note</ref>), became shortened in polysyllabic words, when the vowels in question originally had the ‘broken’ accent, but remained unshortened when they originally had the ‘slurred’ accent.
       </p>
 
       <p>
-        Examples of the former are:—fem. nom. sing. giba, from *ʒeҌō, gift (cp. sō, § 265), cp. Gr. χώρᾱ, land, Indg. -ā́; neut. nom. acc. pl. juka, from *jukō (cp. neut. nom. acc. pl. þō, § 265), Skr. (Vedic) yugā́, O.Lat. jugā, Indg. -ā́.
+        Examples of the former are:—<grm>fem. nom. sing.</grm> <w>giba</w>, from <w>*ʒeҌō</w>, <gloss>gift</gloss> (cp. <w>sō</w>, <ref>§ 265</ref>), cp. <lang>Gr.</lang> <w>χώρᾱ</w>, <gloss>land</gloss>, <lang>Indg.</lang> <c>-ā́</c>;
+        <grm>neut. nom. acc. pl.</grm> <w>juka</w>, from <w>*jukō</w> (cp. <grm>neut. nom. acc. pl.</grm> <w>þō</w>, <ref>§ 265</ref>), <lang>Skr. (Vedic)</lang> <w>yugā́</w>, <lang>O.Lat.</lang> <w>jugā</w>, <lang>Indg.</lang> <c>-ā́</c>.
       </p>
 
       <p>
-        baíra, Lat. ferō, Gr. φέρω, I bear, Indg. -ṓ; mēna, moon, cp. mēnōþs, month; particle -ō preserved in forms like acc. sing. ƕan-ō-h, each, everyone, but shortened in acc. forms like ƕan-a, whom?; þan-a, this; þat-a, that; blindan-a, blind.
+        <w>baíra</w>, <lang>Lat.</lang> <w>ferō</w>, <lang>Gr.</lang> <w>φέρω</w>, <gloss>I bear</gloss>, <lang>Indg.</lang> <c>-ṓ</c>;
+        <w>mēna</w>, <gloss>moon</gloss>, cp. <w>mēnōþs</w>, <gloss>month</gloss>;
+        particle <m>-ō</m> preserved in forms like <grm>acc. sing.</grm> <w>ƕan-ō-h</w>, <gloss>each, everyone</gloss>, but shortened in <grm>acc.</grm> forms like <w>ƕan-a</w>, <gloss>whom?</gloss>;
+        <w>þan-a</w>, <gloss>this</gloss>;
+        <w>þat-a</w>, <gloss>that</gloss>;
+        <w>blindan-a</w>, <gloss>blind</gloss>.
       </p>
 
       <p>
-        Pret. 3 sing. nasida, he saved, Indg. -dhḗt, cp. nasidēs; áinamma, dat. (properly instrumental) sing. masc. neut. of áins, one, beside áinummē-hun, to anyone; ƕamma? to whom? beside ƕammē-h, to everyone; dat. sing. masc. neut. þamma, to this, from an Indg. instrumental form *tosmḗ (cp. Goth. þē, § 265 note); dat. sing. daga, to a day, from Indg. *dhoghḗ or -ṓ; baíráima, we may bear, Indg. -mḗ.
+        <grm>Pret. 3 sing.</grm> <w>nasida</w>, <gloss>he saved</gloss>, <lang>Indg.</lang> <w>-dhḗt</w>, cp. <w>nasidēs</w>;
+        <w>áinamma</w>, <grm>dat. (properly instrumental) sing. masc. neut.</grm> of <w>áins</w>, <gloss>one</gloss>, beside <w>áinummē-hun</w>, <gloss>to anyone</gloss>;
+        <w>ƕamma?</w> <gloss>to whom?</gloss> beside <w>ƕammē-h</w>, <gloss>to everyone</gloss>;
+        <grm>dat. sing. masc. neut.</grm> <w>þamma</w>, <gloss>to this</gloss>, from an <lang>Indg.</lang> <grm>instrumental</grm> form <w>*tosmḗ</w> (cp. <lang>Goth.</lang> <w>þē</w>, <ref>§ 265 note</ref>);
+        <grm>dat. sing.</grm> <w>daga</w>, <gloss>to a day</gloss>, from <lang>Indg.</lang> <w>*dhoghḗ</w> or <c>-ṓ</c>;
+        <w>baíráima</w>, <gloss>we may bear</gloss>, <lang>Indg.</lang> <w>-mḗ</w>.
       </p>
 
       <p>
-        þiwi (gen. þiujōs), maid-servant, formed from *þius (pl. þiwōs), man-servant, like Skr. dēvı̄́, goddess, from dēvás, god; frijōndi, from *frijōndī (fem.), friend, cp. Skr. pres. part. fem. bhárantī; wili, from *wilī, he will, cp. wileima,<pb n="38"/>we will; nēmi, from *nǣmi, he might take, cp. nēmeis. Cp. § 154.
+        <w>þiwi</w> (<grm>gen.</grm> <w>þiujōs</w>), <gloss>maid-servant</gloss>, formed from <w>*þius</w> (<grm>pl.</grm> <w>þiwōs</w>), <gloss>man-servant</gloss>, like <lang>Skr.</lang> <w>dēvı̄́</w>, <gloss>goddess</gloss>, from <w>dēvás</w>, <gloss>god</gloss>;
+        <w>frijōndi</w>, from <w>*frijōndī</w> (<grm>fem.</grm>), <gloss>friend</gloss>, cp. <lang>Skr.</lang> <grm>pres. part. fem.</grm> <w>bhárantī</w>;
+        <w>wili</w>, from <w>*wilī</w>, <gloss>he will</gloss>, cp. <w>wileima</w>,<pb n="38"/><gloss>we will</gloss>;
+        <w>nēmi</w>, from <w>*nǣmi</w>, <gloss>he might take</gloss>, cp. <w>nēmeis</w>. Cp. <ref>§ 154</ref>.
       </p>
 
       <p>
-        Examples of the latter are:—undarō, under, cp. Skr. adharā́d, below, Indg. ablative ending -ō̃d; of the same origin is the -ō in adverbs like þiubjō, secretly, glaggwō, accurately; and in adverbs with the suffix -þrō (§ 348), as ƕaprō, whence, þaþrō, thence. Nom. tuggō, tongue, haírtō, heart, Indg. -ō̃.
+        Examples of the latter are:—<w>undarō</w>, <gloss>under</gloss>, cp. <lang>Skr.</lang> <w>adharā́d</w>, <gloss>below</gloss>, <lang>Indg.</lang> <grm>ablative</grm> ending <m>-ō̃d</m>;
+        of the same origin is the <m>-ō</m> in adverbs like <w>þiubjō</w>, <gloss>secretly</gloss>, <w>glaggwō</w>, <gloss>accurately</gloss>;
+        and in adverbs with the suffix <m>-þrō</m> (<ref>§ 348</ref>), as <w>ƕaprō</w>, <gloss>whence</gloss>, <w>þaþrō</w>, <gloss>thence</gloss>. <grm>Nom.</grm> <w>tuggō</w>, <gloss>tongue</gloss>, <w>haírtō</w>, <gloss>heart</gloss>, <lang>Indg.</lang> <c>-ō̃</c>.
       </p>
 
       <p>
-        The preservation of the final -ē in adverbs with the suffix -drē (§ 348) is also due to the vowel having had originally the ‘slurred’ accent.
+        The preservation of the final <c>-ē</c> in adverbs with the suffix <m>-drē</m> (<ref>§ 348</ref>) is also due to the vowel having had originally the ‘slurred’ accent.
       </p>
 
       <div type="note">
         <p>
-          Note.—Long vowels remained in monosyllables, as nom. fem. sō, the, this = Gr. Dor. ᾱ̔; acc. fem. þō = Gr. Dor. τᾱ́ν; nom. acc. fem. pl. þōs = Skr. tā́s.
+          <label>Note.—</label>Long vowels remained in monosyllables, as <grm>nom. fem.</grm> <w>sō</w>, <gloss>the, this</gloss> = <lang>Gr. Dor.</lang> <w>ᾱ̔</w>;
+          <grm>acc. fem.</grm> <w>þō</w> = <lang>Gr. Dor.</lang> <w>τᾱ́ν</w>;
+          <grm>nom. acc. fem. pl.</grm> <w>þōs</w> = <lang>Skr.</lang> <w>tā́s</w>.
         </p>
 
         <p>
-          They also remained in the final syllables of dissyllabic and polysyllabic words, when protected by a consonant which was originally final or became final in Gothic, as nom. pl. wulfōs = Skr. vŕkās, wolves; nom. pl. gibōs from *ʒeҌō̃z, gifts, cp. Skr. áçvās, mares; gen. sing. gibōs from *ʒeҌō̃z; dat. pl. gibōm from *ʒeҌōmiz; salbōs from *salҌōzi, thou anointest; fidwōr from *feđwōriz. Indg. *qetwōres, four; nasidēs from *naziđǣz, thou didst save, beside nasida, I saved; nēmeis from *nǣmīz, thou mightest take, beside nēmi, he might take; nēmeiþ, ye might take; managdūþs, abundance.
+          They also remained in the final syllables of dissyllabic and polysyllabic words, when protected by a consonant which was originally final or became final in <lang>Gothic</lang>, as
+          <grm>nom. pl.</grm> <w>wulfōs</w> = <lang>Skr.</lang> <w>vŕkās</w>, <gloss>wolves</gloss>;
+          <grm>nom. pl.</grm> <w>gibōs</w> from <w>*ʒeҌō̃z</w>, <gloss>gifts</gloss>, cp. <lang>Skr.</lang> <w>áçvās</w>, <gloss>mares</gloss>;
+          <grm>gen. sing.</grm> <w>gibōs</w> from <w>*ʒeҌō̃z</w>;
+          <grm>dat. pl.</grm> <w>gibōm</w> from <w>*ʒeҌōmiz</w>;
+          <w>salbōs</w> from <w>*salҌōzi</w>, <gloss>thou anointest</gloss>;
+          <w>fidwōr</w> from <w>*feđwōriz</w>. <lang>Indg.</lang> <w>*qetwōres</w>, <gloss>four</gloss>;
+          <w>nasidēs</w> from <w>*naziđǣz</w>, <gloss>thou didst save</gloss>, beside <w>nasida</w>, <gloss>I saved</gloss>;
+          <w>nēmeis</w> from <w>*nǣmīz</w>, <gloss>thou mightest take</gloss>, beside <w>nēmi</w>, <gloss>he might take</gloss>;
+          <w>nēmeiþ</w>, <gloss>ye might take</gloss>;
+          <w>managdūþs</w>, <gloss>abundance</gloss>.
         </p>
 
         <p>
-          On final long vowels when originally followed by a nasal, see § 87.
+          On final long vowels when originally followed by a nasal, see <ref>§ 87</ref>.
         </p>
       </div>
     </div>
@@ -145,16 +235,28 @@
 
     <div type="section" n="90">
       <p>
-        § 90. Originally final -ai became -a in polysyllables, as baírada, he is borne = Gr. mid. φέρεται; baíranda, they are borne = Gr. mid. φέρονται; faúra, before, cp. Gr. παραί, beside.
+        <label>§ 90.</label> Originally final <c>-ai</c> became <c>-a</c> in polysyllables, as
+        <w>baírada</w>, <gloss>he is borne</gloss> = <lang>Gr.</lang> <grm>mid.</grm> <w>φέρεται</w>;
+        <w>baíranda</w>, <gloss>they are borne</gloss> = <lang>Gr.</lang> <grm>mid.</grm> <w>φέρονται</w>;
+        <w>faúra</w>, <gloss>before</gloss>, cp. <lang>Gr.</lang> <w>παραί</w>, <gloss>beside</gloss>.
       </p>
 
       <p>
-        Originally long diphthongs became shortened in final syllables, as ahtáu, from an original form *oktṓu, eight; dat. sing. gibái, from *ʒeƀōĩ, older *ghebhāĩ, to a gift, cp. Gr. χώρᾳ for *χώρᾱι; θεᾷ, to a goddess; dat. sing. sunáu, to a son, from loc. form *sunēu; dat. sing. anstái, to a favour,<pb n="39"/>from locative form *anstēi, cp. Gr. πόληϊ; habáis, from *χaҌǣ(j)iz(i), thou hast, habáiþ, from *χaƀǣ(j)iđ(i), he has.
+        Originally long diphthongs became shortened in final syllables, as
+        <w>ahtáu</w>, from an original form <w>*oktṓu</w>, <gloss>eight</gloss>;
+        <grm>dat. sing.</grm> <w>gibái</w>, from <w>*ʒeƀōĩ</w>, older <w>*ghebhāĩ</w>, <gloss>to a gift</gloss>, cp. <lang>Gr.</lang> <w>χώρᾳ</w> for <w>*χώρᾱι</w>;
+        <w>θεᾷ</w>, <gloss>to a goddess</gloss>;
+        <grm>dat. sing.</grm> <w>sunáu</w>, <gloss>to a son</gloss>, from <grm>loc.</grm> form <w>*sunēu</w>;
+        <grm>dat. sing.</grm> <w>anstái</w>, <gloss>to a favour</gloss>,<pb n="39"/>from <grm>locative</grm> form <w>*anstēi</w>, cp. <lang>Gr.</lang> <w>πόληϊ</w>;
+        <w>habáis</w>, from <w>*χaҌǣ(j)iz(i)</w>, <gloss>thou hast</gloss>, <w>habáiþ</w>, from <w>*χaƀǣ(j)iđ(i)</w>, <gloss>he has</gloss>.
       </p>
 
       <div>
         <p>
-          Note.—Gen. sing. anstáis, of a favour, from Indg. -eĩs, -oĩs; baíráis, Gr. φέροις, Skr. bhárēš, thou mayest bear, Indg. -oĩs; baírái, Gr. φέροι, Skr. bhárēt, he may bear, Indg. -oĩt; gen. sing. sunáus, of a son, Indg. -eũs, -o s.
+          <label>Note.—</label><grm>Gen. sing.</grm> <w>anstáis</w>, <gloss>of a favour</gloss>, from <lang>Indg.</lang> <m>-eĩs</m>, <m>-oĩs</m>;
+          <w>baíráis</w>, <lang>Gr.</lang> <w>φέροις</w>, <lang>Skr.</lang> <w>bhárēš</w>, <gloss>thou mayest bear</gloss>, <lang>Indg.</lang> <m>-oĩs</m>;
+          <w>baírái</w>, <lang>Gr.</lang> <w>φέροι</w>, <lang>Skr.</lang> <w>bhárēt</w>, <gloss>he may bear</gloss>, <lang>Indg.</lang> <m>-oĩt</m>;
+          <grm>gen. sing.</grm> <w>sunáus</w>, <gloss>of a son</gloss>, <lang>Indg.</lang> <m>-eũs</m>, <m>-o s</m>.
         </p>
       </div>
     </div>

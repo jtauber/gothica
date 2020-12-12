@@ -34,7 +34,7 @@ But once this is done, not only can I produce a nice HTML version:
 | II      | superseded            | [link](chapter02.xml) | [link](chapter02.html) |
 | III     | superseded            | [link](chapter03.xml) | [link](chapter03.html) |
 | IV      | [link](chapter04.xml) |                       |                        |
-| V       | [link](chapter05.xml) |                       |                        |
+| V       | superseded            | [link](chapter05.xml) | [link](chapter05.html) |
 | VI      | superseded            | [link](chapter06.xml) | [link](chapter06.html) |
 | VII     | superseded            | [link](chapter07.xml) | [link](chapter07.html) |
 | VIII    | [link](chapter08.xml) |                       |                        |
