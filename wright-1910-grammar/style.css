@@ -62,6 +62,13 @@ p {
 .item-label {
   margin-right: 0.5em;
 }
+.item-label-bold {
+  margin-right: 0.5em;
+  font-weight: bold;
+}
+.item-label-bold-inline {
+  font-weight: bold;
+}
 .note-label {
   font-variant: small-caps;
 }
@@ -76,6 +83,9 @@ p {
 .phr, .w, .m, .c, .seg {
   font-weight: bold;
 }
+/* .grm {
+  font-style: italic;
+} */
 .bibl-title {
   font-style: italic;
 }
@@ -131,7 +141,24 @@ span.pb > span {
   position: absolute;
   right: 100%;
   padding-right: 2em;
+  font-style: normal;
+  font-weight: normal;
 }
 span.pb > span::before {
   content: 'p';
+}
+
+/* for scripture */
+div.verse {
+  margin-left: 2em;
+  position: relative;
+}
+div.verse span.verse-label {
+  position: absolute;
+  right: 100%;
+  padding-right: 1em;
+}
+div.verse > span.pb > span {
+  /* a bit of a hack */
+  padding-right: 4.5em;
 }
