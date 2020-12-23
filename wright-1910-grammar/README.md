@@ -33,7 +33,7 @@ But once this is done, not only can I produce a nice HTML version:
 | I       | in progress           |                       |                        |
 | II      | superseded            | [link](chapter02.xml) | [link](chapter02.html) |
 | III     | superseded            | [link](chapter03.xml) | [link](chapter03.html) |
-| IV      | [link](chapter04.xml) |                       |                        |
+| IV      |  superseded           | [link](chapter04.xml) | [link](chapter04.html) |
 | V       | superseded            | [link](chapter05.xml) | [link](chapter05.html) |
 | VI      | superseded            | [link](chapter06.xml) | [link](chapter06.html) |
 | VII     | superseded            | [link](chapter07.xml) | [link](chapter07.html) |

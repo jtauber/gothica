@@ -11,7 +11,15 @@
 
       <div type="section" n="65">
         <p>
-          § 65. Germanic a remained unchanged in Gothic, as Goth. dags, OE. dæg, OS. dag, OHG. tag, O.Icel. dagr, day; Goth. gasts, OS. OHG. gast, guest; Goth. fadar, OE. fæder, O.Icel. faðir, OS. fader, OHG. fater, father; Goth. ahtáu, OS. OHG. ahto, eight; Goth. OE. OS. OHG. faran, O.Icel. fara, to go; Goth. OE. OS. band, OHG. bant, he bound, Goth. inf. bindan (§ 303); Goth. OS. OHG. O.Icel. nam, he took, Goth. inf. niman (§ 305); Goth. OS. O.Icel. gaf, OHG. gab, he gave, Goth. inf. giban (§ 307).
+          <label>§ 65.</label> <lang>Germanic</lang> <c>a</c> remained unchanged in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>dags</w>, <lang>OE.</lang> <w>dæg</w>, <lang>OS.</lang> <w>dag</w>, <lang>OHG.</lang> <w>tag</w>, <lang>O.Icel.</lang> <w>dagr</w>, <gloss>day</gloss>;
+          <lang>Goth.</lang> <w>gasts</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>gast</w>, <gloss>guest</gloss>;
+          <lang>Goth.</lang> <w>fadar</w>, <lang>OE.</lang> <w>fæder</w>, <lang>O.Icel.</lang> <w>faðir</w>, <lang>OS.</lang> <w>fader</w>, <lang>OHG.</lang> <w>fater</w>, <gloss>father</gloss>;
+          <lang>Goth.</lang> <w>ahtáu</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>ahto</w>, <gloss>eight</gloss>;
+          <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>faran</w>, <lang>O.Icel.</lang> <w>fara</w>, <gloss>to go</gloss>;
+          <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>band</w>, <lang>OHG.</lang> <w>bant</w>, <gloss>he bound</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>bindan</w> (<ref>§ 303</ref>);
+          <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> <lang>O.Icel.</lang> <w>nam</w>, <gloss>he took</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>niman</w> (<ref>§ 305</ref>);
+          <lang>Goth.</lang> <lang>OS.</lang> <lang>O.Icel.</lang> <w>gaf</w>, <lang>OHG.</lang> <w>gab</w>, <gloss>he gave</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>giban</w> (<ref>§ 307</ref>).
         </p>
       </div>
     </div>
@@ -21,24 +29,38 @@
 
       <div type="section" n="66">
         <p>
-          § 66. Germanic e became i, as Goth. wigs, OE. OS. OHG. weg, O.Icel. vegr, way; Goth. hilms, OE. OS. OHG. helm, helm; Goth. swistar, OS. swestar, OHG. swester, sister; Goth. hilpan (§ 303), OE. OS. helpan, OHG helfan, to help; Goth. stilan (§ 306), OE. OS. OHG. stelan, O.Icel. stela, to steal; Goth. itan (§ 308), OE. OS. etan, OHG. eȥȥan, O.Icel. eta, to eat.
+          <label>§ 66.</label> <lang>Germanic</lang> <c>e</c> became <c>i</c>, as
+          <lang>Goth.</lang> <w>wigs</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>weg</w>, <lang>O.Icel.</lang> <w>vegr</w>, <gloss>way</gloss>;
+          <lang>Goth.</lang> <w>hilms</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>helm</w>, <gloss>helm</gloss>;
+          <lang>Goth.</lang> <w>swistar</w>, <lang>OS.</lang> <w>swestar</w>, <lang>OHG.</lang> <w>swester</w>, <gloss>sister</gloss>;
+          <lang>Goth.</lang> <w>hilpan</w> (<ref>§ 303</ref>), <lang>OE.</lang> <lang>OS.</lang> <w>helpan</w>, <lang>OHG</lang> <w>helfan</w>, <gloss>to help</gloss>;
+          <lang>Goth.</lang> <w>stilan</w> (<ref>§ 306</ref>), <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>stelan</w>, <lang>O.Icel.</lang> <w>stela</w>, <gloss>to steal</gloss>;
+          <lang>Goth.</lang> <w>itan</w> (<ref>§ 308</ref>), <lang>OE.</lang> <lang>OS.</lang> <w>etan</w>, <lang>OHG.</lang> <w>eȥȥan</w>, <lang>O.Icel.</lang> <w>eta</w>, <gloss>to eat</gloss>.
         </p>
 
         <div type="note">
           <p>
-            Note.—The stem-vowel in Goth. waíla (cp. OE. OS. wel, OHG. wela), well; and in Goth. aíþþáu (cp. OE. eþþa, oþþe, OHG. eddo, edo), or, has not yet been satisfactorily explained, in spite of the explanations suggested by various scholars.
+            <label>Note.—</label>The stem-vowel in <lang>Goth.</lang> <w>waíla</w> (cp. <lang>OE.</lang> <lang>OS.</lang> <w>wel</w>, <lang>OHG.</lang> <w>wela</w>), <gloss>well</gloss>;
+            and in <lang>Goth.</lang> <w>aíþþáu</w> (cp. <lang>OE.</lang> <w>eþþa</w>, <w>oþþe</w>, <lang>OHG.</lang> <w>eddo</w>, <w>edo</w>), <gloss>or</gloss>, has not yet been satisfactorily explained, in spite of the explanations suggested by various scholars.
           </p>
         </div>
       </div>
       <pb n="27"/>
       <div type="section" n="67">
         <p>
-          § 67. This i became broken to e (written aí) before r, h, and ƕ, as Goth. haírtō, OS. herta, OHG. herza, heart; Goth. aírþa, OS. ertha, OHG. erda, earth; Goth. waírþan (§ 303), OS. werthan, OHG. werdan, O.Icel. verða, to become; Goth. baíran (§ 305), OE. OS. OHG. beran, O.Icel. bera, to bear; Goth. raíhts, OS. OHG. reht, right; Goth. taíhun, OS. tehan, OHG. zehan, ten; Goth. saíƕan (§ 307), OS. OHG. sehan, to see.
+          <label>§ 67.</label> This <c>i</c> became broken to <c>e</c> (written <c>aí</c>) before <c>r</c>, <c>h</c>, and <c>ƕ</c>, as
+          <lang>Goth.</lang> <w>haírtō</w>, <lang>OS.</lang> <w>herta</w>, <lang>OHG.</lang> <w>herza</w>, <gloss>heart</gloss>;
+          <lang>Goth.</lang> <w>aírþa</w>, <lang>OS.</lang> <w>ertha</w>, <lang>OHG.</lang> <w>erda</w>, <gloss>earth</gloss>;
+          <lang>Goth.</lang> <w>waírþan</w> (<ref>§ 303</ref>), <lang>OS.</lang> <w>werthan</w>, <lang>OHG.</lang> <w>werdan</w>, <lang>O.Icel.</lang> <w>verða</w>, <gloss>to become</gloss>;
+          <lang>Goth.</lang> <w>baíran</w> (<ref>§ 305</ref>), <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>beran</w>, <lang>O.Icel.</lang> <w>bera</w>, <gloss>to bear</gloss>;
+          <lang>Goth.</lang> <w>raíhts</w>, <lang>OS.</lang> <lang>OHG.</lang> reht, right;
+          <lang>Goth.</lang> <w>taíhun</w>, <lang>OS.</lang> <w>tehan</w>, <lang>OHG.</lang> <w>zehan</w>, <gloss>ten</gloss>;
+          <lang>Goth.</lang> <w>saíƕan</w> (<ref>§ 307</ref>), <lang>OS.</lang> <lang>OHG.</lang> <w>sehan</w>, <gloss>to see</gloss>.
         </p>
 
         <div type="note">
           <p>
-            Note.—For nih, and not, from older *ni-ƕi = Lat. neque, we should expect *naíh, but the word has been influenced by the simple negative ni, not.
+            <label>Note.—</label>For <w>nih</w>, <gloss>and not</gloss>, from older <w>*ni-ƕi</w> = <lang>Lat.</lang> <w>neque</w>, we should expect <w>*naíh</w>, but the word has been influenced by the simple negative <w>ni</w>, <gloss>not</gloss>.
           </p>
         </div>
       </div>
@@ -49,18 +71,29 @@
 
       <div type="section" n="68">
         <p>
-          § 68. Germanic i generally remained in Gothic, as Goth. fisks, OS. OE. fisc, OHG. fisk, O.Icel. fiskr, fish; Goth. widuwō, OE. widewe, OS. widowa, OHG. wituwa, widow; Goth. OE. OS. witan, OHG. wiȥȥan, O.Icel. vita, to know; Goth. nimiþ, OE. nimeþ, OS. nimid, OHG. nimit, he takes; Goth. bitum, OE. biton, OHG. biȥȥum, O.Icel. bitom, we bit, inf. Goth. beitan (§ 299), pp. Goth. bitans, OE. biten, OHG. gibiȥȥan, O.Icel. bitenn; Goth. bidjan, OE. biddan, O.Icel. biðja, OS. biddian, OHG. bitten, to pray, beg, entreat. See § 60.
+          <label>§ 68.</label> <lang>Germanic</lang> <c>i</c> generally remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>fisks</w>, <lang>OS.</lang> <lang>OE.</lang> <w>fisc</w>, <lang>OHG.</lang> <w>fisk</w>, <lang>O.Icel.</lang> <w>fiskr</w>, <gloss>fish</gloss>;
+          <lang>Goth.</lang> <w>widuwō</w>, <lang>OE.</lang> <w>widewe</w>, <lang>OS.</lang> <w>widowa</w>, <lang>OHG.</lang> <w>wituwa</w>, <gloss>widow</gloss>;
+          <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>witan</w>, <lang>OHG.</lang> <w>wiȥȥan</w>, <lang>O.Icel.</lang> <w>vita</w>, <gloss>to know</gloss>;
+          <lang>Goth.</lang> <w>nimiþ</w>, <lang>OE.</lang> <w>nimeþ</w>, <lang>OS.</lang> <w>nimid</w>, <lang>OHG.</lang> <w>nimit</w>, <gloss>he takes</gloss>;
+          <lang>Goth.</lang> <w>bitum</w>, <lang>OE.</lang> <w>biton</w>, <lang>OHG.</lang> <w>biȥȥum</w>, <lang>O.Icel.</lang> <w>bitom</w>, <gloss>we bit</gloss>, <grm>inf.</grm> <lang>Goth.</lang> <w>beitan</w> (<ref>§ 299</ref>), <grm>pp.</grm> <lang>Goth.</lang> <w>bitans</w>, <lang>OE.</lang> <w>biten</w>, <lang>OHG.</lang> <w>gibiȥȥan</w>, <lang>O.Icel.</lang> <w>bitenn</w>;
+          <lang>Goth.</lang> <w>bidjan</w>, <lang>OE.</lang> <w>biddan</w>, <lang>O.Icel.</lang> <w>biðja</w>, <lang>OS.</lang> <w>biddian</w>, <lang>OHG.</lang> <w>bitten</w>, <gloss>to pray, beg, entreat</gloss>.
+          See <ref>§ 60</ref>.
         </p>
       </div>
 
       <div type="section" n="69">
         <p>
-          § 69. Germanic i became broken to e (written aí) before r, h, ƕ, as Goth. baíriþ, OS. birid, OHG. birit, he bears, cp. § 60 (2), Goth. inf. baíran; Goth. maíhstus, OHG. mist (from *mihst), dunghill, cp. Mod. English dial. mixen; Goth. ga-taíhun, they told, OE. tigon, OHG. zigun, they accused, Goth. inf. ga-teihan (§ 299), pp. Goth. taíhans, OE. tigen, OHG. gi-zigan; Goth. laíƕum, OE. -ligon, OHG. liwum, we lent, inf. Goth. leiƕan (§ 299), pp. Goth. laíƕans, OE. -ligen, OHG. giliwan, OS. -liwan.
+          <label>§ 69.</label> <lang>Germanic</lang> <c>i</c> became broken to <c>e</c> (written <c>aí</c>) before <c>r</c>, <c>h</c>, <c>ƕ</c>, as
+          <lang>Goth.</lang> <w>baíriþ</w>, <lang>OS.</lang> <w>birid</w>, <lang>OHG.</lang> <w>birit</w>, <gloss>he bears</gloss>, cp. <ref>§ 60 (2)</ref>, <lang>Goth.</lang> <grm>inf.</grm> <w>baíran</w>;
+          <lang>Goth.</lang> <w>maíhstus</w>, <lang>OHG.</lang> <w>mist</w> (from <w>*mihst</w>), <gloss>dunghill</gloss>, cp. <lang>Mod. English dial.</lang> <w>mixen</w>;
+          <lang>Goth.</lang> <w>ga-taíhun</w>, <gloss>they told</gloss>, <lang>OE.</lang> <w>tigon</w>, <lang>OHG.</lang> <w>zigun</w>, <gloss>they accused</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>ga-teihan</w> (<ref>§ 299</ref>), pp. <lang>Goth.</lang> <w>taíhans</w>, <lang>OE.</lang> <w>tigen</w>, <lang>OHG.</lang> <w>gi-zigan</w>;
+          <lang>Goth.</lang> <w>laíƕum</w>, <lang>OE.</lang> <w>-ligon</w>, <lang>OHG.</lang> <w>liwum</w>, <gloss>we lent</gloss>, <grm>inf.</grm> <lang>Goth.</lang> <w>leiƕan</w> (<ref>§ 299</ref>), <grm>pp.</grm> <lang>Goth.</lang> <w>laíƕans</w>, <lang>OE.</lang> <w>-ligen</w>, <lang>OHG.</lang> <w>giliwan</w>, <lang>OS.</lang> <w>-liwan</w>.
         </p>
 
         <div type="note">
           <p>
-            Note.—On the forms hiri, hirjats, hirjiþ, see note to Mark xii. 7.
+            <label>Note.—</label>On the forms <w>hiri</w>, <w>hirjats</w>, <w>hirjiþ</w>, see <cite>note to Mark xii. 7</cite>.
           </p>
         </div>
       </div>
@@ -71,13 +104,28 @@
 
       <div type="section" n="70">
         <p>
-          § 70. Germanic o became u, as Goth. juk, OHG. joh, OE. geoc, yoke; Goth. guþ, OE. OS. god, OHG. got, god; Goth. huzd, OS. hord, OHG. hort, treasure; pp. Goth. budans, OE. geboden, OS. gibodan, OHG. gibotan, O.Icel. boðenn, inf. Goth. biudan (§ 301), to offer; Goth. pp. hulpans, OE. geholpen, OS. giholpan,OHG. giholfan, Goth. inf. hilpan (§ 303), to help; pp. Goth. numans, OHG. ginoman, Goth. inf. niman (§ 305), to take. See § 62.
+          <label>§ 70.</label> <lang>Germanic</lang> <c>o</c> became <c>u</c>, as
+          <lang>Goth.</lang> <w>juk</w>, <lang>OHG.</lang> <w>joh</w>, <lang>OE.</lang> <w>geoc</w>, <gloss>yoke</gloss>;
+          <lang>Goth.</lang> <w>guþ</w>, <lang>OE.</lang> <lang>OS.</lang> <w>god</w>, <lang>OHG.</lang> <w>got</w>, <gloss>god</gloss>;
+          <lang>Goth.</lang> <w>huzd</w>, <lang>OS.</lang> <w>hord</w>, <lang>OHG.</lang> <w>hort</w>, <gloss>treasure</gloss>;
+          <grm>pp.</grm> <lang>Goth.</lang> <w>budans</w>, <lang>OE.</lang> <w>geboden</w>, <lang>OS.</lang> <w>gibodan</w>, <lang>OHG.</lang> <w>gibotan</w>, <lang>O.Icel.</lang> <w>boðenn</w>, <grm>inf.</grm> <lang>Goth.</lang> <w>biudan</w> (<ref>§ 301</ref>), <gloss>to offer</gloss>;
+          <lang>Goth.</lang> <grm>pp.</grm> <w>hulpans</w>, <lang>OE.</lang> <w>geholpen</w>, <lang>OS.</lang> <w>giholpan</w>, <lang>OHG.</lang> <w>giholfan</w>, <lang>Goth.</lang> <grm>inf.</grm> <w>hilpan</w> (<ref>§ 303</ref>), <gloss>to help</gloss>;
+          <grm>pp.</grm> <lang>Goth.</lang> <w>numans</w>, <lang>OHG.</lang> <w>ginoman</w>, <lang>Goth.</lang> <grm>inf.</grm> <w>niman</w> (<ref>§ 305</ref>), <gloss>to take</gloss>.
+          See <ref>§ 62</ref>.
         </p>
       </div>
 
       <div type="section" n="71">
         <p>
-          § 71. The u, which arose from Germanic o (§ 70), became broken to o (written aú) before r and h, as Goth. waúrd, OE. OS. word, OHG. wort, word; Goth. daúhtar, OE. dohtor, OS. dohtar, OHG. tohter, daughter; pp. Goth. taúhans, OE. getogen, OS. -togan, OHG. gizogan, O.Icel. togenn, Goth. inf. tiuhan (§ 301), to lead; Goth. waúrhta, OE. worhte, OHG. worhta, he worked, inf. Goth. waúrkjan, OHG. wurken; pp. Goth. waúrþans, OE. geworden, OS. giwordan, OHG. wortan, O.Icel. orðenn, Goth. inf. waírþan (§ 303), to become; pp. Goth. baúrans, OE. geboren, OS. OHG. giboran, O.Icel. borenn, inf. Goth. baíran (§ 305), to bear; Goth. ga-daúrsta, OE. dorste, OS. gi-dorsta, OHG. gi-torsta, he dared; inf. Goth. ga-daúrsan (§ 335).
+          <label>§ 71.</label> The <c>u</c>, which arose from <lang>Germanic</lang> <c>o</c> (<ref>§ 70</ref>), became broken to <c>o</c> (written <c>aú</c>) before <c>r</c> and <c>h</c>, as
+          <lang>Goth.</lang> <w>waúrd</w>, <lang>OE.</lang> <lang>OS.</lang> <w>word</w>, <lang>OHG.</lang> <w>wort</w>, <gloss>word</gloss>;
+          <lang>Goth.</lang> <w>daúhtar</w>, <lang>OE.</lang> <w>dohtor</w>, <lang>OS.</lang> <w>dohtar</w>, <lang>OHG.</lang> <w>tohter</w>, <gloss>daughter</gloss>;
+          <grm>pp.</grm> <lang>Goth.</lang> <w>taúhans</w>, <lang>OE.</lang> <w>getogen</w>, <lang>OS.</lang> <w>-togan</w>, <lang>OHG.</lang> <w>gizogan</w>, <lang>O.Icel.</lang> <w>togenn</w>, <lang>Goth.</lang> <grm>inf.</grm> <w>tiuhan</w> (<ref>§ 301</ref>), <gloss>to lead</gloss>;
+          <lang>Goth.</lang> <w>waúrhta</w>, <lang>OE.</lang> <w>worhte</w>, <lang>OHG.</lang> <w>worhta</w>, <gloss>he worked</gloss>, <grm>inf.</grm> <lang>Goth.</lang> <w>waúrkjan</w>, <lang>OHG.</lang> <w>wurken</w>;
+          <grm>pp.</grm> <lang>Goth.</lang> <w>waúrþans</w>, <lang>OE.</lang> <w>geworden</w>, <lang>OS.</lang> <w>giwordan</w>, <lang>OHG.</lang> <w>wortan</w>, <lang>O.Icel.</lang> <w>orðenn</w>, <lang>Goth.</lang> <grm>inf.</grm> <w>waírþan</w> (<ref>§ 303</ref>), <gloss>to become</gloss>;
+          <grm>pp.</grm> <lang>Goth.</lang> <w>baúrans</w>, <lang>OE.</lang> <w>geboren</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>giboran</w>, <lang>O.Icel.</lang> <w>borenn</w>, <grm>inf.</grm> <lang>Goth.</lang> <w>baíran</w> (<ref>§ 305</ref>), <gloss>to bear</gloss>;
+          <lang>Goth.</lang> <w>ga-daúrsta</w>, <lang>OE.</lang> <w>dorste</w>, <lang>OS.</lang> <w>gi-dorsta</w>, <lang>OHG.</lang> <w>gi-torsta</w>, <gloss>he dared</gloss>;
+          <grm>inf.</grm> <lang>Goth.</lang> <w>ga-daúrsan</w> (<ref>§ 335</ref>).
         </p>
       </div>
     </div>
@@ -87,18 +135,34 @@
 
       <div type="section" n="72">
         <p>
-          § 72. Germanic u generally remained in Gothic, as Goth. juggs, OS. OHG. jung, young; Goth. hunds, OE. OS. hund, O.Icel. hundr, OHG. hunt, dog, hound; Goth. sunus, OE. OS. OHG. sunu, son; Goth. hugjan, OS. huggian, OHG. huggen, to think; Goth. budum, OE. budon, OS. budun, OHG. butum, O.Icel. buðom, we offered, announced, inf. Goth. biudan (§ 301); Goth. bundum, OE. bundon, OS. bundun, OHG. buntum, O.Icel. bundom, we bound, Goth. inf. bindan (§ 303), pp. Goth. bundans,<pb n="29"/>OE. gebunden, OS. gibundan, OHG. gibuntan, O.Icel. bundenn. See § 40.
+          <label>§ 72.</label> <lang>Germanic</lang> <c>u</c> generally remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>juggs</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>jung</w>, <gloss>young</gloss>;
+          <lang>Goth.</lang> <w>hunds</w>, <lang>OE.</lang> <lang>OS.</lang> <w>hund</w>, <lang>O.Icel.</lang> <w>hundr</w>, <lang>OHG.</lang> <w>hunt</w>, <gloss>dog, hound</gloss>;
+          <lang>Goth.</lang> <w>sunus</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>sunu</w>, <gloss>son</gloss>;
+          <lang>Goth.</lang> <w>hugjan</w>, <lang>OS.</lang> <w>huggian</w>, <lang>OHG.</lang> <w>huggen</w>, <gloss>to think</gloss>;
+          <lang>Goth.</lang> <w>budum</w>, <lang>OE.</lang> <w>budon</w>, <lang>OS.</lang> <w>budun</w>, <lang>OHG.</lang> <w>butum</w>, <lang>O.Icel.</lang> <w>buðom</w>, <gloss>we offered, announced</gloss>, <grm>inf.</grm> <lang>Goth.</lang> <w>biudan</w> (<ref>§ 301</ref>);
+          <lang>Goth.</lang> <w>bundum</w>, <lang>OE.</lang> <w>bundon</w>, <lang>OS.</lang> <w>bundun</w>, <lang>OHG.</lang> <w>buntum</w>, <lang>O.Icel.</lang> <w>bundom</w>, <gloss>we bound</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>bindan</w> (<ref>§ 303</ref>), <grm>pp.</grm> <lang>Goth.</lang> <w>bundans</w>,<pb n="29"/><lang>OE.</lang> <w>gebunden</w>, <lang>OS.</lang> <w>gibundan</w>, <lang>OHG.</lang> <w>gibuntan</w>, <lang>O.Icel.</lang> <w>bundenn</w>.
+          See <ref>§ 40</ref>.
         </p>
       </div>
 
       <div type="section" n="73">
         <p>
-          § 73. Germanic u became broken to o (written aú) before r and h, as Goth. saúhts, OS. OHG. suht, Germanic stem suhti-, sickness; Goth. waúrms, OS. OHG. wurm, OE. wyrm, stem wurmi-, serpent, worm; Goth. waúrkjan, OHG. wurken, to work; Goth. waúrþun, OE. wurdon, OS. wurdun, OHG. wurtun, O.Icel. urðo, they became, Goth. inf. waírþan (§ 303); Goth. taúhun, OE. tugon, OHG. zugun, they drew, pulled; Goth. inf. tiuhan (§ 301).
+          <label>§ 73.</label> <lang>Germanic</lang> <c>u</c> became broken to <c>o</c> (written <c>aú</c>) before <c>r</c> and <c>h</c>, as
+          <lang>Goth.</lang> <w>saúhts</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>suht</w>, <lang>Germanic</lang> stem <w>suhti-</w>, <gloss>sickness</gloss>;
+          <lang>Goth.</lang> <w>waúrms</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>wurm</w>, <lang>OE.</lang> <w>wyrm</w>, stem <w>wurmi-</w>, <gloss>serpent, worm</gloss>;
+          <lang>Goth.</lang> <w>waúrkjan</w>, <lang>OHG.</lang> <w>wurken</w>, <gloss>to work</gloss>;
+          <lang>Goth.</lang> <w>waúrþun</w>, <lang>OE.</lang> <w>wurdon</w>, <lang>OS.</lang> <w>wurdun</w>, <lang>OHG.</lang> <w>wurtun</w>, <lang>O.Icel.</lang> <w>urðo</w>, <gloss>they became</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>waírþan</w> (<ref>§ 303</ref>);
+          <lang>Goth.</lang> <w>taúhun</w>, <lang>OE.</lang> <w>tugon</w>, <lang>OHG.</lang> <w>zugun</w>, <gloss>they drew, pulled</gloss>;
+          <lang>Goth.</lang> <grm>inf.</grm> <w>tiuhan</w> (<ref>§ 301</ref>).
         </p>
 
         <div type="note">
           <p>
-            Note.—u was not broken to aú before r which arose from older s by assimilation, as ur-runs, a running out; ur-reisan, to arise (§ 175 note 3). It is difficult to account for the u in the enclitic particle -uh, and; and in the interrogative particle nuh, then.
+            <label>Note.—</label><c>u</c> was not broken to <c>aú</c> before <c>r</c> which arose from older <c>s</c> by assimilation, as
+            <w>ur-runs</w>, <gloss>a running out</gloss>;
+            <w>ur-reisan</w>, <gloss>to arise</gloss> (<ref>§ 175 note 3</ref>).
+            It is difficult to account for the <c>u</c> in the enclitic particle <w>-uh</w>, <gloss>and</gloss>; and in the interrogative particle <w>nuh</w>, <gloss>then</gloss>.
           </p>
         </div>
       </div>
@@ -113,7 +177,15 @@
 
       <div type="section" n="74">
         <p>
-          § 74. The ā, which arose from a according to § 59, remained in Gothic, as hāhan, to hang; faúrahāh (faúrhāh), curtain, veil, lit. that which hangs before; gahāhjō (av.), in order, connectedly; brāhta, he brought, inf. briggan; gafāhs, a catch, haul, related to gafāhan, to seize; fram-gāhts, progress, related to gaggan, to go; þāhō, clay; unwāhs, blameless.
+          <label>§ 74.</label> The <c>ā</c>, which arose from <c>a</c> according to <ref>§ 59</ref>, remained in <lang>Gothic</lang>, as
+          <w>hāhan</w>, <gloss>to hang</gloss>;
+          <w>faúrahāh</w> (<w>faúrhāh</w>), <gloss>curtain, veil, <hi>lit.</hi> that which hangs before</gloss>;
+          <w>gahāhjō</w> (<grm>av.</grm>), <gloss>in order, connectedly</gloss>;
+          <w>brāhta</w>, <gloss>he brought</gloss>, <grm>inf.</grm> <w>briggan</w>;
+          <w>gafāhs</w>, <gloss>a catch, haul</gloss>, related to <w>gafāhan</w>, <gloss>to seize</gloss>;
+          <w>fram-gāhts</w>, <gloss>progress</gloss>, related to <w>gaggan</w>, <gloss>to go</gloss>;
+          <w>þāhō</w>, <gloss>clay</gloss>;
+          <w>unwāhs</w>, <gloss>blameless</gloss>.
         </p>
       </div>
     </div>
@@ -123,13 +195,25 @@
 
       <div type="section" n="75">
         <p>
-          § 75. Germanic ǣ (= OE. ǣ, OS. OHG. O.Icel. ā) became ē in Gothic, as Goth. ga-dēþs, OE. dǣd, OS. dād, OHG. tāt, deed; Goth. mana-sēþs, multitude, world, lit. man-seed, OE. sǣd, OS. sād, OHG. sāt, seed; Goth. ga-rēdan, to reflect upon, OE. rǣdan, OS. rādan, OHG. rātan, O.Icel. rāða, to advise; Goth. bērum, OE. bǣron,<pb n="30"/>OS. OHG. bārum, O.Icel. bārom, we bore, Goth. inf. baíran (§ 305); Goth. sētun, OE. sǣton, OS. sātun, OHG. sāȥun, O.Icel. sāto, they sat, Goth. inf. sitan (§ 308).
+          <label>§ 75.</label> <lang>Germanic</lang> <c>ǣ</c> (= <lang>OE.</lang> <c>ǣ</c>, <lang>OS.</lang> <lang>OHG.</lang> <lang>O.Icel.</lang> <c>ā</c>) became <c>ē</c> in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>ga-dēþs</w>, <lang>OE.</lang> <w>dǣd</w>, <lang>OS.</lang> <w>dād</w>, <lang>OHG.</lang> <w>tāt</w>, <gloss>deed</gloss>;
+          <lang>Goth.</lang> <w>mana-sēþs</w>, <gloss>multitude, world, <hi>lit.</hi> man-seed</gloss>, <lang>OE.</lang> <w>sǣd</w>, <lang>OS.</lang> <w>sād</w>, <lang>OHG.</lang> <w>sāt</w>, <gloss>seed</gloss>;
+          <lang>Goth.</lang> <w>ga-rēdan</w>, <gloss>to reflect upon</gloss>, <lang>OE.</lang> <w>rǣdan</w>, <lang>OS.</lang> <w>rādan</w>, <lang>OHG.</lang> <w>rātan</w>, <lang>O.Icel.</lang> <w>rāða</w>, <gloss>to advise</gloss>;
+          <lang>Goth.</lang> <w>bērum,</w> <lang>OE.</lang> <w>bǣron</w>,<pb n="30"/><lang>OS.</lang> <lang>OHG.</lang> <w>bārum</w>, <lang>O.Icel.</lang> <w>bārom</w>, <gloss>we bore</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>baíran</w> (<ref>§ 305</ref>);
+          <lang>Goth.</lang> <w>sētun</w>, <lang>OE.</lang> <w>sǣton</w>, <lang>OS.</lang> <w>sātun</w>, <lang>OHG.</lang> <w>sāȥun</w>, <lang>O.Icel.</lang> <w>sāto</w>, <gloss>they sat</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>sitan</w> (<ref>§ 308</ref>).
         </p>
       </div>
 
       <div type="section" n="76">
         <p>
-          § 76. The Germanic combination ǣj became ǣ (written ai, the long vowel corresponding to aí) in Gothic before vowels. This ai was a long open e-sound like the ǣ in OE. slǣpan or the vowel sound in English their. It occurs in very few words: as Goth. saian, OE. sāwan, OS. sāian, OHG. sāen, O.Icel. sā, to sow; Goth. waian, OE. wāwan, OHG. wāen (wājen), to blow; Goth. faianda, they are blamed. But in unaccented syllables the combination -ǣji- became -ái-, as habáis, thou hast, habáiþ, he has, from prim. Germanic *χaҌǣjizi, *χaҌǣjiđi.
+          <label>§ 76.</label> The <lang>Germanic</lang> combination <c>ǣj</c> became <c>ǣ</c> (written <c>ai</c>, the long vowel corresponding to <c>aí</c>) in <lang>Gothic</lang> before vowels.
+          This <c>ai</c> was a long open <c>e</c>-sound like the <c>ǣ</c> in <lang>OE.</lang> <w>slǣpan</w> or the vowel sound in English <w>their</w>.
+          It occurs in very few words: as
+          <lang>Goth.</lang> <w>saian</w>, <lang>OE.</lang> <w>sāwan</w>, <lang>OS.</lang> <w>sāian</w>, <lang>OHG.</lang> <w>sāen</w>, <lang>O.Icel.</lang> <w>sā</w>, <gloss>to sow</gloss>;
+          <lang>Goth.</lang> <w>waian</w>, <lang>OE.</lang> <w>wāwan</w>, <lang>OHG.</lang> <w>wāen</w> (<w>wājen</w>), <gloss>to blow</gloss>;
+          <lang>Goth.</lang> <w>faianda</w>, <gloss>they are blamed</gloss>.
+          But in unaccented syllables the combination <c>-ǣji-</c> became <c>-ái-</c>, as
+          <w>habáis</w>, <gloss>thou hast</gloss>, <w>habáiþ</w>, <gloss>he has</gloss>, from <lang>prim. Germanic</lang> <w>*χaҌǣjizi</w>, <w>*χaҌǣjiđi</w>.
         </p>
       </div>
     </div>
@@ -139,11 +223,17 @@
 
       <div type="section" n="77">
         <p>
-          § 77. Germanic ē, which cannot be traced back phonologically to Indo-Germanic ē (§ 43), is of obscure origin. In Gothic the two sounds fell together in ē, but in the other Germanic languages they are kept quite apart, cp. §§ 43, 75.
+          <label>§ 77.</label> <lang>Germanic</lang> <c>ē</c>, which cannot be traced back phonologically to <lang>Indo-Germanic</lang> <c>ē</c> (<ref>§ 43</ref>), is of obscure origin.
+          In <lang>Gothic</lang> the two sounds fell together in <c>ē</c>, but in the other Germanic languages they are kept quite apart, cp. <ref>§§ 43, 75</ref>.
         </p>
 
         <p>
-          Germanic ē appears in Gothic as ē (OE. OS. O.Icel. ē, OHG. ē, later ea, ia, ie). In Goth. it occurs in a few words only, as Goth. OE. OS. O.Icel. hēr, OHG. hēr (hear, hiar, hier), here; Goth. fēra, OHG. fēra (feara, fiara), country, region, side, part; Goth. mēs, OE. mēse (mȳse), OHG. meas (mias), table, borrowed from Lat. mēnsa. Cp. § 5.
+          <lang>Germanic</lang> <c>ē</c> appears in <lang>Gothic</lang> as <c>ē</c> (<lang>OE.</lang> <lang>OS.</lang> <lang>O.Icel.</lang> <c>ē</c>, <lang>OHG.</lang> <c>ē</c>, later <c>ea</c>, <c>ia</c>, <c>ie</c>).
+          In <lang>Goth.</lang> it occurs in a few words only, as
+          <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <lang>O.Icel.</lang> <w>hēr</w>, <lang>OHG.</lang> <w>hēr</w> (<w>hear</w>, <w>hiar</w>, <w>hier</w>), <gloss>here</gloss>;
+          <lang>Goth.</lang> <w>fēra</w>, <lang>OHG.</lang> <w>fēra</w> (<w>feara</w>, <w>fiara</w>), <gloss>country, region, side, part</gloss>;
+          <lang>Goth.</lang> <w>mēs</w>, <lang>OE.</lang> <w>mēse</w> (<w>mȳse</w>), <lang>OHG.</lang> <w>meas</w> (<w>mias</w>), <gloss>table</gloss>, borrowed from <lang>Lat.</lang> <w>mēnsa</w>.
+          Cp. <ref>§ 5</ref>.
         </p>
       </div>
     </div>
@@ -153,7 +243,12 @@
 
       <div type="section" n="78">
         <p>
-          § 78. Germanic ī, written ei in Gothic, remained, as Goth. swein, OE. OS. OHG. swīn, O.Icel. svīn, pig, cp. Lat. su-īnu-s, pertaining to a pig; Goth. ƕeila, a while, time, season, OE. hwīl, a while OS. hwīla (hwīl), time, OHG. wīla (hwīl), time, hour, O.Icel. hvīl, place of rest; Goth. seins, OE. OS. OHG. sīn, his; Goth. steigan<pb n="31"/>(§ 300), OE. OS. OHG. stīgan, O.Icel. stīga, to ascend. Cp. §§ 5, 6, 44, 48.
+          <label>§ 78.</label> <lang>Germanic</lang> <c>ī</c>, written <c>ei</c> in <lang>Gothic</lang>, remained, as
+          <lang>Goth.</lang> <w>swein</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>swīn</w>, <lang>O.Icel.</lang> <w>svīn</w>, <c>pig</c>, cp. <lang>Lat.</lang> <w>su-īnu-s</w>, <gloss>pertaining to a pig</gloss>;
+          <lang>Goth.</lang> <w>ƕeila</w>, <gloss>a while, time, season</gloss>, <lang>OE.</lang> <w>hwīl</w>, <gloss>a while</gloss> <lang>OS.</lang> <w>hwīla</w> (<w>hwīl</w>), <gloss>time</gloss>, <lang>OHG.</lang> <w>wīla</w> (<w>hwīl</w>), <gloss>time, hour</gloss>, <lang>O.Icel.</lang> <w>hvīl</w>, <gloss>place of rest</gloss>;
+          <lang>Goth.</lang> <w>seins</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>sīn</w>, <gloss>his</gloss>;
+          <lang>Goth.</lang> <w>steigan</w><pb n="31"/>(<ref>§ 300</ref>), <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>stīgan</w>, <lang>O.Icel.</lang> <w>stīga</w>, <gloss>to ascend</gloss>.
+          Cp. <ref>§§ 5, 6, 44, 48</ref>.
         </p>
       </div>
     </div>
@@ -163,23 +258,37 @@
 
       <div type="section" n="79">
         <p>
-          § 79. Germanic ō remained in Gothic, as Goth. fōtus, OE. OS. fōt, OHG. fuoȥ, O.Icel. fōtr, foot, cp. Gr. Doric πώς; Goth. flōdus, OE. OS. flōd, OHG. fluot, O.Icel. fìōð, flood, stream; Goth. brōpar, O.Icel. brōðir, OE. brōpor, OS. brōðer, OHG. bruoder, brother; Goth. OE. OS. O.Icel. fōr, OHG. fuor, I fared, went, Goth. inf. faran (§ 309). Cp. §§ 42, 45.
+          <label>§ 79.</label> <lang>Germanic</lang> <c>ō</c> remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>fōtus</w>, <lang>OE.</lang> <lang>OS.</lang> <w>fōt</w>, <lang>OHG.</lang> <w>fuoȥ</w>, <lang>O.Icel.</lang> <w>fōtr</w>, <gloss>foot</gloss>, cp. <lang>Gr. Doric</lang> <w>πώς</w>;
+          <lang>Goth.</lang> <w>flōdus</w>, <lang>OE.</lang> <lang>OS.</lang> <w>flōd</w>, <lang>OHG.</lang> <w>fluot</w>, <lang>O.Icel.</lang> <w>flōð</w>, <gloss>flood, stream</gloss>;
+          <lang>Goth.</lang> <w>brōpar</w>, <lang>O.Icel.</lang> <w>brōðir</w>, <lang>OE.</lang> <w>brōpor</w>, <lang>OS.</lang> <w>brōðer</w>, <lang>OHG.</lang> <w>bruoder</w>, <gloss>brother</gloss>;
+          <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <lang>O.Icel.</lang> <w>fōr</w>, <lang>OHG.</lang> <w>fuor</w>, <gloss>I fared, went</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>faran</w> (<ref>§ 309</ref>).
+          Cp. <ref>§§ 42, 45</ref> .
         </p>
       </div>
 
       <div type="section" n="80">
         <p>
-          § 80. The Germanic combination ōw became a long open o-sound (written au) before vowels, as Goth. sauil, sun, cp. OE. O.Icel. Lat. sōl; Goth. staua, (masc.) judge, (fem.) judgment, stauida, I judged (inf. stōjan), cp. Lithuanian stovéti, to stand, O.Bulgarian staviti, to place; taui (gen. tōjis), deed; afdauidai, pp. masc. nom. pl. exhausted, inf. *afdōjan.
+          <label>§ 80.</label> The <lang>Germanic</lang> combination <c>ōw</c> became a long open <c>o</c>-sound (written <c>au</c>) before vowels, as
+          <lang>Goth.</lang> <w>sauil</w>, <gloss>sun</gloss>, cp. <lang>OE.</lang> <lang>O.Icel.</lang> <lang>Lat.</lang> <w>sōl</w>;
+          <lang>Goth.</lang> <w>staua</w>, (<grm>masc.</grm>) <gloss>judge</gloss>, (<grm>fem.</grm>) <gloss>judgment</gloss>, <w>stauida</w>, <gloss>I judged</gloss> (<grm>inf.</grm> <w>stōjan</w>), cp. <lang>Lithuanian</lang> <w>stovéti</w>, <gloss>to stand</gloss>, <lang>O.Bulgarian</lang> <w>staviti</w>, <gloss>to place</gloss>;
+          <w>taui</w> (<grm>gen.</grm> <w>tōjis</w>), <gloss>deed</gloss>;
+          <w>afdauidai</w>, <grm>pp. masc. nom. pl.</grm> <gloss>exhausted</gloss>, <grm>inf.</grm> <w>*afdōjan</w>.
         </p>
 
         <p>
-          Here probably belong also bauan, to inhabit, OE. OHG. būan, to till, dwell; bnauan, to rub; trauan, OHG. trūēn, OS. trūōn, to trow, trust.
+          Here probably belong also
+          <w>bauan</w>, <gloss>to inhabit</gloss>, <lang>OE.</lang> <lang>OHG.</lang> <w>būan</w>, <gloss>to till, dwell</gloss>;
+          <w>bnauan</w>, <gloss>to rub</gloss>;
+          <w>trauan</w>, <lang>OHG.</lang> <w>trūēn</w>, <lang>OS.</lang> <w>trūōn</w>, <gloss>to trow, trust</gloss>.
         </p>
       </div>
 
       <div type="section" n="81">
         <p>
-          § 81. The Germanic combination ōwj became ōj, as stōja, I judge, from *stōwjō, older *stōwijo; tōjis (from *tōwjis), gen. sing. of taui, deed.
+          <label>§ 81.</label> The <lang>Germanic</lang> combination <c>ōwj</c> became <c>ōj</c>, as
+          <w>stōja</w>, <gloss>I judge</gloss>, from <w>*stōwjō</w>, older <w>*stōwijo</w>;
+          <w>tōjis</w> (from <w>*tōwjis</w>), <grm>gen. sing.</grm> of <w>taui</w>, <gloss>deed</gloss>.
         </p>
       </div>
     </div>
@@ -189,12 +298,22 @@
 
       <div type="section" n="82">
         <p>
-          § 82. Germanic ū remained in Gothic, as Goth. hūs (in gud-hūs, temple), OE. OS. OHG. O.Icel. hūs, house; Goth. rūms, OE. OS. OHG. O.Icel. rūm, room, related to Lat. rū-s (gen. rū-ris), open country; Goth. þūsundi, OE. þūsend, OS. thūsundig, OHG. dūsunt, O.Icel. þūsund, thousand; Goth. fūls, OE. OHG. fūl, O.Icel. fūll, foul; Goth. ga-lūkan, to shut, close, OE. lūcan, OHG. lūhhan, O.Icel. lūka, to lock.
+          <label>§ 82.</label> <lang>Germanic</lang> <c>ū</c> remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>hūs</w> (in <w>gud-hūs</w>, <gloss>temple</gloss>), <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <lang>O.Icel.</lang> <w>hūs</w>, <gloss>house</gloss>;
+          <lang>Goth.</lang> <w>rūms</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <lang>O.Icel.</lang> <w>rūm</w>, <gloss>room</gloss>, related to <lang>Lat.</lang> <w>rū-s</w> (<grm>gen.</grm> <w>rū-ris</w>), <gloss>open country</gloss>;
+          <lang>Goth.</lang> <w>þūsundi</w>, <lang>OE.</lang> <w>þūsend</w>, <lang>OS.</lang> <w>thūsundig</w>, <lang>OHG.</lang> <w>dūsunt</w>, <lang>O.Icel.</lang> <w>þūsund</w>, <gloss>thousand</gloss>;
+          <lang>Goth.</lang> <w>fūls</w>, <lang>OE.</lang> <lang>OHG.</lang> <w>fūl</w>, <lang>O.Icel.</lang> <w>fūll</w>, <gloss>foul</gloss>;
+          <lang>Goth.</lang> <w>ga-lūkan</w>, <gloss>to shut, close</gloss>, <lang>OE.</lang> <w>lūcan</w>, <lang>OHG.</lang> <w>lūhhan</w>, <lang>O.Icel.</lang> <w>lūka</w>, <gloss>to lock</gloss>.
         </p>
 
         <p>
-          On the ū in forms like pūhta, it seemed, appeared;<pb n="32"/>hūhrus, hunger; jūhiza, younger;
-          ūhtwō, early morn, see § 62.
+          On the <c>ū</c> in forms like
+          <w>pūhta</w>, <gloss>it seemed, appeared</gloss>;
+          <pb n="32"/>
+          <w>hūhrus</w>, <gloss>hunger</gloss>;
+          <w>jūhiza</w>, <gloss>younger</gloss>;
+          <w>ūhtwō</w>, <gloss>early morn</gloss>,
+          see <ref>§ 62</ref>.
         </p>
       </div>
     </div>
@@ -208,7 +327,13 @@
 
       <div type="section" n="83">
         <p>
-          § 83. Germanic ai (OE. ā, OS. ē, OHG. ei (ē), O.Icel. ei) remained in Gothic, as Goth. áins, OE. ān, OS. ēn, OHG. ein, O.Icel. einn, one; Goth. háils, OE. hāl, OS. hēl, OHG. heil, hale, whole, sound; Goth. stáins, OE. stān, OS. stēn, OHG. stein, O.Icel. steinn, stone; Goth. stáig, OE. stāg, OS. stēg, OHG. steig, he ascended, Goth. inf. steigan (§ 300); Goth. háitan (§ 313), OE. hātan, OS. hētan, OHG. heiȥan, O.Icel. heita, to name, call. Cp. §§ 47, 49.
+          <label>§ 83.</label> <lang>Germanic</lang> <c>ai</c> (<lang>OE.</lang> <c>ā</c>, <lang>OS.</lang> <c>ē</c>, <lang>OHG.</lang> <c>ei</c> (<c>ē</c>), <lang>O.Icel.</lang> <c>ei</c>) remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>áins</w>, <lang>OE.</lang> <w>ān</w>, <lang>OS.</lang> <w>ēn</w>, <lang>OHG.</lang> <w>ein</w>, <lang>O.Icel.</lang> <w>einn</w>, <gloss>one</gloss>;
+          <lang>Goth.</lang> <w>háils</w>, <lang>OE.</lang> <w>hāl</w>, <lang>OS.</lang> <w>hēl</w>, <lang>OHG.</lang> <w>heil</w>, <gloss>hale, whole, sound</gloss>;
+          <lang>Goth.</lang> <w>stáins</w>, <lang>OE.</lang> <w>stān</w>, <lang>OS.</lang> <w>stēn</w>, <lang>OHG.</lang> <w>stein</w>, <lang>O.Icel.</lang> <w>steinn</w>, <gloss>stone</gloss>;
+          <lang>Goth.</lang> <w>stáig</w>, <lang>OE.</lang> <w>stāg</w>, <lang>OS.</lang> <w>stēg</w>, <lang>OHG.</lang> <w>steig</w>, <gloss>he ascended</gloss>, <lang>Goth.</lang> <grm>inf.</grm> <w>steigan</w> (<ref>§ 300</ref>);
+          <lang>Goth.</lang> <w>háitan</w> (<ref>§ 313</ref>), <lang>OE.</lang> <w>hātan</w>, <lang>OS.</lang> <w>hētan</w>, <lang>OHG.</lang> <w>heiȥan</w>, <lang>O.Icel.</lang> <w>heita</w>, <gloss>to name, call</gloss>.
+          Cp. <ref>§§ 47, 49</ref>.
         </p>
       </div>
     </div>
@@ -218,7 +343,15 @@
 
       <div type="section" n="84">
         <p>
-          § 84. Germanic au (OE. ēa, OS. ō, OHG. ou (ō), O.Icel. au) remained in Gothic, as Goth. áugō, OE. ēage, OS. ōga, OHG. ouga, O.Icel. auga, eye; Goth. háubiþ (gen. háubidis), OE. hēafod, OS. hōҌid, OHG. houbit, O.Icel. haufuþ, head; Goth. dáupus, OE. dēað, OS. dōth, OHG. tōd, death; Goth. ráuþs, O.Icel. rauðr, OE. rēad, OS. rōd, OHG. rōt, red; Goth. gáumjan, to perceive, observe, OS. gōmian, OHG. goumen, to pay attention to; Goth. -hláupan, OE. hlēapan, OS. -hlōpan, OHG. louffan, O.Icel. hlaupa, to leap, run; pret. 1, 3 sing. Goth. káus, OE. cēas, OS. OHG. kōs, O.Icel. kaus, inf. Goth. kiusan (§ 302), to choose. Cp. §§ 50, 52.
+          <label>§ 84.</label> <lang>Germanic</lang> <c>au</c> (<lang>OE.</lang> <c>ēa</c>, <lang>OS.</lang> <c>ō</c>, <lang>OHG.</lang> <c>ou</c> (<c>ō</c>), <lang>O.Icel.</lang> <c>au</c>) remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>áugō</w>, <lang>OE.</lang> <w>ēage</w>, <lang>OS.</lang> <w>ōga</w>, <lang>OHG.</lang> <w>ouga</w>, <lang>O.Icel.</lang> <w>auga</w>, <gloss>eye</gloss>;
+          <lang>Goth.</lang> <w>háubiþ</w> (<grm>gen.</grm> <w>háubidis</w>), <lang>OE.</lang> <w>hēafod</w>, <lang>OS.</lang> <w>hōҌid</w>, <lang>OHG.</lang> <w>houbit</w>, <lang>O.Icel.</lang> <w>haufuþ</w>, <gloss>head</gloss>;
+          <lang>Goth.</lang> <w>dáupus</w>, <lang>OE.</lang> <w>dēað</w>, <lang>OS.</lang> <w>dōth</w>, <lang>OHG.</lang> <w>tōd</w>, <gloss>death</gloss>;
+          <lang>Goth.</lang> <w>ráuþs</w>, <lang>O.Icel.</lang> <w>rauðr</w>, <lang>OE.</lang> <w>rēad</w>, <lang>OS.</lang> <w>rōd</w>, <lang>OHG.</lang> <w>rōt</w>, <gloss>red</gloss>;
+          <lang>Goth.</lang> <w>gáumjan</w>, <gloss>to perceive, observe</gloss>, <lang>OS.</lang> <w>gōmian</w>, <lang>OHG.</lang> <w>goumen</w>, <gloss>to pay attention to</gloss>;
+          <lang>Goth.</lang> <w>-hláupan</w>, <lang>OE.</lang> <w>hlēapan</w>, <lang>OS.</lang> <w>-hlōpan</w>, <lang>OHG.</lang> <w>louffan</w>, <lang>O.Icel.</lang> <w>hlaupa</w>, <gloss>to leap, run</gloss>;
+          <grm>pret. 1, 3 sing.</grm> <lang>Goth.</lang> <w>káus</w>, <lang>OE.</lang> <w>cēas</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>kōs</w>, <lang>O.Icel.</lang> <w>kaus</w>, <grm>inf.</grm> <lang>Goth.</lang> <w>kiusan</w> (<ref>§ 302</ref>), <gloss>to choose</gloss>.
+          Cp. <ref>§§ 50, 52</ref>.
         </p>
       </div>
     </div>
@@ -228,7 +361,12 @@
 
       <div type="section" n="85">
         <p>
-          § 85. The iu, which arose from older eu (§ 63), remained in Gothic, as Goth. niujis, OS. OHG. niuwi, stem *niuja-, older *neujo-, new; Goth. stiurei (in us-stiurei, excess, riot), cp. OHG. stiurī, greatness, magnificence; Goth. kiusiþ, OS. kiusid, OHG. kiusit, he chooses, tests; Goth.<pb n="33"/>liuhtjan, OS. liuhtian, OHG. liuhten, to light; Goth. stiurjan, to establish, OHG. stiuren, to support, steer.
+          <label>§ 85.</label> The <c>iu</c>, which arose from older <c>eu</c> (<ref>§ 63</ref>), remained in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>niujis</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>niuwi</w>, stem <w>*niuja-</w>, older <w>*neujo-</w>, <gloss>new</gloss>;
+          <lang>Goth.</lang> <w>stiurei</w> (in <w>us-stiurei</w>, <gloss>excess, riot</gloss>), cp. <lang>OHG.</lang> <w>stiurī</w>, <gloss>greatness, magnificence</gloss>;
+          <lang>Goth.</lang> <w>kiusiþ</w>, <lang>OS.</lang> <w>kiusid</w>, <lang>OHG.</lang> <w>kiusit</w>, <gloss>he chooses, tests</gloss>;
+          <lang>Goth.</lang><pb n="33"/><w>liuhtjan</w>, <lang>OS.</lang> <w>liuhtian</w>, <lang>OHG.</lang> <w>liuhten</w>, <gloss>to light</gloss>;
+          <lang>Goth.</lang> <w>stiurjan</w>, <gloss>to establish</gloss>, <lang>OHG.</lang> <w>stiuren</w>, <gloss>to support, steer</gloss>.
         </p>
       </div>
     </div>
@@ -238,7 +376,12 @@
 
       <div type="section" n="86">
         <p>
-          § 86. eu (OE. ēo, OS. OHG. io(eo), O.Icel. jō(jū)) became iu in Gothic, as Goth. diups, OE. dēop, OS. diop, OHG. tiof, O.Icel. djūpr, deep; Goth. liuhaþ, OE. lēoht, OS. OHG. lioht, a light, cp. Gr. λευκός, light, bright; Goth. liufs, OE. lēof, OS. liof, OHG. liob, O.Icel. ljūfr, dear; Goth. tiuhan (§ 301), OS. tiohan, OHG. ziohan, to draw, pull; Goth. fra-liusan, OE. for-lēosan, OS. far-liosan, OHG. fìr-liosan, to lose.
+          <label>§ 86.</label> <c>eu</c> (<lang>OE.</lang> <c>ēo</c>, <lang>OS.</lang> <lang>OHG.</lang> <c>io</c>(<c>eo</c>), <lang>O.Icel.</lang> <c>jō</c>(<c>jū</c>)) became <c>iu</c> in <lang>Gothic</lang>, as
+          <lang>Goth.</lang> <w>diups</w>, <lang>OE.</lang> <w>dēop</w>, <lang>OS.</lang> <w>diop</w>, <lang>OHG.</lang> <w>tiof</w>, <lang>O.Icel.</lang> <w>djūpr</w>, <gloss>deep</gloss>;
+          <lang>Goth.</lang> <w>liuhaþ</w>, <lang>OE.</lang> <w>lēoht</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>lioht</w>, <gloss>a light</gloss>, cp. <lang>Gr.</lang> <w>λευκός</w>, <gloss>light, bright</gloss>;
+          <lang>Goth.</lang> <w>liufs</w>, <lang>OE.</lang> <w>lēof</w>, <lang>OS.</lang> <w>liof</w>, <lang>OHG.</lang> <w>liob</w>, <lang>O.Icel.</lang> <w>ljūfr</w>, <gloss>dear</gloss>;
+          <lang>Goth.</lang> <w>tiuhan</w> (<ref>§ 301</ref>), <lang>OS.</lang> <w>tiohan</w>, <lang>OHG.</lang> <w>ziohan</w>, <gloss>to draw, pull</gloss>;
+          <lang>Goth.</lang> <w>fra-liusan</w>, <lang>OE.</lang> <w>for-lēosan</w>, <lang>OS.</lang> <w>far-liosan</w>, <lang>OHG.</lang> <w>fìr-liosan</w>, <gloss>to lose</gloss>.
         </p>
       </div>
     </div>
