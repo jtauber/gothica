@@ -4,7 +4,7 @@
 
   <div type="section" n="35">
     <p>
-      <label>§ 35.</label> The parent Indo-Germanic language had the following vowel-system:—
+      <label>§ 35.</label> The parent <lang>Indo-Germanic</lang> language had the following vowel-system:—
     </p>
 
     <table>
@@ -32,7 +32,7 @@
     <pb n="17"/>
     <div type="note">
       <list>
-        <item>
+        <item n="1">
           <p>
             <label>Note.—</label>1. The short vowels <c>i</c>, <c>u</c>, <c>ǝ</c>, the long vowels <c>ī</c>, <c>ū</c>, and vocalic <c>l</c>, <c>m</c>, <c>n</c>, <c>r</c> occurred originally only in syllables which did not bear the principal accent of the word.
           </p>
@@ -46,15 +46,16 @@
           </p>
     
           <p>
-            <c>ī</c> and <c>ū</c> were contractions of weak diphthongs which arose from the strong forms <c>eiǝ</c>, <c>āi</c>, <c>ēi</c>, <c>ōi</c>; <c>euǝ</c>, <c>āu</c>, <c>ēu</c>, <c>ōu</c> through the loss of accent. The <c>e</c> in <c>eiǝ</c>, <c>euǝ</c> had disappeared before the contraction took place. See <ref>§ 32</ref>.
+            <c>ī</c> and <c>ū</c> were contractions of weak diphthongs which arose from the strong forms <c>eiǝ</c>, <c>āi</c>, <c>ēi</c>, <c>ōi</c>;
+            <c>euǝ</c>, <c>āu</c>, <c>ēu</c>, <c>ōu</c> through the loss of accent. The <c>e</c> in <c>eiǝ</c>, <c>euǝ</c> had disappeared before the contraction took place. See <ref>§ 32</ref>.
           </p>
         </item>
-        <item>
+        <item n="2">
           <p>
             2. The long diphthongs <c>āi</c>, <c>ēi</c>, <abbr>&amp;c.</abbr>, were of rare occurrence in the parent language, and their history in the prehistoric period of the various branches of the Indo-Germanic languages, except when final, is still somewhat obscure. In stem-syllables they were generally either shortened to <c>ai</c>, <c>ei</c>, <abbr>&amp;c.</abbr>, or the second element (<c>i</c>, <c>u</c>) disappeared. In final syllables they were generally shortened to <c>ai</c>, <c>ei</c>, <abbr>&amp;c</abbr>. In this book no further account will be taken of the <abbr>Indg.</abbr> long diphthongs in stem-syllables. For their treatment in final syllables in Primitive Germanic, see <ref>§ 89</ref>.
           </p>
         </item>
-        <item>
+        <item n="3">
           <p>
             3. Upon theoretical grounds it is generally assumed that the parent language contained long vocalic <c>l</c>, <c>m</c>, <c>n</c>, <c>r</c>. But their history in the various <abbr>Indg.</abbr> languages is still uncertain. In any case they were of very rare occurrence, and are therefore left out of consideration in this book.
           </p>
@@ -65,145 +66,221 @@
 
   <div type="section" n="36">
     <p>
-      <label>§ 36.</label> <c>a</c> (<lang>Lat.</lang> <c>a</c>, <lang>Gr.</lang> <c>α</c>) remained, as <lang>Lat.</lang> <w>ager</w>, <lang>Gr.</lang> <w>ἀγρός</w>, <lang>Skr.</lang> <w>ájras</w>, <lang>Goth.</lang> <w>akrs</w>, <lang>O.Icel.</lang> <w>akr</w>, <lang>OS.</lang> <w>akkar</w>, <lang>OHG.</lang> <w>ackar</w>, <lang>OE.</lang> <w>æcer</w>, <gloss>field, acre</gloss>; <lang>Gr.</lang> <w>ἅλς</w>, <lang>Lat.</lang> <grm>gen.</grm> <w>salis</w>, <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OS.</lang> <w>salt</w>, <lang>OHG.</lang> <w>salz</w>, <lang>OE.</lang> <w>sealt</w>, <gloss>salt</gloss>; <lang>Lat.</lang> <w>aqua</w>, <lang>Goth.</lang> <w>aƕa</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>aha</w>, <lang>OE.</lang> <w>ēa</w> from <w>*eahu</w>, older <w>*ahu</w>, <gloss>water, river</gloss>; <lang>Lat.</lang> <w>alius</w>, <lang>Gr.</lang> <w>ἄλλος</w>, <lang>Goth.</lang> <w>aljis</w>, <gloss>other</gloss>.
+      <label>§ 36.</label> <c>a</c> (<lang>Lat.</lang> <c>a</c>, <lang>Gr.</lang> <c>α</c>) remained, as
+      <lang>Lat.</lang> <w>ager</w>, <lang>Gr.</lang> <w>ἀγρός</w>, <lang>Skr.</lang> <w>ájras</w>, <lang>Goth.</lang> <w>akrs</w>, <lang>O.Icel.</lang> <w>akr</w>, <lang>OS.</lang> <w>akkar</w>, <lang>OHG.</lang> <w>ackar</w>, <lang>OE.</lang> <w>æcer</w>, <gloss>field, acre</gloss>;
+      <lang>Gr.</lang> <w>ἅλς</w>, <lang>Lat.</lang> <grm>gen.</grm> <w>salis</w>, <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OS.</lang> <w>salt</w>, <lang>OHG.</lang> <w>salz</w>, <lang>OE.</lang> <w>sealt</w>, <gloss>salt</gloss>;
+      <lang>Lat.</lang> <w>aqua</w>, <lang>Goth.</lang> <w>aƕa</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>aha</w>, <lang>OE.</lang> <w>ēa</w> from <w>*eahu</w>, older <w>*ahu</w>, <gloss>water, river</gloss>;
+      <lang>Lat.</lang> <w>alius</w>, <lang>Gr.</lang> <w>ἄλλος</w>, <lang>Goth.</lang> <w>aljis</w>, <gloss>other</gloss>.
     </p>
   </div>
 
   <div type="section" n="37">
     <p>
-      <label>§ 37.</label> <c>e</c> (<lang>Lat.</lang> <c>e</c>, <lang>Gr.</lang> <c>ε</c>) remained, as <lang>Lat.</lang> <w>ferō</w>, <lang>Gr.</lang> <w>φέρω</w>,<pb n="18"/><gloss>I bear</gloss>, <lang>O.Icel.</lang> <w>bera</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>beran</w>, <gloss>to bear</gloss>; <lang>Lat.</lang> <w>edō</w>, <lang>Gr.</lang> <w>ἔδομαι</w>, <lang>Skr.</lang> <w>ádmi</w>, <gloss>I eat</gloss>, <lang>O.Icel</lang>. <w>eta</w>, <lang>OHG.</lang> <w>eȥȥan</w>, <lang>OS.</lang> <lang>OE.</lang> <w>etan</w>, <gloss>to eat</gloss>; <lang>Lat.</lang> <w>pellis</w>, <lang>Gr.</lang> <w>πέλλα</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>fel</w>, <lang>OE.</lang> <w>fell</w>, <gloss>skin, hide</gloss>.
+      <label>§ 37.</label> <c>e</c> (<lang>Lat.</lang> <c>e</c>, <lang>Gr.</lang> <c>ε</c>) remained, as
+      <lang>Lat.</lang> <w>ferō</w>, <lang>Gr.</lang> <w>φέρω</w>,<pb n="18"/><gloss>I bear</gloss>, <lang>O.Icel.</lang> <w>bera</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>beran</w>, <gloss>to bear</gloss>;
+      <lang>Lat.</lang> <w>edō</w>, <lang>Gr.</lang> <w>ἔδομαι</w>, <lang>Skr.</lang> <w>ádmi</w>, <gloss>I eat</gloss>, <lang>O.Icel</lang>. <w>eta</w>, <lang>OHG.</lang> <w>eȥȥan</w>, <lang>OS.</lang> <lang>OE.</lang> <w>etan</w>, <gloss>to eat</gloss>;
+      <lang>Lat.</lang> <w>pellis</w>, <lang>Gr.</lang> <w>πέλλα</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>fel</w>, <lang>OE.</lang> <w>fell</w>, <gloss>skin, hide</gloss>.
     </p>
   </div>
 
   <div type="section" n="38">
     <p>
-      <label>§ 38.</label> <c>i</c> (<lang>Lat.</lang> <c>i</c>, <lang>Gr.</lang> <c>ι</c>) remained, as <lang>Gr. Hom.</lang> <w>ϝίδμεν</w>, <lang>Skr.</lang> <w>vidmá</w>, <lang>Goth.</lang> <w>witum</w>, <lang>O.Icel.</lang> <w>vitum</w>, <lang>OS.</lang> <w>witun</w>, <lang>OHG.</lang> <w>wiȥȥum</w>, <lang>OE.</lang> <w>witon</w>, <gloss>we know</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>vidēre</w>, <gloss>to see</gloss>; <lang>Lat.</lang> <w>piscis</w>, <lang>Goth.</lang> <w>fisks</w>, <lang>O.Icel.</lang> <w>fiskr</w>, <lang>OS.</lang> <w>fisk</w>, <lang>OHG.</lang> <lang>OE.</lang> <w>fisc</w>, <gloss>fish</gloss>; <lang>Lat.</lang> <w>vidua</w> (<grm>adj. fem.</grm>), <gloss>bereft of, deprived of</gloss>, <lang>Goth.</lang> <w>widuwō</w>, <lang>OS.</lang> <w>widowa</w>, <lang>OHG.</lang> <w>wituwa</w>, <lang>OE.</lang> <w>widewe</w>, <gloss>widow</gloss>.
+      <label>§ 38.</label> <c>i</c> (<lang>Lat.</lang> <c>i</c>, <lang>Gr.</lang> <c>ι</c>) remained, as
+      <lang>Gr. Hom.</lang> <w>ϝίδμεν</w>, <lang>Skr.</lang> <w>vidmá</w>, <lang>Goth.</lang> <w>witum</w>, <lang>O.Icel.</lang> <w>vitum</w>, <lang>OS.</lang> <w>witun</w>, <lang>OHG.</lang> <w>wiȥȥum</w>, <lang>OE.</lang> <w>witon</w>, <gloss>we know</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>vidēre</w>, <gloss>to see</gloss>;
+      <lang>Lat.</lang> <w>piscis</w>, <lang>Goth.</lang> <w>fisks</w>, <lang>O.Icel.</lang> <w>fiskr</w>, <lang>OS.</lang> <w>fisk</w>, <lang>OHG.</lang> <lang>OE.</lang> <w>fisc</w>, <gloss>fish</gloss>;
+      <lang>Lat.</lang> <w>vidua</w> (<grm>adj. fem.</grm>), <gloss>bereft of, deprived of</gloss>, <lang>Goth.</lang> <w>widuwō</w>, <lang>OS.</lang> <w>widowa</w>, <lang>OHG.</lang> <w>wituwa</w>, <lang>OE.</lang> <w>widewe</w>, <gloss>widow</gloss>.
     </p>
   </div>
 
   <div type="section" n="39">
     <p>
-      <label>§ 39.</label> <c>o</c> (<lang>Lat.</lang> <c>o</c>, <lang>Gr.</lang> <c>ο</c>) became <c>a</c> in stem-syllables, as <lang>Lat.</lang> <w>octō</w>, <lang>Gr.</lang> <w>ὀκτώ</w>, <lang>Goth.</lang> <w>ahtáu</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>ahto</w>, <lang>OE.</lang> <w>eahta</w>, <gloss>eight</gloss>; <lang>Lat.</lang> <w>hostis</w>, <gloss>stranger, enemy</gloss>, <lang>Goth.</lang> <w>gasts</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>gast</w>, <lang>OE.</lang> <w>giest</w>, <gloss>guest</gloss>; <lang>Lat.</lang> <w>quod</w>, <lang>Goth.</lang> <w>ƕa</w>, <lang>O.Icel.</lang> <w>hvat</w>, <lang>OS.</lang> hwat, <lang>OHG.</lang> <w>hwaȥ</w>, <lang>OE.</lang> <w>hwæt</w>, <gloss>what</gloss>; <lang>Skr.</lang> <w>kás</w>, <gloss>who?</gloss>
+      <label>§ 39.</label> <c>o</c> (<lang>Lat.</lang> <c>o</c>, <lang>Gr.</lang> <c>ο</c>) became <c>a</c> in stem-syllables, as
+      <lang>Lat.</lang> <w>octō</w>, <lang>Gr.</lang> <w>ὀκτώ</w>, <lang>Goth.</lang> <w>ahtáu</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>ahto</w>, <lang>OE.</lang> <w>eahta</w>, <gloss>eight</gloss>;
+      <lang>Lat.</lang> <w>hostis</w>, <gloss>stranger, enemy</gloss>, <lang>Goth.</lang> <w>gasts</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>gast</w>, <lang>OE.</lang> <w>giest</w>, <gloss>guest</gloss>;
+      <lang>Lat.</lang> <w>quod</w>, <lang>Goth.</lang> <w>ƕa</w>, <lang>O.Icel.</lang> <w>hvat</w>, <lang>OS.</lang> hwat, <lang>OHG.</lang> <w>hwaȥ</w>, <lang>OE.</lang> <w>hwæt</w>, <gloss>what</gloss>;
+      <lang>Skr.</lang> <w>kás</w>, <gloss>who?</gloss>
     </p>
 
     <div type="note">
       <p>
-        <label>Note.—</label><c>o</c> remained later in unaccented syllables in <lang>prim. Germanic</lang> than in accented syllables, but became <c>a</c> in <lang>Gothic</lang>, as <w>baíram</w> = <lang>Gr. Doric</lang> <w>φέρομες</w>, <gloss>we bear</gloss>; <w>baírand</w> = <lang>Dor.</lang> <w>φέροντι</w>, <gloss>they bear</gloss>.
+        <label>Note.—</label><c>o</c> remained later in unaccented syllables in <lang>prim. Germanic</lang> than in accented syllables, but became <c>a</c> in <lang>Gothic</lang>, as
+        <w>baíram</w> = <lang>Gr. Doric</lang> <w>φέρομες</w>, <gloss>we bear</gloss>;
+        <w>baírand</w> = <lang>Dor.</lang> <w>φέροντι</w>, <gloss>they bear</gloss>.
       </p>
     </div>
   </div>
 
   <div type="section" n="40">
     <p>
-      <label>§ 40.</label> <c>u</c> (<lang>Lat.</lang> <c>u</c>, <lang>Gr.</lang> <c>υ</c>) remained, as <lang>Gr.</lang> <w>κυνός</w> (<grm>gen. sing.</grm>), <lang>Goth.</lang> <w>hunds</w>, <lang>O.Icel.</lang> <w>hundr</w>, <lang>OHG.</lang> <w>hunt</w>, <lang>OS.</lang> <lang>OE.</lang> <w>hund</w>, <gloss>dog, hound</gloss>; <lang>Gr.</lang> <w>θύρᾱ</w>, <lang>OS.</lang> <w>duri</w>, <lang>OHG.</lang> <w>turi</w>, <lang>OE.</lang> <w>duru</w>, <gloss>door</gloss>; <lang>Skr.</lang> <w>bu-budhimá</w>, <gloss>we watched</gloss>, <lang>Gr.</lang> <w>πέ-πυσται</w>, <gloss>he has inquired</gloss>, <lang>Goth.</lang> <w>budum</w>, <lang>O.Icel.</lang> <w>buðum</w>, <lang>OS.</lang> <w>budun</w>, <lang>OHG.</lang> <w>butum</w>, <lang>OE.</lang> <w>budon</w>, <gloss>we announced, offered</gloss>.
+      <label>§ 40.</label> <c>u</c> (<lang>Lat.</lang> <c>u</c>, <lang>Gr.</lang> <c>υ</c>) remained, as
+      <lang>Gr.</lang> <w>κυνός</w> (<grm>gen. sing.</grm>), <lang>Goth.</lang> <w>hunds</w>, <lang>O.Icel.</lang> <w>hundr</w>, <lang>OHG.</lang> <w>hunt</w>, <lang>OS.</lang> <lang>OE.</lang> <w>hund</w>, <gloss>dog, hound</gloss>;
+      <lang>Gr.</lang> <w>θύρᾱ</w>, <lang>OS.</lang> <w>duri</w>, <lang>OHG.</lang> <w>turi</w>, <lang>OE.</lang> <w>duru</w>, <gloss>door</gloss>;
+      <lang>Skr.</lang> <w>bu-budhimá</w>, <gloss>we watched</gloss>, <lang>Gr.</lang> <w>πέ-πυσται</w>, <gloss>he has inquired</gloss>, <lang>Goth.</lang> <w>budum</w>, <lang>O.Icel.</lang> <w>buðum</w>, <lang>OS.</lang> <w>budun</w>, <lang>OHG.</lang> <w>butum</w>, <lang>OE.</lang> <w>budon</w>, <gloss>we announced, offered</gloss>.
     </p>
   </div>
 
   <div type="section" n="41">
     <p>
-      <label>§ 41.</label> <c>ǝ</c> became <c>a</c> in all the Indo-Germanic languages, except in the Aryan branch, where it became <c>i</c>, as <lang>Lat.</lang> <w>pater</w>, <lang>Gr.</lang> <w>πατήρ</w>, <lang>O.Ir.</lang> <w>athir</w>, <lang>Goth.</lang> <w>fadar</w>, <lang>O.Icel.</lang> <w>faðir</w>, <lang>OS.</lang> <w>fader</w>, <lang>OHG.</lang> <w>fater</w>, <lang>OE.</lang> <w>fæder</w>, <gloss>father</gloss>, <lang>Skr.</lang> <w>pitár-</w> (from <w>*pətér-</w>), <gloss>father</gloss>; <lang>Lat.</lang> <w>status</w>, <lang>Gr.</lang> <w>στατός</w>, <lang>Skr.</lang> <w>sthitás</w>, <gloss>standing</gloss>, <lang>Goth.</lang> <w>staþs</w>, <lang>O.Icel.</lang> <w>staðr</w>, <lang>OS.</lang> <w>stad</w>, <lang>OHG.</lang> <w>stat</w>, <lang>OE.</lang> <w>stede</w>, <lang>prim. Germanic</lang> <w>*stađiz</w>, <gloss>place</gloss>.
+      <label>§ 41.</label> <c>ǝ</c> became <c>a</c> in all the Indo-Germanic languages, except in the Aryan branch, where it became <c>i</c>, as
+      <lang>Lat.</lang> <w>pater</w>, <lang>Gr.</lang> <w>πατήρ</w>, <lang>O.Ir.</lang> <w>athir</w>, <lang>Goth.</lang> <w>fadar</w>, <lang>O.Icel.</lang> <w>faðir</w>, <lang>OS.</lang> <w>fader</w>, <lang>OHG.</lang> <w>fater</w>, <lang>OE.</lang> <w>fæder</w>, <gloss>father</gloss>, <lang>Skr.</lang> <w>pitár-</w> (from <w>*pətér-</w>), <gloss>father</gloss>;
+      <lang>Lat.</lang> <w>status</w>, <lang>Gr.</lang> <w>στατός</w>, <lang>Skr.</lang> <w>sthitás</w>, <gloss>standing</gloss>, <lang>Goth.</lang> <w>staþs</w>, <lang>O.Icel.</lang> <w>staðr</w>, <lang>OS.</lang> <w>stad</w>, <lang>OHG.</lang> <w>stat</w>, <lang>OE.</lang> <w>stede</w>, <lang>prim. Germanic</lang> <w>*stađiz</w>, <gloss>place</gloss>.
     </p>
   </div>
 
   <div type="section" n="42">
     <p>
-      <label>§ 42.</label> <c>ā</c> (<lang>Lat.</lang> <c>ā</c>, <lang>Gr. Doric</lang> <c>ᾱ</c>, <lang>Attic</lang>, <lang>Ionic</lang> <c>η</c>) became <c>ō</c>, as<pb n="19"/><lang>Lat.</lang> <w>māter</w>, <lang>Gr. Dor.</lang> <w>μᾱ́τηρ</w>, <lang>O.Icel.</lang> <w>mōðir</w>, <lang>OS.</lang> <w>mōdar</w>, <lang>OHG.</lang> <w>muoter</w>, <lang>OE.</lang> <w>mōdor</w>, <gloss>mother</gloss>; <lang>Gr. Dor.</lang> <w>φρᾱ́τηρ</w>, <gloss>member of a clan</gloss>, <lang>Lat.</lang> <w>frāter</w>, <lang>Skr.</lang> <w>bhrā́tar-</w>, <lang>Goth.</lang> <w>brōþar</w>, <lang>O.Icel.</lang> <w>brōðir</w>, <lang>OS.</lang> <w>brōthar</w>, <lang>OHG.</lang> <w>bruoder</w>, <lang>OE.</lang> <w>brōþor</w>, <gloss>brother</gloss>; <lang>Lat.</lang> <w>fāgus</w>, <gloss>beech</gloss>, <lang>Gr. Dor.</lang> <w>φᾱγός</w>, <gloss>a kind of oak</gloss>, <lang>Goth.</lang> <w>bōka</w>, <gloss>letter of the alphabet</gloss>, <lang>O.Icel.</lang> <lang>OS.</lang> <w>bōk</w>, <gloss>book</gloss>, <lang>OE.</lang> <w>bōc-trēow</w>, <gloss>beech-tree</gloss>.
+      <label>§ 42.</label> <c>ā</c> (<lang>Lat.</lang> <c>ā</c>, <lang>Gr. Doric</lang> <c>ᾱ</c>, <lang>Attic</lang>, <lang>Ionic</lang> <c>η</c>) became <c>ō</c>, as
+      <pb n="19"/>
+      <lang>Lat.</lang> <w>māter</w>, <lang>Gr. Dor.</lang> <w>μᾱ́τηρ</w>, <lang>O.Icel.</lang> <w>mōðir</w>, <lang>OS.</lang> <w>mōdar</w>, <lang>OHG.</lang> <w>muoter</w>, <lang>OE.</lang> <w>mōdor</w>, <gloss>mother</gloss>;
+      <lang>Gr. Dor.</lang> <w>φρᾱ́τηρ</w>, <gloss>member of a clan</gloss>, <lang>Lat.</lang> <w>frāter</w>, <lang>Skr.</lang> <w>bhrā́tar-</w>, <lang>Goth.</lang> <w>brōþar</w>, <lang>O.Icel.</lang> <w>brōðir</w>, <lang>OS.</lang> <w>brōthar</w>, <lang>OHG.</lang> <w>bruoder</w>, <lang>OE.</lang> <w>brōþor</w>, <gloss>brother</gloss>;
+      <lang>Lat.</lang> <w>fāgus</w>, <gloss>beech</gloss>, <lang>Gr. Dor.</lang> <w>φᾱγός</w>, <gloss>a kind of oak</gloss>, <lang>Goth.</lang> <w>bōka</w>, <gloss>letter of the alphabet</gloss>, <lang>O.Icel.</lang> <lang>OS.</lang> <w>bōk</w>, <gloss>book</gloss>, <lang>OE.</lang> <w>bōc-trēow</w>, <gloss>beech-tree</gloss>.
     </p>
   </div>
 
   <div type="section" n="43">
     <p>
-      <label>§ 43.</label> <c>ē</c> (<lang>Lat.</lang> <c>ē</c>, <lang>Gr.</lang> <c>η</c>) remained, but it is generally written <c>ǣ</c> (= <lang>Goth.</lang> <c>ē</c>, <lang>O.Icel.</lang> <lang>OS.</lang> <lang>OHG.</lang> <c>ā</c>, <lang>OE.</lang> <c>ǣ</c>) in works on Germanic philology, as <lang>Lat.</lang> <w>ēdimus</w>, <lang>Skr.</lang> <w>ādmá</w>, <lang>Goth.</lang> <w>ētum</w>, <lang>O.Icel.</lang> <w>ātum</w>, <lang>OS.</lang> <w>ātun</w>, <lang>OHG.</lang> <w>āȥum</w>, <lang>OE.</lang> <w>ǣton</w>, <gloss>we ate</gloss>; <lang>Lat.</lang> <w>mēnsis</w>, <lang>Gr.</lang> <w>μήν</w>, <gloss>month</gloss>, <lang>Goth.</lang> <w>mēna</w>, <lang>O.Icel.</lang> <w>māne</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>māno</w>, <lang>OE.</lang> <w>mōna</w>, <gloss>moon</gloss>; <lang>Goth.</lang> <w>gadēþs</w>, <lang>O.Icel.</lang> <w>dāð</w>, <lang>OS.</lang> <w>dād</w>, <lang>OHG.</lang> <w>tāt</w>, <lang>OE.</lang> <w>dǣd</w>, <gloss>deed</gloss>, related to <lang>Gr.</lang> <w>θή-σω</w>, <gloss>I shall place</gloss>.
+      <label>§ 43.</label> <c>ē</c> (<lang>Lat.</lang> <c>ē</c>, <lang>Gr.</lang> <c>η</c>) remained, but it is generally written <c>ǣ</c> (= <lang>Goth.</lang> <c>ē</c>, <lang>O.Icel.</lang> <lang>OS.</lang> <lang>OHG.</lang> <c>ā</c>, <lang>OE.</lang> <c>ǣ</c>) in works on Germanic philology, as
+      <lang>Lat.</lang> <w>ēdimus</w>, <lang>Skr.</lang> <w>ādmá</w>, <lang>Goth.</lang> <w>ētum</w>, <lang>O.Icel.</lang> <w>ātum</w>, <lang>OS.</lang> <w>ātun</w>, <lang>OHG.</lang> <w>āȥum</w>, <lang>OE.</lang> <w>ǣton</w>, <gloss>we ate</gloss>;
+      <lang>Lat.</lang> <w>mēnsis</w>, <lang>Gr.</lang> <w>μήν</w>, <gloss>month</gloss>, <lang>Goth.</lang> <w>mēna</w>, <lang>O.Icel.</lang> <w>māne</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>māno</w>, <lang>OE.</lang> <w>mōna</w>, <gloss>moon</gloss>;
+      <lang>Goth.</lang> <w>gadēþs</w>, <lang>O.Icel.</lang> <w>dāð</w>, <lang>OS.</lang> <w>dād</w>, <lang>OHG.</lang> <w>tāt</w>, <lang>OE.</lang> <w>dǣd</w>, <gloss>deed</gloss>, related to <lang>Gr.</lang> <w>θή-σω</w>, <gloss>I shall place</gloss>.
     </p>
   </div>
 
   <div type="section" n="44">
     <p>
-      <label>§ 44.</label> <c>ī</c> (<lang>Lat.</lang> <c>ī</c>, <lang>Gr.</lang> <c>ῑ</c>) remained, as <lang>Lat.</lang> <w>su-īnus</w> (<grm>adj.</grm>), <gloss>belonging to a pig</gloss>, <lang>Goth.</lang> <w>swein</w>, <lang>O.Icel.</lang> <w>svīn</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>swīn</w>, <gloss>swine, pig</gloss>; <abbr>cp.</abbr> <lang>Skr.</lang> <w>nav-ī́nas</w>, <gloss>new</gloss>; <lang>Lat.</lang> <w>sīmus</w>, <lang>OS.</lang> <w>sīn</w>, <lang>OHG.</lang> <w>sīm</w>, <lang>OE.</lang> <w>sī-en</w>, <gloss>we may be</gloss>; <lang>Lat.</lang> <w>velīmus</w> = <lang>Goth.</lang> <w>wileima</w> (<ref>§ 343</ref>).
+      <label>§ 44.</label> <c>ī</c> (<lang>Lat.</lang> <c>ī</c>, <lang>Gr.</lang> <c>ῑ</c>) remained, as
+      <lang>Lat.</lang> <w>su-īnus</w> (<grm>adj.</grm>), <gloss>belonging to a pig</gloss>, <lang>Goth.</lang> <w>swein</w>, <lang>O.Icel.</lang> <w>svīn</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>swīn</w>, <gloss>swine, pig</gloss>;
+      <abbr>cp.</abbr> <lang>Skr.</lang> <w>nav-ī́nas</w>, <gloss>new</gloss>;
+      <lang>Lat.</lang> <w>sīmus</w>, <lang>OS.</lang> <w>sīn</w>, <lang>OHG.</lang> <w>sīm</w>, <lang>OE.</lang> <w>sī-en</w>, <gloss>we may be</gloss>;
+      <lang>Lat.</lang> <w>velīmus</w> = <lang>Goth.</lang> <w>wileima</w> (<ref>§ 343</ref>).
     </p>
   </div>
 
   <div type="section" n="45">
     <p>
-      <label>§ 45.</label> <c>ō</c> (<lang>Lat.</lang> <c>ō</c>, <lang>Gr.</lang> <c>ω</c>) remained, as <lang>Gr.</lang> <w>πλωτός</w>, <gloss>swimming</gloss>, <lang>Goth.</lang> <w>flōdus</w>, <lang>O.Icel.</lang> <w>flōð</w>, <lang>OHG.</lang> <w>fluot</w>, <lang>OS.</lang> <lang>OE.</lang> <w>flōd</w>, <gloss>flood, tide</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>plōrāre</w>, <gloss>to weep aloud</gloss>; <lang>Gr. Dor.</lang> <w>πώς</w>, <lang>Skr.</lang> <w>pā́t</w>, <lang>Goth.</lang> <w>fōtus</w>, <lang>O.Icel.</lang> <w>fōtr</w>, <lang>OHG.</lang> <w>fuoȥ</w>, <lang>OS.</lang> <lang>OE.</lang> <w>fōt</w>, <gloss>foot</gloss>; <lang>Goth.</lang> <w>dōms</w>, <lang>O.Icel.</lang> <w>dōmr</w>, <lang>OHG.</lang> <w>tuom</w>, <lang>OS.</lang> <lang>OE.</lang> <w>dōm</w>, <gloss>judgment, sentence</gloss>, related to <lang>Gr.</lang> <w>θωμός</w>, <gloss>heap</gloss>; <lang>Lat.</lang> <w>flōs</w>, <lang>Goth.</lang> <lang>OE.</lang> <w>blōma</w>, <lang>OS.</lang> <w>blōmo</w>, <lang>OHG.</lang> <w>bluoma</w>, <gloss>blossom, flower</gloss>.
+      <label>§ 45.</label> <c>ō</c> (<lang>Lat.</lang> <c>ō</c>, <lang>Gr.</lang> <c>ω</c>) remained, as
+      <lang>Gr.</lang> <w>πλωτός</w>, <gloss>swimming</gloss>, <lang>Goth.</lang> <w>flōdus</w>, <lang>O.Icel.</lang> <w>flōð</w>, <lang>OHG.</lang> <w>fluot</w>, <lang>OS.</lang> <lang>OE.</lang> <w>flōd</w>, <gloss>flood, tide</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>plōrāre</w>, <gloss>to weep aloud</gloss>;
+      <lang>Gr. Dor.</lang> <w>πώς</w>, <lang>Skr.</lang> <w>pā́t</w>, <lang>Goth.</lang> <w>fōtus</w>, <lang>O.Icel.</lang> <w>fōtr</w>, <lang>OHG.</lang> <w>fuoȥ</w>, <lang>OS.</lang> <lang>OE.</lang> <w>fōt</w>, <gloss>foot</gloss>;
+      <lang>Goth.</lang> <w>dōms</w>, <lang>O.Icel.</lang> <w>dōmr</w>, <lang>OHG.</lang> <w>tuom</w>, <lang>OS.</lang> <lang>OE.</lang> <w>dōm</w>, <gloss>judgment, sentence</gloss>, related to <lang>Gr.</lang> <w>θωμός</w>, <gloss>heap</gloss>;
+      <lang>Lat.</lang> <w>flōs</w>, <lang>Goth.</lang> <lang>OE.</lang> <w>blōma</w>, <lang>OS.</lang> <w>blōmo</w>, <lang>OHG.</lang> <w>bluoma</w>, <gloss>blossom, flower</gloss>.
     </p>
   </div>
 
   <div type="section" n="46">
     <p>
-      <label>§ 46.</label> <c>ū</c> (<lang>Lat.</lang> <c>ū</c>, <lang>Gr.</lang> <c>ῡ</c>) remained, as <lang>Lat.</lang> <w>mūs</w>, <lang>Gr.</lang> <w>μῦς</w>, <lang>Skr.</lang> <w>mūṣ̌-</w>, <lang>O.Icel.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>mūs</w>, <gloss>mouse</gloss>; <lang>Lat.</lang> <w>sūs</w>, <lang>Gr.</lang> <w>-ὗς</w>, <lang>OHG.</lang> <lang>OE.</lang> <w>sū</w>, <gloss>sow, pig</gloss>; <lang>Goth.</lang> <w>fūls</w>, <lang>O.Icel.</lang> <w>fūll</w>, <lang>OHG.</lang> <lang>OE.</lang> <w>fūl</w>, <gloss>foul</gloss>, related to <lang>Lat.</lang> <w>pūteō</w>, <gloss>I smell bad</gloss>, <lang>Gr.</lang> <w>πῡ́θω</w>, <gloss>I make to rot</gloss>.
+      <label>§ 46.</label> <c>ū</c> (<lang>Lat.</lang> <c>ū</c>, <lang>Gr.</lang> <c>ῡ</c>) remained, as
+      <lang>Lat.</lang> <w>mūs</w>, <lang>Gr.</lang> <w>μῦς</w>, <lang>Skr.</lang> <w>mūṣ̌-</w>, <lang>O.Icel.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>mūs</w>, <gloss>mouse</gloss>;
+      <lang>Lat.</lang> <w>sūs</w>, <lang>Gr.</lang> <w>-ὗς</w>, <lang>OHG.</lang> <lang>OE.</lang> <w>sū</w>, <gloss>sow, pig</gloss>;
+      <lang>Goth.</lang> <w>fūls</w>, <lang>O.Icel.</lang> <w>fūll</w>, <lang>OHG.</lang> <lang>OE.</lang> <w>fūl</w>, <gloss>foul</gloss>, related to <lang>Lat.</lang> <w>pūteō</w>, <gloss>I smell bad</gloss>, <lang>Gr.</lang> <w>πῡ́θω</w>, <gloss>I make to rot</gloss>.
     </p>
   </div>
 
   <div type="section" n="47">
     <p>
-      <label>§ 47.</label> <c>ai</c> (<lang>Lat.</lang> <c>ae</c> (<c>ē</c>), <lang>Gr.</lang> <c>αι</c>, <lang>Goth.</lang> <c>ái</c>, <lang>O.Icel.</lang> <c>ei</c>, <lang>OS.</lang> <c>ē</c>, <lang>OHG.</lang> <c>ei (ē)</c>, <lang>OE.</lang> <c>ā</c>) remained, as <lang>Lat.</lang> <w>aedēs</w>, <gloss>sanctuary</gloss>,<pb n="20"/>originally <gloss>fire-place, hearth</gloss>, <lang>Skr.</lang> <w>ḗdhas</w>, <gloss>firewood</gloss>, <lang>Gr.</lang> <w>αἴθω</w>, <gloss>I burn</gloss>, <lang>OHG.</lang> <w>eit</w>, <lang>OE.</lang> <w>ād</w>, <gloss>funeral pile, ignis, rogus</gloss>; <lang>Lat.</lang> <w>aes</w>, <lang>Goth.</lang> <w>áiz</w>, <lang>O.Icel.</lang> <w>eir</w>, <lang>OHG.</lang> <w>ēr</w>, <lang>OE.</lang> <w>ār</w>, <gloss>brass, metal, money</gloss>; <lang>Lat.</lang> <w>caedō</w>, <gloss>I hew, cut down</gloss>, <lang>Goth.</lang> <w>skáidan</w>, <lang>OS.</lang> <w>skēdan</w>, <w>skēđan</w>, <lang>OHG.</lang> <w>sceidan</w>, <lang>OE.</lang> <w>scādan</w>, <w>sceādan</w>, <gloss>to divide, sever</gloss>.
+      <label>§ 47.</label> <c>ai</c> (<lang>Lat.</lang> <c>ae</c> (<c>ē</c>), <lang>Gr.</lang> <c>αι</c>, <lang>Goth.</lang> <c>ái</c>, <lang>O.Icel.</lang> <c>ei</c>, <lang>OS.</lang> <c>ē</c>, <lang>OHG.</lang> <c>ei (ē)</c>, <lang>OE.</lang> <c>ā</c>) remained, as
+      <lang>Lat.</lang> <w>aedēs</w>, <gloss>sanctuary</gloss>,<pb n="20"/>originally <gloss>fire-place, hearth</gloss>, <lang>Skr.</lang> <w>ḗdhas</w>, <gloss>firewood</gloss>, <lang>Gr.</lang> <w>αἴθω</w>, <gloss>I burn</gloss>, <lang>OHG.</lang> <w>eit</w>, <lang>OE.</lang> <w>ād</w>, <gloss>funeral pile, ignis, rogus</gloss>;
+      <lang>Lat.</lang> <w>aes</w>, <lang>Goth.</lang> <w>áiz</w>, <lang>O.Icel.</lang> <w>eir</w>, <lang>OHG.</lang> <w>ēr</w>, <lang>OE.</lang> <w>ār</w>, <gloss>brass, metal, money</gloss>;
+      <lang>Lat.</lang> <w>caedō</w>, <gloss>I hew, cut down</gloss>, <lang>Goth.</lang> <w>skáidan</w>, <lang>OS.</lang> <w>skēdan</w>, <w>skēđan</w>, <lang>OHG.</lang> <w>sceidan</w>, <lang>OE.</lang> <w>scādan</w>, <w>sceādan</w>, <gloss>to divide, sever</gloss>.
     </p>
   </div>
 
   <div type="section" n="48">
     <p>
-      <label>§ 48.</label> <c></c>ei (<lang>Lat.</lang> <c>ī</c> (older <c>ei</c>), <lang>Gr.</lang> <c>ει</c>) became <c>ī</c>, as <lang>Gr.</lang> <w>στείχω</w>, I go, <lang>Goth.</lang> <w>steigan</w> (<c>ei</c> = <c>ī</c>), <lang>O.Icel.</lang> <w>stīga</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>stīgan</w>, <gloss>to ascend</gloss>; <lang>Gr.</lang> <w>λείπω</w>, <gloss>I leave</gloss>, <lang>Goth.</lang> <w>leiƕan</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>līhan</w>, <lang>OE.</lang> <w>lēon</w> from <w>*līohan</w>, older <w>*līhan</w>, <gloss>to lend</gloss>; <lang>Lat.</lang> <w>dīcō</w>, <gloss>I say, tell</gloss>, <lang>Gr.</lang> <w>δείκνῡμι</w>, <gloss>I show</gloss>, <lang>Goth.</lang> <w>ga-teihan</w>, <gloss>to tell, declare</gloss>, <lang>OS.</lang> <w>af-tīhan</w>, <gloss>to deny</gloss>, <lang>OHG.</lang> <w>zīhan</w>, <lang>OE.</lang> <w>tēon</w>, <gloss>to accuse</gloss>; <lang>Skr.</lang> <w>bhḗdati</w>, <gloss>he splits</gloss>, <lang>Goth.</lang> <w>beitan</w>, <lang>OE.</lang> <lang>OS.</lang> <w>bītan</w>, <lang>OHG.</lang> <w>bīȥȥan</w>, <gloss>to bite</gloss>.
+      <label>§ 48.</label> <c></c>ei (<lang>Lat.</lang> <c>ī</c> (older <c>ei</c>), <lang>Gr.</lang> <c>ει</c>) became <c>ī</c>, as
+      <lang>Gr.</lang> <w>στείχω</w>, I go, <lang>Goth.</lang> <w>steigan</w> (<c>ei</c> = <c>ī</c>), <lang>O.Icel.</lang> <w>stīga</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>stīgan</w>, <gloss>to ascend</gloss>;
+      <lang>Gr.</lang> <w>λείπω</w>, <gloss>I leave</gloss>, <lang>Goth.</lang> <w>leiƕan</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>līhan</w>, <lang>OE.</lang> <w>lēon</w> from <w>*līohan</w>, older <w>*līhan</w>, <gloss>to lend</gloss>;
+      <lang>Lat.</lang> <w>dīcō</w>, <gloss>I say, tell</gloss>, <lang>Gr.</lang> <w>δείκνῡμι</w>, <gloss>I show</gloss>, <lang>Goth.</lang> <w>ga-teihan</w>, <gloss>to tell, declare</gloss>, <lang>OS.</lang> <w>af-tīhan</w>, <gloss>to deny</gloss>, <lang>OHG.</lang> <w>zīhan</w>, <lang>OE.</lang> <w>tēon</w>, <gloss>to accuse</gloss>;
+      <lang>Skr.</lang> <w>bhḗdati</w>, <gloss>he splits</gloss>, <lang>Goth.</lang> <w>beitan</w>, <lang>OE.</lang> <lang>OS.</lang> <w>bītan</w>, <lang>OHG.</lang> <w>bīȥȥan</w>, <gloss>to bite</gloss>.
     </p>
   </div>
 
   <div type="section" n="49">
     <p>
-      <label>§ 49.</label> <c>oi</c> (<lang>O.Lat.</lang> <c>oi</c> (later <c>ū</c>), <lang>Gr.</lang> <c>οι</c>) became <c>ai</c> (<abbr>cp.</abbr> <ref>§ 39</ref>), as <lang>Gr.</lang> <w>οἶδε</w>, <lang>Skr.</lang> <w>vḗda</w>, <lang>Goth.</lang> <w>wáit</w>, <lang>O.Icel.</lang> <w>veit</w>, <lang>OS.</lang> <w>wēt</w>, <lang>OHG.</lang> <w>weiȥ</w>, <lang>OE.</lang> <w>wāt</w>, <gloss>he knows</gloss>; <lang>O.Lat.</lang> <w>oinos</w>, later <w>ūnus</w>, <lang>Goth.</lang> <w>áins</w>, <lang>O.Icel.</lang> <w>einn</w>, <lang>OS.</lang> <w>ēn</w>, <lang>OHG.</lang> <w>ein</w>, <lang>OE.</lang> <w>ān</w>, <gloss>one</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>οἰνή</w>, <gloss>the one on dice</gloss>; <lang>Gr.</lang> <w>πέ-ποιθε</w>, <gloss>he trusts</gloss>, <lang>Goth.</lang> <w>báiþ</w>, <lang>O.Icel.</lang> <w>beið</w>, <lang>OS.</lang> <w>bēd</w>, <lang>OHG.</lang> <w>beit</w>, <lang>OE.</lang> <w>bād</w>, <gloss>he waited for</gloss>; <lang>Gr.</lang> <w>τοί</w> = <lang>Goth.</lang> <w>þái</w> (<ref>§ 265</ref>).
+      <label>§ 49.</label> <c>oi</c> (<lang>O.Lat.</lang> <c>oi</c> (later <c>ū</c>), <lang>Gr.</lang> <c>οι</c>) became <c>ai</c> (<abbr>cp.</abbr> <ref>§ 39</ref>), as
+      <lang>Gr.</lang> <w>οἶδε</w>, <lang>Skr.</lang> <w>vḗda</w>, <lang>Goth.</lang> <w>wáit</w>, <lang>O.Icel.</lang> <w>veit</w>, <lang>OS.</lang> <w>wēt</w>, <lang>OHG.</lang> <w>weiȥ</w>, <lang>OE.</lang> <w>wāt</w>, <gloss>he knows</gloss>;
+      <lang>O.Lat.</lang> <w>oinos</w>, later <w>ūnus</w>, <lang>Goth.</lang> <w>áins</w>, <lang>O.Icel.</lang> <w>einn</w>, <lang>OS.</lang> <w>ēn</w>, <lang>OHG.</lang> <w>ein</w>, <lang>OE.</lang> <w>ān</w>, <gloss>one</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>οἰνή</w>, <gloss>the one on dice</gloss>;
+      <lang>Gr.</lang> <w>πέ-ποιθε</w>, <gloss>he trusts</gloss>, <lang>Goth.</lang> <w>báiþ</w>, <lang>O.Icel.</lang> <w>beið</w>, <lang>OS.</lang> <w>bēd</w>, <lang>OHG.</lang> <w>beit</w>, <lang>OE.</lang> <w>bād</w>, <gloss>he waited for</gloss>;
+      <lang>Gr.</lang> <w>τοί</w> = <lang>Goth.</lang> <w>þái</w> (<ref>§ 265</ref>).
     </p>
   </div>
 
   <div type="section" n="50">
     <p>
-      <label>§ 50.</label> <c>au</c> (<lang>Lat.</lang> <c>au</c>, <lang>Gr.</lang> <c>αυ</c>, <lang>Goth.</lang> <c>áu</c>, <lang>O.Icel.</lang> <c>au</c>, <lang>OS.</lang> <c>ō</c>, <lang>OHG.</lang> <c>ou</c> (<c>ō</c>), <lang>OE.</lang> <c>ēa</c>) remained, as <lang>Lat.</lang> <w>auris</w>, <lang>Goth.</lang> <w>áusō</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>ōra</w>, <lang>OE.</lang> <w>ēare</w>, <gloss>ear</gloss>; <lang>Lat.</lang> <w>augeō</w>, <lang>Gr.</lang> <w>αὐξάνω</w>, <gloss>I increase</gloss>, <lang>Goth.</lang> <w>áukan</w>, <lang>O.Icel.</lang> <w>auka</w>, <lang>OS.</lang> <w>ōkian</w>, <lang>OHG.</lang> <w>ouhhōn</w>, <lang>OE.</lang> <w>ēacian</w>, <gloss>to add, increase</gloss>; <abbr>cp.</abbr> <lang>Skr.</lang> <w>ṓjas-</w>, <gloss>strength</gloss>.
+      <label>§ 50.</label> <c>au</c> (<lang>Lat.</lang> <c>au</c>, <lang>Gr.</lang> <c>αυ</c>, <lang>Goth.</lang> <c>áu</c>, <lang>O.Icel.</lang> <c>au</c>, <lang>OS.</lang> <c>ō</c>, <lang>OHG.</lang> <c>ou</c> (<c>ō</c>), <lang>OE.</lang> <c>ēa</c>) remained, as
+      <lang>Lat.</lang> <w>auris</w>, <lang>Goth.</lang> <w>áusō</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>ōra</w>, <lang>OE.</lang> <w>ēare</w>, <gloss>ear</gloss>;
+      <lang>Lat.</lang> <w>augeō</w>, <lang>Gr.</lang> <w>αὐξάνω</w>, <gloss>I increase</gloss>, <lang>Goth.</lang> <w>áukan</w>, <lang>O.Icel.</lang> <w>auka</w>, <lang>OS.</lang> <w>ōkian</w>, <lang>OHG.</lang> <w>ouhhōn</w>, <lang>OE.</lang> <w>ēacian</w>, <gloss>to add, increase</gloss>;
+      <abbr>cp.</abbr> <lang>Skr.</lang> <w>ṓjas-</w>, <gloss>strength</gloss>.
     </p>
   </div>
 
   <div type="section" n="51">
     <p>
-      <label>§ 51.</label> <c>eu</c> (<lang>Lat.</lang> <c>ou</c> (later <c>ū</c>), <lang>Gr.</lang> <c>ευ</c>, <lang>Goth.</lang> <c>iu</c>, <lang>O.Icel.</lang> <c>jō</c> (<c>jū</c>), <lang>OS.</lang> <lang>OHG.</lang> <c>io</c>, <lang>OE.</lang> <c>ēo</c>) remained, as <lang>Gr.</lang> <w>γεύω</w>, <gloss>I give a taste of</gloss>, <lang>Goth.</lang> <w>kiusan</w>, <lang>O.Icel.</lang> <w>kjōsa</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>kiosan</w>, <lang>OE.</lang> <w>cēosan</w>, <gloss>to test, choose</gloss>; <lang>Gr.</lang> <w>πεύθομαι</w>, <gloss>I inquire</gloss>, <lang>Skr.</lang> <w>bṓdhati</w>, <gloss>he is awake, learns</gloss>, <lang>Goth.</lang> <w>ana-biudan</w>, <gloss>to order, command</gloss>, <lang>O.Icel.</lang> <w>bjōða</w>, <lang>OS.</lang> <w>biodan</w>, <lang>OHG.</lang> <w>biotan</w>, <lang>OE.</lang> <w>bēodan</w>, <gloss>to offer</gloss>; <lang>Lat.</lang> <w>doucō</w> (<w>dūcō</w>), <gloss>I lead</gloss>, <lang>Goth.</lang> <w>tiuhan</w>, <lang>OS.</lang> <w>tiohan</w>, <lang>OHG.</lang> <w>ziohan</w>, <gloss>to lead</gloss>, <gloss>draw</gloss>. See <ref>§ 63</ref>.
+      <label>§ 51.</label> <c>eu</c> (<lang>Lat.</lang> <c>ou</c> (later <c>ū</c>), <lang>Gr.</lang> <c>ευ</c>, <lang>Goth.</lang> <c>iu</c>, <lang>O.Icel.</lang> <c>jō</c> (<c>jū</c>), <lang>OS.</lang> <lang>OHG.</lang> <c>io</c>, <lang>OE.</lang> <c>ēo</c>) remained, as
+      <lang>Gr.</lang> <w>γεύω</w>, <gloss>I give a taste of</gloss>, <lang>Goth.</lang> <w>kiusan</w>, <lang>O.Icel.</lang> <w>kjōsa</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>kiosan</w>, <lang>OE.</lang> <w>cēosan</w>, <gloss>to test, choose</gloss>;
+      <lang>Gr.</lang> <w>πεύθομαι</w>, <gloss>I inquire</gloss>, <lang>Skr.</lang> <w>bṓdhati</w>, <gloss>he is awake, learns</gloss>, <lang>Goth.</lang> <w>ana-biudan</w>, <gloss>to order, command</gloss>, <lang>O.Icel.</lang> <w>bjōða</w>, <lang>OS.</lang> <w>biodan</w>, <lang>OHG.</lang> <w>biotan</w>, <lang>OE.</lang> <w>bēodan</w>, <gloss>to offer</gloss>;
+      <lang>Lat.</lang> <w>doucō</w> (<w>dūcō</w>), <gloss>I lead</gloss>, <lang>Goth.</lang> <w>tiuhan</w>, <lang>OS.</lang> <w>tiohan</w>, <lang>OHG.</lang> <w>ziohan</w>, <gloss>to lead</gloss>, <gloss>draw</gloss>. See <ref>§ 63</ref>.
     </p>
   </div>
   <pb n="21"/>
   <div type="section" n="52">
     <p>
-      <label>§ 52.</label> <c>ou</c> (<lang>Lat.</lang> <c>ou</c> (later <c>ū</c>), <lang>Gr.</lang> <c>ου</c>) became <c>au</c> (cp. <ref>§ 39</ref>), as <lang>prim. Indg.</lang> <w>*roudhos</w>, <lang>Goth.</lang> <w>ráuþs</w>, <lang>O.Icel.</lang> <w>rauðr</w>, <lang>OS.</lang> <w>rōd</w>, <lang>OHG.</lang> <w>rōt</w>, <lang>OE.</lang> <w>rēad</w>, <gloss>red</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>rūfus</w>, <gloss>red</gloss>; <lang>prim. Indg.</lang> <w>*bhe-bhoudhe</w>, <lang>Skr.</lang> <w>bubṓdha</w>, <gloss>has waked</gloss>, <lang>Goth.</lang> <w>báuþ</w>, <lang>O.Icel.</lang> <w>bauð</w>, <lang>OS.</lang> <w>bōd</w>, <lang>OHG.</lang> <w>bōt</w>, <lang>OE.</lang> <w>bēad</w>, <gloss>has offered</gloss>.
+      <label>§ 52.</label> <c>ou</c> (<lang>Lat.</lang> <c>ou</c> (later <c>ū</c>), <lang>Gr.</lang> <c>ου</c>) became <c>au</c> (cp. <ref>§ 39</ref>), as
+      <lang>prim. Indg.</lang> <w>*roudhos</w>, <lang>Goth.</lang> <w>ráuþs</w>, <lang>O.Icel.</lang> <w>rauðr</w>, <lang>OS.</lang> <w>rōd</w>, <lang>OHG.</lang> <w>rōt</w>, <lang>OE.</lang> <w>rēad</w>, <gloss>red</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>rūfus</w>, <gloss>red</gloss>;
+      <lang>prim. Indg.</lang> <w>*bhe-bhoudhe</w>, <lang>Skr.</lang> <w>bubṓdha</w>, <gloss>has waked</gloss>, <lang>Goth.</lang> <w>báuþ</w>, <lang>O.Icel.</lang> <w>bauð</w>, <lang>OS.</lang> <w>bōd</w>, <lang>OHG.</lang> <w>bōt</w>, <lang>OE.</lang> <w>bēad</w>, <gloss>has offered</gloss>.
     </p>
   </div>
 
   <div type="section" n="53">
     <p>
-      <label>§ 53.</label> <c>m</c> (<lang>Lat.</lang> <c>em</c>, <lang>Gr.</lang> <c>α</c>, <c>αμ</c>) became <c>um</c>, as <lang>Gr.</lang> <m>ἁμο-</m> (in <w>ἀμόθεν</w>, <gloss>from some place or other</gloss>), <lang>Goth.</lang> <w>sums</w>, <lang>O.Icel.</lang> <w>sumr</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>sum</w>, <gloss>some one</gloss>; <lang>Gr.</lang> <w>ἑκατόν</w>, <lang>Lat.</lang> <w>centum</w> (with <c>n</c> from <c>m</c> by assimilation, and similarly in the Germanic languages), <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>hund</w>, <lang>OHG.</lang> <w>hunt</w>, <gloss>hundred</gloss>, all from a <abbr>prim.</abbr> form <w>*kmtóm</w>.
+      <label>§ 53.</label> <c>m</c> (<lang>Lat.</lang> <c>em</c>, <lang>Gr.</lang> <c>α</c>, <c>αμ</c>) became <c>um</c>, as
+      <lang>Gr.</lang> <m>ἁμο-</m> (in <w>ἀμόθεν</w>, <gloss>from some place or other</gloss>), <lang>Goth.</lang> <w>sums</w>, <lang>O.Icel.</lang> <w>sumr</w>, <lang>OS.</lang> <lang>OHG.</lang> <lang>OE.</lang> <w>sum</w>, <gloss>some one</gloss>;
+      <lang>Gr.</lang> <w>ἑκατόν</w>, <lang>Lat.</lang> <w>centum</w> (with <c>n</c> from <c>m</c> by assimilation, and similarly in the Germanic languages), <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>hund</w>, <lang>OHG.</lang> <w>hunt</w>, <gloss>hundred</gloss>, all from a <abbr>prim.</abbr> form <w>*kmtóm</w>.
     </p>
   </div>
 
   <div type="section" n="54">
     <p>
-      <label>§ 54.</label> <c>n</c> (<lang>Lat.</lang> <c>en</c>, <lang>Gr.</lang> <c>α</c>, <c>αν</c>) became <c>un</c>, as <lang>Lat.</lang> <w>commentus</w> (<grm>pp.</grm>), <gloss>invented, devised</gloss>, <lang>Gr.</lang> <w>αὐτό-ματος</w>, <gloss>acting of one’s own will</gloss>, <lang>Goth.</lang> <w>ga-munds</w>, <lang>OHG.</lang> <w>gi-munt</w>, <lang>OE.</lang> <w>ge-mynd</w>, <gloss>remembrance</gloss>, <abbr>prim.</abbr> form <w>*mntós</w> (<grm>pp.</grm>) from root <m>men-</m>, <gloss>think</gloss>; <lang>OS.</lang> <w>wundar</w>, <lang>OHG.</lang> <w>wuntar</w>, <lang>OE.</lang> <w>wundor</w>, <gloss>wonder</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>ἀθρέω</w> from <w>*ϝαθρέω</w>, <gloss>I gaze at</gloss>.
+      <label>§ 54.</label> <c>n</c> (<lang>Lat.</lang> <c>en</c>, <lang>Gr.</lang> <c>α</c>, <c>αν</c>) became <c>un</c>, as
+      <lang>Lat.</lang> <w>commentus</w> (<grm>pp.</grm>), <gloss>invented, devised</gloss>, <lang>Gr.</lang> <w>αὐτό-ματος</w>, <gloss>acting of one’s own will</gloss>, <lang>Goth.</lang> <w>ga-munds</w>, <lang>OHG.</lang> <w>gi-munt</w>, <lang>OE.</lang> <w>ge-mynd</w>, <gloss>remembrance</gloss>, <abbr>prim.</abbr> form <w>*mntós</w> (<grm>pp.</grm>) from root <m>men-</m>, <gloss>think</gloss>;
+      <lang>OS.</lang> <w>wundar</w>, <lang>OHG.</lang> <w>wuntar</w>, <lang>OE.</lang> <w>wundor</w>, <gloss>wonder</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>ἀθρέω</w> from <w>*ϝαθρέω</w>, <gloss>I gaze at</gloss>.
     </p>
   </div>
 
   <div type="section" n="55">
     <p>
-      <label>§ 55.</label> <c>r</c> (<lang>Lat.</lang> <c>or</c>, <lang>Gr.</lang> <c>αρ</c>, <c>ρα</c>) became <c>ur</c>, <c>ru</c>, as <lang>OHG.</lang> <w>gi-turrum</w>, <lang>OE.</lang> <w>durron</w>, <gloss>we dare</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>θαρσύς</w> (<w>θρασύς</w>), <gloss>bold</gloss>, <w>θαρσέω</w>, <gloss>I am of good courage</gloss>; <grm>dat. pl.</grm> <lang>Gr.</lang> <w>πατράσι</w>, <lang>Goth.</lang> <w>fadrum</w>, <lang>OHG.</lang> <w>faterum</w>, <lang>OE.</lang> <w>fæd(e)rum</w>, <gloss>to fathers</gloss>; <lang>Lat.</lang> <w>porca</w>, <gloss>the ridge between two furrows</gloss>, <lang>OHG.</lang> <w>furuh</w>, <lang>OE.</lang> <w>furh</w>, <gloss>furrow</gloss>.
+      <label>§ 55.</label> <c>r</c> (<lang>Lat.</lang> <c>or</c>, <lang>Gr.</lang> <c>αρ</c>, <c>ρα</c>) became <c>ur</c>, <c>ru</c>, as
+      <lang>OHG.</lang> <w>gi-turrum</w>, <lang>OE.</lang> <w>durron</w>, <gloss>we dare</gloss>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>θαρσύς</w> (<w>θρασύς</w>), <gloss>bold</gloss>, <w>θαρσέω</w>, <gloss>I am of good courage</gloss>;
+      <grm>dat. pl.</grm> <lang>Gr.</lang> <w>πατράσι</w>, <lang>Goth.</lang> <w>fadrum</w>, <lang>OHG.</lang> <w>faterum</w>, <lang>OE.</lang> <w>fæd(e)rum</w>, <gloss>to fathers</gloss>;
+      <lang>Lat.</lang> <w>porca</w>, <gloss>the ridge between two furrows</gloss>, <lang>OHG.</lang> <w>furuh</w>, <lang>OE.</lang> <w>furh</w>, <gloss>furrow</gloss>.
     </p>
   </div>
 
   <div type="section" n="56">
     <p>
-      <label>§ 56.</label> <c>l</c> (<lang>Lat.</lang> <c>ol</c>, <lang>Gr.</lang> <c>αλ</c>, <c>λα</c>) became <c>ul</c>, <c>lu</c>, as <lang>Goth.</lang> <w>fulls</w>, <lang>O.Icel.</lang> <w>fullr</w>, <lang>OHG.</lang> <w>vol</w>, <lang>OS.</lang> <lang>OE.</lang> <w>full</w>, <abbr>prim.</abbr> form <w>*plnós</w>, <gloss>full</gloss>; <lang>Goth.</lang> <w>wulfs</w>, <lang>O.Icel.</lang> <w>ulfr</w>, <lang>OHG.</lang> <w>wolf</w>, <lang>OS.</lang> <lang>OE.</lang> <w>wulf</w>, <abbr>prim.</abbr> form <w>*wlqos</w>, <gloss>wolf</gloss>.
+      <label>§ 56.</label> <c>l</c> (<lang>Lat.</lang> <c>ol</c>, <lang>Gr.</lang> <c>αλ</c>, <c>λα</c>) became <c>ul</c>, <c>lu</c>, as
+      <lang>Goth.</lang> <w>fulls</w>, <lang>O.Icel.</lang> <w>fullr</w>, <lang>OHG.</lang> <w>vol</w>, <lang>OS.</lang> <lang>OE.</lang> <w>full</w>, <abbr>prim.</abbr> form <w>*plnós</w>, <gloss>full</gloss>;
+      <lang>Goth.</lang> <w>wulfs</w>, <lang>O.Icel.</lang> <w>ulfr</w>, <lang>OHG.</lang> <w>wolf</w>, <lang>OS.</lang> <lang>OE.</lang> <w>wulf</w>, <abbr>prim.</abbr> form <w>*wlqos</w>, <gloss>wolf</gloss>.
     </p>
 
     <div type="note">
       <list>
-        <item>
+        <item n="1">
           <p>
-            <label>Note.—</label>1. If we summarize the vowel-changes which have been stated in this chapter, it will be seen that the following vowel-sounds fell together:—<c>a</c>, <c>o</c>, and <c>ə</c>; original <c>u</c> and the <c>u</c> which arose from <lang>Indg.</lang> vocalic <c>l</c>, <c>m</c>, <c>n</c>, <c>r</c>; <c>ī</c> and <c>ei</c>; <c>ā</c> and <c>ō</c>; <c>ai</c> and <c>oi</c>; <c>au</c> and <c>ou</c>.
+            <label>Note.—</label>1. If we summarize the vowel-changes which have been stated in this chapter, it will be seen that the following vowel-sounds fell together:—<c>a</c>, <c>o</c>, and <c>ə</c>;
+            original <c>u</c> and the <c>u</c> which arose from <lang>Indg.</lang> vocalic <c>l</c>, <c>m</c>, <c>n</c>, <c>r</c>;
+            <c>ī</c> and <c>ei</c>;
+             <c>ā</c> and <c>ō</c>;
+             <c>ai</c> and <c>oi</c>;
+             <c>au</c> and <c>ou</c>.
           </p>
         </item>
-        <item>
+        <item n="2">
           <p>
-            2. As we shall sometimes have occasion to use examples from <lang>Sanskrit</lang>, it may be well to note that <lang>Indg.</lang> <c>ī̌</c>, <c>ū̌</c> remained in this language, but that the following vowel-sounds fell together, <abbr>viz.</abbr> <c>a</c>, <c>e</c>, <c>o</c> in <c>a</c>; <c>i</c>, <c>ə</c> in <c>i</c>; <c>ā</c>, <c>ē</c>, <c>ō</c> in <c>ā</c>; tautosyllabic <c>ai</c>, <c>ei</c>, <c>oi</c>, in <c>ē</c>; and tautosyllabic <c>au</c>, <c>eu</c>, <c>ou</c> in <c>ō</c>.
+            2. As we shall sometimes have occasion to use examples from <lang>Sanskrit</lang>, it may be well to note that <lang>Indg.</lang> <c>ī̌</c>, <c>ū̌</c> remained in this language, but that the following vowel-sounds fell together, <abbr>viz.</abbr> <c>a</c>, <c>e</c>, <c>o</c> in <c>a</c>;
+            <c>i</c>, <c>ə</c> in <c>i</c>;
+            <c>ā</c>, <c>ē</c>, <c>ō</c> in <c>ā</c>;
+            tautosyllabic <c>ai</c>, <c>ei</c>, <c>oi</c>, in <c>ē</c>;
+            and tautosyllabic <c>au</c>, <c>eu</c>, <c>ou</c> in <c>ō</c>.
           </p>
         </item>
       </list>
