@@ -162,3 +162,12 @@ div.verse > span.pb > span {
   /* a bit of a hack */
   padding-right: 4.5em;
 }
+
+/* for glossary */
+div.entry {
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+div.entry .grm {
+  font-style: italic;
+}
