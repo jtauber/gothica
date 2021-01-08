@@ -28,21 +28,21 @@ But once this is done, not only can I produce a nice HTML version:
 * **markup 2** refers to the TEI-like semantic markup of languages, words, references, etc.
 * **html** refers to an initial HTML render designed to mimic the print edition
 
-| chapter | markup 1              | markup 2              | html                   |
-|---------|-----------------------|-----------------------|------------------------|
-| I       | in progress           |                       |                        |
-| II      | superseded            | [link](chapter02.xml) | [link](chapter02.html) |
-| III     | superseded            | [link](chapter03.xml) | [link](chapter03.html) |
-| IV      | superseded            | [link](chapter04.xml) | [link](chapter04.html) |
-| V       | superseded            | [link](chapter05.xml) | [link](chapter05.html) |
-| VI      | superseded            | [link](chapter06.xml) | [link](chapter06.html) |
-| VII     | superseded            | [link](chapter07.xml) | [link](chapter07.html) |
-| VIII    | [link](chapter08.xml) |                       |                        |
-| IX      | [link](chapter09.xml) |                       |                        |
-| X       | [link](chapter10.xml) |                       |                        |
-| XI      | in progress           |                       |                        |
-| XII     | in progress           |                       |                        |
-| XIII    | in progress           |                       |                        |
-| XIV     | superseded            | [link](chapter14.xml) | [link](chapter14.html) |
-| XV      | [link](chapter15.xml) |                       |                        |
-| XVI     | [link](chapter16.xml) |                       |                        |
+| chapter | markup 1              | markup 2              | html                        |
+|---------|-----------------------|-----------------------|-----------------------------|
+| I       | in progress           |                       |                             |
+| II      | superseded            | [link](chapter02.xml) | [link](html/chapter02.html) |
+| III     | superseded            | [link](chapter03.xml) | [link](html/chapter03.html) |
+| IV      | superseded            | [link](chapter04.xml) | [link](html/chapter04.html) |
+| V       | superseded            | [link](chapter05.xml) | [link](html/chapter05.html) |
+| VI      | superseded            | [link](chapter06.xml) | [link](html/chapter06.html) |
+| VII     | superseded            | [link](chapter07.xml) | [link](html/chapter07.html) |
+| VIII    | [link](chapter08.xml) |                       |                             |
+| IX      | [link](chapter09.xml) |                       |                             |
+| X       | [link](chapter10.xml) |                       |                             |
+| XI      | in progress           |                       |                             |
+| XII     | in progress           |                       |                             |
+| XIII    | in progress           |                       |                             |
+| XIV     | superseded            | [link](chapter14.xml) | [link](html/chapter14.html) |
+| XV      | [link](chapter15.xml) |                       |                             |
+| XVI     | [link](chapter16.xml) |                       |                             |
