@@ -30,7 +30,7 @@ But once this is done, not only can I produce a nice HTML version:
 
 | chapter | markup 1              | markup 2              | html                        |
 |---------|-----------------------|-----------------------|-----------------------------|
-| I       | in progress           |                       |                             |
+| I       | [link](chapter01.xml) |                       |                             |
 | II      | superseded            | [link](chapter02.xml) | [link](html/chapter02.html) |
 | III     | superseded            | [link](chapter03.xml) | [link](html/chapter03.html) |
 | IV      | superseded            | [link](chapter04.xml) | [link](html/chapter04.html) |
