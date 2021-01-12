@@ -1,199 +1,200 @@
 <div type="chapter" n="1">
   <pb n="4"/>
   <head>CHAPTER I</head>
-  <head>ALPHABET AND PRONUNCIATION</head>
+  <head>ALPHABET AND PRONUNCIATION.</head>
 
   <div type="section" n="2">
     <p>
-      § 2. The Gothic monuments, as handed down to us, are written in a peculiar alphabet which, according to the Greek ecclesiastical historians Philostorgios and Sokrates, was invented by Ulfilas. But Wimmer<footnote>Wimmer, ‘Die Runenschrift,’ Berlin, 1887; pp. 259–74.</footnote> and others have clearly shown that Ulfilas simply took the Greek uncial alphabet as the basis for his, and that in cases where this was insufficient for his purpose he had recourse to the Latin and runic alphabets. The alphabetic sequence of the letters can be determined with certainty from the numerical values, which agree as nearly as possible with those of the Greek. Below are given the Gothic characters in the first line, in the second line their numerical values, and in the third line their transliteration in Roman characters.
+      <label>§ 2.</label>
+      The <lang>Gothic</lang> monuments, as handed down to us, are written in a peculiar alphabet which, according to the Greek ecclesiastical historians Philostorgios and Sokrates, was invented by Ulfilas. But Wimmer<footnote>Wimmer, ‘Die Runenschrift,’ Berlin, 1887; pp. 259–74.</footnote> and others have clearly shown that Ulfilas simply took the <lang>Greek</lang> uncial alphabet as the basis for his, and that in cases where this was insufficient for his purpose he had recourse to the <lang>Latin</lang> and runic alphabets. The alphabetic sequence of the letters can be determined with certainty from the numerical values, which agree as nearly as possible with those of the <lang>Greek</lang>. Below are given the <lang>Gothic</lang> characters in the first line, in the second line their numerical values, and in the third line their transliteration in Roman characters.
     </p>
 
     <list rend="inline-block">
       <item>
         <list rend="block center">
-          <item>𐌰</item>
+          <item><c>𐌰</c></item>
           <item>1</item>
-          <item>a</item>
+          <item><c>a</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌱</item>
+          <item><c>𐌱</c></item>
           <item>2</item>
-          <item>b</item>
+          <item><c>b</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌲</item>
+          <item><c>𐌲</c></item>
           <item>3</item>
-          <item>g</item>
+          <item><c>g</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌳</item>
+          <item><c>𐌳</c></item>
           <item>4</item>
-          <item>d</item>
+          <item><c>d</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌴</item>
+          <item><c>𐌴</c></item>
           <item>5</item>
-          <item>e</item>
+          <item><c>e</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌵</item>
+          <item><c>𐌵</c></item>
           <item>6</item>
-          <item>q</item>
+          <item><c>q</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌶</item>
+          <item><c>𐌶</c></item>
           <item>7</item>
-          <item>z</item>
+          <item><c>z</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌷</item>
+          <item><c>𐌷</c></item>
           <item>8</item>
-          <item>h</item>
+          <item><c>h</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌸</item>
+          <item><c>𐌸</c></item>
           <item>9</item>
-          <item>þ</item>
+          <item><c>þ</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌹</item>
+          <item><c>𐌹̈</c> <c>𐌹</c></item>
           <item>10</item>
-          <item>i</item>
+          <item><c>i</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌺</item>
+          <item><c>𐌺</c></item>
           <item>20</item>
-          <item>k</item>
+          <item><c>k</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌻</item>
+          <item><c>𐌻</c></item>
           <item>30</item>
-          <item>l</item>
+          <item><c>l</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌼</item>
+          <item><c>𐌼</c></item>
           <item>40</item>
-          <item>m</item>
+          <item><c>m</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌽</item>
+          <item><c>𐌽</c></item>
           <item>n</item>
-          <item>50</item>
+          <item><c>50</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌾</item>
+          <item><c>𐌾</c></item>
           <item>60</item>
-          <item>j</item>
+          <item><c>j</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐌿</item>
+          <item><c>𐌿</c></item>
           <item>70</item>
-          <item>u</item>
+          <item><c>u</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍀</item>
+          <item><c>𐍀</c></item>
           <item>80</item>
-          <item>p</item>
+          <item><c>p</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍁</item>
+          <item><c>𐍁</c></item>
           <item>90</item>
           <item>-</item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍂</item>
+          <item><c>𐍂</c></item>
           <item>100</item>
-          <item>r</item>
+          <item><c>r</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍃</item>
+          <item><c>𐍃</c></item>
           <item>200</item>
-          <item>s</item>
+          <item><c>s</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍄</item>
+          <item><c>𐍄</c></item>
           <item>300</item>
-          <item>t</item>
+          <item><c>t</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍅</item>
+          <item><c>𐍅</c></item>
           <item>400</item>
-          <item>w</item>
+          <item><c>w</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍆</item>
+          <item><c>𐍆</c></item>
           <item>500</item>
-          <item>f</item>
+          <item><c>f</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍇</item>
+          <item><c>𐍇</c></item>
           <item>600</item>
-          <item>x</item>
+          <item><c>x</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍈</item>
+          <item><c>𐍈</c></item>
           <item>700</item>
-          <item>ƕ</item>
+          <item><c>ƕ</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍉</item>
+          <item><c>𐍉</c></item>
           <item>800</item>
-          <item>o</item>
+          <item><c>o</c></item>
         </list>
       </item>
       <item>
         <list rend="block center">
-          <item>𐍊</item>
+          <item><c>𐍊</c></item>
           <item>900</item>
           <item>-</item>
         </list>
@@ -205,23 +206,23 @@
       <list>
         <item>
           <p>
-            Note.—1. Two of the above 27 Gothic characters were used as numerals only, viz. 𐍁 = 90 and 𐍊 = 900. The letter 𐍇 occurs only in Xristus (Christ) and one or two other words, where 𐍇 had probably the sound-value k. The Gothic character 𐌹 was used at the beginning of a word and medially after a vowel not belonging to the same syllable, thus 𐌹𐌳𐌳𐌾𐌰, iddja (<gloss>I went</gloss>); 𐍆𐍂𐌰𐌹𐍄𐌹𐌸, fra-itiþ (<gloss>he devours</gloss>).
+            <label>Note.—</label>1. Two of the above 27 <lang>Gothic</lang> characters were used as numerals only, <abbr>viz.</abbr> <c>𐍁</c> = 90 and <c>𐍊</c> = 900. The letter <c>𐍇</c> occurs only in <w>Xristus</w> (<gloss>Christ</gloss>) and one or two other words, where <c>𐍇</c> had probably the sound-value <c>k</c>. The <lang>Gothic</lang> character <c>𐌹̈</c> was used at the beginning of a word and medially after a vowel not belonging to the same syllable, thus <w>𐌹𐌳𐌳𐌾𐌰</w>, <w>iddja</w> (<gloss>I went</gloss>); <w>𐍆𐍂𐌰𐌹𐍄𐌹𐌸</w>, <w>fra-itiþ</w> (<gloss>he devours</gloss>).
           </p>
         </item>
         <item>
           <p>
-            2. When the letters were used as numerals a point was placed before and after them, or a line above them, thus ·𐌻· 𐌻̄, ·l· l̄ = 30. ···
+            2. When the letters were used as numerals a point was placed before and after them, or a line above them, thus <c>·𐌻·</c> <c>𐌻̄</c>, <c>·l·</c> <c>l̄</c> = 30.
           </p>
         </item>
         <item>
           <p>
-            3. In words borrowed from Greek containing υ in the function of a vowel, it is transcribed by y, thus συναγωγή, synagōgē, <i>synagogue</i>. y may be pronounced like the i in English bit. See p. 360.
+            3. In words borrowed from <lang>Greek</lang> containing <c>υ</c> in the function of a vowel, it is transcribed by <c>y</c>, thus <w>συναγωγή</w>, <w>synagōgē</w>, <gloss>synagogue</gloss>. <c>y</c> may be pronounced like the <c>i</c> in <lang>English</lang> <w>bit</w>. See <ref>p. 360</ref>.
           </p>
           <p>
-            In our transcription the letter þ is borrowed from the OE. or O.Norse alphabet.
+            In our transcription the letter <c>þ</c> is borrowed from the <lang>OE.</lang> or O.Norse alphabet.
           </p>
           <p>
-            In some books q, ƕ, w are represented by kw (kv), hw (hv), v respectively.
+            In some books <c>q</c>, <c>ƕ</c>, <c>w</c> are represented by <c>kw</c> (<c>kv</c>), <c>hw</c> (<c>hv</c>), <c>v</c> respectively.
           </p>
         </item>
       </list>
@@ -233,7 +234,8 @@
 
     <div type="section" n="3">
       <p>
-        § 3. The Gothic vowel-system is represented by the five elementary letters a, e, i, o, u, and the digraphs ei, iu, ai, and au.
+        <label>§ 3.</label>
+        The <lang>Gothic</lang> vowel-system is represented by the five elementary letters <c>a</c>, <c>e</c>, <c>i</c>, <c>o</c>, <c>u</c>, and the digraphs <c>ei</c>, <c>iu</c>, <c>ai</c>, and <c>au</c>.
       </p>
 
       <p>
@@ -241,215 +243,230 @@
       </p>
 
       <p>
-        The vowels e, o (uniformly written ē, ō in this grammar) were always long. a, u had both a short and a long quantity. i was a short vowel, the corresponding long vowel of which was expressed by the digraph ei after the analogy of the Greek pronunciation of ει in the fourth century. iu was a falling diphthong. Each of the digraphs ai, au was used without distinction in writing to express three different sounds which are here written ái, aí, ai and áu, aú, au.
+        The vowels <c>e</c>, <c>o</c> (uniformly written <c>ē</c>, <c>ō</c> in this grammar) were always long.
+        <c>a</c>, <c>u</c> had both a short and a long quantity.
+        <c>i</c> was a short vowel, the corresponding long vowel of which was expressed by the digraph <c>ei</c> after the analogy of the <lang>Greek</lang> pronunciation of <c>ει</c> in the fourth century.
+        <c>iu</c> was a falling diphthong.
+        Each of the digraphs <c>ai</c>, <c>au</c> was used without distinction in writing to express three different sounds which are here written <c>ái</c>, <c>aí</c>, <c>ai</c> and <c>áu</c>, <c>aú</c>, <c>au</c>.
       </p>
 
       <p>
-        A brief description of the sound-values of the above<pb n="6"/>vowel-system will be given in the following paragraphs. Our chief sources for ascertaining the approximate quality and quantity of the Gothic simple vowels and diphthongs are:—
-        (1) The pronunciation of the Greek and Latin alphabets as they obtained in the fourth century; the former of which was taken by Ulfilas as the basis for representing his own native sound-system.
-        (2) A comparison of the Gothic spelling of Greek loan-words and proper names occurring in Ulfilas with the original Greek words.
-        (3) The spelling of Gothic proper names found in Greek and Latin records of the fourth to the eighth century.
+        A brief description of the sound-values of the above<pb n="6"/>vowel-system will be given in the following paragraphs. Our chief sources for ascertaining the approximate quality and quantity of the <lang>Gothic</lang> simple vowels and diphthongs are:—
+        (1) The pronunciation of the <lang>Greek</lang> and <lang>Latin</lang> alphabets as they obtained in the fourth century; the former of which was taken by Ulfilas as the basis for representing his own native sound-system.
+        (2) A comparison of the <lang>Gothic</lang> spelling of <lang>Greek</lang> loan-words and proper names occurring in Ulfilas with the original <lang>Greek</lang> words.
+        (3) The spelling of <lang>Gothic</lang> proper names found in <lang>Greek</lang> and <lang>Latin</lang> records of the fourth to the eighth century.
         (4) The occasional fluctuating orthography of one and the same word in the biblical translation.
-        (5) Special sound-laws within the Gothic language itself.
-        (6) The comparison of Gothic with the other Old Germanic languages.
+        (5) Special sound-laws within the <lang>Gothic</lang> language itself.
+        (6) The comparison of <lang>Gothic</lang> with the other Old Germanic languages.
       </p>
     </div>
 
     <div type="section" n="4">
       <p>
-        § 4. a had the same sound as the a in NHG. mann, as
-        ahtáu, eight;
-        akrs, field;
-        dags, day;
-        namō, name;
-        giba, gift;
-        waúrda, words.
+        <label>§ 4.</label>
+        <c>a</c> had the same sound as the <c>a</c> in <lang>NHG.</lang> <w>mann</w>, as
+        <w>ahtáu</w>, <gloss>eight</gloss>;
+        <w>akrs</w>, <gloss>field</gloss>;
+        <w>dags</w>, <gloss>day</gloss>;
+        <w>namō</w>, <gloss>name</gloss>;
+        <w>giba</w>, <gloss>gift</gloss>;
+        <w>waúrda</w>, <gloss>words</gloss>.
       </p>
 
       <p>
-        ā had the same sound as the a in English father. In native Gothic words it occurs only in the combination āh (see § 59), as
-        fāhan, to catch, seize;
-        brāhta, I brought;
-        þāhō, clay.
+        <c>ā</c> had the same sound as the <c>a</c> in <lang>English</lang> <w>father</w>. In native <lang>Gothic</lang> words it occurs only in the combination <c>āh</c> (see <ref>§ 59</ref>), as
+        <w>fāhan</w>, <gloss>to catch, seize</gloss>;
+        <w>brāhta</w>, <gloss>I brought</gloss>;
+        <w>þāhō</w>, <gloss>clay</gloss>.
       </p>
     </div>
 
     <div type="section" n="5">
       <p>
-        § 5. ē was a long close e-sound, strongly tinctured with the vowel sound heard in NHG. sie, she. Hence we sometimes find ei (that is ī), and occasionally i, written where we should etymologically expect ē, and vice versa. These fluctuations occur more frequently in Luke than elsewhere;
+        <label>§ 5.</label>
+        <c>ē</c> was a long close <c>e</c>-sound, strongly tinctured with the vowel sound heard in <lang>NHG.</lang> <w>sie</w>, <gloss>she</gloss>.
+        Hence we sometimes find <c>ei</c> (that is <c>ī</c>), and occasionally <c>i</c>, written where we should etymologically expect <c>ē</c>, and <hi>vice versa</hi>.
+        These fluctuations occur more frequently in Luke than elsewhere;
         examples are:
-        qeins = qēns, Luke ii. 5;
-        faheid = fahēþ, Luke ii. 10.
-        spēwands = speiwands, Mark vii. 33;
-        miþþanē = miþþanei, Luke ii. 43;
-        izē = izei, Mark ix. 1.
-        birusjōs = bērusjōs, Luke ii. 41;
-        duatsniwun = duatsnēwun, Mark vi. 53.
-        usdrēbi = usdribi, Mark v. 10.
+        <w>qeins</w> = <w>qēns</w>, <cite>Luke ii. 5</cite>;
+        <w>faheid</w> = <w>fahēþ</w>, <cite>Luke ii. 10</cite>.
+        <w>spēwands</w> = <w>speiwands</w>, <cite>Mark vii. 33</cite>;
+        <w>miþþanē</w> = <w>miþþanei</w>, <cite>Luke ii. 43</cite>;
+        <w>izē</w> = <w>izei</w>, <cite>Mark ix. 1</cite>.
+        <w>birusjōs</w> = <w>bērusjōs</w>, <cite>Luke ii. 41</cite>;
+        <w>duatsniwun</w> = <w>duatsnēwun</w>, <cite>Mark vi. 53</cite>.
+        <w>usdrēbi</w> = <w>usdribi</w>, <cite>Mark v. 10</cite>.
         Examples are:
-        jēr, year;
-        slēpan, to sleep;
-        nēmum, we took;
-        swē, as;
-        hidrē, hither.
+        <w>jēr</w>, <gloss>year</gloss>;
+        <w>slēpan</w>, <gloss>to sleep</gloss>;
+        <w>nēmum</w>, <gloss>we took</gloss>;
+        <w>swē</w>, <gloss>as</gloss>;
+        <w>hidrē</w>, <gloss>hither</gloss>.
       </p>
     </div>
     <pb n="7"/>
     <div type="section" n="6">
       <p>
-        § 6. i was probably a short open vowel like the i in English bit, as
-        ik, I;
-        itan, to eat;
-        fisks, fish;
-        bindan, to bind;
-        arbi, heritage;
-        bandi, a band.
+        <label>§ 6.</label>
+        <c>i</c> was probably a short open vowel like the <c>i</c> in <lang>English</lang> <w>bit</w>, as
+        <w>ik</w>, <gloss>I</gloss>;
+        <w>itan</w>, <gloss>to eat</gloss>;
+        <w>fisks</w>, <gloss>fish</gloss>;
+        <w>bindan</w>, <gloss>to bind</gloss>;
+        <w>arbi</w>, <gloss>heritage</gloss>;
+        <w>bandi</w>, <gloss>a band</gloss>.
       </p>
 
       <p>
-        ī (written ei) was the vowel sound heard in NHG. sie, she.
-        Cp. the beginning of § 5.
+        <c>ī</c> (written <c>ei</c>) was the vowel sound heard in <lang>NHG.</lang> <w>sie</w>, <gloss>she</gloss>.
+        <abbr>Cp.</abbr> the beginning of <ref>§ 5</ref>.
         Examples are:
-        swein, swine, pig;
-        beitan, to bite;
-        gasteis, guests;
-        managei, multitude;
-        áiþei, mother.
+        <w>swein</w>, <gloss>swine, pig</gloss>;
+        <w>beitan</w>, <gloss>to bite</gloss>;
+        <w>gasteis</w>, <gloss>guests</gloss>;
+        <w>managei</w>, <gloss>multitude</gloss>;
+        <w>áiþei</w>, <gloss>mother</gloss>.
       </p>
     </div>
 
     <div type="section" n="7">
       <p>
-        § 7. ō was a long close vowel, strongly tinctured with the vowel sound heard in NHG. gut, good.
-        Hence we occasionally find u written where we should etymologically expect ō, and vice versa, as
-        supūda = supōda, Mark ix. 50;
-        ūhtēdun = ōhtēdun, Mark xi. 32.
-        faíhō = faíhu, Mark x. 23.
+        <label>§ 7.</label>
+        <c>ō</c> was a long close vowel, strongly tinctured with the vowel sound heard in <lang>NHG.</lang> <w>gut</w>, <gloss>good</gloss>.
+        Hence we occasionally find <c>u</c> written where we should etymologically expect <c>ō</c>, and <hi>vice versa</hi>, as
+        <w>supūda</w> = <w>supōda</w>, <cite>Mark ix. 50</cite>;
+        <w>ūhtēdun</w> = <w>ōhtēdun</w>, <cite>Mark xi. 32</cite>.
+        <w>faíhō</w> = <w>faíhu</w>, <cite>Mark x. 23</cite>.
         Examples are:
-        ōgan, to fear;
-        ōgjan, to terrify;
-        brōþar, brother;
-        sōkjan, to seek;
-        saísō, I sowed;
-        haírtō, heart.
+        <w>ōgan</w>, <gloss>to fear</gloss>;
+        <w>ōgjan</w>, <gloss>to terrify</gloss>;
+        <w>brōþar</w>, <gloss>brother</gloss>;
+        <w>sōkjan</w>, <gloss>to seek</gloss>;
+        <w>saísō</w>, <gloss>I sowed</gloss>;
+        <w>haírtō</w>, <gloss>heart</gloss>.
       </p>
     </div>
 
     <div type="section" n="8">
       <p>
-        § 8. u had the same sound as the vowel in English put, as
-        ubils, evil;
-        ufta, often;
-        fugls, fowl, bird;
-        sunus, son;
-        bundans, bound;
-        faíhu, cattle;
-        sunu (acc. sing.), son.
+        <label>§ 8.</label>
+        <c>u</c> had the same sound as the vowel in <lang>English</lang> <w>put</w>, as
+        <w>ubils</w>, <gloss>evil</gloss>;
+        <w>ufta</w>, <gloss>often</gloss>;
+        <w>fugls</w>, <gloss>fowl, bird</gloss>;
+        <w>sunus</w>, <gloss>son</gloss>;
+        <w>bundans</w>, <gloss>bound</gloss>;
+        <w>faíhu</w>, <gloss>cattle</gloss>;
+        <w>sunu</w> (<grm>acc. sing.</grm>), <gloss>son</gloss>.
       </p>
 
       <p>
-        ū had the same sound as the u in NHG. gut, as
-        ūt, ūta, out;
-        ūhtwō, early morn;
-        brūþs, bride;
-        hūs, house;
-        þūsundi, thousand.
+        <c>ū</c> had the same sound as the <c>u</c> in <lang>NHG.</lang> <w>gut</w>, as
+        <w>ūt</w>, <w>ūta</w>, <gloss>out</gloss>;
+        <w>ūhtwō</w>, <gloss>early morn</gloss>;
+        <w>brūþs</w>, <gloss>bride</gloss>;
+        <w>hūs</w>, <gloss>house</gloss>;
+        <w>þūsundi</w>, <gloss>thousand</gloss>.
       </p>
     </div>
 
     <div type="section" n="9">
       <p>
-        § 9. iu was a falling diphthong (i. e. with the stress on the i), and pronounced like the ew in North. Engl. dial. pronunciation of new.
-        It only occurs in stem-syllables (except in ūhtiugs, seasonable), as
-        iupa, above;
-        þiuda, people;
-        driusan, to fall;
-        triu, tree;
-        kniu, knee.
+        <label>§ 9.</label>
+        <c>iu</c> was a falling diphthong (<abbr>i. e.</abbr> with the stress on the <c>i</c>), and pronounced like the <c>ew</c> in <lang>North. Engl. dial.</lang> pronunciation of <w>new</w>.
+        It only occurs in stem-syllables (except in <w>ūhtiugs</w>, <gloss>seasonable</gloss>), as
+        <w>iupa</w>, <gloss>above</gloss>;
+        <w>þiuda</w>, <gloss>people</gloss>;
+        <w>driusan</w>, <gloss>to fall</gloss>;
+        <w>triu</w>, <gloss>tree</gloss>;
+        <w>kniu</w>, <gloss>knee</gloss>.
       </p>
     </div>
 
     <div type="section" n="10">
       <p>
-        § 10. As has already been pointed out in § 3, the digraph ai was used by Ulfilas without distinction in writing to represent three different sounds which were of threefold origin.
-        Our means for determining the nature of these sounds are derived partly from a comparison of the Gothic forms in which they occur with the corresponding forms of the other Indo-Germanic languages, and partly from the Gothic spelling of Greek loan-words.
-        The above remarks also hold good for the digraph au, § 11.
+        <label>§ 10.</label>
+        As has already been pointed out in <ref>§ 3</ref>, the digraph <c>ai</c> was used by Ulfilas without distinction in writing to represent three different sounds which were of threefold origin.
+        Our means for determining the nature of these sounds are derived partly from a comparison of the <lang>Gothic</lang> forms in which they occur with the corresponding forms of the other Indo-Germanic languages, and partly from the <lang>Gothic</lang> spelling of <lang>Greek</lang> loan-words.
+        The above remarks also hold good for the digraph <c>au</c>, <ref>§ 11</ref>.
       </p>
       <pb n="8"/>
       <p>
-        aí was a short open e-sound like the ë in OHG. nëman, and almost like the a in English hat.
-        It only occurs before r, h, ƕ (except in the case of aíþþáu, or, and possibly waíla, well, and in the reduplicated syllable of the pret. of strong verbs belonging to Class VII).
-        See §§ 67, 69, 311.
+        <c>aí</c> was a short open <c>e</c>-sound like the <c>ë</c> in <lang>OHG.</lang> <w>nëman</w>, and almost like the <c>a</c> in <lang>English</lang> <w>hat</w>.
+        It only occurs before <c>r</c>, <c>h</c>, <c>ƕ</c> (except in the case of <w>aíþþáu</w>, <gloss>or</gloss>, and possibly <w>waíla</w>, <gloss>well</gloss>, and in the reduplicated syllable of the <grm>pret.</grm> of strong verbs belonging to Class VII).
+        See <ref>§§ 67, 69, 311</ref>.
         Examples are:
-        aírþa, earth;
-        baíran, to bear;
-        waírpan, to throw;
-        faíhu, cattle;
-        taíhun, ten;
-        saíƕan, to see;
-        aíáuk, I increased;
-        laílōt, I let;
-        haíháit, I named.
-        But see p. 362.
+        <w>aírþa</w>, <gloss>earth</gloss>;
+        <w>baíran</w>, <gloss>to bear</gloss>;
+        <w>waírpan</w>, <gloss>to throw</gloss>;
+        <w>faíhu</w>, <gloss>cattle</gloss>;
+        <w>taíhun</w>, <gloss>ten</gloss>;
+        <w>saíƕan</w>, <gloss>to see</gloss>;
+        <w>aíáuk</w>, <gloss>I increased</gloss>;
+        <w>laílōt</w>, <gloss>I let</gloss>;
+        <w>haíháit</w>, <gloss>I named</gloss>.
+        But see <ref>p. 362</ref>.
       </p>
 
       <p>
-        ái was a diphthong and had the same sound as the ei in NHG. mein, my, and nearly the same sound as the i in English mine, as
-        áips, oath;
-        áins, one;
-        hláifs, loaf;
-        stáins, stone;
-        twái, two;
-        nimái, he may take.
+        <c>ái</c> was a diphthong and had the same sound as the <c>ei</c> in <lang>NHG.</lang> <w>mein</w>, <gloss>my</gloss>, and nearly the same sound as the <c>i</c> in <lang>English</lang> <w>mine</w>, as
+        <w>áips</w>, <gloss>oath</gloss>;
+        <w>áins</w>, <gloss>one</gloss>;
+        <w>hláifs</w>, <gloss>loaf</gloss>;
+        <w>stáins</w>, <gloss>stone</gloss>;
+        <w>twái</w>, <gloss>two</gloss>;
+        <w>nimái</w>, <gloss>he may take</gloss>.
       </p>
 
       <p>
-        ai had probably the same pronunciation as OE. ǣ (i. e. a long open e-sound).
-        It occurs only in very few words before a following vowel (§ 76), as
-        saian, to sow;
-        waian, to blow;
-        faian, to blame;
-        and possibly in armaiō, mercy, pity.
-        But see p. 362.
+        <c>ai</c> had probably the same pronunciation as <lang>OE.</lang> <c>ǣ</c> (<abbr>i. e.</abbr> a long open <c>e</c>-sound).
+        It occurs only in very few words before a following vowel (<ref>§ 76</ref>), as
+        <w>saian</w>, <gloss>to sow</gloss>;
+        <w>waian</w>, <gloss>to blow</gloss>;
+        <w>faian</w>, <gloss>to blame</gloss>;
+        and possibly in <w>armaiō</w>, <gloss>mercy, pity</gloss>.
+        But see <ref>p. 362</ref>.
       </p>
     </div>
 
     <div type="section" n="11">
       <p>
-        § 11. aú was a short open o-sound like the o in English not.
-        It only occurs before r and h, as
-        haúrn, horn;
-        waúrd, word;
-        daúhtar, daughter;
-        aúhsa, ox.
-        See §§ 71, 73, and p. 362.
+        <label>§ 11.</label>
+        <c>aú</c> was a short open <c>o</c>-sound like the <c>o</c> in <lang>English</lang> <w>not</w>.
+        It only occurs before <c>r</c> and <c>h</c>, as
+        <w>haúrn</w>, <gloss>horn</gloss>;
+        <w>waúrd</w>, <gloss>word</gloss>;
+        <w>daúhtar</w>, <gloss>daughter</gloss>;
+        <w>aúhsa</w>, <gloss>ox</gloss>.
+        See <ref>§§ 71, 73</ref>, and <ref>p. 362</ref>.
       </p>
 
       <p>
-        áu was a pure diphthong and had approximately the same sound as the ou in English house, as
-        áugō, eye;
-        áusō, ear;
-        dáuþus, death;
-        háubiþ, head;
-        ahtáu, eight;
-        nimáu, I may take.
+        <c>áu</c> was a pure diphthong and had approximately the same sound as the <c>ou</c> in <lang>English</lang> <w>house</w>, as
+        <w>áugō</w>, <gloss>eye</gloss>;
+        <w>áusō</w>, <gloss>ear</gloss>;
+        <w>dáuþus</w>, <gloss>death</gloss>;
+        <w>háubiþ</w>, <gloss>head</gloss>;
+        <w>ahtáu</w>, <gloss>eight</gloss>;
+        <w>nimáu</w>, <gloss>I may take</gloss>.
       </p>
 
       <p>
-        au was a long open o-sound like the au in English aught.
-        It only occurs in a few words before a following vowel (§ 80), as
-        staua, judgment;
-        taui, deed;
-        trauan, to trust;
-        bauan, to build, inhabit.
-        Cp. §§ 3 and 10.
-        But see p. 362.
+        <c>au</c> was a long open <c>o</c>-sound like the <c>au</c> in <lang>English</lang> <w>aught</w>.
+        It only occurs in a few words before a following vowel (<ref>§ 80</ref>), as
+        <w>staua</w>, <gloss>judgment</gloss>;
+        <w>taui</w>, <gloss>deed</gloss>;
+        <w>trauan</w>, <gloss>to trust</gloss>;
+        <w>bauan</w>, <gloss>to build, inhabit</gloss>.
+        <abbr>Cp.</abbr> <ref>§§ 3 and 10</ref>.
+        But see <ref>p. 362</ref>.
       </p>
     </div>
 
     <div type="section" n="12">
       <p>
-        § 12. From what has been said in §§ 4–11, we arrive at the following Gothic vowel-system:—
+        <label>§ 12.</label>
+        From what has been said in <ref>§§ 4–11</ref>, we arrive at the following <lang>Gothic</lang> vowel-system:—
       </p>
 
       <table>
@@ -461,10 +478,10 @@
       <pb n="9"/>
       <div type="note">
         <p>
-          Note.—1. For y, see § 2 note 3. The nasals and liquids in the function of vowels will be found under consonants §§ 22, 25.
+          <label>Note.—</label>1. For <c>y</c>, see <ref>§ 2 note 3</ref>. The nasals and liquids in the function of vowels will be found under consonants <ref>§§ 22, 25</ref>.
         </p>
         <p>
-          2. ái, áu, iu were falling diphthongs, that is, the stress fell upon the first of the two elements.
+          2. <c>ái</c>, <c>áu</c>, <c>iu</c> were falling diphthongs, that is, the stress fell upon the first of the two elements.
         </p>
       </div>
     </div>
@@ -475,367 +492,385 @@
 
     <div type="section" n="13">
       <p>
-        § 13. According to the transcription adopted in § 2 the Gothic consonant-system is represented by the following letters, which are here re-arranged after the order of the English alphabet:—b, d, f, g, h, ƕ, j, k, l, m, n, p, q, r, s, t, þ, w, z.
+        <label>§ 13.</label>
+        According to the transcription adopted in <ref>§ 2</ref> the <lang>Gothic</lang> consonant-system is represented by the following letters, which are here re-arranged after the order of the <lang>English</lang> alphabet:—<c>b</c>, <c>d</c>, <c>f</c>, <c>g</c>, <c>h</c>, <c>ƕ</c>, <c>j</c>, <c>k</c>, <c>l</c>, <c>m</c>, <c>n</c>, <c>p</c>, <c>q</c>, <c>r</c>, <c>s</c>, <c>t</c>, <c>þ</c>, <c>w</c>, <c>z</c>.
       </p>
     </div>
 
     <div type="section" n="14">
       <p>
-        § 14. b had a twofold pronunciation.
-        Initially, as also medially and finally after consonants, it was a voiced explosive like English b, as
-        barn, child;
-        blinds, blind;
-        baíran, to bear;
-        salbōn, to anoint;
-        arbi, heritage;
-        lamb, lamb;
-        -swarb, he wiped.
+        <label>§ 14.</label>
+        <c>b</c> had a twofold pronunciation.
+        Initially, as also medially and finally after consonants, it was a voiced explosive like <lang>English</lang> <c>b</c>, as
+        <w>barn</w>, <gloss>child</gloss>;
+        <w>blinds</w>, <gloss>blind</gloss>;
+        <w>baíran</w>, <gloss>to bear</gloss>;
+        <w>salbōn</w>, <gloss>to anoint</gloss>;
+        <w>arbi</w>, <gloss>heritage</gloss>;
+        <w>lamb</w>, <gloss>lamb</gloss>;
+        <w>-swarb</w>, <gloss>he wiped</gloss>.
       </p>
 
       <p>
-        Medially after vowels it was a voiced bilabial spirant, and may be pronounced like the v in English live, which is a voiced labio-dental spirant, as
-        haban, to have;
-        sibun, seven;
-        ibns, even.
-        See § 161.
+        Medially after vowels it was a voiced bilabial spirant, and may be pronounced like the <c>v</c> in <lang>English</lang> <w>live</w>, which is a voiced labio-dental spirant, as
+        <w>haban</w>, <gloss>to have</gloss>;
+        <w>sibun</w>, <gloss>seven</gloss>;
+        <w>ibns</w>, <gloss>even</gloss>.
+        See <ref>§ 161</ref>.
       </p>
     </div>
 
     <div type="section" n="15">
       <p>
-        § 15. d had a twofold pronunciation.
-        Initially, as also medially and finally after consonants, it was a voiced explosive like the d in English do, as
-        dags, day;
-        dáuþus, death;
-        dragan, to draw;
-        kalds, cold;
-        bindan, to bind, band, he bound;
-        huzd, treasure;
+        <label>§ 15.</label>
+        <c>d</c> had a twofold pronunciation.
+        Initially, as also medially and finally after consonants, it was a voiced explosive like the <c>d</c> in <lang>English</lang> <w>do</w>, as
+        <w>dags</w>, <gloss>day</gloss>;
+        <w>dáuþus</w>, <gloss>death</gloss>;
+        <w>dragan</w>, <gloss>to draw</gloss>;
+        <w>kalds</w>, <gloss>cold</gloss>;
+        <w>bindan</w>, <gloss>to bind, band, he bound</gloss>;
+        <w>huzd</w>, <gloss>treasure</gloss>;
         also when geminated, as
-        iddja, I went.
+        <w>iddja</w>, <gloss>I went</gloss>.
       </p>
 
       <p>
-        Medially after vowels it was a voiced interdental spirant nearly like the th in English then, as
-        fadar, father;
-        badi, bed;
-        biudan, to offer.
-        See § 173.
+        Medially after vowels it was a voiced interdental spirant nearly like the <c>th</c> in <lang>English</lang> <w>then</w>, as
+        <w>fadar</w>, <gloss>father</gloss>;
+        <w>badi</w>, <gloss>bed</gloss>;
+        <w>biudan</w>, <gloss>to offer</gloss>.
+        See <ref>§ 173</ref>.
       </p>
     </div>
 
     <div type="section" n="16">
       <p>
-        § 16. f was probably a voiceless bilabial spirant like the f in OHG. slāfan, to sleep; a sound which does not occur in English.
-        It may, however, be pronounced like the f in English life, which is labio-dental, as
-        fadar, father;
-        fulls, full;
-        ufar, over;
-        wulfs, wolf;
-        fimf, five;
-        gaf, he gave.
+        <label>§ 16.</label>
+        <c>f</c> was probably a voiceless bilabial spirant like the <c>f</c> in <lang>OHG.</lang> <w>slāfan</w>, to sleep; a sound which does not occur in <lang>English</lang>.
+        It may, however, be pronounced like the <c>f</c> in <lang>English</lang> <w>life</w>, which is labio-dental, as
+        <w>fadar</w>, <gloss>father</gloss>;
+        <w>fulls</w>, <gloss>full</gloss>;
+        <w>ufar</w>, <gloss>over</gloss>;
+        <w>wulfs</w>, <gloss>wolf</gloss>;
+        <w>fimf</w>, <gloss>five</gloss>;
+        <w>gaf</w>, <gloss>he gave</gloss>.
       </p>
     </div>
     <pb n="10"/>
     <div type="section" n="17">
       <p>
-        § 17. g. The exact pronunciation of this letter cannot be determined with certainty for all the positions in which it is found.
+        <label>§ 17.</label>
+        <c>g</c>. The exact pronunciation of this letter cannot be determined with certainty for all the positions in which it is found.
       </p>
 
       <p>
-        Initial g probably had the same sound as the g in English go, as
-        gōþs, good;
-        giban, to give;
-        the same may also have been the pronunciation of g in the combination vowel + g + consonant (other than a guttural), as
-        bugjan, to buy;
-        tagla, hairs;
-        tagra (nom. pl.), tears.
-        Cp. §§ 167–8.
+        Initial <c>g</c> probably had the same sound as the <c>g</c> in <lang>English</lang> <w>go</w>, as
+        <w>gōþs</w>, <gloss>good</gloss>;
+        <w>giban</w>, <gloss>to give</gloss>;
+        the same may also have been the pronunciation of <c>g</c> in the combination vowel + <c>g</c> + consonant (other than a guttural), as
+        <w>bugjan</w>, <gloss>to buy</gloss>;
+        <w>tagla</w>, <gloss>hairs</gloss>;
+        <w>tagra</w> (nom. pl.), <gloss>tears</gloss>.
+        <abbr>Cp.</abbr> <ref>§§ 167–8</ref>.
       </p>
 
       <p>
-        Medially between vowels it was a voiced spirant like the widely spread pronunciation of g in NHG. tage, days, as
-        áugō, eye;
-        steigan, to ascend.
-        Cp. § 168.
+        Medially between vowels it was a voiced spirant like the widely spread pronunciation of <c>g</c> in <lang>NHG.</lang> <w>tage</w>, <gloss>days</gloss>, as
+        <w>áugō</w>, <gloss>eye</gloss>;
+        <w>steigan</w>, <gloss>to ascend</gloss>.
+        <abbr>Cp.</abbr> <ref>§ 168</ref>.
       </p>
 
       <p>
-        Final postvocalic g and g in the final combination gs was probably a voiceless spirant like the ch in NHG. or in Scotch loch, as
-        dag (acc. sing.), day;
-        mag, he can;
-        dags, day.
-        Cp. § 169.
+        Final postvocalic <c>g</c> and <c>g</c> in the final combination <c>gs</c> was probably a voiceless spirant like the <c>ch</c> in <lang>NHG.</lang> or in <lang>Scotch</lang> <w>loch</w>, as
+        <w>dag</w> (<grm>acc. sing.</grm>), <gloss>day</gloss>;
+        <w>mag</w>, <gloss>he can</gloss>;
+        <w>dags</w>, <gloss>day</gloss>.
+        <abbr>Cp.</abbr> <ref>§ 169</ref>.
       </p>
 
       <p>
-        Before another guttural it was used to express a guttural nasal (ŋ) like
-        the γ in Greek ἄγγελὸς, angel;
-        ἄγχι, near;
-        and the ng in English thing, or the n in think, as
-        aggilus, angel;
-        briggan, to bring;
-        figgrs, finger;
-        drigkan, to drink;
-        sigqan, to sink.
+        Before another guttural it was used to express a guttural nasal (<c>ŋ</c>) like the <c>γ</c> in <lang>Greek</lang> <w>ἄγγελὸς</w>, <gloss>angel</gloss>;
+        <w>ἄγχι</w>, <gloss>near</gloss>;
+        and the <c>ng</c> in <lang>English</lang> <w>thing</w>, or the <c>n</c> in <w>think</w>, as
+        <w>aggilus</w>, <gloss>angel</gloss>;
+        <w>briggan</w>, <gloss>to bring</gloss>;
+        <w>figgrs</w>, <gloss>finger</gloss>;
+        <w>drigkan</w>, <gloss>to drink</gloss>;
+        <w>sigqan</w>, <gloss>to sink</gloss>.
       </p>
 
       <div type="note">
         <p>
-          Note.—Occasionally, especially in St. Luke, the guttural nasal is expressed by n as in Latin and English, as
-          þankeiþ = þagkeiþ, Luke xiv. 31;
-          bringiþ = briggiþ, Luke xv. 22.
+          <label>Note.—</label>Occasionally, especially in St. Luke, the guttural nasal is expressed by <c>n</c> as in <lang>Latin</lang> and <lang>English</lang>, as
+          <w>þankeiþ</w> = <w>þagkeiþ</w>, <cite>Luke xiv. 31</cite>;
+          <w>bringiþ</w> = <w>briggiþ</w>, <cite>Luke xv. 22</cite>.
         </p>
       </div>
 
       <p>
-        The combination ggw was in some words equal to ŋ + gw, and in others equal to gg (a long voiced explosive) + w.
+        The combination <c>ggw</c> was in some words equal to <c>ŋ</c> + <c>gw</c>, and in others equal to <c>gg</c> (a long voiced explosive) + <c>w</c>.
         When it was the one, and when the other, can only be determined upon etymological grounds.
         Examples of the former are
-        siggwan, to sing;
-        aggwus, narrow;
+        <w>siggwan</w>, <gloss>to sing</gloss>;
+        <w>aggwus</w>, <gloss>narrow</gloss>;
         and of the latter
-        bliggwan, to beat, strike;
-        triggws, true, faithful.
-        Cp. § 151.
+        <w>bliggwan</w>, <gloss>to beat, strike</gloss>;
+        <w>triggws</w>, <gloss>true, faithful</gloss>.
+        <abbr>Cp.</abbr> <ref>§ 151</ref>.
       </p>
     </div>
 
     <div type="section" n="18">
       <p>
-        § 18. h, initially before vowels and probably also medially between vowels, was a strong aspirate, as
-        haban, to have;
-        haírtō, heart;
-        faíhu, cattle;
-        gateihan, to announce.
-        Cp. § 164.
-        In other positions it was a voiceless spirant<pb n="11"/>like the NHG. ch in nacht, night, as
-        hláifs, loaf;
-        nahts, night;
-        falh, I hid;
-        jah, and.
+        <label>§ 18.</label>
+        <c>h</c>, initially before vowels and probably also medially between vowels, was a strong aspirate, as
+        <w>haban</w>, <gloss>to have</gloss>;
+        <w>haírtō</w>, <gloss>heart</gloss>;
+        <w>faíhu</w>, <gloss>cattle</gloss>;
+        <w>gateihan</w>, <gloss>to announce</gloss>.
+        <abbr>Cp.</abbr> <ref>§ 164</ref>.
+        In other positions it was a voiceless spirant<pb n="11"/>like the <lang>NHG.</lang> <c>ch</c> in <w>nacht</w>, <gloss>night</gloss>, as
+        <w>hláifs</w>, <gloss>loaf</gloss>;
+        <w>nahts</w>, <gloss>night</gloss>;
+        <w>falh</w>, <gloss>I hid</gloss>;
+        <w>jah</w>, <gloss>and</gloss>.
       </p>
     </div>
 
     <div type="section" n="19">
       <p>
-        § 19. ƕ was either a labialized h or else a voiceless w.
-        It may be pronounced like the wh in the Scotch pronunciation of when, as
-        ƕeila, time;
-        ƕōpan, to boast;
-        aƕa, river;
-        saíƕan, to see;
-        saƕ, he saw;
-        nēƕ (av.), near.
-        Cp. notes to § 2.
+        <label>§ 19.</label>
+        <c>ƕ</c> was either a labialized <c>h</c> or else a voiceless <c>w</c>.
+        It may be pronounced like the <c>wh</c> in the <lang>Scotch</lang> pronunciation of <w>when</w>, as
+        <w>ƕeila</w>, <gloss>time</gloss>;
+        <w>ƕōpan</w>, <gloss>to boast</gloss>;
+        <w>aƕa</w>, <gloss>river</gloss>;
+        <w>saíƕan</w>, <gloss>to see</gloss>;
+        <w>saƕ</w>, <gloss>he saw</gloss>;
+        <w>nēƕ</w> (<grm>av.</grm>), <gloss>near</gloss>.
+        <abbr>Cp.</abbr> <ref>notes to § 2</ref>.
       </p>
     </div>
 
     <div type="section" n="20">
       <p>
-        § 20. j (that is i in the function of a consonant) had nearly the same sound-value as English y in yet.
+        <label>§ 20.</label>
+        <c>j</c> (that is <c>i</c> in the function of a consonant) had nearly the same sound-value as <lang>English</lang> <c>y</c> in <w>yet</w>.
         It only occurs initially and medially, as
-        jēr, year;
-        juggs, young;
-        juk, yoke;
-        lagjan, to lay;
-        niujis, new;
-        fijands, fiend, enemy.
+        <w>jēr</w>, <gloss>year</gloss>;
+        <w>juggs</w>, <gloss>young</gloss>;
+        <w>juk</w>, <gloss>yoke</gloss>;
+        <w>lagjan</w>, <gloss>to lay</gloss>;
+        <w>niujis</w>, <gloss>new</gloss>;
+        <w>fijands</w>, <gloss>fiend, enemy</gloss>.
       </p>
     </div>
 
     <div type="section" n="21">
       <p>
-        § 21. k had the same sound as English k, except that it must be pronounced initially before consonants (l, n, r).
+        <label>§ 21.</label>
+        <c>k</c> had the same sound as <lang>English</lang> <c>k</c>, except that it must be pronounced initially before consonants (<c>l</c>, <c>n</c>, <c>r</c>).
         It occurs initially, medially, and finally, as
-        kaúrn, corn;
-        kniu, knee;
-        akrs, field;
-        brikan, to break;
-        ik, I;
-        juk, yoke.
+        <w>kaúrn</w>, <gloss>corn</gloss>;
+        <w>kniu</w>, <gloss>knee</gloss>;
+        <w>akrs</w>, <gloss>field</gloss>;
+        <w>brikan</w>, <gloss>to break</gloss>;
+        <w>ik</w>, <gloss>I</gloss>;
+        <w>juk</w>, <gloss>yoke</gloss>.
       </p>
     </div>
 
     <div type="section" n="22">
       <p>
-        § 22. l, m, n had the same sound-values as in English.
+        <label>§ 22.</label>
+        <c>l</c>, <c>m</c>, <c>n</c> had the same sound-values as in <lang>English</lang>.
         They all occur initially, medially, and finally, in the function of consonants.
       </p>
 
       <p>
-        l.
-        laggs, long;
-        láisjan, to teach;
-        háils, hale, whole;
-        haldan, to hold;
-        skal, I shall;
-        mēl, time.
+        <c>l</c>.
+        <w>laggs</w>, <gloss>long</gloss>;
+        <w>láisjan</w>, <gloss>to teach</gloss>;
+        <w>háils</w>, <gloss>hale, whole</gloss>;
+        <w>haldan</w>, <gloss>to hold</gloss>;
+        <w>skal</w>, <gloss>I shall</gloss>;
+        <w>mēl</w>, <gloss>time</gloss>.
       </p>
 
       <p>
-        m.
-        mēna, moon;
-        mizdō, meed, reward;
-        namō, name;
-        niman, to take;
-        nam, he took;
-        nimam, we take.
+        <c>m</c>.
+        <w>mēna</w>, <gloss>moon</gloss>;
+        <w>mizdō</w>, <gloss>meed, reward</gloss>;
+        <w>namō</w>, <gloss>name</gloss>;
+        <w>niman</w>, <gloss>to take</gloss>;
+        <w>nam</w>, <gloss>he took</gloss>;
+        <w>nimam</w>, <gloss>we take</gloss>.
       </p>
 
       <p>
-        n. nahts, night;
-        niun, nine;
-        mēna, moon;
-        rinnan, to run;
-        láun, reward;
-        kann, I know.
+        <c>n</c>.
+        <w>nahts</w>, <gloss>night</gloss>;
+        <w>niun</w>, <gloss>nine</gloss>;
+        <w>mēna</w>, <gloss>moon</gloss>;
+        <w>rinnan</w>, <gloss>to run</gloss>;
+        <w>láun</w>, <gloss>reward</gloss>;
+        <w>kann</w>, <gloss>I know</gloss>.
       </p>
 
       <p>
         In the function of vowels they do not occur in stem-syllables, as
-        fugls, fowl, bird;
-        tagl, hair;
-        sigljō, seal;
-        máiþms, gift;
-        bagms, tree, beam;
-        ibns, even;
-        táikns, token.
-        See § 159.
+        <w>fugls</w>, <gloss>fowl, bird</gloss>;
+        <w>tagl</w>, <gloss>hair</gloss>;
+        <w>sigljō</w>, <gloss>seal</gloss>;
+        <w>máiþms</w>, <gloss>gift</gloss>;
+        <w>bagms</w>, <gloss>tree, beam</gloss>;
+        <w>ibns</w>, <gloss>even</gloss>;
+        <w>táikns</w>, <gloss>token</gloss>.
+        See <ref>§ 159</ref>.
       </p>
     </div>
 
     <div type="section" n="23">
       <p>
-        § 23. p had the same sound as English p in put.
+        <label>§ 23.</label>
+        <c>p</c> had the same sound as <lang>English</lang> <c>p</c> in <w>put</w>.
         It occurs initially (in loan-words only), medially, and finally, as
-        pund, pound;
-        páida, coat;
-        plinsjan, to dance;
-        slēpan, to sleep;
-        diups, deep;
-        hilpan, to help;
-        saíslēp, he slept;
-        skip, ship.
+        <w>pund</w>, <gloss>pound</gloss>;
+        <w>páida</w>, <gloss>coat</gloss>;
+        <w>plinsjan</w>, <gloss>to dance</gloss>;
+        <w>slēpan</w>, <gloss>to sleep</gloss>;
+        <w>diups</w>, <gloss>deep</gloss>;
+        <w>hilpan</w>, <gloss>to help</gloss>;
+        <w>saíslēp</w>, <gloss>he slept</gloss>;
+        <w>skip</w>, <gloss>ship</gloss>.
       </p>
     </div>
     <pb n="12"/>
     <div type="section" n="24">
       <p>
-        § 24. q was a labialized k, and may be pronounced like the qu in English queen, as
-        qiman, to come;
-        qēns, wife;
-        sigqan, to sink;
-        riqis, darkness;
-        sagq, he sank;
-        bistugq, a stumbling.
-        See §§ 2 note 3, 163.
+        <label>§ 24.</label>
+        <c>q</c> was a labialized <c>k</c>, and may be pronounced like the <c>qu</c> in <lang>English</lang> <w>queen</w>, as
+        <w>qiman</w>, <gloss>to come</gloss>;
+        <w>qēns</w>, <gloss>wife</gloss>;
+        <w>sigqan</w>, <gloss>to sink</gloss>;
+        <w>riqis</w>, <gloss>darkness</gloss>;
+        <w>sagq</w>, <gloss>he sank</gloss>;
+        <w>bistugq</w>, <gloss>a stumbling</gloss>.
+        See <ref>§§ 2 note 3, 163</ref>.
       </p>
     </div>
 
     <div type="section" n="25">
       <p>
-        § 25. r was a trilled lingual r, and was also so pronounced before consonants, and finally, like the r in Lowland Scotch.
+        <label>§ 25.</label>
+        <c>r</c> was a trilled lingual <c>r</c>, and was also so pronounced before consonants, and finally, like the <c>r</c> in <lang>Lowland Scotch</lang>.
         It occurs as a consonant initially, medially, and finally, as
-        raíhts, right, straight;
-        rēdan, to counsel;
-        baíran, to bear;
-        barn, child;
-        fidwōr, four;
-        daúr, door.
+        <w>raíhts</w>, <gloss>right, straight</gloss>;
+        <w>rēdan</w>, <gloss>to counsel</gloss>;
+        <w>baíran</w>, <gloss>to bear</gloss>;
+        <w>barn</w>, <gloss>child</gloss>;
+        <w>fidwōr</w>, <gloss>four</gloss>;
+        <w>daúr</w>, <gloss>door</gloss>.
       </p>
 
       <p>
         In the function of a vowel it does not occur in stem-syllables, as
-        akrs, field;
-        tagr, tear;
-        huggrjan, to hunger.
-        Cp. § 159.
+        <w>akrs</w>, <gloss>field</gloss>;
+        <w>tagr</w>, <gloss>tear</gloss>;
+        <w>huggrjan</w>, <gloss>to hunger</gloss>.
+        <abbr>Cp.</abbr> § 159.
       </p>
     </div>
 
     <div type="section" n="26">
       <p>
-        § 26. s was a voiceless spirant in all positions like the s in English sin, as
-        sama, same;
-        sibun, seven;
-        wisan, to be;
-        þūsundi, thousand;
-        hūs, house;
-        gras, grass.
+        <label>§ 26.</label>
+        <c>s</c> was a voiceless spirant in all positions like the <c>s</c> in <lang>English</lang> <w>sin</w>, as
+        <w>sama</w>, <gloss>same</gloss>;
+        <w>sibun</w>, <gloss>seven</gloss>;
+        <w>wisan</w>, <gloss>to be</gloss>;
+        <w>þūsundi</w>, <gloss>thousand</gloss>;
+        <w>hūs</w>, <gloss>house</gloss>;
+        <w>gras</w>, <gloss>grass</gloss>.
       </p>
     </div>
 
     <div type="section" n="27">
       <p>
-        § 27. t had the same sound-value as English t in ten, as
-        taíhun, ten;
-        tunþus, tooth;
-        háitan, to name;
-        mahts, might, power;
-        haírtō, heart;
-        wáit, I know;
-        at, to, at.
+        <label>§ 27.</label>
+        <c>t</c> had the same sound-value as <lang>English</lang> <c>t</c> in <w>ten</w>, as
+        <w>taíhun</w>, <gloss>ten</gloss>;
+        <w>tunþus</w>, <gloss>tooth</gloss>;
+        <w>háitan</w>, <gloss>to name</gloss>;
+        <w>mahts</w>, <gloss>might, power</gloss>;
+        <w>haírtō</w>, <gloss>heart</gloss>;
+        <w>wáit</w>, <gloss>I know</gloss>;
+        <w>at</w>, <gloss>to, at</gloss>.
       </p>
     </div>
 
     <div type="section" n="28">
       <p>
-        § 28. þ was a voiceless spirant like the th in English thin, as
-        þagkjan, to think;
-        þreis, three;
-        brōþar, brother;
-        brūþs, bride;
-        miþ, with;
-        fanþ, he found.
+        <label>§ 28.</label>
+        <c>þ</c> was a voiceless spirant like the <c>th</c> in <lang>English</lang> <w>thin</w>, as
+        <w>þagkjan</w>, <gloss>to think</gloss>;
+        <w>þreis</w>, <gloss>three</gloss>;
+        <w>brōþar</w>, <gloss>brother</gloss>;
+        <w>brūþs</w>, <gloss>bride</gloss>;
+        <w>miþ</w>, <gloss>with</gloss>;
+        <w>fanþ</w>, <gloss>he found</gloss>.
       </p>
     </div>
 
     <div type="section" n="29">
       <p>
-        § 29. w (i. e. u in the function of a consonant) had mostly the same sound-value as the w in English wit.
-        After diphthongs and long vowels, as also after consonants not followed by a vowel, it was probably a kind of reduced u-sound, the exact quality of which cannot be determined.
-        Examples of the former pronunciation are:—wēns, hope;
-        witan, to know;
-        wrikan, to persecute;
-        swistar, sister;
-        taíhswō, right hand.
-        And of the latter:—snáiws, snow;
-        waúrstw, work;
-        skadwjan, to overshadow.
+        <label>§ 29.</label>
+        <c>w</c> (<abbr>i. e.</abbr> <c>u</c> in the function of a consonant) had mostly the same sound-value as the <c>w</c> in <lang>English</lang> <w>wit</w>.
+        After diphthongs and long vowels, as also after consonants not followed by a vowel, it was probably a kind of reduced <c>u</c>-sound, the exact quality of which cannot be determined.
+        Examples of the former pronunciation are:—<w>wēns</w>, <gloss>hope</gloss>;
+        <w>witan</w>, <gloss>to know</gloss>;
+        <w>wrikan</w>, <gloss>to persecute</gloss>;
+        <w>swistar</w>, <gloss>sister</gloss>;
+        <w>taíhswō</w>, <gloss>right hand</gloss>.
+        And of the latter:—<w>snáiws</w>, <gloss>snow</gloss>;
+        <w>waúrstw</w>, <gloss>work</gloss>;
+        <w>skadwjan</w>, <gloss>to overshadow</gloss>.
       </p>
     </div>
 
     <div type="section" n="30">
       <p>
-        § 30. z was a voiced spirant like the z in English freeze, and only occurs medially in regular native Gothic forms, as
-        huzd, hoard, treasure;
-        hazjan, to praise;
-        máiza, greater.
-        But see § 175.
+        <label>§ 30.</label>
+        <c>z</c> was a voiced spirant like the <c>z</c> in <lang>English</lang> freeze, and only occurs medially in regular native <lang>Gothic</lang> forms, as
+        <w>huzd</w>, <gloss>hoard, treasure</gloss>;
+        <w>hazjan</w>, <gloss>to praise</gloss>;
+        <w>máiza</w>, <gloss>greater</gloss>.
+        But see <ref>§ 175</ref>.
       </p>
     </div>
   </div>
   <pb n="13"/>
   <div type="subchapter" n="3">
-    <head>Phonetic Survey of the Gothic Sound-system</head>
+    <head>Phonetic Survey of the <lang>Gothic</lang> Sound-system</head>
 
     <div type="section" n="31">
-      <p>§ 31.</p>
+      <p><label>§ 31.</label></p>
 
       <div type="subsection" n="1">
         <head>A. Vowels (Sonants).</head>
 
         <table>
-          <row> <cell rows="2">Guttural</cell>  <cell>Short</cell>  <cell>a,</cell>   <cell/>           <cell>aú,</cell>  <cell>u</cell>  </row>
-          <row>                                 <cell>Long</cell>   <cell>a,</cell>   <cell>ō,</cell>   <cell>au,</cell>	<cell>ū</cell>  </row>
-          <row> <cell rows="2">Palatal</cell>	  <cell>Short</cell>  <cell>aí,</cell>  <cell/>           <cell>í</cell>                    </row>
-          <row>                                 <cell>Long</cell>   <cell>ē,</cell>   <cell>ai,</cell>  <cell>ei</cell>                   </row>
+          <row> <cell rows="2" rend="right-bracket">Guttural</cell>  <cell>Short</cell>  <cell><c>a</c>,</cell>   <cell/>           <cell><c>aú</c>,</cell>  <cell><c>u</c></cell>  </row>
+          <row>                                 <cell>Long</cell>   <cell><c>a</c>,</cell>   <cell><c>ō</c>,</cell>   <cell><c>au</c>,</cell>	<cell><c>ū</c></cell>  </row>
+          <row> <cell rows="2" rend="right-bracket">Palatal</cell>	  <cell>Short</cell>  <cell><c>aí</c>,</cell>  <cell/>           <cell><c>i</c></cell>                    </row>
+          <row>                                 <cell>Long</cell>   <cell><c>ē</c>,</cell>   <cell><c>ai</c>,</cell>  <cell><c>ei</c></cell>                   </row>
         </table>
 
         <p>
-          To these must also be added the nasals m, n, and the liquids l, r in the function of vowels.
-          See § 159.
+          To these must also be added the nasals <c>m</c>, <c>n</c>, and the liquids <c>l</c>, <c>r</c> in the function of vowels.
+          See <ref>§ 159</ref>.
         </p>
       </div>
 
@@ -844,24 +879,24 @@
 
         <table>
           <row> <cell/>                           <cell/>                 <cell>Labial.</cell>        <cell>Interdental.</cell> <cell>Dental.</cell>      <cell>Guttural.</cell>  </row>
-          <row> <cell rows="2">Explosives</cell>  <cell>Voiceless</cell>  <cell>p</cell>              <cell/>                   <cell>t, tt</cell>        <cell>k, kk: q</cell>   </row>
-          <row>                                   <cell>Voiced</cell>     <cell>b</cell>              <cell/>                   <cell>d, dd</cell>        <cell>g, gg</cell>      </row>
-          <row> <cell rows="2">Spirants</cell>    <cell>Voiceless</cell>  <cell>f</cell>              <cell>þ, þþ</cell>        <cell>s, ss</cell>        <cell>h, (g?): ƕ</cell> </row>
-          <row>                                   <cell>Voiced</cell>     <cell>b</cell>              <cell>d</cell>            <cell>z</cell>            <cell>g</cell>          </row>
-          <row> <cell>Nasals</cell>               <cell/>                 <cell>m, mm</cell>          <cell/>                   <cell>n, nn</cell>        <cell>g (gg)</cell>     </row>
-          <row> <cell>Liquids</cell>              <cell/>                 <cell/>                                               <cell>l, ll; r, rr</cell> <cell/>                 </row>
-          <row> <cell>Semi-vowels</cell>          <cell/>                 <cell>w, j (palatal)</cell> <cell/>                   <cell/>                   <cell/>                 </row>
+          <row> <cell rows="2" rend="right-bracket">Explosives</cell>  <cell>Voiceless</cell>  <cell><c>p</c></cell>              <cell/>                   <cell><c>t</c>, <c>tt</c></cell>        <cell><c>k</c>, <c>kk</c>: <c>q</c></cell>   </row>
+          <row>                                   <cell>Voiced</cell>     <cell><c>b</c></cell>              <cell/>                   <cell><c>d</c>, <c>dd</c></cell>        <cell><c>g</c>, <c>gg</c></cell>      </row>
+          <row> <cell rows="2" rend="right-bracket">Spirants</cell>    <cell>Voiceless</cell>  <cell><c>f</c></cell>              <cell><c>þ</c>, <c>þþ</c></cell>        <cell><c>s</c>, <c>ss</c></cell>        <cell><c>h</c>, (<c>g</c>?): <c>ƕ</c></cell> </row>
+          <row>                                   <cell>Voiced</cell>     <cell><c>b</c></cell>              <cell><c>d</c></cell>            <cell><c>z</c></cell>            <cell><c>g</c></cell>          </row>
+          <row> <cell>Nasals</cell>               <cell/>                 <cell><c>m</c>, <c>mm</c></cell>          <cell/>                   <cell><c>n</c>, <c>nn</c></cell>        <cell><c>g</c> (<c>gg</c>)</cell>     </row>
+          <row> <cell>Liquids</cell>              <cell/>                 <cell/>                                               <cell><c>l</c>, <c>ll</c>; <c>r</c>, <c>rr</c></cell> <cell/>                 </row>
+          <row> <cell>Semi-vowels</cell>          <cell/>                 <cell><c>w</c>, <c>j</c> (palatal)</cell> <cell/>                   <cell/>                   <cell/>                 </row>
         </table>
 
         <p>
-          To these must be added the aspirate h.
-          See § 2 note 1 for X.
+          To these must be added the aspirate <c>h</c>.
+          See <ref>§ 2 note 1</ref> for <c>X</c>.
         </p>
 
         <p>
-          In Gothic as in the oldest period of the other Germanic languages, intervocalic double consonants were really long, and were pronounced long as in Modern Italian and Swedish, thus
-          atta = at-ta, father;
-          manna = man-na, man.
+          In <lang>Gothic</lang> as in the oldest period of the other Germanic languages, intervocalic double consonants were really long, and were pronounced long as in <lang>Modern Italian</lang> and <lang>Swedish</lang>, thus
+          <w>atta</w> = <w>at-ta</w>, <gloss>father</gloss>;
+          <w>manna</w> = <w>man-na</w>, <gloss>man</gloss>.
         </p>
       </div>
     </div>
@@ -872,79 +907,90 @@
 
     <div type="section" n="32">
       <p>
-        § 32. All the Indo-Germanic languages have partly pitch (musical) and partly stress accent, but one or other of the two systems of accentuation always predominates in each language, thus in Sanskrit and Old Greek the accent was predominantly pitch, whereas in the oldest periods of the Italic dialects, and the Keltic and Germanic languages,<pb n="14"/>the accent was predominantly stress. This difference in the system of accentuation is clearly seen in Old Greek and the old Germanic languages by the preservation of the vowels of unaccented syllables in the former and the weakening or loss of them in the latter. In the early period of the parent Indg. language, the stress accent must have been more predominant than the pitch accent, because it is only upon this assumption that we are able to account for the origin of the vowels ī̌, ū̌, ə (§ 35, Note 1), the liquid and nasal sonants (§§ 53–6), and the loss of vowel often accompanied by a loss of syllable, as in Greek gen. πα-τρ-ός beside acc. πα-τέρ-α; πέτ-ομαι beside ἐ-πτ-όμην; Gothic gen. pl. aúhs-nē beside acc. *aúhsa-ns. It is now a generally accepted theory that at a later period of the parent language the system of accentuation became predominantly pitch, which was preserved in Sanskrit and Old Greek, but which must have become predominantly stress again in prim. Germanic some time prior to the operation of Verner’s law (§ 136).
+        <label>§ 32.</label>
+        All the Indo-Germanic languages have partly pitch (musical) and partly stress accent, but one or other of the two systems of accentuation always predominates in each language, thus in <lang>Sanskrit</lang> and <lang>Old Greek</lang> the accent was predominantly pitch, whereas in the oldest periods of the Italic dialects, and the Keltic and Germanic languages,<pb n="14"/>the accent was predominantly stress. This difference in the system of accentuation is clearly seen in <lang>Old Greek</lang> and the old Germanic languages by the preservation of the vowels of unaccented syllables in the former and the weakening or loss of them in the latter. In the early period of the parent Indg. language, the stress accent must have been more predominant than the pitch accent, because it is only upon this assumption that we are able to account for the origin of the vowels <c>ī̌</c>, <c>ū̌</c>, <c>ə</c> (<ref>§ 35, Note 1</ref>), the liquid and nasal sonants (<ref>§§ 53–6</ref>), and the loss of vowel often accompanied by a loss of syllable, as in <lang>Greek</lang> <grm>gen.</grm> <w>πα-τρ-ός</w> beside <grm>acc.</grm> <w>πα-τέρ-α</w>; <w>πέτ-ομαι</w> beside <w>ἐ-πτ-όμην</w>; <lang>Gothic</lang> <grm>gen. pl.</grm> <w>aúhs-nē</w> beside <grm>acc.</grm> <w>*aúhsa-ns</w>. It is now a generally accepted theory that at a later period of the parent language the system of accentuation became predominantly pitch, which was preserved in <lang>Sanskrit</lang> and <lang>Old Greek</lang>, but which must have become predominantly stress again in <lang>prim. Germanic</lang> some time prior to the operation of Verner’s law (<ref>§ 136</ref>).
       </p>
 
       <p>
-        The quality of the accent in the parent language was partly ‘broken’ (acute) and partly ‘slurred’ (circumflex). This distinction in the quality of the accent was preserved in prim. Germanic in final syllables containing a long vowel, as is seen by the difference in the development of the final long vowels in historic times according as they originally had the ‘broken’ or ‘slurred’ accent (§§ 87 (1), 89).
+        The quality of the accent in the parent language was partly ‘broken’ (acute) and partly ‘slurred’ (circumflex). This distinction in the quality of the accent was preserved in <lang>prim. Germanic</lang> in final syllables containing a long vowel, as is seen by the difference in the development of the final long vowels in historic times according as they originally had the ‘broken’ or ‘slurred’ accent (<ref>§§ 87 (1), 89</ref>).
       </p>
 
       <p>
-        In the parent language the chief accent of a word did not always fall upon the same syllable of a word, but was free or movable as in Sanskrit and Greek, cp. e. g. Gr. nom. πατήρ, father, voc. πάτερ, acc. πατέρα; Skr. ḗmi, I go, pl. imás, we go. This free accent was still preserved in prim. Germanic at the time when Verner’s law operated, whereby the voiceless spirants became voiced when the vowel immediately preceding them did not bear the chief accent of the word (§ 136). At a later period of the prim.<pb n="15"/>Germanic language, the chief accent of a word became confined to the first syllable. This confining of the chief accent to the first syllable was the cause of the great weakening—and eventual loss—which the vowels underwent in unaccented syllables in the prehistoric period of the individual Germanic languages (Ch. V). And the extent to which the weakening of unaccented syllables has been carried in some of the Modern Germanic dialects is well illustrated by such sentences as: as et it mọən, I shall have it in the morning; ast ə dunt if id kud, I should have done it if I had been able (West Yorks.).
+        In the parent language the chief accent of a word did not always fall upon the same syllable of a word, but was free or movable as in <lang>Sanskrit</lang> and <lang>Greek</lang>, <abbr>cp.</abbr> <abbr>e. g.</abbr> <lang>Gr.</lang>
+        <grm>nom.</grm> <w>πατήρ</w>, <gloss>father</gloss>,
+        <grm>voc.</grm> <w>πάτερ</w>,
+        <grm>acc.</grm> <w>πατέρα</w>;
+        <lang>Skr.</lang> <w>ḗmi</w>, <gloss>I go</gloss>,
+        <grm>pl.</grm> <w>imás</w>, <gloss>we go</gloss>.
+        This free accent was still preserved in <lang>prim. Germanic</lang> at the time when Verner’s law operated, whereby the voiceless spirants became voiced when the vowel immediately preceding them did not bear the chief accent of the word (<ref>§ 136</ref>). At a later period of the <lang>prim.<pb n="15"/>Germanic</lang> language, the chief accent of a word became confined to the first syllable. This confining of the chief accent to the first syllable was the cause of the great weakening—and eventual loss—which the vowels underwent in unaccented syllables in the prehistoric period of the individual Germanic languages (<ref>Ch. V</ref>). And the extent to which the weakening of unaccented syllables has been carried in some of the Modern Germanic dialects is well illustrated by such sentences as:
+        <phr>as et it mọən</phr>, <gloss>I shall have it in the morning</gloss>;
+        <phr>ast ə dunt if id kud</phr>, <gloss>I should have done it if I had been able</gloss> (<lang>West Yorks.</lang>).
       </p>
     </div>
 
     <div type="section" n="33">
       <p>
-        § 33. The rule for the accentuation of uncompounded words is the same in Gothic as in the oldest period of the other Germanic languages, viz. the chief stress fell upon the first syllable, and always remained there even when suffixes and inflexional endings followed it, as
-        áudags, blessed;
-        niman, to take;
-        reikinōn, to rule;
+        <label>§ 33.</label>
+        The rule for the accentuation of uncompounded words is the same in <lang>Gothic</lang> as in the oldest period of the other Germanic languages, <abbr>viz.</abbr> the chief stress fell upon the first syllable, and always remained there even when suffixes and inflexional endings followed it, as
+        <w>áudags</w>, <gloss>blessed</gloss>;
+        <w>niman</w>, <gloss>to take</gloss>;
+        <w>reikinōn</w>, <gloss>to rule</gloss>;
         the preterite of reduplicated verbs, as
-        laílōt: lētan, to let;
-        haíháit: háitan, to call;
-        blindamma (masc. dat. sing.), blind;
-        dagōs, days;
-        gumanē, of men;
-        nimanda, they are taken;
-        barnilō, little child;
-        bērusjōs, parents;
-        brōþrahans, brethren;
-        dalaþrō, from beneath;
-        dáubiþa, deafness;
-        mannisks, human;
-        þiudinassus, kingdom;
-        waldufni, power.
-        The position of the secondary stress in trisyllabic and polysyllabic words fluctuated in Gothic, and with the present state of our knowledge of the subject it is impossible to formulate any hard and fast rules concerning it.
+        <w>laílōt</w> : <w>lētan</w>, <gloss>to let</gloss>;
+        <w>haíháit</w> : <w>háitan</w>, <gloss>to call</gloss>;
+        <w>blindamma</w> (<grm>masc. dat. sing.</grm>), <gloss>blind</gloss>;
+        <w>dagōs</w>, <gloss>days</gloss>;
+        <w>gumanē</w>, <gloss>of men</gloss>;
+        <w>nimanda</w>, <gloss>they are taken</gloss>;
+        <w>barnilō</w>, <gloss>little child</gloss>;
+        <w>bērusjōs</w>, <gloss>parents</gloss>;
+        <w>brōþrahans</w>, <gloss>brethren</gloss>;
+        <w>dalaþrō</w>, <gloss>from beneath</gloss>;
+        <w>dáubiþa</w>, <gloss>deafness</gloss>;
+        <w>mannisks</w>, <gloss>human</gloss>;
+        <w>þiudinassus</w>, <gloss>kingdom</gloss>;
+        <w>waldufni</w>, <gloss>power</gloss>.
+        The position of the secondary stress in trisyllabic and polysyllabic words fluctuated in <lang>Gothic</lang>, and with the present state of our knowledge of the subject it is impossible to formulate any hard and fast rules concerning it.
       </p>
 
       <p>
         In compound words it is necessary to distinguish between compounds whose second element is a noun or an adjective, and those whose second element is a verb.
         In the former case the first element had the chief accent in the parent Indg. language;
         in the latter case the first element had or had not the chief accent according to the position of the verb in the sentence.
-        But already in prim. Germanic the second element of compound verbs nearly always had<pb n="16"/>the chief accent;
+        But already in <lang>prim. Germanic</lang> the second element of compound verbs nearly always had<pb n="16"/>the chief accent;
         a change which was mostly brought about by the compound and simple verb existing side by side.
         This accounts for the difference in the accentuation of such pairs as
-        ándahafts, answer: andháfjan, to answer;
-        ándanēms, pleasant: andníman, to receive.
+        <w>ándahafts</w>, <gloss>answer</gloss> : <w>andháfjan</w>, <gloss>to answer</gloss>;
+        <w>ándanēms</w>, <gloss>pleasant</gloss> : <w>andníman</w>, <gloss>to receive</gloss>.
       </p>
     </div>
 
     <div type="section" n="34">
       <p>
-        § 34. As has been stated above, compound words, whose second element is a noun or an adjective, had originally the chief stress on the first syllable.
-        This simple rule was preserved in Gothic, as
-        frakunþs, OE. fracuþ, despised;
-        gaskafts, OHG. gascaft, creation;
-        unmahts, infirmity;
-        ufkunþi, knowledge;
-        usfilh, burial;
-        akranaláus, without fruit;
-        allwaldands, the Almighty;
-        brūþfaþs, bridegroom;
-        gistradagis, to-morrow;
-        láushandus, empty-handed;
-        twalibwintrus, twelve years old;
-        þiudangardi, kingdom.
+        <label>§ 34.</label>
+        As has been stated above, compound words, whose second element is a noun or an adjective, had originally the chief stress on the first syllable.
+        This simple rule was preserved in <lang>Gothic</lang>, as
+        <w>frakunþs</w>, <lang>OE.</lang> <w>fracuþ</w>, <gloss>despised</gloss>;
+        <w>gaskafts</w>, <lang>OHG.</lang> <w>gascaft</w>, <gloss>creation</gloss>;
+        <w>unmahts</w>, <gloss>infirmity</gloss>;
+        <w>ufkunþi</w>, <gloss>knowledge</gloss>;
+        <w>usfilh</w>, <gloss>burial</gloss>;
+        <w>akranaláus</w>, <gloss>without fruit</gloss>;
+        <w>allwaldands</w>, <gloss>the Almighty</gloss>;
+        <w>brūþfaþs</w>, <gloss>bridegroom</gloss>;
+        <w>gistradagis</w>, <gloss>to-morrow</gloss>;
+        <w>láushandus</w>, <gloss>empty-handed</gloss>;
+        <w>twalibwintrus</w>, <gloss>twelve years old</gloss>;
+        <w>þiudangardi</w>, <gloss>kingdom</gloss>.
         But in compound verbs the second element had the chief stress, as
-        atlagjan, to lay on;
-        duginnan, to begin;
-        frakunnan, to despise;
-        gaqiman, to assemble;
-        usfulljan, to fulfil.
+        <w>atlagjan</w>, <gloss>to lay on</gloss>;
+        <w>duginnan</w>, <gloss>to begin</gloss>;
+        <w>frakunnan</w>, <gloss>to despise</gloss>;
+        <w>gaqiman</w>, <gloss>to assemble</gloss>;
+        <w>usfulljan</w>, <gloss>to fulfil</gloss>.
         When, however, the first element of a compound verb was separated from the verb by one or more particles, it had the chief stress, as
-        gá-u-ƕa-sēƕi, Mark viii. 23
-        díz-uhþan-sat, Mark xvi. 8.
+        <w>gá-u-ƕa-sēƕi</w>, <cite>Mark viii. 23</cite>
+        <w>díz-uhþan-sat</w>, <cite>Mark xvi. 8</cite>.
       </p>
     </div>
   </div>

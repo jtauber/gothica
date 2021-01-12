@@ -120,6 +120,24 @@ td.left-bracket::before {
   font-size: 200%;
   content: '} ';
 }
+.inline-block {
+  display: inline-block;
+  padding: 0.5em 0;
+}
+.center {
+  text-align: center;
+  padding: 0 1em;
+}
+.footnote {
+  color: #666;
+  margin: 0 0.5em;
+}
+.footnote::before {
+  content: '(';
+}
+.footnote::after {
+  content: ')';
+}
 div.float-list {
   display: flex;
   align-items: flex-start;
