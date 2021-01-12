@@ -30,7 +30,7 @@ But once this is done, not only can I produce a nice HTML version:
 
 | chapter | markup 1              | markup 2              | html                        |
 |---------|-----------------------|-----------------------|-----------------------------|
-| I       | [link](chapter01.xml) |                       |                             |
+| I       | superseded            | [link](chapter01.xml) | [link](html/chapter01.html)|
 | II      | superseded            | [link](chapter02.xml) | [link](html/chapter02.html) |
 | III     | superseded            | [link](chapter03.xml) | [link](html/chapter03.html) |
 | IV      | superseded            | [link](chapter04.xml) | [link](html/chapter04.html) |
@@ -46,3 +46,18 @@ But once this is done, not only can I produce a nice HTML version:
 | XIV     | superseded            | [link](chapter14.xml) | [link](html/chapter14.html) |
 | XV      | [link](chapter15.xml) |                       |                             |
 | XVI     | [link](chapter16.xml) |                       |                             |
+
+## Status of Other Parts
+
+| part                     | status              | xml                      | html                           |
+|--------------------------|---------------------|--------------------------|--------------------------------|
+| introduction             | done                | [link](introduction.xml) | [link](html/introduction.html) |
+| ulfilas                  | initial markup done |                          |                                |
+| matthew                  | initial markup done |                          |                                |
+| mark                     | initial markup done |                          |                                |
+| luke                     | initial markup done |                          |                                |
+| john                     | initial markup done |                          |                                |
+| timothy                  | initial markup done |                          |                                |
+| glossary                 | in progress         |                          |                                |
+| proper names             | initial markup done |                          |                                |
+| glossary of proper names | initial markup done |                          |                                |
