@@ -1,0 +1,77 @@
+body {
+  display: flex;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+aside {
+  width: 20%;
+  padding: 1em;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 10pt;
+  white-space: nowrap;
+}
+nav a {
+  display: block;
+  color: #666;
+  text-decoration: none;
+  padding: 2px 4px;
+}
+nav li.active {
+  padding: 2px 4px;
+  background: #666;
+  color: #FFF;
+}
+nav a:hover {
+  background: #CCC;
+  color: #000;
+}
+main {
+  padding: 1em;
+}
+section {
+  padding: 2em;
+}
+h1 {
+  margin: 0;
+  font-weight: normal;
+}
+h2 {
+  font-weight: normal;
+  color: #666;
+  margin: 0;
+}
+h4 {
+  margin: 0;
+}
+div.token {
+  display: inline-block;
+  padding: 1em;
+}
+div.got_form {
+  margin: 1em 0 0.5em;
+  font-size: 14pt;
+  font-weight: bold;
+}
+div.grk_form {
+  margin: 1em 0 0.5em;
+  font-size: 14pt;
+}
+div.got_morph, div.got_pos, div.grk_morph, div.grk_pos {
+  font-family: monospace;
+  margin: 0.3em 0;
+}
+div.got_lemma, div.grk_lemma {
+  font-size: 12pt;
+  font-style: italic;
+}
+div.grk_form, div.grk_morph, div.grk_pos, div.grk_lemma {
+  color: #666;
+}
+p.lead {
+  font-size: 18pt;
+  line-height: 24pt;
+}
