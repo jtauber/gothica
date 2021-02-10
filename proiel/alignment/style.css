@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
 body {
   display: flex;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 aside {
   width: 20%;
@@ -74,4 +76,16 @@ div.grk_form, div.grk_morph, div.grk_pos, div.grk_lemma {
 p.lead {
   font-size: 18pt;
   line-height: 24pt;
+}
+.greek-texts {
+  margin: 2em 1em;
+}
+.greek-text {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 0.5em;
+}
+.greek-text .label {
+  min-width: 10ch;
+  color: #666;
 }
