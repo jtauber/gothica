@@ -1,7 +1,7 @@
 ## Current Work-in-progress
 
 * [markup of Wright's 1910 Grammar of Gothic](wright-1910-grammar/)
-* [extraction of data from PROIEL(proiel/)
+* [extraction of data from PROIEL](proiel/)
 * moving verb code over from [germanic-philology](https://github.com/jtauber/germanic-philology)
 
 
