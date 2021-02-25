@@ -42,7 +42,7 @@ But once this is done, not only can I produce a nice HTML version:
 | X       | [link](chapter10.xml) |                       |                             |
 | XI      | [link](chapter11.xml) |                       |                             |
 | XII     | [link](chapter12.xml) | in progress           | [link](html/chapter12.html) |
-| XIII    | in progress           |                       |                             |
+| XIII    | [link](chapter13.xml) | in progress           | [link](html/chapter13.html) |
 | XIV     | superseded            | [link](chapter14.xml) | [link](html/chapter14.html) |
 | XV      | [link](chapter15.xml) |                       |                             |
 | XVI     | [link](chapter16.xml) |                       |                             |

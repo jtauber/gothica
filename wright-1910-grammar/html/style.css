@@ -47,6 +47,22 @@ h3 {
   line-height: 20pt;
   margin: 1em 0 0.5em;
 }
+h4 {
+  text-transform: uppercase;  /* until we have proper smallcaps */
+  font-weight: normal;
+  text-align: center;
+  font-size: 14pt;
+  line-height: 20pt;
+  margin: 1em 0 0.5em;
+}
+h5 {
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+  font-size: 14pt;
+  line-height: 20pt;
+  margin: 0.5em 0 0;
+}
 p {
   margin: 0.5em 0;
 }
