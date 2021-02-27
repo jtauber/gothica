@@ -3,45 +3,143 @@
   <head>CHAPTER XV</head>
   <head>WORD-FORMATION</head>
 
-  <div type="section" n="352">
+  <div type="section" n="352" status="wip">
     <p>
-      § 352. By far the greater part of the word-forming elements, used in the parent language, were no longer felt as such in Gothic. In this chapter we shall chiefly confine ourselves to those word-forming elements which remained productive, such as prefixes and suffixes.
+      <label>§ 352.</label>
+      By far the greater part of the word-forming elements, used in the parent language, were no longer felt as such in Gothic.
+      In this chapter we shall chiefly confine ourselves to those word-forming elements which remained productive, such as prefixes and suffixes.
     </p>
   </div>
 
   <div type="subchapter">
     <head>Nouns.</head>
 
-    <div type="section" n="353">
+    <div type="section" n="353" status="wip">
       <p>
-        § 353. Nouns may be divided into simple, derivative and compound. Examples of simple nouns are: aba, father; ahs, ear of grain; áiþs, oath; baúrgs, city; dags, day; fōtus, foot; fisks, fish; gulþ, gold; haúrn, horn; ƕeila, time; juk, yoke; nahts, night; stáins, stone; waúrd, word; wulfs, wolf.
+        <label>§ 353.</label>
+        Nouns may be divided into simple, derivative and compound.
+        Examples of simple nouns are:
+        aba, father;
+        ahs, ear of grain;
+        áiþs, oath;
+        baúrgs, city;
+        dags, day;
+        fōtus, foot;
+        fisks, fish;
+        gulþ, gold;
+        haúrn, horn;
+        ƕeila, time;
+        juk, yoke;
+        nahts, night;
+        stáins, stone;
+        waúrd, word;
+        wulfs, wolf.
       </p>
     </div>
 
-    <div type="section" n="354">
+    <div type="section" n="354" status="wip">
       <p>
-        § 354. Derivative nouns are formed in a great variety of ways:—
+        <label>§ 354.</label>
+        Derivative nouns are formed in a great variety of ways:—
       </p>
 
       <list>
-        <item>
+        <item n="1">
           <p>
-            1. From adjectives, as bráidei, breadth; drugkanei, drunkenness; laggei, length; managei, multitude; siukei, sickness (§ 212); mildiþa, mildness; niujiþa, newness (§ 191); managdūþs, abundance (§ 199); manniskōdus, humanity; barniski, childhood.
+            <label>1.</label>
+            From adjectives, as
+            bráidei, breadth;
+            drugkanei, drunkenness;
+            laggei, length;
+            managei, multitude;
+            siukei, sickness (§ 212);
+            mildiþa, mildness;
+            niujiþa, newness (§ 191);
+            managdūþs, abundance (§ 199);
+            manniskōdus, humanity;
+            barniski, childhood.
           </p>
         </item>
-        <item>
+        <item n="2">
           <p>
-            2. By means of various suffixes most of which were no longer felt as such in Gothic, as fugls, fowl, bird; stikls, cup; tagl, hair; bagms, tree; máiþms, treasure; akrs, field; tagr, tear; brōþar, brother; daúhtar, daughter; figgrs, finger; baúrgja, citizen; gudja, priest; fiskja, fisher; bōkareis, scribe; mōtareis, toll-taker; lēkinassus, healing. Diminutives, as barnilō, little child; magula, little boy; mawilō, little girl.
+            <label>2.</label>
+            By means of various suffixes most of which were no longer felt as such in Gothic, as
+            fugls, fowl, bird;
+            stikls, cup;
+            tagl, hair;
+            bagms, tree;
+            máiþms, treasure;
+            akrs, field;
+            tagr, tear;
+            brōþar, brother;
+            daúhtar, daughter;
+            figgrs, finger;
+            baúrgja, citizen;
+            gudja, priest;
+            fiskja, fisher;
+            bōkareis, scribe;
+            mōtareis, toll-taker;
+            lēkinassus, healing.
+            Diminutives, as
+            barnilō, little child;
+            magula, little boy;
+            mawilō, little girl.
           </p>
         </item>
-        <item>
+        <item n="3">
           <p>
-            3. From strong verbs with and without a prefix, as<pb n="171"/>láiba, remnant; ur-rists, resurrection; un-witi, ignorance; drus, fall; ga-kusts, test; nuta, fisher; saúhts, sickness; bandi, band; bandja, prisoner; dragk, drink: ga-filh, burial; ga-munds, remembrance; fulhsni, secret; sagqs, sinking; saggws, song; ur-runs, running out; þarba, pauper; barn, child; baúr, son; bērusjōs, parents; ga-taúra, rent; ga-qumþs, assembly; qums, advent; skula, debtor; bida, prayer; gabei, riches; giba, gift; ga-nists, salvation; ga-qiss, consent; hliftus, thief; mahts, might; wists, substance; wraks, persecutor; fraþi, understanding; ga-skafts, creation; slaúhts, slaughter; staþs, place; us-wahsts, growth; áihts, property; ga-háit, promise.
+            <label>3.</label>
+            From strong verbs with and without a prefix, as
+            <pb n="171"/>
+            láiba, remnant;
+            ur-rists, resurrection;
+            un-witi, ignorance;
+            drus, fall;
+            ga-kusts, test;
+            nuta, fisher;
+            saúhts, sickness;
+            bandi, band;
+            bandja, prisoner;
+            dragk, drink;
+            ga-filh, burial;
+            ga-munds, remembrance;
+            fulhsni, secret;
+            sagqs, sinking;
+            saggws, song;
+            ur-runs, running out;
+            þarba, pauper;
+            barn, child;
+            baúr, son;
+            bērusjōs, parents;
+            ga-taúra, rent;
+            ga-qumþs, assembly;
+            qums, advent;
+            skula, debtor;
+            bida, prayer;
+            gabei, riches;
+            giba, gift;
+            ga-nists, salvation;
+            ga-qiss, consent;
+            hliftus, thief;
+            mahts, might;
+            wists, substance;
+            wraks, persecutor;
+            fraþi, understanding;
+            ga-skafts, creation;
+            slaúhts, slaughter;
+            staþs, place;
+            us-wahsts, growth;
+            áihts, property;
+            ga-háit, promise.
           </p>
         </item>
-        <item>
+        <item n="4">
           <p>
-            4. By means of various prefixes. Some of the forms given as prefixes below are in reality independent words forming the first element of compounds. They have been included among the real prefixes for purely practical purposes. It should be noted that the examples given below include both nouns and adjectives:—
+            <label>4.</label>
+            By means of various prefixes.
+            Some of the forms given as prefixes below are in reality independent words forming the first element of compounds.
+            They have been included among the real prefixes for purely practical purposes.
+            It should be noted that the examples given below include both nouns and adjectives:—
           </p>
         </item>
       </list>
@@ -51,147 +149,301 @@
   <div type="subchapter">
     <head>Prefixes</head>
 
-    <div type="section" n="355">
+    <div type="section" n="355" status="wip">
       <p>
-        § 355. af- from *ab- (O.Icel. OS. af-, OE. æf- (unaccented form of-), OHG. ab, Indg. *apó beside *ápo, Gr. ἀπό ἄπο, off, from, away from), as af-drugkja, drunkard; af-ētja, glutton; af-gudei, ungodliness; af-guþs, godless; af-lageins, remission; af-lēts, forgiveness; af-stass, a falling away.
+        <label>§ 355.</label>
+        af- from *ab-
+        (O.Icel. OS. af-, OE. æf- (unaccented form of-), OHG. ab, Indg. *apó beside *ápo, Gr. ἀπό ἄπο, off, from, away from), as
+        af-drugkja, drunkard;
+        af-ētja, glutton;
+        af-gudei, ungodliness;
+        af-guþs, godless;
+        af-lageins, remission;
+        af-lēts, forgiveness;
+        af-stass, a falling away.
       </p>
     </div>
 
-    <div type="section" n="356">
+    <div type="section" n="356" status="wip">
       <p>
-        § 356. afar- (O.Icel. afar-, OHG. avar-, a deriv. of Indg. *ápo + the comparative suffix -er-os, after, cp. Skr. áparas, the latter; adv. aparám, later), as afar-dags, the next day; afar-sabbatus, the first day after the Sabbath.
+        <label>§ 356.</label>
+        afar-
+        (O.Icel. afar-, OHG. avar-, a deriv. of Indg. *ápo + the comparative suffix -er-os, after, cp. Skr. áparas, the latter; adv. aparám, later), as
+        afar-dags, the next day;
+        afar-sabbatus, the first day after the Sabbath.
       </p>
     </div>
 
-    <div type="section" n="357">
+    <div type="section" n="357" status="wip">
       <p>
-        § 357. ana- (OS. an-, OHG. ana-, OE. an-, accented form of on-, Gr. ἀνά, ἄνα, on, upon), as ana-bū̌sns, command; ana-filh, tradition; ana-lageins, a laying on; ana-minds, supposition; ana-qiss, blasphemy; ana-siuns, visible; ana-stōdeins, beginning; ana-waírþs, future.
+        <label>§ 357.</label>
+        ana-
+        (OS. an-, OHG. ana-, OE. an-, accented form of on-, Gr. ἀνά, ἄνα, on, upon), as
+        ana-bū̌sns, command;
+        ana-filh, tradition;
+        ana-lageins, a laying on;
+        ana-minds, supposition;
+        ana-qiss, blasphemy;
+        ana-siuns, visible;
+        ana-stōdeins, beginning;
+        ana-waírþs, future.
       </p>
     </div>
     <pb n="172"/>
-    <div type="section" n="358">
+    <div type="section" n="358" status="wip">
       <p>
-        § 358. and-, mostly in verbs, anda-, only with nouns and adjectives (O.Icel. and-, OE. and-, ond-, OS. and-, ant-, OHG. ant-, ent-, int-, cp. Skr. ánti, Gr. ἀντί, opposite, against, Lat. ante, before), as and-áugi, face; and-bahts, servant; and-huleins, revelation; and-waírþi, presence.—anda-baúhts, ransom; anda-hafts, answer; anda-nēms, pleasant; anda-nahti, evening; anda-staþjis, adversary; anda-þāhts, circumspect; anda-wáurdi, answer.
+        <label>§ 358.</label>
+        and-, mostly in verbs, anda-, only with nouns and adjectives
+        (O.Icel. and-, OE. and-, ond-, OS. and-, ant-, OHG. ant-, ent-, int-, cp. Skr. ánti, Gr. ἀντί, opposite, against, Lat. ante, before), as
+        and-áugi, face;
+        and-bahts, servant;
+        and-huleins, revelation;
+        and-waírþi, presence.—
+        anda-baúhts, ransom;
+        anda-hafts, answer;
+        anda-nēms, pleasant;
+        anda-nahti, evening;
+        anda-staþjis, adversary;
+        anda-þāhts, circumspect;
+        anda-wáurdi, answer.
       </p>
     </div>
 
-    <div type="section" n="359">
+    <div type="section" n="359" status="wip">
       <p>
-        § 359. at- (O.Icel. OS. at-, OE. æt-, OHG. aȥ-, at, to, Lat. ad, to), only in at-aþni, year; at-witáins, observation.
+        <label>§ 359.</label>
+        at-
+        (O.Icel. OS. at-, OE. æt-, OHG. aȥ-, at, to, Lat. ad, to), only in
+        at-aþni, year;
+        at-witáins, observation.
       </p>
     </div>
 
-    <div type="section" n="360">
+    <div type="section" n="360" status="wip">
       <p>
-        § 360. bi- (OE. OS. be-, OHG. bi-, the unaccented form of OE. OS. OHG. bī, by), as bi-faíhō, covetousness; bi-háit, strife; bi-máit, circumcision; bi-sitands, neighbour.
+        <label>§ 360.</label>
+        bi-
+        (OE. OS. be-, OHG. bi-, the unaccented form of OE. OS. OHG. bī, by), as bi-faíhō, covetousness; bi-háit, strife; bi-máit, circumcision; bi-sitands, neighbour.
       </p>
     </div>
 
-    <div type="section" n="361">
+    <div type="section" n="361" status="wip">
       <p>
-        § 361. dis- (probably borrowed from Lat. dis-, apart, asunder), only in dis-taheins, dispersion; dis-wiss, dissolution.
+        <label>§ 361.</label>
+        dis-
+        (probably borrowed from Lat. dis-, apart, asunder), only in
+        dis-taheins, dispersion;
+        dis-wiss, dissolution.
       </p>
     </div>
 
-    <div type="section" n="362">
+    <div type="section" n="362" status="wip">
       <p>
-        § 362. faír- (OHG. fir-, far-, NHG. Ver-, Skr. pári, Gr. πέρι, περί, around, Lat. per, through), only in faír-weitl, spectacle.
+        <label>§ 362.</label>
+        faír-
+        (OHG. fir-, far-, NHG. Ver-, Skr. pári, Gr. πέρι, περί, around, Lat. per, through), only in
+        faír-weitl, spectacle.
      </p>
     </div>
 
-    <div type="section" n="363">
+    <div type="section" n="363" status="wip">
       <p>
-        § 363. faúr- (OE. OS. for, OHG. furi, for, before), as faúr-baúhts, redemption; faúr-hāh, curtain; faúr-lageins, a laying before; faúr-stasseis, chief ruler;
+        <label>§ 363.</label>
+        faúr-
+        (OE. OS. for, OHG. furi, for, before), as
+        faúr-baúhts, redemption;
+        faúr-hāh, curtain;
+        faúr-lageins, a laying before;
+        faúr-stasseis, chief ruler;
       </p>
     </div>
 
-    <div type="section" n="364">
+    <div type="section" n="364" status="wip">
       <p>
-        § 364. faúra- (OE. fore, OS. OHG. fora, before, for), as faúra-daúri, street; faúra-gagga, steward; faúra-hāh, curtain; faúra-maþleis, ruler; faúra-tani, sign, wonder.
+        § 364.
+        faúra-
+        (OE. fore, OS. OHG. fora, before, for), as
+        faúra-daúri, street;
+        faúra-gagga, steward;
+        faúra-hāh, curtain;
+        faúra-maþleis, ruler;
+        faúra-tani, sign, wonder.
       </p>
     </div>
 
-    <div type="section" n="365">
+    <div type="section" n="365" status="wip">
       <p>
-        § 365. fra- (OHG. fra-, Lat. Pro-, Gr. πρό, before), as fra-gifts, gift, promise; fra-qisteins, waste; fra-lusts, loss; fra-waúrhts, sin; fra-weit, revenge.
+        § 365.
+        fra-
+        (OHG. fra-, Lat. Pro-, Gr. πρό, before), as
+        fra-gifts, gift, promise;
+        fra-qisteins, waste;
+        fra-lusts, loss;
+        fra-waúrhts, sin;
+        fra-weit, revenge.
       </p>
     </div>
 
-    <div type="section" n="366">
+    <div type="section" n="366" status="wip">
       <p>
-        § 366. fram- (O.Icel. OE. OS. OHG. fram-, from), as fram-aldrs, very old; fram-gāhts, progress.
+        § 366.
+        fram-
+        (O.Icel. OE. OS. OHG. fram-, from), as
+        fram-aldrs, very old;
+        fram-gāhts, progress.
       </p>
     </div>
 
-    <div type="section" n="367">
+    <div type="section" n="367" status="wip">
       <p>
-        § 367. ga- (OE. ge-, OS. gi-, OHG. ga-, gi-), originally a preposition meaning together, which already in prim. Germanic was no longer used as an independent word. It was especially used in forming collective nouns, but at a later period it often had only an intensive meaning or<pb n="173"/>no special meaning at all, as ga-baúrþs, birth; ga-bruka, fragment; ga-dōfs, becoming, fit; ga-filh, burial; ga-guþs, pious; ga-hugds, thought; ga-juk, a pair; ga-kusts, proof; ga-man, fellow-man; ga-munds, remembrance; ga-qumþs, assembly; ga-skafts, creation; ga-waúrstwa, fellow-worker.
+        § 367.
+        ga-
+        (OE. ge-, OS. gi-, OHG. ga-, gi-), originally a preposition meaning together, which already in prim. Germanic was no longer used as an independent word.
+        It was especially used in forming collective nouns, but at a later period it often had only an intensive meaning or
+        <pb n="173"/>
+        no special meaning at all, as
+        ga-baúrþs, birth;
+        ga-bruka, fragment;
+        ga-dōfs, becoming, fit;
+        ga-filh, burial;
+        ga-guþs, pious;
+        ga-hugds, thought;
+        ga-juk, a pair;
+        ga-kusts, proof;
+        ga-man, fellow-man;
+        ga-munds, remembrance;
+        ga-qumþs, assembly;
+        ga-skafts, creation;
+        ga-waúrstwa, fellow-worker.
       </p>
     </div>
 
-    <div type="section" n="368">
+    <div type="section" n="368" status="wip">
       <p>
-        § 368. hindar- (OE. hinder, OHG. hintar, behind), only in hinder-weis, deceitful; hindar-weisei, deceitfulness.
+        § 368.
+        hindar-
+        (OE. hinder, OHG. hintar, behind), only in
+        hinder-weis, deceitful;
+        hindar-weisei, deceitfulness.
       </p>
     </div>
 
-    <div type="section" n="369">
+    <div type="section" n="369" status="wip">
       <p>
-        § 369. id- (OE. ed-, OHG. ita-, it-, back, again, re-), only in idweit (OE. edwīt, OHG. ita-wīȥ, it-wīȥ), reproach.
+        § 369.
+        id-
+        (OE. ed-, OHG. ita-, it-, back, again, re-), only in
+        idweit (OE. edwīt, OHG. ita-wīȥ, it-wīȥ), reproach.
       </p>
     </div>
 
-    <div type="section" n="370">
+    <div type="section" n="370" status="wip">
       <p>
-        § 370. in- (OE. OS. OHG. in, O.Lat. en, later in, Gr. ἐνί, ἐν, in), as in-ahei, soberness; in-ahs, sober; in-gardja, one of the same household; in-ilō, excuse; in-kunja, country-man; in-máideins, exchange; in-winds, turned aside.
+        § 370.
+        in-
+        (OE. OS. OHG. in, O.Lat. en, later in, Gr. ἐνί, ἐν, in), as
+        in-ahei, soberness;
+        in-ahs, sober;
+        in-gardja, one of the same household;
+        in-ilō, excuse;
+        in-kunja, country-man;
+        in-máideins, exchange;
+        in-winds, turned aside.
       </p>
     </div>
 
-    <div type="section" n="371">
+    <div type="section" n="371" status="wip">
       <p>
-        § 371. inna- (O.Icel. OE. inne, OHG. inna, within), only in inna-kunds, of the same household.
+        § 371.
+        inna-
+        (O.Icel. OE. inne, OHG. inna, within), only in
+        inna-kunds, of the same household.
       </p>
     </div>
 
-    <div type="section" n="372">
+    <div type="section" n="372" status="wip">
       <p>
-        § 372. missa- (OE. mis-, OHG. missa-, missi-, Indg. *mitto-, originally a participial adjective meaning lost), as missa-dēþs, misdeed; missa-leiks, various; missa-qiss, discord.
+        § 372.
+        missa-
+        (OE. mis-, OHG. missa-, missi-, Indg. *mitto-, originally a participial adjective meaning lost), as
+        missa-dēþs, misdeed;
+        missa-leiks, various;
+        missa-qiss, discord.
       </p>
     </div>
 
-    <div type="section" n="373">
+    <div type="section" n="373" status="wip">
       <p>
-        § 373. miþ- (OE. OS. mid, OHG. mit, with, Gr. μετά, with, under, between), as miþ-gardi-waddjus, partition wall; miþ-ga-sinþa, travelling companion; miþ-wissei, conscience.
+        § 373.
+        miþ-
+        (OE. OS. mid, OHG. mit, with, Gr. μετά, with, under, between), as
+        miþ-gardi-waddjus, partition wall;
+        miþ-ga-sinþa, travelling companion;
+        miþ-wissei, conscience.
       </p>
     </div>
 
-    <div type="section" n="374">
+    <div type="section" n="374" status="wip">
       <p>
-        § 374. uf- from *uƀ- (Skr. úpa, Gr. ὕπο, up, under), as uf-áiþeis, under an oath; uf-blōteins, entreaty; uf-háuseins, obedience; uf-kunþi, knowledge.
+        § 374.
+        uf- from *uƀ-
+        (Skr. úpa, Gr. ὕπο, up, under), as
+        uf-áiþeis, under an oath;
+        uf-blōteins, entreaty;
+        uf-háuseins, obedience;
+        uf-kunþi, knowledge.
       </p>
     </div>
 
-    <div type="section" n="375">
+    <div type="section" n="375" status="wip">
       <p>
-        § 375. ufar- (OE. ofer, OS. oƀar, OHG. ubar, Gr. ὑπέρ, Skr. upári, over, above), as ufar-fullei, overfullness; ufar-fulls, overfull; ufar-gudja, chief priest; ufar-mēli, superscription.
+        § 375.
+        ufar-
+        (OE. ofer, OS. oƀar, OHG. ubar, Gr. ὑπέρ, Skr. upári, over, above), as
+        ufar-fullei, overfullness;
+        ufar-fulls, overfull;
+        ufar-gudja, chief priest;
+        ufar-mēli, superscription.
       </p>
     </div>
 
-    <div type="section" n="376">
+    <div type="section" n="376" status="wip">
       <p>
-        § 376. un- (OE. OS. OHG. un-, Lat. en-, Gr. ἀ-, a negative particle, un-, sometimes used intensitively with the meaning bad, evil, &amp;c.), as un-agei, fearlessness; unbaírands, barren; un-fagrs, unfit; un-frōdei, without understanding; un-háili, disease; un-hulþa, evil spirit; un-mahts, infirmity; un-wāhs, blameless.
+        § 376.
+        un-
+        (OE. OS. OHG. un-, Lat. en-, Gr. ἀ-, a negative particle, un-, sometimes used intensitively with the meaning bad, evil, &amp;c.), as
+        un-agei, fearlessness;
+        unbaírands, barren;
+        un-fagrs, unfit;
+        un-frōdei, without understanding;
+        un-háili, disease;
+        un-hulþa, evil spirit;
+        un-mahts, infirmity;
+        un-wāhs, blameless.
       </p>
     </div>
     <pb n="174"/>
-    <div type="section" n="377">
+    <div type="section" n="377" status="wip">
       <p>
-        § 377. us- from *uz- (OE. or-, OS. OHG. ur-, out), as us-filh, burial; us-fōdeins, food; us-fulleins, fullness; us-kunþs, well-known; us-qiss, accusation; us-stass, resurrection; ur-rists, resurrection, see § 175 note 3.
+        § 377.
+        us- from *uz-
+        (OE. or-, OS. OHG. ur-, out), as
+        us-filh, burial;
+        us-fōdeins, food;
+        us-fulleins, fullness;
+        us-kunþs, well-known;
+        us-qiss, accusation;
+        us-stass, resurrection;
+        ur-rists, resurrection, see § 175 note 3.
       </p>
     </div>
 
-    <div type="section" n="378">
+    <div type="section" n="378" status="wip">
       <p>
-        § 378. wiþra- (OE. wiþer, OHG. widar, against), only in wiþra-waírþs, opposite.
+        § 378.
+        wiþra-
+        (OE. wiþer, OHG. widar, against), only in
+        wiþra-waírþs, opposite.
       </p>
     </div>
   </div> 
@@ -199,63 +451,158 @@
   <div type="subchapter">
     <head>Suffixes.</head>
 
-    <div type="section" n="379">
+    <div type="section" n="379" status="wip">
       <p>
-        § 379. -and- (OE. -end, -nd, OS. -and, -nd; OHG. -ant, -nt), originally the ending of the present participle (§ 217), used in forming nomina agentis, as bisitands, neighbour; frijōnds, friend; fijands, enemy; nasjands, saviour. See § 218.
+        § 379.
+        -and-
+        (OE. -end, -nd, OS. -and, -nd; OHG. -ant, -nt), originally the ending of the present participle (§ 217), used in forming nomina agentis, as
+        bisitands, neighbour;
+        frijōnds, friend;
+        fijands, enemy;
+        nasjands, saviour.
+        See § 218.
       </p>
     </div>
 
-    <div type="section" n="380">
+    <div type="section" n="380" status="wip">
       <p>
-        § 380. -arja- (OE. -ere, OHG. -ā̌ri, Lat. -ārius), originally used to form nomina agentis from other nouns, and then later from verbs also, as bōkareis, scribe; láisareis, teacher; liuþareis, singer; mōtareis, toll-taker; sōkareis, disputer. See § 185.
+        § 380.
+        -arja-
+        (OE. -ere, OHG. -ā̌ri, Lat. -ārius), originally used to form nomina agentis from other nouns, and then later from verbs also, as
+        bōkareis, scribe;
+        láisareis, teacher;
+        liuþareis, singer;
+        mōtareis, toll-taker;
+        sōkareis, disputer.
+        See § 185.
       </p>
     </div>
 
-    <div type="section" n="381">
+    <div type="section" n="381" status="wip">
       <p>
-        § 381. -assu- from *-attu-, Indg. -ad-tu- (cp. § 138), the first element of which is the same as the -at- in Goth. -atjan, OE. -ettan, OHG. -azzen, Gr. -άζειν, in verbs like Goth. laúhatjan, OHG. lohazzen, to lighten. Mostly extended to -inassu- with -in- from verbs like fráujinōn, to rule over; gudjinōn, to be a priest (§ 415); as ibnassus, evenness; ufarassus, overflow; blōtinassus, service, worship; draúhtinassus, warfare; gudjinassus (formed from stem gudjin-, nom. gudja, priest), office of a priest; hōrinassus, adultery; lēkinassus, healing; skalkinassus, service; þiudinassus, service; waninassus, want.
+        § 381.
+        -assu- from *-attu-, Indg. -ad-tu- (cp. § 138), the first element of which is the same as the -at- in Goth. -atjan, OE. -ettan, OHG. -azzen, Gr. -άζειν, in verbs like Goth. laúhatjan, OHG. lohazzen, to lighten.
+        Mostly extended to -inassu- with -in- from verbs like
+        fráujinōn, to rule over;
+        gudjinōn, to be a priest (§ 415);
+        as
+        ibnassus, evenness;
+        ufarassus, overflow;
+        blōtinassus, service, worship;
+        draúhtinassus, warfare;
+        gudjinassus (formed from stem gudjin-, nom. gudja, priest), office of a priest;
+        hōrinassus, adultery;
+        lēkinassus, healing;
+        skalkinassus, service;
+        þiudinassus, service;
+        waninassus, want.
       </p>
     </div>
 
-    <div type="section" n="382">
+    <div type="section" n="382" status="wip">
       <p>
-        § 382. -dūþi-, forming fem. abstract nouns, cp. Lat. juventus, youth, gen. juventūtis, Indg. -tūti-, as ajukdūþs, eternity; managdūþs, abundance; mikildūþs, greatness; gamáindūþs, communion. See § 199.
+        § 382.
+        -dūþi-, forming fem. abstract nouns, cp. Lat. juventus, youth, gen. juventūtis, Indg. -tūti-, as
+        ajukdūþs, eternity;
+        managdūþs, abundance;
+        mikildūþs, greatness;
+        gamáindūþs, communion.
+        See § 199.
       </p>
     </div>
 
-    <div type="section" n="383">
+    <div type="section" n="383" status="wip">
       <p>
-        § 383. -īn-, embracing fem. abstract nouns formed from adjectives, as áudagei, blessedness; báitrei, bitterness;<pb n="175"/>bleiþei, mercy; bráidei, breadth; diupei, depth; gōdei, goodness; handugei, wisdom; laggei, length; liutei, deceit; mikilei, greatness; siukei, sickness; swinþei, strength. See § 212.
+        § 383.
+        -īn-, embracing fem. abstract nouns formed from adjectives, as
+        áudagei, blessedness;
+        báitrei, bitterness;
+        <pb n="175"/>
+        bleiþei, mercy;
+        bráidei, breadth;
+        diupei, depth;
+        gōdei, goodness;
+        handugei, wisdom;
+        laggei, length;
+        liutei, deceit;
+        mikilei, greatness;
+        siukei, sickness;
+        swinþei, strength.
+        See § 212.
       </p>
     </div>
 
-    <div type="section" n="384">
+    <div type="section" n="384" status="wip">
       <p>
-        § 384. -iþa (OE. -þo, -þ, OHG. -ida, prim. Germanic -iþō with -i- from ja- and i-stems, Indg. -tā), used in forming fem. abstract nouns from adjectives, as aggwiþa, anguish; agliþa, tribulation; dáubiþa, deafness; diupiþa, depth; dwaliþa, foolishness; gáuriþa, sorrow; kaúriþa, weight; manwiþa, preparation; mēriþa, fame; mildiþa, mildness; niujiþa, newness; swēriþa, honour; swikniþa, purity; weihiþa, holiness. See § 191. -iþa generally became -ida by dissimilation when the preceding syllable began with a voiceless consonant, as áuþida, desert; waírþida, worthiness.
+        § 384.
+        -iþa
+        (OE. -þo, -þ, OHG. -ida, prim. Germanic -iþō with -i- from ja- and i-stems, Indg. -tā), used in forming fem. abstract nouns from adjectives, as
+        aggwiþa, anguish;
+        agliþa, tribulation;
+        dáubiþa, deafness;
+        diupiþa, depth;
+        dwaliþa, foolishness;
+        gáuriþa, sorrow;
+        kaúriþa, weight;
+        manwiþa, preparation;
+        mēriþa, fame;
+        mildiþa, mildness;
+        niujiþa, newness;
+        swēriþa, honour;
+        swikniþa, purity;
+        weihiþa, holiness.
+        See § 191.
+        -iþa generally became -ida by dissimilation when the preceding syllable began with a voiceless consonant, as
+        áuþida, desert;
+        waírþida, worthiness.
       </p>
     </div>
 
-    <div type="section" n="385">
+    <div type="section" n="385" status="wip">
       <p>
-        § 385. -ōpu- (OE. -aþ, -oþ, OHG. -ōd, Lat. -ātu-, Gr. Doric -ᾱτύ-), used in forming masc. abstract nouns from the second class of weak verbs, as gáunōþus, mourning; gabaúrjōþus, pleasure. -ōþu- became -ōdu- by dissimilation when the preceding syllable began with a voiceless consonant, as aúhjōdus, tumult; manniskōdus, humanity; wratōdus, journey.
+        § 385.
+        -ōpu-
+        (OE. -aþ, -oþ, OHG. -ōd, Lat. -ātu-, Gr. Doric -ᾱτύ-), used in forming masc. abstract nouns from the second class of weak verbs, as
+        gáunōþus, mourning;
+        gabaúrjōþus, pleasure.
+        -ōþu- became -ōdu- by dissimilation when the preceding syllable began with a voiceless consonant, as
+        aúhjōdus, tumult;
+        manniskōdus, humanity;
+        wratōdus, journey.
       </p>
     </div>
 
-    <div type="section" n="386">
+    <div type="section" n="386" status="wip">
       <p>
-        § 386. -ubni, -ufni (see § 158 note), prim. Germanic -uƀnja-, Indg. -mnjo- with vocalic m, as fastubni, observance; fráistubni, temptation; witubni, knowledge; waldufni, power; wundufni, wound.
+        § 386.
+        -ubni, -ufni
+        (see § 158 note), prim. Germanic -uƀnja-, Indg. -mnjo- with vocalic m, as
+        fastubni, observance;
+        fráistubni, temptation;
+        witubni, knowledge;
+        waldufni, power;
+        wundufni, wound.
       </p>
     </div>
 
-    <div type="section" n="387">
+    <div type="section" n="387" status="wip">
       <p>
-        § 387. -þwa (prim. Germanic -þwō, Indg. -twā), as fijaþwa, fiaþwa, hatred; frijaþwa, love; saliþwōs, pl., dwelling, mansion.
+        § 387.
+        -þwa (prim. Germanic -þwō, Indg. -twā), as
+        fijaþwa, fiaþwa, hatred;
+        frijaþwa, love;
+        saliþwōs, pl., dwelling, mansion.
       </p>
     </div>
 
-    <div type="section" n="388">
+    <div type="section" n="388" status="wip">
       <p>
-        § 388. -eini-, prim. Germanic -i(j)ini-, Indg. -ejeni-; -ōni-, Indg. -āni-; -áini-, prim. Germanic -æ(j)ini-, Indg. -ējeni-; used in forming verbal abstract nouns from the first three classes of weak verbs, as láiseins, doctrine; lapōns, invitation; libáins, life. See § 200.
+        § 388.
+        -eini-, prim. Germanic -i(j)ini-, Indg. -ejeni-; -ōni-, Indg. -āni-; -áini-, prim. Germanic -æ(j)ini-, Indg. -ējeni-; used in forming verbal abstract nouns from the first three classes of weak verbs, as
+        láiseins, doctrine;
+        lapōns, invitation;
+        libáins, life.
+        See § 200.
       </p>
     </div>
   </div>
@@ -265,21 +612,72 @@
   <div type="subchapter">
     <head>Compound Nouns.</head>
 
-    <div type="section" n="389">
+    <div type="section" n="389" status="wip">
       <p>
-        § 389. In compound nouns formed by composition the second element is always a noun, but the first element may be a noun, adjective, or a particle. The declension and gender of compound nouns are determined by the final element.
+        § 389.
+        In compound nouns formed by composition the second element is always a noun, but the first element may be a noun, adjective, or a particle.
+        The declension and gender of compound nouns are determined by the final element.
       </p>
 
       <p>
-        The final vowel of the first element generally remained in the pure a-stems, but there are many exceptions which it is difficult to account for. Examples are: áiƕa-tundi, thornbush; áina-baúr, first-born; áiza-smiþa, coppersmith; arma-haírtei, mercy; daúra-wards, door-keeper; dwala-waúrdei, foolish talk; figgra-gulþ, finger-ring; garda-waldands (but see § 197), master of the house; hunda-faþs, centurion; hunsla-staþs, altar; lagga-mōdei, long-suffering; láuna-wargs, unthankful person; láusa-waúrdi, empty talk; lukarna-staþa, candlestick; waíla-dēþs, benefit; waúrda-jiuka, a strife about words; weina-gards, vineyard; weina-triu, vine. But on the other hand: áin-falþei, simplicity; all-waldands, the Almighty; gud-hūs, temple; guþ-blōstreis, worshipper of God; hals-agga, neck; láus-handus (adj.), empty-handed; manag-falþs (adj.), manifold; sigisláun, prize; wein-drugkja, wine-bibber.
+        The final vowel of the first element generally remained in the pure a-stems, but there are many exceptions which it is difficult to account for. Examples are:
+        áiƕa-tundi, thornbush;
+        áina-baúr, first-born;
+        áiza-smiþa, coppersmith;
+        arma-haírtei, mercy;
+        daúra-wards, door-keeper;
+        dwala-waúrdei, foolish talk;
+        figgra-gulþ, finger-ring;
+        garda-waldands (but see § 197), master of the house;
+        hunda-faþs, centurion;
+        hunsla-staþs, altar;
+        lagga-mōdei, long-suffering;
+        láuna-wargs, unthankful person;
+        láusa-waúrdi, empty talk;
+        lukarna-staþa, candlestick;
+        waíla-dēþs, benefit;
+        waúrda-jiuka, a strife about words;
+        weina-gards, vineyard;
+        weina-triu, vine.
+        But on the other hand:
+        áin-falþei, simplicity;
+        all-waldands, the Almighty;
+        gud-hūs, temple;
+        guþ-blōstreis, worshipper of God;
+        hals-agga, neck;
+        láus-handus (adj.), empty-handed;
+        manag-falþs (adj.), manifold;
+        sigisláun, prize;
+        wein-drugkja, wine-bibber.
       </p>
 
       <p>
-        The -a remained in the short ja-stems, but disappeared in the long, as midja-sweipáins, the flood; niuja-satiþs, novice; wilja-halþei, respect of persons; but frei-hals, freedom. arbi-numja, heir; agláiti-waúrdei, indecent language.
+        The -a remained in the short ja-stems, but disappeared in the long, as
+        midja-sweipáins, the flood;
+        niuja-satiþs, novice;
+        wilja-halþei, respect of persons;
+        but
+        frei-hals, freedom.
+        arbi-numja, heir;
+        agláiti-waúrdei, indecent language.
       </p>
 
       <p>
-        The final vowel of the first element regularly remained in the ō-, jō-, i, and u-stems, as mōta-staþs, toll-place. þūsundi-faþs, leader of a thousand men. gabaúrþi-waúrda, genealogy; mari-sáiws, sea; mati-balgs, wallet; náudi-bandi, fetter; but brūþ-faþs, bridegroom. asilu-qaírnus, mill-stone; faíhu-gaírnei, covetousness; filu-waúdrdei, much talking; fōtu-baúrd, footboard; grundu-waddjus, foundation; hardu-haírtei, hard-heartedness.
+        The final vowel of the first element regularly remained in the ō-, jō-, i, and u-stems, as
+        mōta-staþs, toll-place.
+        þūsundi-faþs, leader of a thousand men.
+        gabaúrþi-waúrda, genealogy;
+        mari-sáiws, sea;
+        mati-balgs, wallet;
+        náudi-bandi, fetter;
+        but
+        brūþ-faþs, bridegroom.
+        asilu-qaírnus, mill-stone;
+        faíhu-gaírnei, covetousness;
+        filu-waúdrdei, much talking;
+        fōtu-baúrd, footboard;
+        grundu-waddjus, foundation;
+        hardu-haírtei, hard-heartedness.
       </p>
       <pb n="177"/>
       <p>
@@ -287,11 +685,19 @@
       </p>
 
       <p>
-        The n-stems have a, as áuga-daúrō, window; mana-sēþs, mankind; but man-leika, image; staua-stōls, judgment seat.
+        The n-stems have a, as
+        áuga-daúrō, window;
+        mana-sēþs, mankind;
+        but
+        man-leika, image;
+        staua-stōls, judgment seat.
       </p>
 
       <p>
-        Examples of consonant stems are: baúrgs-waddjus, town-wall; brōþru-lubō, brotherly love, beside the new formation brōþra-lubō; nahta-mats, supper, formed on analogy with the a-stems.
+        Examples of consonant stems are:
+        baúrgs-waddjus, town-wall;
+        brōþru-lubō, brotherly love, beside the new formation brōþra-lubō;
+        nahta-mats, supper, formed on analogy with the a-stems.
       </p>
     </div>
   </div> 
@@ -299,15 +705,43 @@
   <div type="subchapter">
     <head>Adjectives.</head>
 
-    <div type="section" n="390">
+    <div type="section" n="390" status="wip">
       <p>
-        § 390. Adjectives, like nouns, may be conveniently divided into three classes: simple, derivative, and com pound. Examples of simple adjectives are: áins, one; alls, all; baírhts, bright; blinds, blind; dáuþs, dead; diups, deep; fagrs, fair; fulls, full; háils, whole; hardus, hard; ibns, even; juggs, young; kalds, cold; mikils, great; raíhts, right; siuks, sick; ubils, evil.
+        § 390.
+        Adjectives, like nouns, may be conveniently divided into three classes: simple, derivative, and compound.
+        Examples of simple adjectives are:
+        áins, one;
+        alls, all;
+        baírhts, bright;
+        blinds, blind;
+        dáuþs, dead;
+        diups, deep;
+        fagrs, fair;
+        fulls, full;
+        háils, whole;
+        hardus, hard;
+        ibns, even;
+        juggs, young;
+        kalds, cold;
+        mikils, great;
+        raíhts, right;
+        siuks, sick;
+        ubils, evil.
       </p>
     </div>
 
-    <div type="section" n="391">
+    <div type="section" n="391" status="wip">
       <p>
-        § 391. Derivative adjectives often have the same prefixes as nouns (§§ 355–78), as af-guþs, godless; ana-siuns, visible; anda-nēms, pleasant; fram-aldrs, very old; gaguþs, pious; missa-leiks, various; un-fagrs, unfit; us-kunþs, well known.
+        § 391.
+        Derivative adjectives often have the same prefixes as nouns (§§ 355–78), as
+        af-guþs, godless;
+        ana-siuns, visible;
+        anda-nēms, pleasant;
+        fram-aldrs, very old;
+        gaguþs, pious;
+        missa-leiks, various;
+        un-fagrs, unfit;
+        us-kunþs, well known.
       </p>
     </div>
   </div> 
@@ -315,33 +749,69 @@
   <div type="subchapter">
     <head>Suffixes.</head>
 
-    <div type="section" n="392">
+    <div type="section" n="392" status="wip">
       <p>
-        § 392. -aga- (OE. -ig, OHG. -ag, prim. Germanic -aʒá-, Indg. -oqó-, cp. Skr. -aká-, as áudags, blessed; grēdags, greedy; mōdags, angry; un-hunslags, without offering; wulþags, glorious.
+        § 392.
+        -aga-
+        (OE. -ig, OHG. -ag, prim. Germanic -aʒá-, Indg. -oqó-, cp. Skr. -aká-, as
+        áudags, blessed;
+        grēdags, greedy;
+        mōdags, angry;
+        un-hunslags, without offering;
+        wulþags, glorious.
       </p>
     </div>
 
-    <div type="section" n="393">
+    <div type="section" n="393" status="wip">
       <p>
-        § 393. -aha- (prim. Germanic -áxa-, Indg. -óqo-, cp. Skr. -áka-, the same suffix as the above with difference of accent), as áinaha (weak decl), only; niu-klahs, under age; stáinahs, stony; un-barnahs, childless; waúrdahs, verbal; and similarly baírgahei, hill country, from *baírgahs; brōþrahans, brethren, from *brōþrahs.
+        § 393.
+        -aha-
+        (prim. Germanic -áxa-, Indg. -óqo-, cp. Skr. -áka-, the same suffix as the above with difference of accent), as
+        áinaha (weak decl), only;
+        niu-klahs, under age;
+        stáinahs, stony;
+        un-barnahs, childless;
+        waúrdahs, verbal; and similarly baírgahei, hill country, from *baírgahs; brōþrahans, brethren, from *brōþrahs.
       </p>
     </div>
 
-    <div type="section" n="394">
+    <div type="section" n="394" status="wip">
       <p>
-        § 394. -eiga- (OE. -ig, OHG. -ī̌g, prim. Germanic -īʒá-, Indg. *-īqó-, cp. Skr. -īká-), as anda-nēmeigs, holding fast;<pb n="178"/>ansteigs, gracious; hrōþeigs, victorious; láiseigs, apt to teach; listeigs, cunning; mahteigs, mighty; sineigs, old; þiuþeigs, good; us-beisneigs, long-suffering; waúrst-weigs, effective.
+        § 394.
+        -eiga-
+        (OE. -ig, OHG. -ī̌g, prim. Germanic -īʒá-, Indg. *-īqó-, cp. Skr. -īká-), as anda-nēmeigs, holding fast;<pb n="178"/>ansteigs, gracious; hrōþeigs, victorious; láiseigs, apt to teach; listeigs, cunning; mahteigs, mighty; sineigs, old; þiuþeigs, good; us-beisneigs, long-suffering; waúrst-weigs, effective.
       </p>
     </div>
 
-    <div type="section" n="395">
+    <div type="section" n="395" status="wip">
       <p>
-        § 395. -eina- (OE. -en, OHG. -īn, prim. Germanic -īna-, = Lat. -īnu-s), used in forming adjectives denoting the material of which a thing is made, as aírþeins, earthen; áiweins, eternal; barizeins, of barley; filleins, leathern; gulþeins, golden; gumeins, male, qineins, female; stáineins, of stone; þaúrneins, thorny; triweins, wooden.
+        § 395.
+        -eina-
+        (OE. -en, OHG. -īn, prim. Germanic -īna-, = Lat. -īnu-s), used in forming adjectives denoting the material of which a thing is made, as
+        aírþeins, earthen;
+        áiweins, eternal;
+        barizeins, of barley;
+        filleins, leathern;
+        gulþeins, golden;
+        gumeins, male, qineins, female;
+        stáineins, of stone;
+        þaúrneins, thorny;
+        triweins, wooden.
       </p>
     </div>
 
-    <div type="section" n="396">
+    <div type="section" n="396" status="wip">
       <p>
-        § 396. -iska- (OE. -isc, OHG. -isc, -isk, Lat. -iscu-s, Gk. -ισκο-ς), generally connoting the quality of the object denoted by the simplex, as barnisks, childish; funisks, fiery; gudisks, godly; mannisks, human; *þiudisks, whence þiudiskō, after the manner of Gentiles; iudaíwisks, Jewish, formed from Iudaíus, Jew; háiþiwisks, wild, with w from iudaíwisks.
+        § 396.
+        -iska-
+        (OE. -isc, OHG. -isc, -isk, Lat. -iscu-s, Gk. -ισκο-ς), generally connoting the quality of the object denoted by the simplex, as
+        barnisks, childish;
+        funisks, fiery;
+        gudisks, godly;
+        mannisks, human;
+        *þiudisks, whence þiudiskō, after the manner of Gentiles;
+        iudaíwisks, Jewish, formed from Iudaíus, Jew;
+        háiþiwisks, wild, with w from iudaíwisks.
       </p>
     </div>
   </div>
@@ -349,15 +819,46 @@
   <div type="subchapter">
     <head>Compound Adjectives.</head>
 
-    <div type="section" n="397">
+    <div type="section" n="397" status="wip">
       <p>
-        § 397. In compound adjectives formed by composition the second element is always an adjective or used as an adjective, but the first element may be a noun, adjective, verb, or particle. The final vowel in the first element of the compound follows the same rule as in nouns (§ 389), as akrana-láus, fruitless; gōda-kunds, of good origin; guda-láus, godless; himina-kunds, heavenly; witōda-láus, lawless; áin-falþs, simple; mikil-þūhts, high-minded. andi-láus beside anda-láus, endless, with a from the pure a-stems. aírþa-kunds, born of the earth; ƕreila-waírbs, transitory. náudi-þaúrfts, needy. faíhu-gaírns, covetous; handu-waúrhts, made by hands. guma-kunds, male; qina-kunds, female; silba-wiljis, willing of oneself.
+        § 397.
+        In compound adjectives formed by composition the second element is always an adjective or used as an adjective, but the first element may be a noun, adjective, verb, or particle.
+        The final vowel in the first element of the compound follows the same rule as in nouns (§ 389), as
+        akrana-láus, fruitless;
+        gōda-kunds, of good origin;
+        guda-láus, godless;
+        himina-kunds, heavenly;
+        witōda-láus, lawless;
+        áin-falþs, simple;
+        mikil-þūhts, high-minded.
+        andi-láus beside anda-láus, endless, with a from the pure a-stems.
+        aírþa-kunds, born of the earth;
+        ƕreila-waírbs, transitory.
+        náudi-þaúrfts, needy.
+        faíhu-gaírns, covetous;
+        handu-waúrhts, made by hands.
+        guma-kunds, male;
+        qina-kunds, female;
+        silba-wiljis, willing of oneself.
       </p>
     </div>
 
-    <div type="section" n="398">
+    <div type="section" n="398" status="wip">
       <p>
-        § 398. In addition to the class of compound adjectives given above, the parent language had a class, the second element of which was originally a noun. Such compounds<pb n="179"/>are generally called bahuvrīhi or possessive compounds, as Lat. longipēs, having a long foot, long-footed; Gr. δυσμενής, having an evil mind, hostile; Gothic alja-kuns, belonging to another race, foreign; arma-haírts, merciful; háuh-haírts, proud, haughty; ibna-leiks, equal; láus-handus, empty-handed; láusa-waúrds, talking vainly; ubil-waúrds, evil-speaking.
+        § 398.
+        In addition to the class of compound adjectives given above, the parent language had a class, the second element of which was originally a noun.
+        Such compounds
+        <pb n="179"/>
+        are generally called bahuvrīhi or possessive compounds, as
+        Lat. longipēs, having a long foot, long-footed;
+        Gr. δυσμενής, having an evil mind, hostile;
+        Gothic alja-kuns, belonging to another race, foreign;
+        arma-haírts, merciful;
+        háuh-haírts, proud, haughty;
+        ibna-leiks, equal;
+        láus-handus, empty-handed;
+        láusa-waúrds, talking vainly;
+        ubil-waúrds, evil-speaking.
       </p>
     </div>
   </div>
@@ -365,21 +866,47 @@
   <div type="subchapter">
     <head>Verbs.</head>
 
-    <div type="section" n="399">
+    <div type="section" n="399" status="wip">
       <p>
-        § 399. From a morphological point of view, all verbs may be divided into two great classes: simple and com pound. Simple verbs are sub-divided into primary and denominative verbs. To the former sub-division belong the strong verbs and a certain number of weak verbs, and to the latter the denominative verbs. The simple primary verbs are here left out of further consideration, as their formation belongs to the wider field of comparative grammar. Compound verbs are of various kinds: (1) those formed from simple verbs by means of separable or inseparable particles, (2) those formed from nouns and adjectives with verbal prefixes or suffixes.
+        § 399.
+        From a morphological point of view, all verbs may be divided into two great classes: simple and compound.
+        Simple verbs are sub-divided into primary and denominative verbs.
+        To the former sub-division belong the strong verbs and a certain number of weak verbs, and to the latter the denominative verbs.
+        The simple primary verbs are here left out of further consideration, as their formation belongs to the wider field of comparative grammar.
+        Compound verbs are of various kinds:
+        (1) those formed from simple verbs by means of separable or inseparable particles,
+        (2) those formed from nouns and adjectives with verbal prefixes or suffixes.
       </p>
     </div>
 
-    <div type="section" n="400">
+    <div type="section" n="400" status="wip">
       <p>
-        § 400. Simple verbs are formed direct from nouns and adjectives or from the corresponding strong verbs, as dáiljan, to deal out; fōdjan, to feed; namnjan, to name; wēnjan, to hope; fiskōn, to fish; karōn, to care for. háiljan, to heal; hráinjan, to make clean; mikiljan, to magnify; weihnan, to become holy. lagjan, to lay; nasjan, to save; ráisjan, to raise; satjan, to set; wandjan, to turn.
+        § 400.
+        Simple verbs are formed direct from nouns and adjectives or from the corresponding strong verbs, as
+        dáiljan, to deal out;
+        fōdjan, to feed;
+        namnjan, to name;
+        wēnjan, to hope;
+        fiskōn, to fish;
+        karōn, to care for.
+        háiljan, to heal;
+        hráinjan, to make clean;
+        mikiljan, to magnify;
+        weihnan, to become holy.
+        lagjan, to lay;
+        nasjan, to save;
+        ráisjan, to raise;
+        satjan, to set;
+        wandjan, to turn.
       </p>
     </div>
 
-    <div type="section" n="401">
+    <div type="section" n="401" status="wip">
       <p>
-        § 401. Compound verbs are formed from simple verbs, nouns, and adjectives, by means of various prefixes. See below. On the accentuation of the prefixes in verbs see §§ 33–4.
+        § 401.
+        Compound verbs are formed from simple verbs, nouns, and adjectives, by means of various prefixes.
+        See below.
+        On the accentuation of the prefixes in verbs see §§ 33–4.
       </p>
     </div>
   </div>
@@ -387,138 +914,290 @@
   <div type="subchapter">
     <head>Prefixes.</head>
 
-    <div type="section" n="402">
+    <div type="section" n="402" status="wip">
       <p>
-        § 402. af- (§ 355), as af-áikan, to deny; af-dáuþjan, to kill; af-gaggan, to go away; af-lētan, to dismiss; af-máitan, to cut off; af-slahan, to kill; af-tiuhan, to draw away.
+        § 402.
+        af-
+        (§ 355), as
+        af-áikan, to deny;
+        af-dáuþjan, to kill;
+        af-gaggan, to go away;
+        af-lētan, to dismiss;
+        af-máitan, to cut off;
+        af-slahan, to kill;
+        af-tiuhan, to draw away.
       </p>
     </div>
     <pb n="180"/>
-    <div type="section" n="403">
+    <div type="section" n="403" status="wip">
       <p>
-        § 403. afar- (§ 356), as afar-gaggan, to follow; afar-láistjan, to follow after.
+        § 403.
+        afar-
+        (§ 356), as
+        afar-gaggan, to follow;
+        afar-láistjan, to follow after.
       </p>
     </div>
 
-    <div type="section" n="404">
+    <div type="section" n="404" status="wip">
       <p>
-        § 404. ana- (§ 357), as ana-áukan, to add to; ana-biud-an, to command; ana-háitan, to call on; ana-hneiwan, to stop down; ana-lagjan, to lay on; ana-stōdjan, to begin.
+        § 404.
+        ana-
+        (§ 357), as
+        ana-áukan, to add to;
+        ana-biud-an, to command;
+        ana-háitan, to call on;
+        ana-hneiwan, to stop down;
+        ana-lagjan, to lay on;
+        ana-stōdjan, to begin.
       </p>
     </div>
 
-    <div type="section" n="405">
+    <div type="section" n="405" status="wip">
       <p>
-        § 405. and- (§ 358), as and-bindan, to unbind; and-hafjan, to answer; and-huljan, to uncover; and-niman, to receive; and-sakan, to dispute; and-standan, to withstand.
+        § 405.
+        and-
+        (§ 358), as
+        and-bindan, to unbind;
+        and-hafjan, to answer;
+        and-huljan, to uncover;
+        and-niman, to receive;
+        and-sakan, to dispute;
+        and-standan, to withstand.
       </p>
     </div>
 
-    <div type="section" n="406">
+    <div type="section" n="406" status="wip">
       <p>
-        § 406. at- (§ 359), as at-áugjan, to show; at-giban, to give up; at-hafjan, to take down; at-lagjan, to lay on; at-saíƕan, to take heed; at-tēkan, to touch; at-waírpan, to cast down; at-wōpjan, to call.
+        § 406.
+        at-
+        (§ 359), as
+        at-áugjan, to show;
+        at-giban, to give up;
+        at-hafjan, to take down;
+        at-lagjan, to lay on;
+        at-saíƕan, to take heed;
+        at-tēkan, to touch;
+        at-waírpan, to cast down;
+        at-wōpjan, to call.
       </p>
     </div>
 
-    <div type="section" n="407">
+    <div type="section" n="407" status="wip">
       <p>
-        § 407. bi- (§ 360), as bi-áukan, to add to; bi-gitan, to find; bi-leiban, to remain; bi-rinnan, to run about; bi sitan, to sit about; bi-swaran, to adjure.
+        § 407.
+        bi-
+        (§ 360), as
+        bi-áukan, to add to;
+        bi-gitan, to find;
+        bi-leiban, to remain;
+        bi-rinnan, to run about;
+        bi-sitan, to sit about;
+        bi-swaran, to adjure.
       </p>
     </div>
 
-    <div type="section" n="408">
+    <div type="section" n="408" status="wip">
       <p>
-        § 408. dis- (§ 361), as dis-dáiljan, to share; dis-sitan, to settle upon; dis-tahan, to waste; dis-taíran, to tear asunder; dis-wilwan, to plunder.
+        § 408.
+        dis-
+        (§ 361), as
+        dis-dáiljan, to share;
+        dis-sitan, to settle upon;
+        dis-tahan, to waste;
+        dis-taíran, to tear asunder;
+        dis-wilwan, to plunder.
       </p>
     </div>
 
-    <div type="section" n="409">
+    <div type="section" n="409" status="wip">
       <p>
-        § 409. -du- (of unknown origin), as du-at-gaggan, to go to; du-ginnan, to begin; du-rinnan, to run to; du-stōdjan, to begin.
+        § 409.
+        -du-
+        (of unknown origin), as
+        du-at-gaggan, to go to;
+        du-ginnan, to begin;
+        du-rinnan, to run to;
+        du-stōdjan, to begin.
       </p>
     </div>
 
-    <div type="section" n="410">
+    <div type="section" n="410" status="wip">
       <p>
-        § 410. faúr- (§ 363), as faúr-biudan, to forbid; faúr-gaggan; to pass by; faúr-qiþan, to excuse; faúr-sniwan, to hasten before.
+        § 410.
+        faúr-
+        (§ 363), as
+        faúr-biudan, to forbid;
+        faúr-gaggan, to pass by;
+        faúr-qiþan, to excuse;
+        faúr-sniwan, to hasten before.
       </p>
     </div>
 
-    <div type="section" n="411">
+    <div type="section" n="411" status="wip">
       <p>
-        § 411. faúra- (§ 364), as faúra-gaggan, to go before; faúra-gateihan, to inform beforehand; faúra-standan, to govern.
+        § 411.
+        faúra-
+        (§ 364), as
+        faúra-gaggan, to go before;
+        faúra-gateihan, to inform beforehand;
+        faúra-standan, to govern.
       </p>
     </div>
 
-    <div type="section" n="412">
+    <div type="section" n="412" status="wip">
       <p>
-        § 412. fra- (§ 365), as fra-giban, to give; fra-itan, to devour; fra-lētan, to liberate; fra-liusan, to lose; fra-niman, to receive; fra-qistjan, to destroy; fra-wardjan, to destroy.
+        § 412.
+        fra-
+        (§ 365), as
+        fra-giban, to give;
+        fra-itan, to devour;
+        fra-lētan, to liberate;
+        fra-liusan, to lose;
+        fra-niman, to receive;
+        fra-qistjan, to destroy;
+        fra-wardjan, to destroy.
       </p>
     </div>
 
-    <div type="section" n="413">
+    <div type="section" n="413" status="wip">
       <p>
-        § 413. ga- (originally added to verbs to impart to them a perfective meaning, see § 367), as ga-baíran, to bring<pb n="181"/>forth; ga-bindan, to bind; ga-dáiljan, to divide; ga-fāhan, to seize; ga-fulljan, to fill; ga-háitan, to call together; ga-kiusan, to approve; ga-láubjan, to believe; ga-lisan, to gather together; ga-nasjan, to save; ga-rinnan, to hasten together; ga-taíran, to destroy; ga-wandjan, to turn round.
+        § 413.
+        ga-
+        (originally added to verbs to impart to them a perfective meaning, see § 367), as
+        ga-baíran, to bring<pb n="181"/>forth;
+        ga-bindan, to bind;
+        ga-dáiljan, to divide;
+        ga-fāhan, to seize;
+        ga-fulljan, to fill;
+        ga-háitan, to call together;
+        ga-kiusan, to approve;
+        ga-láubjan, to believe;
+        ga-lisan, to gather together;
+        ga-nasjan, to save;
+        ga-rinnan, to hasten together;
+        ga-taíran, to destroy;
+        ga-wandjan, to turn round.
       </p>
     </div>
 
-    <div type="section" n="414">
+    <div type="section" n="414" status="wip">
       <p>
-        § 414. hinder- (§ 368), only in hindar-leiþan, to go behind.
+        § 414.
+        hinder-
+        (§ 368), only in
+        hindar-leiþan, to go behind.
       </p>
     </div>
 
-    <div type="section" n="415">
+    <div type="section" n="415" status="wip">
       <p>
-        § 415. in- (§ 370), as in-brannjan, to put in the fire; in-saian, to sow in; in-saíƕan, to look at; in-sandjan, to send forth; in-widan, to reject.
+        § 415.
+        in-
+        (§ 370), as
+        in-brannjan, to put in the fire;
+        in-saian, to sow in;
+        in-saíƕan, to look at;
+        in-sandjan, to send forth;
+        in-widan, to reject.
       </p>
     </div>
 
-    <div type="section" n="416">
+    <div type="section" n="416" status="wip">
       <p>
-        § 416. twis- (OE. twi-, OHG. zwi-, Lat. bi-, Gr. δι- from *δϝι-, two), denoting separation, only in twis-standan, to depart from one.
+        § 416.
+        twis-
+        (OE. twi-, OHG. zwi-, Lat. bi-, Gr. δι- from *δϝι-, two), denoting separation, only in
+        twis-standan, to depart from one.
       </p>
     </div>
 
-    <div type="section" n="417">
+    <div type="section" n="417" status="wip">
       <p>
-        § 417. uf- (§ 374), as uf-blēsan, to blow up; uf-brikan, to reject; uf-dáupjan, to baptize; uf-háusjan, to submit; uf-kunnan, to recognize; uf-ligan, to lie under.
+        § 417.
+        uf-
+        (§ 374), as
+        uf-blēsan, to blow up;
+        uf-brikan, to reject;
+        uf-dáupjan, to baptize;
+        uf-háusjan, to submit;
+        uf-kunnan, to recognize;
+        uf-ligan, to lie under.
       </p>
     </div>
 
-    <div type="section" n="418">
+    <div type="section" n="418" status="wip">
       <p>
-        § 418. tuz- (OE. tor-, Gr. δυς-), only in tuz-wērjan, to doubt.
+        § 418.
+        tuz-
+        (OE. tor-, Gr. δυς-), only in
+        tuz-wērjan, to doubt.
       </p>
     </div>
 
-    <div type="section" n="419">
+    <div type="section" n="419" status="wip">
       <p>
-        § 419. þaírh- (OE. þurh, OHG. durh, through), as þaírh-baíran, to carry through; paírh-gaggan, to go through; þaírh-saíƕan, to see through; þaírh-wisan, to remain.
+        § 419.
+        þaírh-
+        (OE. þurh, OHG. durh, through), as þaírh-baíran, to carry through; paírh-gaggan, to go through; þaírh-saíƕan, to see through; þaírh-wisan, to remain.
       </p>
     </div>
 
-    <div type="section" n="420">
+    <div type="section" n="420" status="wip">
       <p>
-        § 420. ufar- (§ 375), as ufar-gaggan, to transgress; ufar-mēljan, to write over; ufar-munnōn, to forget; ufar-skadwjan, to overshadow; ufar-steigan, to mount up.
+        § 420.
+        ufar-
+        (§ 375), as
+        ufar-gaggan, to transgress;
+        ufar-mēljan, to write over;
+        ufar-munnōn, to forget;
+        ufar-skadwjan, to overshadow;
+        ufar-steigan, to mount up.
       </p>
     </div>
 
-    <div type="section" n="421">
+    <div type="section" n="421" status="wip">
       <p>
-        § 421. und- (OE. oþ-, OHG. unt-, up to), as und-greipan, to seize; und-rēdan, to grant; und-rinnan, to run to one.
+        § 421.
+        und-
+        (OE. oþ-, OHG. unt-, up to), as
+        und-greipan, to seize;
+        und-rēdan, to grant;
+        und-rinnan, to run to one.
       </p>
       <p>
-        unþa- (OE. ūþ-, OHG. int-, from, away), only in unþa-þliuhan = OHG. int-fliohan, to escape.
+        unþa-
+        (OE. ūþ-, OHG. int-, from, away), only in
+        unþa-þliuhan = OHG. int-fliohan, to escape.
       </p>
     </div>
 
-    <div type="section" n="422">
+    <div type="section" n="422" status="wip">
       <p>
-        § 422. us- (§ 377), as us-anan, to expire; us-beidan, to await; us-dreiban, to drive out; us-giban, to give out; us-kiusan, to choose out; us-láubjan, to permit; us-qiþan, to proclaim; us-tiuhan, to lead out. ur-ráisjan, to rouse up; ur-reisan, to arise; ur-rinnan, to proceed. See § 175 note 3.
+        § 422.
+        us-
+        (§ 377), as
+        us-anan, to expire;
+        us-beidan, to await;
+        us-dreiban, to drive out;
+        us-giban, to give out;
+        us-kiusan, to choose out;
+        us-láubjan, to permit;
+        us-qiþan, to proclaim;
+        us-tiuhan, to lead out.
+        ur-ráisjan, to rouse up;
+        ur-reisan, to arise;
+        ur-rinnan, to proceed.
+        See § 175 note 3.
       </p>
     </div>
 
-    <div type="section" n="423">
+    <div type="section" n="423" status="wip">
       <p>
-        § 423. wiþra- (§ 378), only in wiþra-gaggan, wiþra-ga-mōtjan, to go to meet.
+        § 423.
+        wiþra-
+        (§ 378), only in
+        wiþra-gaggan, wiþra-ga-mōtjan, to go to meet.
       </p>
     </div>
   </div>
@@ -528,15 +1207,32 @@
   <div type="subchapter">
     <head>Suffixes.</head>
 
-    <div type="section" n="424">
+    <div type="section" n="424" status="wip">
       <p>
-        § 424. -atjan (OE. -ettan, OHG. -azzen, cp. § 381), used in forming intensitive verbs, as laúhatjan, to lighten; káupatjan, to buffet; swōgatjan, to sigh, groan.
+        § 424.
+        -atjan
+        (OE. -ettan, OHG. -azzen, cp. § 381), used in forming intensitive verbs, as
+        laúhatjan, to lighten;
+        káupatjan, to buffet;
+        swōgatjan, to sigh, groan.
       </p>
     </div>
 
-    <div type="section" n="425">
+    <div type="section" n="425" status="wip">
       <p>
-        § 425. -inōn (with -in- from verbs like gudjinōn, to be a priest, formed from the stem gudjin-, nom. gudja, priest; ga-áiginōn, to take possession of, from áigin, property), and similarly fráujinōn, to rule over; raginōn, to be governor. The -in- then came to be extended to verbs like skalkinōn, to serve, from skalks, servant; and similarly draúhtinōn, to wage war; faginōn, to rejoice; hōrinōn, to commit adultery; lēkinōn, to heal; reikinōn, to govern.
+        § 425.
+        -inōn
+        (with -in- from verbs like gudjinōn, to be a priest, formed from the stem gudjin-, nom. gudja, priest; ga-áiginōn, to take possession of, from áigin, property), and similarly
+        fráujinōn, to rule over;
+        raginōn, to be governor.
+        The -in- then came to be extended to verbs like
+        skalkinōn, to serve, from skalks, servant;
+        and similarly
+        draúhtinōn, to wage war;
+        faginōn, to rejoice;
+        hōrinōn, to commit adultery;
+        lēkinōn, to heal;
+        reikinōn, to govern.
       </p>
     </div>
   </div>
