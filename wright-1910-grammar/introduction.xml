@@ -2,7 +2,7 @@
   <pb n="1"/>
   <head>INTRODUCTION</head>
 
-  <div type="section" n="1">
+  <div type="section" n="1" status="wip">
     <p>
       <label>§ 1.</label> Gothic forms one member of the Germanic (Teutonic) branch of the Indo-Germanic family of languages. This great family of languages is usually divided into eight branches:—
     </p>
@@ -96,7 +96,8 @@
 
     <div type="note">
       <p>
-        Note.—A few of the chief characteristics of the Germanic languages as compared with the other branches of the Indo-Germanic languages are:
+        <label>Note.—</label>
+        A few of the chief characteristics of the Germanic languages as compared with the other branches of the Indo-Germanic languages are:
         the first sound-shifting or Grimm’s law (<ref>§§ 127–32</ref>);
         Verner’s law (<ref>§§ 136–7</ref>);
         the development of the so-called weak declension of adjectives (<ref>§ 223</ref>);
