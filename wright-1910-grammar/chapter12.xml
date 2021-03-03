@@ -138,20 +138,25 @@
   <div type="subsubchapter" n="2">
     <head>2. Reflexive.</head>
 
-    <div type="section" n="262" status="wip">
-      § 262.
+    <div type="section" n="262">
+      <p>
+        <label>§ 262.</label>
+      </p>
 
       <table>
-        <row> <cell>Acc.</cell> <cell>sik, oneself</cell> </row>
-        <row> <cell>Gen.</cell> <cell>seina</cell>        </row>
-        <row> <cell>Dat.</cell> <cell>sis</cell>          </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>sik</w>, <gloss>oneself</gloss></cell> </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>seina</w></cell>        </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>sis</w></cell>          </row>
       </table>
 
       <pb n="123"/>
       <p>
         The reflexive pronoun originally referred to the chief person of the sentence (generally the subject), irrespectively as to whether the subject was the first, second, or third person singular or plural.
-        This usage remained in Sanskrit, but in the Germanic languages the pronouns of the first and second person came to be used reflexively already in <lang>prim. Germanic</lang>, and then the original reflexive pronoun became restricted to the third person.
-        In <lang>Goth.</lang> sik, seina, sis were used for both numbers and all genders. sik from prim. Germ. se+ke (§ 261), <lang>OHG.</lang> sih, <abbr>cp.</abbr> <lang>Gr.</lang> ἕ from *σε, <lang>Lat.</lang> sē; seina is of the same origin as meina, þeina (§ 261); on sis see § 261.
+        This usage remained in <lang>Sanskrit</lang>, but in the <lang>Germanic</lang> languages the pronouns of the first and second person came to be used reflexively already in <lang>prim. Germanic</lang>, and then the original reflexive pronoun became restricted to the third person.
+        In <lang>Goth.</lang> <w>sik</w>, <w>seina</w>, <w>sis</w> were used for both numbers and all genders.
+        <w>sik</w> from <lang>prim. Germ.</lang> <m>se</m>+<m>ke</m> (<ref>§ 261</ref>), <lang>OHG.</lang> <w>sih</w>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>ἕ</w> from <w>*σε</w>, <lang>Lat.</lang> <w>sē</w>;
+        <w>seina</w> is of the same origin as <w>meina</w>, <w>þeina</w> (<ref>§ 261</ref>);
+        on <w>sis</w> see <ref>§ 261</ref>.
       </p>
     </div>
   </div>
@@ -161,7 +166,7 @@
 
     <div type="section" n="263" status="wip">
       <p>
-        § 263.
+        <label>§ 263.</label>
         The possessive pronouns
         meins, my;
         þeins, thy;
@@ -186,7 +191,7 @@
 
     <div type="section" n="264" status="wip">
       <p>
-        § 264.
+        <label>§ 264.</label>
         The possessive pronouns are declined according to the strong declension like blinds (§ 226).
         The possessive pronouns ending in -ar do not have the form in<pb n="124"/>-ata in the nom. acc. sing. neut.
         On the nom. sing. masc. unsar, &amp;c., see § 175:—
@@ -209,7 +214,7 @@
 
     <div type="section" n="265" status="wip">
       <p>
-        § 265.
+        <label>§ 265.</label>
         The simple demonstrative sa, þata, sō was used both as demonstrative pronoun this, that, and as definite article, the.
       </p>
 
@@ -238,14 +243,14 @@
         sa = <lang>Skr.</lang> sá, <lang>Gr.</lang> ὁ <lang>OE.</lang> sē̌;
         þan-a (<lang>OE.</lang> þon-e, <lang>OS.</lang> then-a, than-a, <lang>OHG.</lang> den), on the final -a see § 261, <abbr>cp.</abbr> <lang>Skr.</lang> tám, <lang>Gr.</lang> τόν, <lang>Lat.</lang> is-tum;
         þat-a, originally acc. only (§ 261), but in <lang>Goth.</lang> it came to be used for the nom. also (<lang>O.Icel.</lang> þat, <lang>OE.</lang> þæt, <lang>OS.</lang> that, <lang>OHG.</lang> daȥ), <abbr>cp.</abbr> <lang>Gr.</lang> τό, <lang>Lat.</lang> is-tud = <lang>Indg.</lang> *tod;
-        þis (<lang>OS.</lang> thes, <lang>OHG.</lang> des) = prim. Germ. *þesa, <lang>Indg.</lang> *teso;
+        þis (<lang>OS.</lang> thes, <lang>OHG.</lang> des) = <lang>prim. Germ.</lang> *þesa, <lang>Indg.</lang> *teso;
         þamma (<abbr>cp.</abbr> <lang>OS.</lang> themu, <lang>OHG.</lang> demu) from <lang>Indg.</lang> instr. *tosmē, -ō (§ 261), <abbr>cp.</abbr> ƕammēh (§ 275);
         þái (<lang>OE.</lang> þā, <lang>OS.</lang> thē, <lang>OHG.</lang> dē), <abbr>cp.</abbr> <lang>Gr.</lang> τοί, <lang>Lat.</lang> is-tī;
         þans = <lang>Gr. (Cretan dial.)</lang>;
         τόνς;
         nom. acc. neut. þō, <abbr>cp.</abbr> <lang>Skr.</lang> tā́, <lang>Lat.</lang> is-ta, <lang>Indg.</lang> *tā;
         þizē, formed from the gen. sing. þis + the gen. pl. ending -ē (§§ 87 (1), 179), the regular <lang>Goth.</lang> form would have been *þáizē, which has been preserved in the adjectives as blindáizē (§ 226), the <lang>prim. Germanic</lang> form was *þaizō̃n (<lang>O.Icel.</lang> þeira, <lang>OE.</lang> þāra), <lang>Indg.</lang> *toisō̃m;
-        þáim (<abbr>cp.</abbr> <lang>O.Icel.</lang> þeim, <lang>OE.</lang> þǣm, <lang>OHG.</lang> dēm) from prim. Germ. *þaimiz (§ 175) with ai from the nom. plural.
+        þáim (<abbr>cp.</abbr> <lang>O.Icel.</lang> þeim, <lang>OE.</lang> þǣm, <lang>OHG.</lang> dēm) from <lang>prim. Germ.</lang> *þaimiz (§ 175) with ai from the nom. plural.
       </p>
       <p>
         sō = <lang>Skr.</lang> sā́, <lang>Gr. Doric</lang> ᾱ́, <lang>Att. Ionic</lang> ἡ, <lang>O.Icel.</lang> sū;
@@ -281,7 +286,7 @@
 
     <div type="section" n="266" status="wip">
       <p>
-        § 266.
+        <label>§ 266.</label>
         The compound demonstrative pronoun is formed from the simple one by affixing the enclitic particle -uh.
         The origin of this particle is unknown, see § 73 note.
       </p>
@@ -324,7 +329,7 @@
 
     <div type="section" n="267" status="wip">
       <p>
-        § 267.
+        <label>§ 267.</label>
         Of the demonstrative pronoun hi-, formed from the <lang>Indg.</lang> stem *ki- (<abbr>cp.</abbr> <lang>Lat.</lang> ci-s, ci-ter, on this side), only the acc. and dat. sing. of the masc. and neut. have been preserved in a few adverbial phrases of time, as
         himma daga, on this day, to-day;
         und hina dag, to this day;
@@ -340,14 +345,14 @@
 
     <div type="section" n="268" status="wip">
       <p>
-        § 268.
+        <label>§ 268.</label>
         jáins, that, yon, is declined like blinds (§ 226). The nom. acc. sing. neut. is always jáinata.
       </p>
     </div>
 
     <div type="section" n="269" status="wip">
       <p>
-        § 269.
+        <label>§ 269.</label>
         silba, self;
         and sama, same;
         are declined like blinda (§ 237).
@@ -360,7 +365,7 @@
 
     <div type="section" n="270" status="wip">
       <p>
-        § 270.
+        <label>§ 270.</label>
         A relative pronoun proper did not exist in <lang>prim. Germanic</lang>.
         The separate Germanic languages expressed it in various ways.
         In <lang>O.Icel.</lang> it was generally expressed by the particles sem, es (later er) and the conjunction at, that;
@@ -373,7 +378,7 @@
 
     <div type="section" n="271" status="wip">
       <p>
-        § 271.
+        <label>§ 271.</label>
         The relative pronoun of the third person is expressed by affixing the particle ei to the simple demonstrative sa, þata, sō, and is declined as follows:—
       </p>
 
@@ -429,7 +434,7 @@
 
     <div type="section" n="272" status="wip">
       <p>
-        § 272.
+        <label>§ 272.</label>
         The relative pronoun for the first and second persons is expressed by suffixing ei to the respective personal pronouns, thus
         ikei, (I) who;
         þuei, (thou) who;
@@ -446,7 +451,7 @@
 
     <div type="section" n="273" status="wip">
       <p>
-        § 273.
+        <label>§ 273.</label>
         The parent <lang>Indg.</lang> language had two stems from which the interrogative pronoun was formed, viz. qo- and qi- with labialized q (§§ 127, 134).
         The former occurs in <lang>Gr.</lang> πό-τερος, which of two?, <lang>Goth.</lang> ƕas, <lang>OE.</lang> hwā̌, who?, from an original form *qos;
         <lang>Lat.</lang> quod, <lang>Goth.</lang> ƕa, <lang>O.Icel.</lang> huat, <lang>OS.</lang> hwat, <lang>OHG.</lang> hwaȥ, <lang>OE.</lang> hwæt, what?, from an original form *qod. And the latter occurs in <lang>Gr.</lang> τίς,<pb n="129"/><lang>Lat.</lang> quis, who?, from an original form *qis;
@@ -501,7 +506,7 @@
 
     <div type="section" n="274" status="wip">
       <p>
-        § 274.
+        <label>§ 274.</label>
         Nom. sing. masc. and neut. ƕaþar, which of two (other cases do not occur);
         ƕarjis, which (out of many), inflected like midjis (§ 228), except that the neut. nom. sing. always ends in -ata;
         ƕileiks, what sort of;
@@ -517,7 +522,8 @@
 
     <div type="section" n="275" status="wip">
       <p>
-        § 275. From ƕas, ƕarjis, ƕaþar are formed by means of the particle uh (§ 266) the three indefinite pronouns ƕazuh, each, every;
+        <label>§ 275.</label>
+        From ƕas, ƕarjis, ƕaþar are formed by means of the particle uh (§ 266) the three indefinite pronouns ƕazuh, each, every;
         ƕarjizuh, each, every;
         ƕaþaruh, each of two;
         but of the last only the dat. masc. occurs, ƕaþarammēh (and in the form áinƕaþarammēh, to each one of two).
@@ -574,7 +580,7 @@
 
     <div type="section" n="276" status="wip">
       <p>
-        § 276.
+        <label>§ 276.</label>
         The three combinations ƕazuh saei, saƕazuh saei, saƕazuh izei are used in the nom. sing. masc. with<pb n="131"/>the meaning whosoever;
         the corresponding neut., which only occurs in the acc. sing., is þataƕah þei, whatsoever.
         Another compound indefinite pronoun with the same meaning is formed by prefixing an indeclinable þis (gen. of þata, § 265) to ƕazuh, hah, followed by saei (neut. þatei), þei (§ 265 note 1), or ei (§ 270).
@@ -592,7 +598,7 @@
 
     <div type="section" n="277" status="wip">
       <p>
-        § 277.
+        <label>§ 277.</label>
         Sums, some one, a certain one, declined like blinds (§ 226).
         Sums … sums (= <lang>Gr.</lang> ὁ μέν … ὁ δέ), the one … the other;
         in this usage the particle uh is generally added to the second member, and sometimes to the first also, as nom. pl. sumái(h) … sumáih, some … and others.
@@ -601,7 +607,7 @@
 
     <div type="section" n="278" status="wip">
       <p>
-        § 278.
+        <label>§ 278.</label>
         From ƕas, who, manna, man, áins, one, are formed with the enclitic particle hun the three indefinite pronouns ƕashun, mannahun, áinshun.
         They always occur along with the negative particle ni in the meaning no one, no, none (neut.), nothing.
         Of the first only the nom. sing. masc. ni ƕashun, no one, occurs.
@@ -645,7 +651,7 @@
 
     <div type="section" n="279" status="wip">
       <p>
-        § 279.
+        <label>§ 279.</label>
         The simple interrogative ƕas, ƕa is often used indefinitely with the meaning anyone, neut. anything;
         also the numeral áins, one, a certain one.
       </p>

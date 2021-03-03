@@ -21,15 +21,17 @@
     </div>
   </div>
 
-  <div type="section" n="177" status="wip">
+  <div type="section" n="177">
     <p>
       <label>§ 177.</label>
-      In <lang>Gothic</lang>, as in the oldest periods of the other Germanic languages, nouns are divided into two great classes, according as the stem originally ended in a vowel or consonant, cp. the similar division of nouns in Sanskrit, <lang>Latin</lang> and Greek. Nouns, whose stems originally ended in a vowel, belong to the vocalic or so-called Strong Declension.
-      Those, whose stems end in -n, belong to the Weak Declension. All other consonantal stems are in this grammar put together under the general heading of ‘Minor Declensions’.
+      In <lang>Gothic</lang>, as in the oldest periods of the other <lang>Germanic</lang> languages, nouns are divided into two great classes, according as the stem originally ended in a vowel or consonant, <abbr>cp.</abbr> the similar division of nouns in <lang>Sanskrit</lang>, <lang>Latin</lang> and <lang>Greek</lang>.
+      Nouns, whose stems originally ended in a vowel, belong to the vocalic or so-called Strong Declension.
+      Those, whose stems end in <c>-n</c>, belong to the Weak Declension.
+      All other consonantal stems are in this grammar put together under the general heading of ‘Minor Declensions’.
     </p>
 
     <p>
-      The learner, who wishes to compare the <lang>Gothic</lang> case-endings with the corresponding forms of <lang>Latin</lang>, Greek, &amp;c.,<pb n="85"/>will find it useful to master Chapter V before attempting to do so, because what has already been stated there will not, as a rule, be repeated in the chapters on the Accidence.
+      The learner, who wishes to compare the <lang>Gothic</lang> case-endings with the corresponding forms of <lang>Latin</lang>, <lang>Greek</lang>, &amp;c.,<pb n="85"/>will find it useful to master Chapter V before attempting to do so, because what has already been stated there will not, as a rule, be repeated in the chapters on the Accidence.
     </p>
   </div>
 
@@ -42,7 +44,7 @@
       <div type="section" n="178" status="wip">
         <p>
           <label>§ 178.</label>
-          The a-declension comprises masculine and neuter nouns only, and corresponds to the <lang>Latin</lang> and Greek o-declension (<lang>Gr.</lang> masc. -ος, neut. -ον, <lang>Lat.</lang> -us, -um), for which reason it is sometimes called the o-declension.
+          The a-declension comprises masculine and neuter nouns only, and corresponds to the <lang>Latin</lang> and <lang>Greek</lang> o-declension (<lang>Gr.</lang> masc. -ος, neut. -ον, <lang>Lat.</lang> -us, -um), for which reason it is sometimes called the o-declension.
           The a-declension is divided into pure a-stems, ja-stems, and wa-stems.
         </p>
       </div>
@@ -88,16 +90,16 @@
               The prim. Germanic forms of dags were:
               Sing. nom. *đaʒaz, acc. *đaʒan, voc. *đaʒ(e),
               gen. *đaʒesa (with pronominal ending, § 265),
-              dat. *đaʒai, Indg. *dhoghōĩ (cp. <lang>Gr.</lang> θεῷ, to a god),
+              dat. *đaʒai, Indg. *dhoghōĩ (<abbr>cp.</abbr> <lang>Gr.</lang> θεῷ, to a god),
               instr. *đaʒē, -ō;
               Pl. nom. *đaʒōz,
               acc.<pb n="86"/>*đaʒanz,
-              gen. *đaʒō̃n (cp. <lang>Gr.</lang> θεῶν, of gods),
+              gen. *đaʒō̃n (<abbr>cp.</abbr> <lang>Gr.</lang> θεῶν, of gods),
               dat. *đaʒomiz.
               From what has been said in Chapter V on the vowels of unaccented syllables, it will be seen that all the forms of the sing. and plural, except the dat. sing. and gen. pl., are regularly developed from the corresponding prim. Germ. forms.
               daga is the old instrumental used for the dative.
               The -ē in dagē, which presupposes a prim. Germ. ending -ǣ̃n (§ 87, 1), has never been satisfactorily explained.
-              The gen. in OE. O.Icel. daga, OS. dago, OHG. tago regularly goes back to *đaʒō̃n which would have become *dagō in <lang>Gothic</lang>, cp. gibō (§ 191).
+              The gen. in OE. O.Icel. daga, OS. dago, OHG. tago regularly goes back to *đaʒō̃n which would have become *dagō in <lang>Gothic</lang>, <abbr>cp.</abbr> gibō (§ 191).
             </p>
           </div>
   
@@ -229,7 +231,7 @@
               Sing. nom. *χarjaz, acc. *χarjan, voc. *χarj(e), gen. *χarjesa (with pronominal ending), dat. *χarjē, -ō (originally instr.);
               Pl. nom. *χarjōz, acc. *χarjans, gen. χarjō̃n, dat. *χarjomiz.
               All the forms of the sing. except the nom., and all forms of the pl. except the gen., are regularly developed from the corresponding prim. Germ. forms.
-              *χarjaz became *haris (cp. § 155) and then the -j- in the cases where it was regular was extended to the nom.
+              *χarjaz became *haris (<abbr>cp.</abbr> § 155) and then the -j- in the cases where it was regular was extended to the nom.
               On harjē, see § 179.
             </p>
 
@@ -377,7 +379,7 @@
       <div type="section" n="190" status="wip">
         <p>
           <label>§ 190.</label>
-          The ō-declension contains feminine nouns only, and corresponds to the <lang>Latin</lang> and Greek ā-declension, for<pb n="90"/>which reason it is sometimes called the ā-declension.
+          The ō-declension contains feminine nouns only, and corresponds to the <lang>Latin</lang> and <lang>Greek</lang> ā-declension, for<pb n="90"/>which reason it is sometimes called the ā-declension.
           It is divided into pure ō-stems, jō-stems, and wō-stems.
           The wō-stems and also the jō-stems with a short radical syllable are declined exactly like the pure ō-stems.
           The remaining jō-stems are also declined like the pure ō-stems, except that the nom. sing. ends in -i.
@@ -400,7 +402,7 @@
           <p>
             The prim. Germ. forms of giba were:
             Sing. nom. *ʒeƀō;
-            acc. *ʒeƀōn (cp. <lang>Gr.</lang> χώρᾱν, land), gen. *ʒeƀō̃z, dat. *ʒeƀai older *ʒeƀōĩ (= Indg. -āĩ, cp. <lang>Gr.</lang> θεᾷ, to a goddess);
+            acc. *ʒeƀōn (<abbr>cp.</abbr> <lang>Gr.</lang> χώρᾱν, land), gen. *ʒeƀō̃z, dat. *ʒeƀai older *ʒeƀōĩ (= Indg. -āĩ, <abbr>cp.</abbr> <lang>Gr.</lang> θεᾷ, to a goddess);
             Pl. nom. acc. *ʒeƀō̃z, gen. *ʒeƀō̃n, dat. *ʒeƀōmiz, from which the corresponding <lang>Gothic</lang> forms are regularly developed.
           </p>
         </div>
@@ -539,7 +541,7 @@
               <item>
                 <p>
                   2.
-                  The endings of the whole of the singular and of the gen. plural being the same as those of the a-declension, it can only be decided by aid of comparison with the other Germanic languages, whether a noun, whose pl. nom. dat. or acc. is not extant, belongs to this or to the a-declension.
+                  The endings of the whole of the singular and of the gen. plural being the same as those of the a-declension, it can only be decided by aid of comparison with the other <lang>Germanic</lang> languages, whether a noun, whose pl. nom. dat. or acc. is not extant, belongs to this or to the a-declension.
                   Thus the mutated vowel in OE. cyme, coming; dryre, fall, shows that Goth. qums, drus belong to the i-declension.
                 </p>
               </item>
@@ -587,7 +589,7 @@
           <p>
             The prim. Germ. forms of ansts were:
             Sing. nom. *anstiz, acc. *anstin, voc. *ansti, gen. *anstaiz (= Indg. -eĩs, -oĩs), dat. *anstēi (originally the loc. ending);
-            Pl. nom. *anstīz (older -ijiz = Indg. -ejes, cp. Skr. tráyas, <lang>Gr.</lang> τρεῖς from *τρέ(j)ες, three);
+            Pl. nom. *anstīz (older -ijiz = Indg. -ejes, <abbr>cp.</abbr> Skr. tráyas, <lang>Gr.</lang> τρεῖς from *τρέ(j)ες, three);
             acc. *anstinz, gen. *ansti(j)ō̃n, dat. *anstimiz, from which the <lang>Gothic</lang> forms are regularly developed except the gen. pl. which was formed direct from anst- + the gen. pl. ending -ē, see §§ 87, 179.
           </p>
 
@@ -715,9 +717,9 @@
   
           <p>
             The prim. Germ. forms of sunus were:
-            Sing. nom. *sunuz, acc. *sunun, voc. *sunu and *sunau (= Indg. -ou, cp. Lith. sūnaũ), gen. *sunauz (= Indg. -eũs, oũs, cp. Lith. sūnaũs), dat. *sunēu (originally loc.);
-            Pl. nom. *suniwiz (=Indg. -ewes, cp. <lang>Gr. Ionic</lang> πήχεες from *πήχεϝες, fore-arms);
-            acc. *sununz, gen. *suniwō̃n (= Indg. -ewō̃m, cp. <lang>Gr.</lang> πήχεων from πήχεϝων), dat. *sunumiz, from which the <lang>Gothic</lang> forms are all regularly developed except the -ē in the gen. plural, see § 179.
+            Sing. nom. *sunuz, acc. *sunun, voc. *sunu and *sunau (= Indg. -ou, <abbr>cp.</abbr> Lith. sūnaũ), gen. *sunauz (= Indg. -eũs, oũs, <abbr>cp.</abbr> Lith. sūnaũs), dat. *sunēu (originally loc.);
+            Pl. nom. *suniwiz (=Indg. -ewes, <abbr>cp.</abbr> <lang>Gr. Ionic</lang> πήχεες from *πήχεϝες, fore-arms);
+            acc. *sununz, gen. *suniwō̃n (= Indg. -ewō̃m, <abbr>cp.</abbr> <lang>Gr.</lang> πήχεων from πήχεϝων), dat. *sunumiz, from which the <lang>Gothic</lang> forms are all regularly developed except the -ē in the gen. plural, see § 179.
             The fluctuation between sunu and sunáu in the voc. sing. may be due to the old double forms.
             In the nom. pl. *suniwiz became *suniuz and then sunjus (§ 150 note).
           </p>
@@ -787,7 +789,7 @@
               The gen. faíháus does not occur, but it can be inferred from filáus, the adverbial gen. of filu, much.
               gáiru (nom. sing.), goad, and sihu (acc. sing.), victory, occur only once, and as glosses;
               the latter is probably miswritten for sigu, which would then presuppose a masc. form *sigus = OHG. sigu, otherwise we should expect saíhu (§ 69).
-              The acc. form leiþu, strong drink, probably also belongs here, since it is neuter in all the other old Germanic languages.
+              The acc. form leiþu, strong drink, probably also belongs here, since it is neuter in all the other old <lang>Germanic</lang> languages.
               </p>
           </div>
           
@@ -834,13 +836,13 @@
       </p>
 
       <p>
-        The masc. and fem. n-stems were originally declined alike, as in <lang>Latin</lang>, Greek and Sanskrit, but already in the prehistoric period of the Germanic languages they became differentiated in some of the cases by partly generalizing one or other of the forms.
+        The masc. and fem. n-stems were originally declined alike, as in <lang>Latin</lang>, <lang>Greek</lang> and <lang>Sanskrit</lang>, but already in the prehistoric period of the <lang>Germanic</lang> languages they became differentiated in some of the cases by partly generalizing one or other of the forms.
         Thus, as we have seen above, the nom. sing. originally ended in -ō̃ or -ōn in both genders, <lang>Gothic</lang> restricted -ō̃ to the feminine and -ōn to the masculine, but in the West Germanic languages the reverse took place.
         In the feminine <lang>Gothic</lang> O.Icel. OS. and OHG. levelled out the original long vowel of the nom. sing. into the oblique cases, whereas OE. had the same forms as the masculine except in the nom. sing. tunge from prim. Germanic -ōn.
       </p>
 
       <p>
-        From a morphological point of view the n-stems should<pb n="97"/>be divided into -an, -jan, and -wan stems, but in <lang>Gothic</lang> as in the other Germanic languages all three classes were declined alike.
+        From a morphological point of view the n-stems should<pb n="97"/>be divided into -an, -jan, and -wan stems, but in <lang>Gothic</lang> as in the other <lang>Germanic</lang> languages all three classes were declined alike.
       </p>
     </div>
 
@@ -860,8 +862,8 @@
 
         <p>
           The prim. Germanic forms of hana were:
-          Sing. nom. *χanēn or -ōn (cp. <lang>Gr.</lang> ποιμήν, shepherd; ἡγεμών, leader), acc. *χananun (cp. <lang>Gr.</lang> ἡγεμόνα), gen. *χanenaz or *χaniniz (cp. <lang>Gr.</lang> ποιμένος), dat. (originally loc.) *χanini (cp. <lang>Gr.</lang> ποιμένι);
-          Pl. nom. *xananiz (cp. <lang>Gr.</lang> ἡγεμόνες), acc. *χananunz older *χannunz (cp. <lang>Gr.</lang> ἡγεμόνας, κύνας = Indg. *kun-ns (§§ 53–4), dogs), gen. *χannō̃n (cp. Goth. aúhsn-ē, OE. oxn-a, of oxen, <lang>Gr.</lang> κυν-ῶν, of dogs), dat. *χanunmiz.
+          Sing. nom. *χanēn or -ōn (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμήν, shepherd; ἡγεμών, leader), acc. *χananun (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνα), gen. *χanenaz or *χaniniz (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμένος), dat. (originally loc.) *χanini (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμένι);
+          Pl. nom. *xananiz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνες), acc. *χananunz older *χannunz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνας, κύνας = Indg. *kun-ns (§§ 53–4), dogs), gen. *χannō̃n (<abbr>cp.</abbr> Goth. aúhsn-ē, OE. oxn-a, of oxen, <lang>Gr.</lang> κυν-ῶν, of dogs), dat. *χanunmiz.
           The <lang>Gothic</lang> cases of the sing. and the nom. pl. are regularly developed from the corresponding prim. Germanic forms.
           The acc. pl. hanans is the nom. used for the accusative.
           *xannō̃n would have become *hannō;
@@ -997,7 +999,7 @@
           Pl. nom. *manaʒīniz, acc. *manaʒīnunz, gen. *manaʒīnō̃n, dat. *manaʒīnmiz, from which the <lang>Gothic</lang> forms, except the nom. sing. and acc. dat. plural, were regularly developed.
           The regular nom. sing. would be *managi (§ 87, (1)).
           managei was a new formation with -ei from the oblique cases.
-          The acc. pl. manageins is the nom. used for the accusative (cp. § 207).
+          The acc. pl. manageins is the nom. used for the accusative (<abbr>cp.</abbr> § 207).
           The dat. pl. manageim was a new formation similar to hanam, tuggōm.
           On the origin of this declension, see Brugmann’s Grundriss, vol. II (second ed.), pp. 312–18.
         </p>
@@ -1131,18 +1133,18 @@
         </table>
         <pb n="101"/>
         <p>
-          In the parent language the words for father, mother and daughter had in the sing. nom. -tēr, acc. loc. -ter-, voc. -ter, gen. dat. -tr- (with consonantal r), Pl. nom. -ter-, acc. -tr- (with consonantal r), dat. loc. -tr- (with vocalic r), cp. § 206.
+          In the parent language the words for father, mother and daughter had in the sing. nom. -tēr, acc. loc. -ter-, voc. -ter, gen. dat. -tr- (with consonantal r), Pl. nom. -ter-, acc. -tr- (with consonantal r), dat. loc. -tr- (with vocalic r), <abbr>cp.</abbr> § 206.
           The word for brother had sing. nom. -tōr or -tēr, and the word for sister -ōr (see § 147) with short -or- or loss of -o- in the other cases just as in -tēr, -ter-, -tr-.
-          In Goth. -e-, -o- regularly became -a- before the following -r- (cp. §§ 39 note, 106).
+          In Goth. -e-, -o- regularly became -a- before the following -r- (<abbr>cp.</abbr> §§ 39 note, 106).
           The prim. Germ. forms of brōþar were:
-          Sing. nom. *ƀrōþōr, or -ēr (cp. <lang>Gr. Dor.</lang> φρᾱ́τωρ, φρᾱ́τηρ, member of a clan, πατήρ, father),
-          acc. *ƀrōþarun, or -erun (cp. φρᾱ́τορα, φρᾱ́τερα),
-          voc. *ƀrōþar, or -er (cp. φρᾱ́τορ, φρᾱ́τερ),
-          gen. *ƀrōþraz, or -iz (cp. πατρός, <lang>Lat.</lang> patris),
-          dat. *ƀrōþri (cp. πατρί);
-          Pl. nom. *brōþariz, or -iriz (cp. φρᾱ́τορες, πατέρες),
+          Sing. nom. *ƀrōþōr, or -ēr (<abbr>cp.</abbr> <lang>Gr. Dor.</lang> φρᾱ́τωρ, φρᾱ́τηρ, member of a clan, πατήρ, father),
+          acc. *ƀrōþarun, or -erun (<abbr>cp.</abbr> φρᾱ́τορα, φρᾱ́τερα),
+          voc. *ƀrōþar, or -er (<abbr>cp.</abbr> φρᾱ́τορ, φρᾱ́τερ),
+          gen. *ƀrōþraz, or -iz (<abbr>cp.</abbr> πατρός, <lang>Lat.</lang> patris),
+          dat. *ƀrōþri (<abbr>cp.</abbr> πατρί);
+          Pl. nom. *brōþariz, or -iriz (<abbr>cp.</abbr> φρᾱ́τορες, πατέρες),
           acc. *ƀrōþrunz,
-          gen. *ƀrōþrō̃n (cp. πατρῶν),
+          gen. *ƀrōþrō̃n (<abbr>cp.</abbr> πατρῶν),
           dat. *ƀrōþrumiz;
           from which all the <lang>Gothic</lang> forms are regularly developed except the nom. sing. and the nom. and gen. plural.
           The nom. sing. is the acc. or voc. used for the nominative.
@@ -1170,8 +1172,8 @@
         <p>
           <label>§ 217.</label>
           The nouns of this declension are old present participles, like <lang>Lat.</lang> ferēns, bearing, gen. ferentis, and originally had the same case endings as the other consonantal stems.
-          But in <lang>Gothic</lang> as in the other Germanic languages they underwent various new formations.
-          The<pb n="102"/>nom. sing. was a new formation with -d- from the inflected forms, cp. <lang>Lat.</lang> ferēns from *ferenss older *ferents (§ 138);
+          But in <lang>Gothic</lang> as in the other <lang>Germanic</lang> languages they underwent various new formations.
+          The<pb n="102"/>nom. sing. was a new formation with -d- from the inflected forms, <abbr>cp.</abbr> <lang>Lat.</lang> ferēns from *ferenss older *ferents (§ 138);
           acc. frijōnd from *frijōndun, dat. frijōnd from *frijōndi;
           nom. pl. frijōnds from *frijōndiz, which was also used for the accusative.
           The gen. sing. and gen. dat. pl. were formed after the analogy of the a-stems (§ 179).

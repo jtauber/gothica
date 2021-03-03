@@ -8,7 +8,7 @@
     <div type="section" n="149">
       <p>
         <label>§ 149.</label>
-        Germanic <c>w</c> remained initially before vowels and also initially before and after consonants except in the combinations <c>kw</c> (<ref>§ 163</ref>) and <c>χw</c> (<ref>§ 165</ref>), as
+        <lang>Germanic</lang> <c>w</c> remained initially before vowels and also initially before and after consonants except in the combinations <c>kw</c> (<ref>§ 163</ref>) and <c>χw</c> (<ref>§ 165</ref>), as
         <w>wigs</w>, <lang>O.Icel.</lang> <w>vegr</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>weg</w>, <gloss>way</gloss>;
         <w>wulfs</w>, <lang>OE.</lang> <lang>OS.</lang> <w>wulf</w>,<pb n="71"/><lang>OHG.</lang> <w>wolf</w>, <gloss>wolf</gloss>;
         <w>wlits</w>, <lang>OE.</lang> <w>wlite</w>, <lang>O.S.</lang> <w>wliti</w>, <gloss>face, look, beauty</gloss>;
@@ -67,28 +67,28 @@
       </p>
     </div>
 
-    <div type="section" n="150" status="wip">
+    <div type="section" n="150">
       <p>
         <label>§ 150.</label>
-        Germanic w became u after a short vowel with which it combined to form a diphthong:
+        <lang>Germanic</lang> <c>w</c> became <c>u</c> after a short vowel with which it combined to form a diphthong:
         <list>
           <item n="1">
             (1)
             Finally, as
-            kniu, knee;
-            triu, wood;
-            beside gen. kniwis, triwis;
-            pret. snáu, he hastened, beside inf. sniwan.
+            <w>kniu</w>, <gloss>knee</gloss>;
+            <w>triu</w>, <gloss>wood</gloss>;
+            beside <grm>gen.</grm> <w>kniwis</w>, <w>triwis</w>;
+            <grm>pret.</grm> <w>snáu</w>, <gloss>he hastened</gloss>, beside <grm>inf.</grm> <w>sniwan</w>.
           </item>
           <item n="2">
             (2)
             Before consonants, as
-            gen. máujōs, þiujōs, beside nom. mawi, girl;
-            þiwi, maid-servant;
-            inf. táujan, to do, beside pret. tawida;
-            náus, corpse, beside nom. pl. naweis;
-            siuns from *se(ʒ)wnís, sight, face.
-            It also became u before -s, older -z, after the loss of an intervening vowel, as skadus from *skadwaz, shadow.
+            <grm>gen.</grm> <w>máujōs</w>, <w>þiujōs</w>, beside <grm>nom.</grm> <w>mawi</w>, <gloss>girl</gloss>;
+            <w>þiwi</w>, <gloss>maid-servant</gloss>;
+            <grm>inf.</grm> <w>táujan</w>, <gloss>to do</gloss>, beside <grm>pret.</grm> <w>tawida</w>;
+            <w>náus</w>, <gloss>corpse</gloss>, beside <grm>nom. pl.</grm> <w>naweis</w>;
+            <w>siuns</w> from <w>*se(ʒ)wnís</w>, <gloss>sight, face</gloss>.
+            It also became <c>u</c> before <c>-s</c>, older <c>-z</c>, after the loss of an intervening vowel, as <w>skadus</w> from <w>*skadwaz</w>, <gloss>shadow</gloss>.
           </item>
         </list>
       </p>
@@ -98,12 +98,12 @@
           <item n="1">
             <p>
               <label>Note.—</label>
-              1. iu from older iw became ju in unaccented syllables, as nom. pl. sunjus from *suniu(i)z, older *suniwiz, *sunewes, sons.
+              1. <c>iu</c> from older <c>iw</c> became <c>ju</c> in unaccented syllables, as <grm>nom. pl.</grm> <w>sunjus</w> from <w>*suniu(i)z</w>, older <w>*suniwiz</w>, <w>*sunewes</w>, <gloss>sons</gloss>.
             </p>
           </item>
           <item n="2">
             <p>
-              2. For the Gothic treatment of ōw, ōwj, see <ref>§§ 80, 81</ref>.
+              2. For the <lang>Gothic</lang> treatment of <c>ōw</c>, <c>ōwj</c>, see <ref>§§ 80, 81</ref>.
             </p>
           </item>
         </list>
@@ -132,7 +132,7 @@
       <div type="section" n="152" status="wip">
         <p>
           <label>§ 152.</label>
-          Germanic j remained in Gothic:
+          <lang>Germanic</lang> j remained in Gothic:
           <list>
             <item n="1">
               (1)
@@ -176,7 +176,7 @@
         </p>
 
         <p>
-          Germanic -iji- from older -eje-, -ije- became i(j)i = ī after long closed stem-syllables and after unaccented syllables, but -ji- in other cases, as
+          <lang>Germanic</lang> -iji- from older -eje-, -ije- became i(j)i = ī after long closed stem-syllables and after unaccented syllables, but -ji- in other cases, as
           sōkeis, thou seekest, from *sōki(j)izi = Indg. *sāgéjesi;
           sōkeiþ, he seeks, from<pb n="73"/>*sōki(j)iđi = Indg. *sāgéjeti;
           and similarly frawardeiþ, he destroys;
@@ -246,7 +246,7 @@
         </p>
 
         <p>
-          Prim. Germanic -ij- from Indg. -ej- had become -j- before guttural vowels in the prehistoric period of all the Germanic languages, as
+          Prim. Germanic -ij- from Indg. -ej- had become -j- before guttural vowels in the prehistoric period of all the <lang>Germanic</lang> languages, as
           nasjan, to save;
           sōkjan, to seek = Indg. *nosejonom, *sāgejonom;
           pres. first pers. sing. nasja, sōkja = Indg. *nosejō, *sāgejō;
@@ -263,7 +263,7 @@
     <div type="section" n="158" status="wip">
       <p>
         <label>§ 158.</label>
-        Germanic l, m, n, ŋ, r generally remained in Gothic:
+        <lang>Germanic</lang> l, m, n, ŋ, r generally remained in Gothic:
       </p>
 
       <p>
@@ -336,7 +336,7 @@
 
       <p>
         ŋ.
-        On the representation of Germanic ŋ in Gothic, see <ref>§ 17</ref>.
+        On the representation of <lang>Germanic</lang> ŋ in Gothic, see <ref>§ 17</ref>.
         It only occurred before k, q and g, as
         briggan, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> bringan, to bring;
         drigkan, <lang>OE.</lang> drincan, <lang>OS.</lang> drinkan, <lang>OHG.</lang> trincan, to drink;
@@ -395,7 +395,7 @@
     <div type="section" n="160" status="wip">
       <p>
         <label>§ 160.</label>
-        Germanic p and f remained in Gothic, as
+        <lang>Germanic</lang> p and f remained in Gothic, as
         páida, <lang>OE.</lang> pād, <lang>OS.</lang> pēda, coat;
         Goth. <lang>O.Icel.</lang> <lang>OE.</lang> <lang>OS.</lang> pund, <lang>OHG.</lang> pfunt, pound;
         slēpan, <lang>OE.</lang> slǣpan, <lang>OS.</lang> slāpan, <lang>OHG.</lang> slāfan, to sleep;
@@ -410,7 +410,7 @@
       <div type="note">
         <p>
           <label>Note.—</label>
-          Initial p does not occur in Gothic in pure Germanic words.
+          Initial p does not occur in Gothic in pure <lang>Germanic</lang> words.
         </p>
       </div>
 
@@ -432,7 +432,7 @@
       <div type="section" n="161" status="wip">
         <p>
           <label>§ 161.</label>
-          Germanic b, which only occurred initially and after m, remained in Gothic (<ref>§ 132</ref>), as
+          <lang>Germanic</lang> b, which only occurred initially and after m, remained in Gothic (<ref>§ 132</ref>), as
           baíran, <lang>O.Icel.</lang> bera, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> beran, to bear;
           dumbs, <lang>O.Icel.</lang> dumbr, <lang>OE.</lang> dumb, <lang>OHG.</lang> tumb, dumb;
           and similarly
@@ -493,7 +493,7 @@
       <div type="section" n="162" status="wip">
         <p>
           <label>§ 162.</label>
-          Germanic k remained in Gothic, as
+          <lang>Germanic</lang> k remained in Gothic, as
           kuni, <lang>O.Icel.</lang> kyn, <lang>OS.</lang> <lang>OHG.</lang> kunni, <lang>OE.</lang> cynn, race, generation;
           juk, <lang>O.Icel.</lang> ok, <lang>OE.</lang> geoc, <lang>OHG.</lang> joh, yoke;
           and similarly
@@ -548,7 +548,7 @@
           þeihan, to thrive.
         </p>
         <p>
-          Germanic χ (written h, and pronounced like NHG. ch) remained in Gothic in other positions, as
+          <lang>Germanic</lang> χ (written h, and pronounced like NHG. ch) remained in Gothic in other positions, as
           hláifs, loaf, bread;
           hliftus, thief;
           hráins, pure, clean;
@@ -574,7 +574,7 @@
       <div type="section" n="165" status="wip">
         <p>
           <label>§ 165.</label>
-          Initial Germanic χw (<lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> hw, <lang>O.Icel.</lang> hv) became ƕ (<ref>§ 19</ref>) in Gothic, as
+          Initial <lang>Germanic</lang> χw (<lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> hw, <lang>O.Icel.</lang> hv) became ƕ (<ref>§ 19</ref>) in Gothic, as
           ƕas, <lang>OE.</lang> hwā, <lang>OS.</lang> hwē, <lang>OHG.</lang> hwer, who?;
           ƕeila, <lang>O.Icel.</lang> hvīl, <lang>OE.</lang> hwīl, <lang>OS.</lang> <lang>OHG.</lang> hwīla, space of time;
           and similarly
@@ -622,7 +622,7 @@
       <div type="section" n="166" status="wip">
         <p>
           <label>§ 166.</label>
-          Prim. Germanic g, which only occurred after ŋ (<ref>§ 132</ref>), remained in Gothic as in the other Germanic languages, as
+          Prim. Germanic g, which only occurred after ŋ (<ref>§ 132</ref>), remained in Gothic as in the other <lang>Germanic</lang> languages, as
           tuggō, <lang>OE.</lang> tunge, <lang>OS.</lang> tunga, <lang>OHG.</lang> zunga, tongue;
           and similarly briggan, to bring;
           figgrs, finger;
@@ -633,8 +633,8 @@
       <div type="section" n="167" status="wip">
         <p>
           <label>§ 167.</label>
-          The changes which Germanic ʒ underwent in Gothic cannot be determined with perfect certainty.
-          For the history of ʒ in the other Germanic languages, see <ref>§ 133</ref>.
+          The changes which <lang>Germanic</lang> ʒ underwent in Gothic cannot be determined with perfect certainty.
+          For the history of ʒ in the other <lang>Germanic</lang> languages, see <ref>§ 133</ref>.
           Initially, and medially after consonants, it probably became g, as
           Goth. <lang>OE.</lang> guma, <lang>O.Icel.</lang> gumi, <lang>OS.</lang> gumo, <lang>OHG.</lang> gomo, man;
           baírgan, <lang>O.Icel.</lang> bjarga, <lang>OE.</lang> beorgan, <lang>OHG.</lang> bergan, to hide;
@@ -690,7 +690,7 @@
       <div type="section" n="170" status="wip">
         <p>
           <label>§ 170.</label>
-          Germanic t remained in Gothic, as
+          <lang>Germanic</lang> t remained in Gothic, as
           tuggō, <lang>O.Icel.</lang> <lang>OS.</lang> tunga, <lang>OE.</lang> tunge, <lang>OHG.</lang> zunga, tongue;
           itan, <lang>O.Icel.</lang> eta, <lang>OE.</lang> <lang>OS.</lang> etan, <lang>OHG.</lang> eȥȥan, to eat;
           wáit, <lang>O.Icel.</lang> veit, <lang>OE.</lang> wāt, <lang>OS.</lang> wēt, <lang>OHG.</lang> weiȥ, he knows;
@@ -713,7 +713,7 @@
       <div type="section" n="171" status="wip">
         <p>
           <label>§ 171.</label>
-          Germanic þ remained in Gothic, as
+          <lang>Germanic</lang> þ remained in Gothic, as
           þagkjan, <lang>OE.</lang> þencan, <lang>OS.</lang> thenkian, <lang>OHG.</lang> denken, to think;
           qiþan, <lang>O.Icel.</lang> kveða, <lang>OE.</lang> cweþan, <lang>OS.</lang> queðan, <lang>OHG.</lang> quedan, to say;
           acc. áiþ, <lang>OE.</lang> āþ, <lang>OS.</lang> ēð, <lang>OHG.</lang> eid, oath;
@@ -737,7 +737,7 @@
       <div type="section" n="172" status="wip">
         <p>
           <label>§ 172.</label>
-          Germanic d, which only occurred initially and after n, remained in Gothic (§132), as
+          <lang>Germanic</lang> d, which only occurred initially and after n, remained in Gothic (§132), as
           dags, <lang>O.Icel.</lang> dagr, <lang>OE.</lang> dæg, <lang>OS.</lang> dag, <lang>OHG.</lang> tag, day;
           Goth. <lang>OE.</lang> <lang>OS.</lang> bindan, <lang>OHG.</lang> bintan, to bind;
           and similarly
@@ -801,7 +801,7 @@
       <div type="section" n="174" status="wip">
         <p>
           <label>§ 174.</label>
-          Germanic s remained in Gothic, as
+          <lang>Germanic</lang> s remained in Gothic, as
           slēpan, <lang>OE.</lang> slǣpan, <lang>OS.</lang> slāpan, <lang>OHG.</lang> slāfan, to sleep;
           wisan, <lang>O.Icel.</lang> vesa, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> wesan, to be;
           hūs (in gud-hūs, house of God), <lang>O.Icel.</lang> <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> hūs, house;
@@ -824,7 +824,7 @@
         <p>
           <label>§ 175.</label>
           z only occurred medially and finally in prim. Germanic (<ref>§§ 137, 141</ref>).
-          Medial z, which became r in the other Germanic languages, generally remained in Gothic, as
+          Medial z, which became r in the other <lang>Germanic</lang> languages, generally remained in Gothic, as
           huzd, <lang>OE.</lang> <lang>OS.</lang> hord, <lang>OHG.</lang> hort, treasure;
           máiza, <lang>OE.</lang> māra, <lang>OS.</lang> mēra, <lang>OHG.</lang> mēro, more, greater;
           and similarly
@@ -851,7 +851,7 @@
         </div>
 
         <p>
-          Germanic final -z became -s in Gothic, as
+          <lang>Germanic</lang> final -z became -s in Gothic, as
           gen. diuz-is, riqiz-is, but nom. dius, wild beast;
           riqis, darkness;
           nom. sing. dags, from *đaʒaz, day;
