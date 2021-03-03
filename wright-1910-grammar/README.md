@@ -37,15 +37,15 @@ But once this is done, not only can I produce a nice HTML version:
 | V       | superseded            | [link](chapter05.xml) | [link](html/chapter05.html) |
 | VI      | superseded            | [link](chapter06.xml) | [link](html/chapter06.html) |
 | VII     | superseded            | [link](chapter07.xml) | [link](html/chapter07.html) |
-| VIII    | [link](chapter08.xml) |                       |                             |
-| IX      | [link](chapter09.xml) |                       |                             |
-| X       | [link](chapter10.xml) |                       |                             |
-| XI      | [link](chapter11.xml) |                       |                             |
+| VIII    | [link](chapter08.xml) | in progress           | [link](html/chapter08.html) |
+| IX      | [link](chapter09.xml) | in progress           | [link](html/chapter09.html) |
+| X       | [link](chapter10.xml) | in progress           | [link](html/chapter10.html) |
+| XI      | [link](chapter11.xml) | in progress           | [link](html/chapter11.html) |
 | XII     | [link](chapter12.xml) | in progress           | [link](html/chapter12.html) |
 | XIII    | [link](chapter13.xml) | in progress           | [link](html/chapter13.html) |
 | XIV     | superseded            | [link](chapter14.xml) | [link](html/chapter14.html) |
-| XV      | [link](chapter15.xml) |                       |                             |
-| XVI     | [link](chapter16.xml) |                       |                             |
+| XV      | [link](chapter15.xml) | in progress           | [link](html/chapter15.html) |
+| XVI     | [link](chapter16.xml) | in progress           | [link](html/chapter16.html) |
 
 ## Status of Other Parts
 
