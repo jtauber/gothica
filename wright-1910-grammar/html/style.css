@@ -3,23 +3,90 @@
 body {
   display: flex;
   justify-content: space-around;
+  margin: 0;
 
   font-family: 'Noto Serif';
-  font-size: 14pt;
-  line-height: 20pt;
+  font-size: 13pt;
+  line-height: 18pt;
 }
 body.old {
   color: #333;
   text-shadow: 0 0 2px #333;
   background: #FFFFF7;
 }
+aside {
+  flex: 1;
+  padding: 1em 1em 0 0;
+}
+
+aside div {
+  position: sticky;
+  top: 1em;
+
+  transition: margin 0.3s ease-in-out;
+  margin-left: -50vw;
+  margin-right: 50vw;
+}
+aside:hover div {
+  transition: margin 0.3s ease-in-out;
+  margin-left: 0;
+  margin-right: 0;
+}
+aside nav {
+  font-size: 10pt;
+  line-height: 12pt;
+  padding: 1em;
+}
+aside nav ol {
+  list-style: upper-roman;
+}
+aside nav ol li {
+  margin-bottom: 6pt;
+}
+aside nav ol li.no-number {
+  list-style: none;
+}
+aside nav a {
+  text-decoration: none;
+  color: inherit;
+}
+aside nav a:hover {
+  text-decoration: underline;
+}
+aside h1 {
+  text-transform: uppercase;  /* until we have proper smallcaps */
+  font-weight: normal;
+  text-align: center;
+  font-size: 18pt;
+  line-height: 24pt;
+  letter-spacing: 1px;
+  margin: 0;
+}
+aside h1 div {
+  font-size: 10pt;
+  line-height: 12pt;
+}
+aside h2 {
+  text-transform: uppercase;  /* until we have proper smallcaps */
+  font-size: 14pt;
+  line-height: 20pt;
+  font-weight: normal;
+  text-align: center;
+  letter-spacing: 1px;
+  margin: 0.5em 0;
+}
+aside h2 div {
+  font-size: 8pt;
+  line-height: 10pt;
+}
 main {
+  flex: 2;
   margin: 2rem;
   max-width: 37rem;
   text-align: justify;
   position: relative;  /* for page number positioning */
 }
-h1 {
+main h1 {
   font-weight: normal;
   text-align: center;
   font-size: 18pt;
@@ -27,10 +94,10 @@ h1 {
   letter-spacing: 1px;
   margin: 0.5em 0;
 }
-h1:first-of-type {
+main h1:first-of-type {
   margin-top: 2em;
 }
-h2 {
+main h2 {
   text-transform: uppercase;  /* until we have proper smallcaps */
   font-size: 14pt;
   line-height: 20pt;
@@ -67,8 +134,8 @@ p {
   margin: 0.5em 0;
 }
 .note {
-  font-size: 12pt;
-  line-height: 16pt;
+  font-size: 10pt;
+  line-height: 14pt;
 }
 
 .section-label {
@@ -86,7 +153,7 @@ p {
   font-weight: bold;
 }
 .note-label {
-  font-variant: small-caps;
+  text-transform: uppercase;  /* until we have proper smallcaps */
 }
 .gloss {
   font-style: italic;
@@ -119,7 +186,7 @@ table caption {
 }
 td {
   padding: 0px 10px;
-  font-size: 14pt;
+  font-size: 12pt;
   white-space: nowrap;
 }
 table.border td {
@@ -170,11 +237,11 @@ div.float-list-item {
 
 /* page breaks */
 span.pb > span {
-  font-size: 80%;
+  font-size: 10pt;
   color: #369;
   position: absolute;
   right: 100%;
-  padding-right: 2em;
+  padding-right: 1em;
   font-style: normal;
   font-weight: normal;
 }
@@ -204,4 +271,8 @@ div.entry {
 }
 div.entry .grm {
   font-style: italic;
+}
+
+.status-wip {
+  background: #FFD;
 }
