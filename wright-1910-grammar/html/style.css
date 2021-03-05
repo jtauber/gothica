@@ -46,6 +46,25 @@ aside nav ol li {
 aside nav ol li.no-number {
   list-style: none;
 }
+body.chapter-intro #chapter-intro-link,
+body.chapter-1 #chapter-1-link,
+body.chapter-2 #chapter-2-link,
+body.chapter-3 #chapter-3-link,
+body.chapter-4 #chapter-4-link,
+body.chapter-5 #chapter-5-link,
+body.chapter-6 #chapter-6-link,
+body.chapter-7 #chapter-7-link,
+body.chapter-8 #chapter-8-link,
+body.chapter-9 #chapter-9-link,
+body.chapter-10 #chapter-10-link,
+body.chapter-11 #chapter-11-link,
+body.chapter-12 #chapter-12-link,
+body.chapter-13 #chapter-13-link,
+body.chapter-14 #chapter-14-link,
+body.chapter-15 #chapter-15-link,
+body.chapter-16 #chapter-16-link {
+  font-weight: bold;
+}
 aside nav a {
   text-decoration: none;
   color: inherit;
