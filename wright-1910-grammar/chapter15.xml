@@ -149,18 +149,18 @@
   <div type="subchapter">
     <head>Prefixes</head>
 
-    <div type="section" n="355" status="wip">
+    <div type="section" n="355">
       <p>
         <label>§ 355.</label>
-        af- from *ab-
-        (O.Icel. OS. af-, OE. æf- (unaccented form of-), OHG. ab, Indg. *apó beside *ápo, Gr. ἀπό ἄπο, off, from, away from), as
-        af-drugkja, drunkard;
-        af-ētja, glutton;
-        af-gudei, ungodliness;
-        af-guþs, godless;
-        af-lageins, remission;
-        af-lēts, forgiveness;
-        af-stass, a falling away.
+        <m>af-</m> from <m>*ab-</m>
+        (<lang>O.Icel.</lang> <lang>OS.</lang> <m>af-</m>, <lang>OE.</lang> <m>æf-</m> (unaccented form <m>of-</m>), <lang>OHG.</lang> <m>ab</m>, <lang>Indg.</lang> <w>*apó</w> beside <w>*ápo</w>, <lang>Gr.</lang> <w>ἀπό</w> <w>ἄπο</w>, <gloss>off, from, away from</gloss>), as
+        <w>af-drugkja</w>, <gloss>drunkard</gloss>;
+        <w>af-ētja</w>, <gloss>glutton</gloss>;
+        <w>af-gudei</w>, <gloss>ungodliness</gloss>;
+        <w>af-guþs</w>, <gloss>godless</gloss>;
+        <w>af-lageins</w>, <gloss>remission</gloss>;
+        <w>af-lēts</w>, <gloss>forgiveness</gloss>;
+        <w>af-stass</w>, <gloss>a falling away</gloss>.
       </p>
     </div>
 
@@ -168,7 +168,7 @@
       <p>
         <label>§ 356.</label>
         afar-
-        (O.Icel. afar-, OHG. avar-, a deriv. of Indg. *ápo + the comparative suffix -er-os, after, cp. Skr. áparas, the latter; adv. aparám, later), as
+        (<lang>O.Icel.</lang> afar-, <lang>OHG.</lang> avar-, a deriv. of <lang>Indg.</lang> *ápo + the comparative suffix -er-os, after, cp. Skr. áparas, the latter; adv. aparám, later), as
         afar-dags, the next day;
         afar-sabbatus, the first day after the Sabbath.
       </p>
@@ -178,7 +178,7 @@
       <p>
         <label>§ 357.</label>
         ana-
-        (OS. an-, OHG. ana-, OE. an-, accented form of on-, Gr. ἀνά, ἄνα, on, upon), as
+        (<lang>OS.</lang> an-, <lang>OHG.</lang> ana-, <lang>OE.</lang> an-, accented form of on-, <lang>Gr.</lang> ἀνά, ἄνα, on, upon), as
         ana-bū̌sns, command;
         ana-filh, tradition;
         ana-lageins, a laying on;
@@ -194,7 +194,7 @@
       <p>
         <label>§ 358.</label>
         and-, mostly in verbs, anda-, only with nouns and adjectives
-        (O.Icel. and-, OE. and-, ond-, OS. and-, ant-, OHG. ant-, ent-, int-, cp. Skr. ánti, Gr. ἀντί, opposite, against, Lat. ante, before), as
+        (<lang>O.Icel.</lang> and-, <lang>OE.</lang> and-, ond-, <lang>OS.</lang> and-, ant-, <lang>OHG.</lang> ant-, ent-, int-, cp. Skr. ánti, <lang>Gr.</lang> ἀντί, opposite, against, Lat. ante, before), as
         and-áugi, face;
         and-bahts, servant;
         and-huleins, revelation;
@@ -213,7 +213,7 @@
       <p>
         <label>§ 359.</label>
         at-
-        (O.Icel. OS. at-, OE. æt-, OHG. aȥ-, at, to, Lat. ad, to), only in
+        (<lang>O.Icel.</lang> <lang>OS.</lang> at-, <lang>OE.</lang> æt-, <lang>OHG.</lang> aȥ-, at, to, Lat. ad, to), only in
         at-aþni, year;
         at-witáins, observation.
       </p>
@@ -223,7 +223,7 @@
       <p>
         <label>§ 360.</label>
         bi-
-        (OE. OS. be-, OHG. bi-, the unaccented form of OE. OS. OHG. bī, by), as bi-faíhō, covetousness; bi-háit, strife; bi-máit, circumcision; bi-sitands, neighbour.
+        (<lang>OE.</lang> <lang>OS.</lang> be-, <lang>OHG.</lang> bi-, the unaccented form of <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> bī, by), as bi-faíhō, covetousness; bi-háit, strife; bi-máit, circumcision; bi-sitands, neighbour.
       </p>
     </div>
 
@@ -241,7 +241,7 @@
       <p>
         <label>§ 362.</label>
         faír-
-        (OHG. fir-, far-, NHG. Ver-, Skr. pári, Gr. πέρι, περί, around, Lat. per, through), only in
+        (<lang>OHG.</lang> fir-, far-, NHG. Ver-, Skr. pári, <lang>Gr.</lang> πέρι, περί, around, Lat. per, through), only in
         faír-weitl, spectacle.
      </p>
     </div>
@@ -250,7 +250,7 @@
       <p>
         <label>§ 363.</label>
         faúr-
-        (OE. OS. for, OHG. furi, for, before), as
+        (<lang>OE.</lang> <lang>OS.</lang> for, <lang>OHG.</lang> furi, for, before), as
         faúr-baúhts, redemption;
         faúr-hāh, curtain;
         faúr-lageins, a laying before;
@@ -262,7 +262,7 @@
       <p>
         <label>§ 364.</label>
         faúra-
-        (OE. fore, OS. OHG. fora, before, for), as
+        (<lang>OE.</lang> fore, <lang>OS.</lang> <lang>OHG.</lang> fora, before, for), as
         faúra-daúri, street;
         faúra-gagga, steward;
         faúra-hāh, curtain;
@@ -275,7 +275,7 @@
       <p>
         <label>§ 365.</label>
         fra-
-        (OHG. fra-, Lat. Pro-, Gr. πρό, before), as
+        (<lang>OHG.</lang> fra-, Lat. Pro-, <lang>Gr.</lang> πρό, before), as
         fra-gifts, gift, promise;
         fra-qisteins, waste;
         fra-lusts, loss;
@@ -288,7 +288,7 @@
       <p>
         <label>§ 366.</label>
         fram-
-        (O.Icel. OE. OS. OHG. fram-, from), as
+        (<lang>O.Icel.</lang> <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> fram-, from), as
         fram-aldrs, very old;
         fram-gāhts, progress.
       </p>
@@ -298,7 +298,7 @@
       <p>
         <label>§ 367.</label>
         ga-
-        (OE. ge-, OS. gi-, OHG. ga-, gi-), originally a preposition meaning together, which already in prim. Germanic was no longer used as an independent word.
+        (<lang>OE.</lang> ge-, <lang>OS.</lang> gi-, <lang>OHG.</lang> ga-, gi-), originally a preposition meaning together, which already in prim. Germanic was no longer used as an independent word.
         It was especially used in forming collective nouns, but at a later period it often had only an intensive meaning or
         <pb n="173"/>
         no special meaning at all, as
@@ -322,7 +322,7 @@
       <p>
         <label>§ 368.</label>
         hindar-
-        (OE. hinder, OHG. hintar, behind), only in
+        (<lang>OE.</lang> hinder, <lang>OHG.</lang> hintar, behind), only in
         hinder-weis, deceitful;
         hindar-weisei, deceitfulness.
       </p>
@@ -332,8 +332,8 @@
       <p>
         <label>§ 369.</label>
         id-
-        (OE. ed-, OHG. ita-, it-, back, again, re-), only in
-        idweit (OE. edwīt, OHG. ita-wīȥ, it-wīȥ), reproach.
+        (<lang>OE.</lang> ed-, <lang>OHG.</lang> ita-, it-, back, again, re-), only in
+        idweit (<lang>OE.</lang> edwīt, <lang>OHG.</lang> ita-wīȥ, it-wīȥ), reproach.
       </p>
     </div>
 
@@ -341,7 +341,7 @@
       <p>
         <label>§ 370.</label>
         in-
-        (OE. OS. OHG. in, O.Lat. en, later in, Gr. ἐνί, ἐν, in), as
+        (<lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> in, O.Lat. en, later in, <lang>Gr.</lang> ἐνί, ἐν, in), as
         in-ahei, soberness;
         in-ahs, sober;
         in-gardja, one of the same household;
@@ -356,7 +356,7 @@
       <p>
         <label>§ 371.</label>
         inna-
-        (O.Icel. OE. inne, OHG. inna, within), only in
+        (<lang>O.Icel.</lang> <lang>OE.</lang> inne, <lang>OHG.</lang> inna, within), only in
         inna-kunds, of the same household.
       </p>
     </div>
@@ -365,7 +365,7 @@
       <p>
         <label>§ 372.</label>
         missa-
-        (OE. mis-, OHG. missa-, missi-, Indg. *mitto-, originally a participial adjective meaning lost), as
+        (<lang>OE.</lang> mis-, <lang>OHG.</lang> missa-, missi-, <lang>Indg.</lang> *mitto-, originally a participial adjective meaning lost), as
         missa-dēþs, misdeed;
         missa-leiks, various;
         missa-qiss, discord.
@@ -376,7 +376,7 @@
       <p>
         <label>§ 373.</label>
         miþ-
-        (OE. OS. mid, OHG. mit, with, Gr. μετά, with, under, between), as
+        (<lang>OE.</lang> <lang>OS.</lang> mid, <lang>OHG.</lang> mit, with, <lang>Gr.</lang> μετά, with, under, between), as
         miþ-gardi-waddjus, partition wall;
         miþ-ga-sinþa, travelling companion;
         miþ-wissei, conscience.
@@ -387,7 +387,7 @@
       <p>
         <label>§ 374.</label>
         uf- from *uƀ-
-        (Skr. úpa, Gr. ὕπο, up, under), as
+        (Skr. úpa, <lang>Gr.</lang> ὕπο, up, under), as
         uf-áiþeis, under an oath;
         uf-blōteins, entreaty;
         uf-háuseins, obedience;
@@ -399,7 +399,7 @@
       <p>
         <label>§ 375.</label>
         ufar-
-        (OE. ofer, OS. oƀar, OHG. ubar, Gr. ὑπέρ, Skr. upári, over, above), as
+        (<lang>OE.</lang> ofer, <lang>OS.</lang> oƀar, <lang>OHG.</lang> ubar, <lang>Gr.</lang> ὑπέρ, Skr. upári, over, above), as
         ufar-fullei, overfullness;
         ufar-fulls, overfull;
         ufar-gudja, chief priest;
@@ -411,7 +411,7 @@
       <p>
         <label>§ 376.</label>
         un-
-        (OE. OS. OHG. un-, Lat. en-, Gr. ἀ-, a negative particle, un-, sometimes used intensitively with the meaning bad, evil, &amp;c.), as
+        (<lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> un-, Lat. en-, <lang>Gr.</lang> ἀ-, a negative particle, un-, sometimes used intensitively with the meaning bad, evil, &amp;c.), as
         un-agei, fearlessness;
         unbaírands, barren;
         un-fagrs, unfit;
@@ -427,7 +427,7 @@
       <p>
         <label>§ 377.</label>
         us- from *uz-
-        (OE. or-, OS. OHG. ur-, out), as
+        (<lang>OE.</lang> or-, <lang>OS.</lang> <lang>OHG.</lang> ur-, out), as
         us-filh, burial;
         us-fōdeins, food;
         us-fulleins, fullness;
@@ -442,7 +442,7 @@
       <p>
         <label>§ 378.</label>
         wiþra-
-        (OE. wiþer, OHG. widar, against), only in
+        (<lang>OE.</lang> wiþer, <lang>OHG.</lang> widar, against), only in
         wiþra-waírþs, opposite.
       </p>
     </div>
@@ -455,7 +455,7 @@
       <p>
         <label>§ 379.</label>
         -and-
-        (OE. -end, -nd, OS. -and, -nd; OHG. -ant, -nt), originally the ending of the present participle (§ 217), used in forming nomina agentis, as
+        (<lang>OE.</lang> -end, -nd, <lang>OS.</lang> -and, -nd; <lang>OHG.</lang> -ant, -nt), originally the ending of the present participle (§ 217), used in forming nomina agentis, as
         bisitands, neighbour;
         frijōnds, friend;
         fijands, enemy;
@@ -468,7 +468,7 @@
       <p>
         <label>§ 380.</label>
         -arja-
-        (OE. -ere, OHG. -ā̌ri, Lat. -ārius), originally used to form nomina agentis from other nouns, and then later from verbs also, as
+        (<lang>OE.</lang> -ere, <lang>OHG.</lang> -ā̌ri, Lat. -ārius), originally used to form nomina agentis from other nouns, and then later from verbs also, as
         bōkareis, scribe;
         láisareis, teacher;
         liuþareis, singer;
@@ -481,7 +481,7 @@
     <div type="section" n="381" status="wip">
       <p>
         <label>§ 381.</label>
-        -assu- from *-attu-, Indg. -ad-tu- (cp. § 138), the first element of which is the same as the -at- in Goth. -atjan, OE. -ettan, OHG. -azzen, Gr. -άζειν, in verbs like Goth. laúhatjan, OHG. lohazzen, to lighten.
+        -assu- from *-attu-, <lang>Indg.</lang> -ad-tu- (cp. § 138), the first element of which is the same as the -at- in Goth. -atjan, <lang>OE.</lang> -ettan, <lang>OHG.</lang> -azzen, <lang>Gr.</lang> -άζειν, in verbs like Goth. laúhatjan, <lang>OHG.</lang> lohazzen, to lighten.
         Mostly extended to -inassu- with -in- from verbs like
         fráujinōn, to rule over;
         gudjinōn, to be a priest (§ 415);
@@ -502,7 +502,7 @@
     <div type="section" n="382" status="wip">
       <p>
         <label>§ 382.</label>
-        -dūþi-, forming fem. abstract nouns, cp. Lat. juventus, youth, gen. juventūtis, Indg. -tūti-, as
+        -dūþi-, forming fem. abstract nouns, cp. Lat. juventus, youth, gen. juventūtis, <lang>Indg.</lang> -tūti-, as
         ajukdūþs, eternity;
         managdūþs, abundance;
         mikildūþs, greatness;
@@ -536,7 +536,7 @@
       <p>
         <label>§ 384.</label>
         -iþa
-        (OE. -þo, -þ, OHG. -ida, prim. Germanic -iþō with -i- from ja- and i-stems, Indg. -tā), used in forming fem. abstract nouns from adjectives, as
+        (<lang>OE.</lang> -þo, -þ, <lang>OHG.</lang> -ida, prim. Germanic -iþō with -i- from ja- and i-stems, <lang>Indg.</lang> -tā), used in forming fem. abstract nouns from adjectives, as
         aggwiþa, anguish;
         agliþa, tribulation;
         dáubiþa, deafness;
@@ -562,7 +562,7 @@
       <p>
         <label>§ 385.</label>
         -ōpu-
-        (OE. -aþ, -oþ, OHG. -ōd, Lat. -ātu-, Gr. Doric -ᾱτύ-), used in forming masc. abstract nouns from the second class of weak verbs, as
+        (<lang>OE.</lang> -aþ, -oþ, <lang>OHG.</lang> -ōd, Lat. -ātu-, <lang>Gr.</lang> Doric -ᾱτύ-), used in forming masc. abstract nouns from the second class of weak verbs, as
         gáunōþus, mourning;
         gabaúrjōþus, pleasure.
         -ōþu- became -ōdu- by dissimilation when the preceding syllable began with a voiceless consonant, as
@@ -576,7 +576,7 @@
       <p>
         <label>§ 386.</label>
         -ubni, -ufni
-        (see § 158 note), prim. Germanic -uƀnja-, Indg. -mnjo- with vocalic m, as
+        (see § 158 note), prim. Germanic -uƀnja-, <lang>Indg.</lang> -mnjo- with vocalic m, as
         fastubni, observance;
         fráistubni, temptation;
         witubni, knowledge;
@@ -588,7 +588,7 @@
     <div type="section" n="387" status="wip">
       <p>
         <label>§ 387.</label>
-        -þwa (prim. Germanic -þwō, Indg. -twā), as
+        -þwa (prim. Germanic -þwō, <lang>Indg.</lang> -twā), as
         fijaþwa, fiaþwa, hatred;
         frijaþwa, love;
         saliþwōs, pl., dwelling, mansion.
@@ -598,7 +598,7 @@
     <div type="section" n="388" status="wip">
       <p>
         <label>§ 388.</label>
-        -eini-, prim. Germanic -i(j)ini-, Indg. -ejeni-; -ōni-, Indg. -āni-; -áini-, prim. Germanic -æ(j)ini-, Indg. -ējeni-; used in forming verbal abstract nouns from the first three classes of weak verbs, as
+        -eini-, prim. Germanic -i(j)ini-, <lang>Indg.</lang> -ejeni-; -ōni-, <lang>Indg.</lang> -āni-; -áini-, prim. Germanic -æ(j)ini-, <lang>Indg.</lang> -ējeni-; used in forming verbal abstract nouns from the first three classes of weak verbs, as
         láiseins, doctrine;
         lapōns, invitation;
         libáins, life.
@@ -753,7 +753,7 @@
       <p>
         <label>§ 392.</label>
         -aga-
-        (OE. -ig, OHG. -ag, prim. Germanic -aʒá-, Indg. -oqó-, cp. Skr. -aká-, as
+        (<lang>OE.</lang> -ig, <lang>OHG.</lang> -ag, prim. Germanic -aʒá-, <lang>Indg.</lang> -oqó-, cp. Skr. -aká-, as
         áudags, blessed;
         grēdags, greedy;
         mōdags, angry;
@@ -766,7 +766,7 @@
       <p>
         <label>§ 393.</label>
         -aha-
-        (prim. Germanic -áxa-, Indg. -óqo-, cp. Skr. -áka-, the same suffix as the above with difference of accent), as
+        (prim. Germanic -áxa-, <lang>Indg.</lang> -óqo-, cp. Skr. -áka-, the same suffix as the above with difference of accent), as
         áinaha (weak decl), only;
         niu-klahs, under age;
         stáinahs, stony;
@@ -779,7 +779,7 @@
       <p>
         <label>§ 394.</label>
         -eiga-
-        (OE. -ig, OHG. -ī̌g, prim. Germanic -īʒá-, Indg. *-īqó-, cp. Skr. -īká-), as anda-nēmeigs, holding fast;<pb n="178"/>ansteigs, gracious; hrōþeigs, victorious; láiseigs, apt to teach; listeigs, cunning; mahteigs, mighty; sineigs, old; þiuþeigs, good; us-beisneigs, long-suffering; waúrst-weigs, effective.
+        (<lang>OE.</lang> -ig, <lang>OHG.</lang> -ī̌g, prim. Germanic -īʒá-, <lang>Indg.</lang> *-īqó-, cp. Skr. -īká-), as anda-nēmeigs, holding fast;<pb n="178"/>ansteigs, gracious; hrōþeigs, victorious; láiseigs, apt to teach; listeigs, cunning; mahteigs, mighty; sineigs, old; þiuþeigs, good; us-beisneigs, long-suffering; waúrst-weigs, effective.
       </p>
     </div>
 
@@ -787,7 +787,7 @@
       <p>
         <label>§ 395.</label>
         -eina-
-        (OE. -en, OHG. -īn, prim. Germanic -īna-, = Lat. -īnu-s), used in forming adjectives denoting the material of which a thing is made, as
+        (<lang>OE.</lang> -en, <lang>OHG.</lang> -īn, prim. Germanic -īna-, = Lat. -īnu-s), used in forming adjectives denoting the material of which a thing is made, as
         aírþeins, earthen;
         áiweins, eternal;
         barizeins, of barley;
@@ -804,7 +804,7 @@
       <p>
         <label>§ 396.</label>
         -iska-
-        (OE. -isc, OHG. -isc, -isk, Lat. -iscu-s, Gk. -ισκο-ς), generally connoting the quality of the object denoted by the simplex, as
+        (<lang>OE.</lang> -isc, <lang>OHG.</lang> -isc, -isk, Lat. -iscu-s, Gk. -ισκο-ς), generally connoting the quality of the object denoted by the simplex, as
         barnisks, childish;
         funisks, fiery;
         gudisks, godly;
@@ -851,7 +851,7 @@
         <pb n="179"/>
         are generally called bahuvrīhi or possessive compounds, as
         Lat. longipēs, having a long foot, long-footed;
-        Gr. δυσμενής, having an evil mind, hostile;
+        <lang>Gr.</lang> δυσμενής, having an evil mind, hostile;
         <lang>Gothic</lang> alja-kuns, belonging to another race, foreign;
         arma-haírts, merciful;
         háuh-haírts, proud, haughty;
@@ -1107,7 +1107,7 @@
       <p>
         <label>§ 416.</label>
         twis-
-        (OE. twi-, OHG. zwi-, Lat. bi-, Gr. δι- from *δϝι-, two), denoting separation, only in
+        (<lang>OE.</lang> twi-, <lang>OHG.</lang> zwi-, Lat. bi-, <lang>Gr.</lang> δι- from *δϝι-, two), denoting separation, only in
         twis-standan, to depart from one.
       </p>
     </div>
@@ -1130,7 +1130,7 @@
       <p>
         <label>§ 418.</label>
         tuz-
-        (OE. tor-, Gr. δυς-), only in
+        (<lang>OE.</lang> tor-, <lang>Gr.</lang> δυς-), only in
         tuz-wērjan, to doubt.
       </p>
     </div>
@@ -1139,7 +1139,7 @@
       <p>
         <label>§ 419.</label>
         þaírh-
-        (OE. þurh, OHG. durh, through), as þaírh-baíran, to carry through; paírh-gaggan, to go through; þaírh-saíƕan, to see through; þaírh-wisan, to remain.
+        (<lang>OE.</lang> þurh, <lang>OHG.</lang> durh, through), as þaírh-baíran, to carry through; paírh-gaggan, to go through; þaírh-saíƕan, to see through; þaírh-wisan, to remain.
       </p>
     </div>
 
@@ -1160,15 +1160,15 @@
       <p>
         <label>§ 421.</label>
         und-
-        (OE. oþ-, OHG. unt-, up to), as
+        (<lang>OE.</lang> oþ-, <lang>OHG.</lang> unt-, up to), as
         und-greipan, to seize;
         und-rēdan, to grant;
         und-rinnan, to run to one.
       </p>
       <p>
         unþa-
-        (OE. ūþ-, OHG. int-, from, away), only in
-        unþa-þliuhan = OHG. int-fliohan, to escape.
+        (<lang>OE.</lang> ūþ-, <lang>OHG.</lang> int-, from, away), only in
+        unþa-þliuhan = <lang>OHG.</lang> int-fliohan, to escape.
       </p>
     </div>
 
@@ -1211,7 +1211,7 @@
       <p>
         <label>§ 424.</label>
         -atjan
-        (OE. -ettan, OHG. -azzen, cp. § 381), used in forming intensitive verbs, as
+        (<lang>OE.</lang> -ettan, <lang>OHG.</lang> -azzen, cp. § 381), used in forming intensitive verbs, as
         laúhatjan, to lighten;
         káupatjan, to buffet;
         swōgatjan, to sigh, groan.

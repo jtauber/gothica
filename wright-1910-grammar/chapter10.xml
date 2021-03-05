@@ -41,11 +41,11 @@
     <div type="subchapter" n="1">
       <head>1. The a-declension.</head>
 
-      <div type="section" n="178" status="wip">
+      <div type="section" n="178">
         <p>
           <label>§ 178.</label>
-          The a-declension comprises masculine and neuter nouns only, and corresponds to the <lang>Latin</lang> and <lang>Greek</lang> o-declension (<lang>Gr.</lang> masc. -ος, neut. -ον, <lang>Lat.</lang> -us, -um), for which reason it is sometimes called the o-declension.
-          The a-declension is divided into pure a-stems, ja-stems, and wa-stems.
+          The <c>a</c>-declension comprises masculine and neuter nouns only, and corresponds to the <lang>Latin</lang> and <lang>Greek</lang> <c>o</c>-declension (<lang>Gr.</lang> <grm>masc.</grm> <m>-ος</m>, <grm>neut.</grm> <m>-ον</m>, <lang>Lat.</lang> <m>-us</m>, <m>-um</m>), for which reason it is sometimes called the <c>o</c>-declension.
+          The <c>a</c>-declension is divided into pure <c>a</c>-stems, <c>ja</c>-stems, and <c>wa</c>-stems.
         </p>
       </div>
 
