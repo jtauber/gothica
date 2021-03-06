@@ -56,41 +56,42 @@
     <div type="subsubchapter" n="1">
       <head>a-stems</head>
       
-      <div type="section" n="226" status="wip">
+      <div type="section" n="226">
         <p>
           <label>§ 226.</label>
-          The a-stems are sub-divided into pure a-stems, ja-stems, and wa-stems.
-          The nominal endings of the pure a-stems for the three genders are the same as those of
-          dags (§ 179),
-          waúrd (§ 181),
-          giba (§ 191).
+          The <c>a</c>-stems are sub-divided into pure <c>a</c>-stems, <c>ja</c>-stems, and <c>wa</c>-stems.
+          The nominal endings of the pure <c>a</c>-stems for the three genders are the same as those of
+          <w>dags</w> (<ref>§ 179</ref>),
+          <w>waúrd</w> (<ref>§ 181</ref>),
+          <w>giba</w> (<ref>§ 191</ref>).
         </p>
         
         <div type="subsection" n="1">
           <head>Pure a-stems</head>
 
           <table>
-            <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                   </row>
-            <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                          <cell>Fem.</cell>               </row>
-            <row> <cell>Nom.</cell> <cell><w>blinds</w>, <gloss>blind</gloss></cell>  <cell><w>blinds</w>, <w>blindata</w></cell> <cell><w>blinda</w></cell>      </row>
-            <row> <cell>Acc.</cell> <cell><w>blindana</w></cell>                      <cell><w>blinds</w>, <w>blindata</w></cell> <cell><w>blinda</w></cell>      </row>
-            <row> <cell>Gen.</cell> <cell><w>blindis</w></cell>                       <cell><w>blindis</w></cell>                 <cell><w>blindáizōs</w></cell>  </row>
-            <row> <cell>Dat.</cell> <cell><w>blindamma</w></cell>                     <cell><w>blindamma</w></cell>               <cell><w>blindái</w></cell>     </row>
-            <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                                   </row>
-            <row> <cell>Nom.</cell>	<cell><w>blindái</w></cell>                       <cell><w>blinda</w></cell>                  <cell><w>blindōs</w></cell>     </row>
-            <row> <cell>Acc.</cell> <cell><w>blindans</w></cell>                      <cell><w>blinda</w></cell>                  <cell><w>blindōs</w></cell>     </row>
-            <row> <cell>Gen.</cell> <cell><w>blindáizē</w></cell>                     <cell><w>blindáizē</w></cell>               <cell><w>blindáizō</w></cell>   </row>
-            <row> <cell>Dat.</cell> <cell><w>blindáim</w></cell>                      <cell><w>blindáim</w></cell>                <cell><w>blindáim</w></cell>    </row>
+            <row> <cell/>                       <cell cols="3"><grm>Sing.</grm></cell>                                                                                        </row>
+            <row> <cell/>                       <cell><grm>Masc.</grm></cell>                     <cell><grm>Neut.</grm></cell>                         <cell><grm>Fem.</grm></cell>    </row>
+            <row> <cell><grm>Nom.</grm></cell>  <cell><w>blinds</w>, <gloss>blind</gloss></cell>  <cell><w>blinds</w>, <w>blind<hi>ata</hi></w></cell>  <cell><w>blinda</w></cell>      </row>
+            <row> <cell><grm>Acc.</grm></cell>  <cell><w>blind<hi>ana</hi></w></cell>             <cell><w>blinds</w>, <w>blind<hi>ata</hi></w></cell>  <cell><w>blinda</w></cell>      </row>
+            <row> <cell><grm>Gen.</grm></cell>  <cell><w>blindis</w></cell>                       <cell><w>blindis</w></cell>                           <cell><w>blind<hi>áizōs</hi></w></cell>  </row>
+            <row> <cell><grm>Dat.</grm></cell>  <cell><w>blind<hi>amma</hi></w></cell>            <cell><w>blind<hi>amma</hi></w></cell>                <cell><w>blindái</w></cell>     </row>
+            <row> <cell/>                       <cell cols="3"><grm>Plur.</grm></cell>                                                                                        </row>
+            <row> <cell><grm>Nom.</grm></cell>  <cell><w>blind<hi>ái</hi></w></cell>              <cell><w>blinda</w></cell>                            <cell><w>blindōs</w></cell>     </row>
+            <row> <cell><grm>Acc.</grm></cell>  <cell><w>blindans</w></cell>                      <cell><w>blinda</w></cell>                            <cell><w>blindōs</w></cell>     </row>
+            <row> <cell><grm>Gen.</grm></cell>  <cell><w>blind<hi>áizē</hi></w></cell>            <cell><w>blind<hi>áizē</hi></w></cell>               <cell><w>blind<hi>áizō</hi></w></cell>   </row>
+            <row> <cell><grm>Dat.</grm></cell>  <cell><w>blind<hi>áim</hi></w></cell>             <cell><w>blind<hi>áim</hi></w></cell>                <cell><w>blind<hi>áim</hi></w></cell>    </row>
           </table>
         </div>
         
         <div type="note">
           <p>
-            Note.—On adjectives like
-            láus, empty (gen. láusis);
-            gaqiss, consenting (gen. gaqissis), see § 175;
-            gōps (gen. gōdis), good, see § 173;
-            liufs (gen. liubis), dear, see § 161.
+            <label>Note.—</label>
+            On adjectives like
+            <w>láus</w>, <gloss>empty</gloss> (<grm>gen.</grm> <w>láusis</w>);
+            <w>gaqiss</w>, <gloss>consenting</gloss> (<grm>gen.</grm> <w>gaqissis</w>), see <ref>§ 175</ref>;
+            <w>gōps</w> (<grm>gen.</grm> <w>gōdis</w>), <gloss>good</gloss>, see <ref>§ 173</ref>;
+            <w>liufs</w> (<grm>gen.</grm> <w>liubis</w>), <gloss>dear</gloss>, see <ref>§ 161</ref>.
           </p>
         </div>
       </div>

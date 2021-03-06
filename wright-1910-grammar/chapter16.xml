@@ -251,7 +251,7 @@
   <div type="subchapter">
     <head>Adjectives.</head>
 
-    <div type="section" n="429" status="wip">
+    <div type="section" n="429">
       <p>
         <label>§ 429.</label>
         Adjectives agree with their nouns in number, gender, and case not only when used attributively, but also when the adjective follows the noun, either predicatively or in apposition.
@@ -259,23 +259,24 @@
       </p>
 
       <list>
-        <item>
+        <item n="1">
           <p>
-            (1) An adjective accompanying managei, people, multitude, and hiuhma, crowd, mostly occurs in the masculine plural, as
-            jah was managei beidandans Zakariins, and<pb n="187"/>the people waited for Zacharias;
-            jah alls hiuhma was manageins beidandans, and the whole crowd of the people was waiting (the Gr. has προσευχόμενον, praying).
+            (1) An adjective accompanying <w>managei</w>, <gloss>people, multitude</gloss>, and <w>hiuhma</w>, <gloss>crowd</gloss>, mostly occurs in the masculine plural, as
+            <phr>jah was managei beidandans Zakariins</phr>, <gloss>and<pb n="187"/>the people waited for Zacharias</gloss>;
+            <phr>jah alls hiuhma was manageins beidandans</phr>, <gloss>and the whole crowd of the people was waiting</gloss> (the Gr. has <w>προσευχόμενον</w>, <gloss>praying</gloss>).
           </p>
         </item>
-        <item>
+        <item n="2">
           <p>
             (2) Grammatical feminines are occasionally treated as masculines, or even when denoting things as neuters and grammatical neuters (when suggesting persons) as masculines, as
-            ei kanniþ wēsi handugei guþs, that the wisdom of God might be known;
-            ni waírþiþ garaíhts áinhun leikē, no man (<abbr>lit.</abbr> no one of bodies) becometh just.
+            <phr>ei kanniþ wēsi handugei guþs</phr>, <gloss>that the wisdom of God might be known</gloss>;
+            <phr>ni waírþiþ garaíhts áinhun leikē</phr>, <gloss>no man (<abbr>lit.</abbr> no one of bodies) becometh just</gloss>.
           </p>
         </item>
-        <item>
+        <item n="3">
           <p>
-            (3) When the same adjective refers both to masculine and feminine beings, it is put in the neuter plural, as wēsunuh þan garaíhta ba in and waírþja guþs, and they (Zacharias and Elizabeth) were both righteous before God.
+            (3) When the same adjective refers both to masculine and feminine beings, it is put in the neuter plural, as
+            <phr>wēsunuh þan garaíhta ba in and waírþja guþs</phr>, <gloss>and they (Zacharias and Elizabeth) were both righteous before God</gloss>.
           </p>
         </item>
       </list>

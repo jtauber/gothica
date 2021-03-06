@@ -189,22 +189,22 @@
       </p>
     </div>
 
-    <div type="section" n="264" status="wip">
+    <div type="section" n="264">
       <p>
         <label>§ 264.</label>
-        The possessive pronouns are declined according to the strong declension like blinds (§ 226).
-        The possessive pronouns ending in -ar do not have the form in<pb n="124"/>-ata in the nom. acc. sing. neut.
-        On the nom. sing. masc. unsar, &amp;c., see § 175:—
+        The possessive pronouns are declined according to the strong declension like <w>blinds</w> (<ref>§ 226</ref>).
+        The possessive pronouns ending in <m>-ar</m> do not have the form in<pb n="124"/><m>-ata</m> in the <grm>nom. acc. sing. neut.</grm>
+        On the <grm>nom. sing. masc.</grm> <w>unsar</w>, &amp;c., see <ref>§ 175</ref>:—
       </p>
 
       <table>
-        <row> <cell>Sing.</cell>                                                                      </row>
-        <row> <cell/>           <cell>Masc.</cell>    <cell>Neut.</cell>          <cell>Fem.</cell>   </row>
-        <row> <cell>Nom.</cell> <cell>meins</cell>    <cell>mein, meinata</cell>  <cell>meina</cell>  </row>
-        <row> <cell/>           <cell>unsar</cell>    <cell>unsar</cell>          <cell>unsara</cell> </row>
-        <row> <cell>Acc.</cell> <cell>meinana</cell>  <cell>mein, meinata</cell>  <cell>meina</cell>  </row>
-        <row> <cell/>           <cell>unsarana</cell> <cell>unsar</cell>          <cell>unsara</cell> </row>
-        <row> <cell/>           <cell>seinana</cell>  <cell>sein, seinata</cell>  <cell>seina</cell>  </row>
+        <row> <cell/>                       <cell><grm>Sing.</grm></cell>                                                                         </row>
+        <row> <cell/>                       <cell><grm>Masc.</grm></cell> <cell><grm>Neut.</grm></cell>             <cell><grm>Fem.</grm></cell>  </row>
+        <row> <cell><grm>Nom.</grm></cell>  <cell><w>meins</w></cell>     <cell><w>mein</w>, <w>meinata</w></cell>  <cell><w>meina</w></cell>     </row>
+        <row> <cell/>                       <cell><w>unsar</w></cell>     <cell><w>unsar</w></cell>                 <cell><w>unsara</w></cell>    </row>
+        <row> <cell><grm>Acc.</grm></cell>  <cell><w>meinana</w></cell>   <cell><w>mein</w>, <w>meinata</w></cell>  <cell><w>meina</w></cell>     </row>
+        <row> <cell/>                       <cell><w>unsarana</w></cell>  <cell><w>unsar</w></cell>                 <cell><w>unsara</w></cell>    </row>
+        <row> <cell/>                       <cell><w>seinana</w></cell>   <cell><w>sein</w>, <w>seinata</w></cell>  <cell><w>seina</w></cell>     </row>
       </table>
     </div>
   </div>
