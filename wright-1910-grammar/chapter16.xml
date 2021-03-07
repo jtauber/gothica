@@ -282,41 +282,44 @@
       </list>
     </div>
 
-    <div type="section" n="430" status="wip">
+    <div type="section" n="430">
       <p>
         <label>§ 430.</label>
         The strong and weak forms of adjectives are employed in much the same manner as in the other old Germanic languages;
         that is, adjectives used without the definite article follow the strong declension, and those with the definite article follow the weak declension, as
-        was drus is mikils, great was the fall of it;
-        ni mag bagms þiuþeigs akrana ubila gatáujan, a good tree cannot produce evil fruit;
-        haírdeis sa gōda, the good shepherd;
-        untē baúrgs ist þis mikilins þiudanis, for it is the city of the great king.
+        <phr>was drus is mikils</phr>, <gloss>great was the fall of it</gloss>;
+        <phr>ni mag bagms þiuþeigs akrana ubila gatáujan</phr>, <gloss>a good tree cannot produce evil fruit</gloss>;
+        <phr>haírdeis sa gōda</phr>, <gloss>the good shepherd</gloss>;
+        <phr>untē baúrgs ist þis mikilins þiudanis</phr>, <gloss>for it is the city of the great king</gloss>.
       </p>
       <p>
-        The pronominal form of the <grm>nom. acc. neut.</grm> of strong adjectives (§ 226) is never used predicatively.
+        The pronominal form of the <grm>nom. acc. neut.</grm> of strong adjectives (<ref>§ 226</ref>) is never used predicatively.
       </p>
       <p>
-        All cardinal numerals, the ordinal numeral anþar, second, the possessive pronouns meins, my;
-        þeins, thy;
+        All cardinal numerals, the ordinal numeral <w>anþar</w>, <gloss>second</gloss>, the possessive pronouns
+        <w>meins</w>, <gloss>my</gloss>;
+        <w>þeins</w>, <gloss>thy</gloss>;
         <abbr>&amp;c.</abbr>,
-        the pronominal adjectives sums, some;
-        alls, all;
-        jáins, that;
-        swaleiks, such;
+        the pronominal adjectives
+        <w>sums</w>, <gloss>some</gloss>;
+        <w>alls</w>, <gloss>all</gloss>;
+        <w>jáins</w>, <gloss>that</gloss>;
+        <w>swaleiks</w>, <gloss>such</gloss>;
         <abbr>&amp;c.</abbr>,
-        as also the adjectives fulls, full;
-        ganōhs, enough;
-        halbs, half;
-        midjis, middle;
+        as also the adjectives
+        <w>fulls</w>, <gloss>full</gloss>;
+        <w>ganōhs</w>, <gloss>enough</gloss>;
+        <w>halbs</w>, <gloss>half</gloss>;
+        <w>midjis</w>, <gloss>middle</gloss>;
         are always declined strong.
       </p>
       <p>
-        All ordinal numerals (except anþar), all adjectives in the comparative degree, all the old superlatives ending in -ma, as
-        fruma, first;
-        aftuma, last;
-        the present participle<pb n="188"/>(except in the nom. sing. masc., see § 239), and
-        sama, same;
-        silba, self;
+        All ordinal numerals (except <w>anþar</w>), all adjectives in the comparative degree, all the old superlatives ending in <m>-ma</m>, as
+        <w>fruma</w>, <gloss>first</gloss>;
+        <w>aftuma</w>, <gloss>last</gloss>;
+        the present participle<pb n="188"/>(except in the <grm>nom. sing. masc.</grm>, see <ref>§ 239</ref>), and
+        <w>sama</w>, <gloss>same</gloss>;
+        <w>silba</w>, <gloss>self</gloss>;
         are always declined weak.
       </p>
     </div>
