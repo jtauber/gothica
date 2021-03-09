@@ -185,6 +185,9 @@ p {
 .phr, .w, .m, .c, .seg {
   font-weight: bold;
 }
+.m, .c {
+  white-space: nowrap;
+}
 /* .grm {
   font-style: italic;
 } */

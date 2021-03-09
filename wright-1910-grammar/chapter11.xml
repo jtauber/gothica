@@ -160,35 +160,41 @@
     <div type="subsubchapter" n="2">
       <head>ja-stems</head>
     
-      <div type="section" n="228" status="wip">
+      <div type="section" n="228">
         <p>
           <label>§ 228.</label>
-          The ja-stems are divided into two classes like the corresponding declension of nouns (§ 183):
-          (1) ja-stems with a short radical syllable, and those whose stems end in a vowel;
-          (2) ja-stems with a long stem-syllable.
+          The <c>ja</c>-stems are divided into two classes like the corresponding declension of nouns (<ref>§ 183</ref>):
+          <list>
+            <item>
+              (1) <c>ja</c>-stems with a short radical syllable, and those whose stems end in a vowel;
+            </item>
+            <item>
+              (2) <c>ja</c>-stems with a long stem-syllable.
+            </item>
+          </list>
           The latter only differ from the former in the singular.
           The nominal endings of (1) are the same as those of
-          harjis (§ 184),
-          kuni (§ 186),
-          giba (§ 191);
+          <w>harjis</w> (<ref>§ 184</ref>),
+          <w>kuni</w> (<ref>§ 186</ref>),
+          <w>giba</w> (<ref>§ 191</ref>);
           and of (2)
-          haírdeis (§ 184),
-          kuni (§ 186),
-          bandi (§ 193).
+          <w>haírdeis</w> (<ref>§ 184</ref>),
+          <w>kuni</w> (<ref>§ 186</ref>),
+          <w>bandi</w> (<ref>§ 193</ref>).
         </p>
 
         <table>
           <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                               </row>
           <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                       <cell>Fem.</cell>              </row>
-          <row> <cell>Nom.</cell> <cell><w>midjis</w>, <gloss>middle</gloss></cell> <cell><w>midi</w>, <w>midjata</w></cell> <cell><w>midja</w></cell>      </row>
-          <row> <cell>Acc.</cell> <cell><w>midjana</w></cell>                       <cell><w>midi</w>, <w>midjata</w></cell> <cell><w>midja</w></cell>      </row>
-          <row> <cell>Gen.</cell> <cell><w>midjis</w></cell>                        <cell><w>midjis</w></cell>               <cell><w>midjáizōs</w></cell>  </row>
-          <row> <cell>Dat.</cell> <cell><w>midjamma</w></cell>                      <cell><w>midjamma</w></cell>             <cell><w>midjái</w></cell>     </row>
+          <row> <cell>Nom.</cell> <cell><w>midjis</w>, <gloss>middle</gloss></cell> <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
+          <row> <cell>Acc.</cell> <cell><w>midj<hi>ana</hi></w></cell>              <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
+          <row> <cell>Gen.</cell> <cell><w>midjis</w></cell>                        <cell><w>midjis</w></cell>               <cell><w>midj<hi>áizōs</hi></w></cell>  </row>
+          <row> <cell>Dat.</cell> <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midjái</w></cell>     </row>
           <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                               </row>
-          <row> <cell>Nom.</cell>	<cell><w>midjái</w></cell>                        <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
+          <row> <cell>Nom.</cell>	<cell><w>midj<hi>ái</hi></w></cell>               <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
           <row> <cell>Acc.</cell> <cell><w>midjans</w></cell>                       <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
-          <row> <cell>Gen.</cell> <cell><w>midjáizē</w></cell>                      <cell><w>midjáizē</w></cell>             <cell><w>midjáizō</w></cell>   </row>
-          <row> <cell>Dat.</cell> <cell><w>midjáim</w></cell>                       <cell><w>midjáim</w></cell>              <cell><w>midjáim</w></cell>    </row>
+          <row> <cell>Gen.</cell> <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizō</hi></w></cell>   </row>
+          <row> <cell>Dat.</cell> <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>    </row>
         </table>
 
       </div>

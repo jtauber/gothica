@@ -136,28 +136,32 @@
         <div type="subsubchapter" n="2">
           <head>Neuters.</head>
 
-          <div type="section" n="181" status="wip">
-            <label>§ 181.</label>
+          <div type="section" n="181">
+            <p>
+              <label>§ 181.</label>
+            </p>
 
             <table>
-              <row> <cell/>                     	<cell cols="2">Sing.</cell>                           </row>
-              <row> <cell>Nom. Voc.	Acc.</cell> 	<cell>waúrd, word</cell>  	<cell>háubiþ, head</cell> </row>
-              <row> <cell>Gen.</cell>           	<cell>waúrdis</cell>      	<cell>háubidis</cell>     </row>
-              <row> <cell>Dat.</cell>           	<cell>waúrda</cell>       	<cell>háubida</cell>      </row>
-              <row> <cell/>                     	<cell cols="2">Plur.</cell>                           </row>
-              <row> <cell>Nom. Voc.	Acc.</cell> 	<cell>waúrda</cell>       	<cell>háubida</cell>      </row>
-              <row> <cell>Gen.</cell>           	<cell>waúrdē</cell>       	<cell>háubidē</cell>      </row>
-              <row> <cell>Dat.</cell>           	<cell>waúrdam</cell>      	<cell>háubidam</cell>     </row>
+              <row> <cell/>                     	          <cell cols="2"><grm>Sing.</grm></cell>                </row>
+              <row> <cell><grm>Nom. Voc.	Acc.</grm></cell> <cell><w>waúrd</w>, <gloss>word</gloss></cell>  	<cell><w>háubiþ</w>, <gloss>head</gloss></cell> </row>
+              <row> <cell><grm>Gen.</grm></cell>           	<cell><w>waúrdis</w></cell>      	<cell><w>háubidis</w></cell>     </row>
+              <row> <cell><grm>Dat.</grm></cell>           	<cell><w>waúrda</w></cell>       	<cell><w>háubida</w></cell>      </row>
+              <row> <cell/>                     	          <cell cols="2"><grm>Plur.</grm></cell>                </row>
+              <row> <cell><grm>Nom. Voc.	Acc.</grm></cell> <cell><w>waúrda</w></cell>       	<cell><w>háubida</w></cell>      </row>
+              <row> <cell><grm>Gen.</grm></cell>           	<cell><w>waúrdē</w></cell>       	<cell><w>háubidē</w></cell>      </row>
+              <row> <cell><grm>Dat.</grm></cell>           	<cell><w>waúrdam</w></cell>      	<cell><w>háubidam</w></cell>     </row>
             </table>
 
             <p>
-              The neuters only differed from the masculines in the nom. voc. sing. and nom. acc. plural, the prim. Germ. forms of which were *worđan, *worđō (§ 62). 
-              These regularly became waúrd, waúrda in <lang>Gothic</lang>.
+              The neuters only differed from the masculines in the <grm>nom. voc. sing.</grm> and <grm>nom. acc. plural</grm>,
+              the <lang>prim. Germ.</lang> forms of which were <w>*worđan</w>, <w>*worđō</w> (<ref>§ 62</ref>).
+              These regularly became <w>waúrd</w>, <w>waúrda</w> in <lang>Gothic</lang>.
             </p>
 
             <div type="note">
               <p>
-                Note.—On the interchange of þ (háubiþ) and d (háubidis, &amp;c.) see § 173.
+                <label>Note.—</label>
+                On the interchange of <c>þ</c> (<w>háubiþ</w>) and <c>d</c> (<w>háubidis</w>, &amp;c.) see <ref>§ 173</ref>.
               </p>
             </div>
           </div>
