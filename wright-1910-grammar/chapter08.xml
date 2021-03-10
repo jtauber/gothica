@@ -97,12 +97,12 @@
     </div>
   </div>
 
-  <div type="section" n="127" status="wip">
+  <div type="section" n="127">
     <p>
       <label>§ 127.</label>
-      In the following tables of the normal equivalents of the <lang>Indg.</lang> explosives in <lang>Latin</lang>, <lang>Greek</lang>, and the <lang>Germanic</lang> languages, Table I contains the <lang>Indg.</lang> tenues p, t, k, the mediae b, d, g and the pure velars q, g.
-      Table II contains the <lang>Indg.</lang> mediae aspiratae and the velars q, g with labialization.
-      The equivalents in the <lang>Germanic</lang> languages do not contain the changes caused by Verner’s Law, <abbr>&amp;c.</abbr> The East Franconian dialect is taken as the normal for <lang>OHG.</lang>
+      In the following tables of the normal equivalents of the <lang>Indg.</lang> explosives in <lang>Latin</lang>, <lang>Greek</lang>, and the <lang>Germanic</lang> languages, Table I contains the <lang>Indg.</lang> tenues <c>p</c>, <c>t</c>, <c>k</c>, the mediae <c>b</c>, <c>d</c>, <c>g</c> and the pure velars <c>q</c>, <c>g</c>.
+      Table II contains the <lang>Indg.</lang> mediae aspiratae and the velars <c>q</c>, <c>g</c> with labialization.
+      The equivalents in the <lang>Germanic</lang> languages do not contain the changes caused by Verner’s Law, <abbr>&amp;c.</abbr> The <lang>East Franconian</lang> dialect is taken as the normal for <lang>OHG.</lang>
     </p>
 
     <p>
@@ -112,18 +112,19 @@
     <list>
       <item n="1">
         <p>
-          (1) The <lang>Indg.</lang> tenues p, t, k and the mediae b, d, g generally remained unchanged in <lang>Latin</lang> and <lang>Greek</lang>.
+          (1) The <lang>Indg.</lang> tenues <c>p</c>, <c>t</c>, <c>k</c> and
+          the mediae <c>b</c>, <c>d</c>, <c>g</c> generally remained unchanged in <lang>Latin</lang> and <lang>Greek</lang>.
         </p>
       </item>
       <item n="2">
         <p>
-          (2) The pure velars (q, ɡ) fell together with the palatals k, g in <lang>Latin</lang> and <lang>Greek</lang>.
-          They became χ, k in <lang>prim. Germanic</lang>, and thus fell together with the χ, k from <lang>Indg.</lang> k, g.
+          (2) The pure velars (<c>q</c>, <c>ɡ</c>) fell together with the palatals <c>k</c>, <c>g</c> in <lang>Latin</lang> and <lang>Greek</lang>.
+          They became <c>χ</c>, <c>k</c> in <lang>prim. Germanic</lang>, and thus fell together with the <c>χ</c>, <c>k</c> from <lang>Indg.</lang> <c>k</c>, <c>g</c>.
         </p>
       </item>
       <item n="3">
         <p>
-          (3) The pure velar ɡh fell together with the original palatal gh in <lang>Latin</lang> and <lang>Greek</lang>.
+          (3) The pure velar <c>ɡh</c> fell together with the original palatal <c>gh</c> in <lang>Latin</lang> and <lang>Greek</lang>.
         </p>
       </item>
       <item n="4">
@@ -139,56 +140,56 @@
       </item>
       <item n="6">
         <p>
-          (6) In <lang>Latin</lang> <lang>Indg.</lang> q with labialization became qu, rarely c.
-          ɡ with labialization became v (but gu after n, and g when the labialized element had been lost, as gravis = <lang>Gr.</lang> βαρύς, heavy).
+          (6) In <lang>Latin</lang> <lang>Indg.</lang> <c>q</c> with labialization became <c>qu</c>, rarely <c>c</c>.
+          <c>ɡ</c> with labialization became <c>v</c> (but <c>gu</c> after <c>n</c>, and <c>g</c> when the labialized element had been lost, as <w>gravis</w> = <lang>Gr.</lang> <w>βαρύς</w>, <gloss>heavy</gloss>).
         </p>
         <pb n="53"/>
         <p>
-          <lang>Indg.</lang> ph, bh became f initially and b medially.
+          <lang>Indg.</lang> <c>ph</c>, <c>bh</c> became <c>f</c> initially and <c>b</c> medially.
         </p>
         <p>
-          <lang>Indg.</lang> th, dh became f initially, b medially before and after r, before l and after u (w), in other cases d.
+          <lang>Indg.</lang> <c>th</c>, <c>dh</c> became <c>f</c> initially, <c>b</c> medially before and after <c>r</c>, before <c>l</c> and after <c>u</c> (<c>w</c>), in other cases <c>d</c>.
         </p>
         <p>
-          <lang>Indg.</lang> kh, gh became h initially before and medially between vowels;
-          g before and after consonants, and f before u (w).
+          <lang>Indg.</lang> <c>kh</c>, <c>gh</c> became <c>h</c> initially before and medially between vowels;
+          <c>g</c> before and after consonants, and <c>f</c> before <c>u</c> (<c>w</c>).
         </p>
         <p>
-          <lang>Indg.</lang> qh, ɡh with labialization became f initially, v medially except that after n they became gu.
+          <lang>Indg.</lang> <c>qh</c>, <c>ɡh</c> with labialization became <c>f</c> initially, <c>v</c> medially except that after <c>n</c> they became <c>gu</c>.
         </p>
       </item>
       <item n="7">
         <p>
-          (7) In <lang>Greek</lang> <lang>Indg.</lang> q, ɡ with labialization became π, β before non-palatal vowels (except u) and before consonants (except <lang>Indg.</lang> j);
-          τ, δ before palatal vowels;
-          and κ, γ before and after u.
+          (7) In <lang>Greek</lang> <lang>Indg.</lang> <c>q</c>, <c>ɡ</c> with labialization became <c>π</c>, <c>β</c> before non-palatal vowels (except <c>u</c>) and before consonants (except <lang>Indg.</lang> <c>j</c>);
+          <c>τ</c>, <c>δ</c> before palatal vowels;
+          and <c>κ</c>, <c>γ</c> before and after <c>u</c>.
         </p>
         <p>
-          <lang>Indg.</lang> ph, bh became φ;
-          th, dh became θ;
-          and kh, gh became χ.
+          <lang>Indg.</lang> <c>ph</c>, <c>bh</c> became <c>φ</c>;
+          <c>th</c>, <c>dh</c> became <c>θ</c>;
+          and <c>kh</c>, <c>gh</c> became <c>χ</c>.
         </p>
         <p>
-          <lang>Indg.</lang> qh, ɡh with labialization became φ before non-palatal vowels (except u) and before consonants (except <lang>Indg.</lang> j);
-          θ before palatal vowels;
-          and χ before and after u.
+          <lang>Indg.</lang> <c>qh</c>, <c>ɡh</c> with labialization became <c>φ</c> before non-palatal vowels (except <c>u</c>) and before consonants (except <lang>Indg.</lang> <c>j</c>);
+          <c>θ</c> before palatal vowels;
+          and <c>χ</c> before and after <c>u</c>.
         </p>
       </item>
       <item n="8">
         <p>
-          (8) When two consecutive syllables would begin with aspirates, the first was de-aspirated in prehistoric times in Sanskrit and <lang>Greek</lang>, as
-          <lang>Skr.</lang> bándhanam, a binding, <lang>Goth.</lang> <lang>OE.</lang> bindan, <lang>OHG.</lang> bintan, to bind;
-          <lang>Skr.</lang> bṓdhati, he learns, is awake, <lang>Gr.</lang> πεύθεται, he asks, inquires, <lang>Goth.</lang> anabiudan, <lang>OE.</lang> bēodan, to bid, <lang>OHG.</lang> biotan, to offer, root bheudh-;
-          <lang>Gr.</lang> κανθύλη, a swelling, <lang>OE.</lang> gund, <lang>OHG.</lang> gunt, matter, pus;
-          <lang>Gr.</lang> θρίξ, hair, gen. τριχός;
-          ἔχω, I have, fut. ἕξω.
+          (8) When two consecutive syllables would begin with aspirates, the first was de-aspirated in prehistoric times in <lang>Sanskrit</lang> and <lang>Greek</lang>, as
+          <lang>Skr.</lang> <w>bándhanam</w>, <gloss>a binding</gloss>, <lang>Goth.</lang> <lang>OE.</lang> <w>bindan</w>, <lang>OHG.</lang> <w>bintan</w>, <gloss>to bind</gloss>;
+          <lang>Skr.</lang> <w>bṓdhati</w>, <gloss>he learns, is awake</gloss>, <lang>Gr.</lang> <w>πεύθεται</w>, <gloss>he asks, inquires</gloss>, <lang>Goth.</lang> <w>anabiudan</w>, <lang>OE.</lang> <w>bēodan</w>, <gloss>to bid</gloss>, <lang>OHG.</lang> <w>biotan</w>, <gloss>to offer</gloss>, root <m>bheudh-</m>;
+          <lang>Gr.</lang> <w>κανθύλη</w>, <gloss>a swelling</gloss>, <lang>OE.</lang> <w>gund</w>, <lang>OHG.</lang> <w>gunt</w>, <gloss>matter, pus</gloss>;
+          <lang>Gr.</lang> <w>θρίξ</w>, <gloss>hair</gloss>, <grm>gen.</grm> <w>τριχός</w>;
+          <w>ἔχω</w>, <gloss>I have</gloss>, <grm>fut.</grm> <w>ἕξω</w>.
         </p>
       </item>
       <item n="9">
         <p>
-          (9) In <lang>OHG.</lang> the <lang>prim. Germanic</lang> explosives p, t became the affricatae pf, tz (generally written zz, z), initially, as also medially after consonants, and when doubled.
-          But <lang>prim. Germanic</lang> p, t, k became the double spirants ff, ȥȥ, hh (also written ch) medially between vowels and finally after vowels.
-          The double spirants were simplified to f, ȥ, h when they became final or came to stand before other consonants, and also generally medially when preceded by a long vowel or diphthong.
+          (9) In <lang>OHG.</lang> the <lang>prim. Germanic</lang> explosives <c>p</c>, <c>t</c> became the affricatae <c>pf</c>, <c>tz</c> (generally written <c>zz</c>, <c>z</c>), initially, as also medially after consonants, and when doubled.
+          But <lang>prim. Germanic</lang> <c>p</c>, <c>t</c>, <c>k</c> became the double spirants <c>ff</c>, <c>ȥȥ</c>, <c>hh</c> (also written <c>ch</c>) medially between vowels and finally after vowels.
+          The double spirants were simplified to <c>f</c>, <c>ȥ</c>, <c>h</c> when they became final or came to stand before other consonants, and also generally medially when preceded by a long vowel or diphthong.
         </p>
       </item>
     </list>
@@ -197,23 +198,23 @@
     <table rend="border">
       <head>TABLE I.</head>
       <row> <cell><lang>Indg.</lang></cell>   <cell><lang>Latin</lang></cell>    <cell><lang>Greek</lang></cell>   <cell>P. Germanic</cell> <cell><lang>Gothic</lang></cell>  <cell><lang>OE.</lang></cell>       <cell><lang>OHG.</lang></cell>      </row>
-      <row> <cell>p</cell>       <cell>p</cell>        <cell>π</cell>       <cell>f</cell>           <cell>f</cell>       <cell>f</cell>         <cell>f</cell>         </row>
-      <row> <cell>t</cell>       <cell>t</cell>        <cell>τ</cell>       <cell>þ</cell>           <cell>þ</cell>       <cell>þ</cell>         <cell>d</cell>         </row>
-      <row> <cell>k, q</cell>    <cell>c</cell>        <cell>κ</cell>       <cell>χ</cell>           <cell>h, χ</cell>    <cell>h, χ</cell>      <cell>h, χ</cell>      </row>
-      <row> <cell>b</cell>       <cell>b</cell>        <cell>β</cell>       <cell>p</cell>           <cell>p</cell>       <cell>p</cell>         <cell>pf, ff</cell>    </row>
-      <row> <cell>d</cell>       <cell>d</cell>        <cell>δ</cell>       <cell>t</cell>           <cell>t</cell>       <cell>t</cell>         <cell>z, ȥȥ</cell>     </row>
-      <row> <cell>g, ɡ</cell>    <cell>g</cell>        <cell>γ</cell>       <cell>k</cell>           <cell>k</cell>       <cell>c</cell>         <cell>k, hh</cell>     </row>
+      <row> <cell><c>p</c></cell>       <cell><c>p</c></cell>        <cell><c>π</c></cell>       <cell><c>f</c></cell>           <cell><c>f</c></cell>       <cell><c>f</c></cell>         <cell><c>f</c></cell>         </row>
+      <row> <cell><c>t</c></cell>       <cell><c>t</c></cell>        <cell><c>τ</c></cell>       <cell><c>þ</c></cell>           <cell><c>þ</c></cell>       <cell><c>þ</c></cell>         <cell><c>d</c></cell>         </row>
+      <row> <cell><c>k</c>, <c>q</c></cell>    <cell><c>c</c></cell>        <cell><c>κ</c></cell>       <cell><c>χ</c></cell>           <cell><c>h</c>, <c>χ</c></cell>    <cell><c>h</c>, <c>χ</c></cell>      <cell><c>h</c>, <c>χ</c></cell>      </row>
+      <row> <cell><c>b</c></cell>       <cell><c>b</c></cell>        <cell><c>β</c></cell>       <cell><c>p</c></cell>           <cell><c>p</c></cell>       <cell><c>p</c></cell>         <cell><c>pf</c>, <c>ff</c></cell>    </row>
+      <row> <cell><c>d</c></cell>       <cell><c>d</c></cell>        <cell><c>δ</c></cell>       <cell><c>t</c></cell>           <cell><c>t</c></cell>       <cell><c>t</c></cell>         <cell><c>z</c>, <c>ȥȥ</c></cell>     </row>
+      <row> <cell><c>g</c>, <c>ɡ</c></cell>    <cell><c>g</c></cell>        <cell><c>γ</c></cell>       <cell><c>k</c></cell>           <cell><c>k</c></cell>       <cell><c>c</c></cell>         <cell><c>k</c>, <c>hh</c></cell>     </row>
     </table>
 
     <table rend="border">
       <head>TABLE II.</head>
       <row> <cell><lang>Indg.</lang></cell>   <cell><lang>Latin</lang></cell>    <cell><lang>Greek</lang></cell>   <cell>P. Germanic</cell> <cell><lang>Gothic</lang></cell>  <cell><lang>OE.</lang></cell>       <cell><lang>OHG.</lang></cell>      </row>
-      <row> <cell>q</cell>       <cell>qu, c</cell>    <cell>π, τ, κ</cell> <cell>χ, w, χ</cell>     <cell>ƕ, h</cell>    <cell>hw, h</cell>     <cell>(h)w, h</cell>   </row>
-      <row> <cell>ɡ</cell>       <cell>v, gu, g</cell> <cell>β, δ, γ</cell> <cell>kw, k</cell>       <cell>q, k</cell>    <cell>cw, c</cell>     <cell>qu; k, hh</cell> </row>
-      <row> <cell>bh</cell>      <cell>f, b</cell>     <cell>φ</cell>       <cell>b, Ҍ</cell>        <cell>b, Ҍ</cell>    <cell>b, Ҍ, (f)</cell> <cell>b</cell>         </row>
-      <row> <cell>dh</cell>      <cell>f, b, d</cell>  <cell>θ</cell>       <cell>d, đ</cell>        <cell>d, đ</cell>    <cell>d</cell>         <cell>t</cell>         </row>
-      <row> <cell>gh</cell>      <cell>h, g, f</cell>  <cell>χ</cell>       <cell>g, ʒ</cell>        <cell>g, ʒ</cell>    <cell>g, ʒ</cell>      <cell>g</cell>         </row>
-      <row> <cell>ɡh</cell>      <cell>f, v, gu</cell> <cell>ϕ, θ, χ</cell> <cell>ʒw, ʒ, w</cell>    <cell>ʒ, w</cell>    <cell>g, ʒ, w</cell>   <cell>w</cell>         </row>
+      <row> <cell><c>q</c></cell>       <cell><c>qu</c>, <c>c</c></cell>    <cell><c>π</c>, <c>τ</c>, <c>κ</c></cell> <cell><c>χ</c>, <c>w</c>, <c>χ</c></cell>     <cell><c>ƕ</c>, <c>h</c></cell>    <cell><c>hw</c>, <c>h</c></cell>     <cell>(<c>h</c>)<c>w</c>, <c>h</c></cell>   </row>
+      <row> <cell><c>ɡ</c></cell>       <cell><c>v</c>, <c>gu</c>, <c>g</c></cell> <cell><c>β</c>, <c>δ</c>, <c>γ</c></cell> <cell><c>kw</c>, <c>k</c></cell>       <cell><c>q</c>, <c>k</c></cell>    <cell><c>cw</c>, <c>c</c></cell>     <cell><c>qu</c>; <c>k</c>, <c>hh</c></cell> </row>
+      <row> <cell><c>bh</c></cell>      <cell><c>f</c>, <c>b</c></cell>     <cell><c>φ</c></cell>       <cell><c>b</c>, <c>Ҍ</c></cell>        <cell><c>b</c>, <c>Ҍ</c></cell>    <cell><c>b</c>, <c>Ҍ</c>, (<c>f</c>)</cell> <cell><c>b</c></cell>         </row>
+      <row> <cell><c>dh</c></cell>      <cell><c>f</c>, <c>b</c>, <c>d</c></cell>  <cell><c>θ</c></cell>       <cell><c>d</c>, <c>đ</c></cell>        <cell><c>d</c>, <c>đ</c></cell>    <cell><c>d</c></cell>         <cell><c>t</c></cell>         </row>
+      <row> <cell><c>gh</c></cell>      <cell><c>h</c>, <c>g</c>, <c>f</c></cell>  <cell><c>χ</c></cell>       <cell><c>g</c>, <c>ʒ</c></cell>        <cell><c>g</c>, <c>ʒ</c></cell>    <cell><c>g</c>, <c>ʒ</c></cell>      <cell><c>g</c></cell>         </row>
+      <row> <cell><c>ɡh</c></cell>      <cell><c>f</c>, <c>v</c>, <c>gu</c></cell> <cell><c>ϕ</c>, <c>θ</c>, <c>χ</c></cell> <cell><c>ʒw</c>, <c>ʒ</c>, <c>w</c></cell>    <cell><c>ʒ</c>, <c>w</c></cell>    <cell><c>g</c>, <c>ʒ</c>, <c>w</c></cell>   <cell><c>w</c></cell>         </row>
     </table>
   </div>
   <pb n="55"/>

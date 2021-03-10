@@ -212,72 +212,72 @@
   <div type="subsubchapter" n="4">
     <head>4. Demonstrative.</head>
 
-    <div type="section" n="265" status="wip">
+    <div type="section" n="265">
       <p>
         <label>§ 265.</label>
-        The simple demonstrative sa, þata, sō was used both as demonstrative pronoun this, that, and as definite article, the.
+        The simple demonstrative <w>sa</w>, <w>þata</w>, <w>sō</w> was used both as demonstrative pronoun <gloss>this, that</gloss>, and as definite article, <gloss>the</gloss>.
       </p>
 
       <table>
-        <row> <cell>Sing.</cell>                                                            </row>
-        <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>  <cell>Fem.</cell>   </row>
-        <row> <cell>Nom.</cell> <cell>sa</cell>     <cell>þata</cell>   <cell>sō</cell>     </row>
-        <row> <cell>Acc.</cell> <cell>þana</cell>   <cell>þata</cell>   <cell>þō</cell>     </row>
-        <row> <cell>Gen.</cell> <cell>þis</cell>    <cell>þis</cell>    <cell>þizōs</cell>  </row>
-        <row> <cell>Dat.</cell> <cell>þamma</cell>  <cell>þamma</cell>  <cell>þizái</cell>  </row>
-        <row> <cell>Plur.</cell>                                                            </row>
-        <row> <cell>Nom.</cell> <cell>þái</cell>    <cell>þō</cell>     <cell>þōs</cell>    </row>
-        <row> <cell>Acc.</cell> <cell>þans</cell>   <cell>þō</cell>     <cell>þōs</cell>    </row>
-        <row> <cell>Gen.</cell> <cell>þizē</cell>   <cell>þizē</cell>   <cell>þizō</cell>   </row>
-        <row> <cell>Dat.</cell> <cell>þáim</cell>   <cell>þáim</cell>   <cell>þáim</cell>   </row>
+        <row> <cell><grm>Sing.</grm></cell>                                                            </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>  <cell><grm>Neut.</grm></cell>  <cell><grm>Fem.</grm></cell>   </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>sa</w></cell>     <cell><w>þata</w></cell>   <cell><w>sō</w></cell>     </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>þana</w></cell>   <cell><w>þata</w></cell>   <cell><w>þō</w></cell>     </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>þis</w></cell>    <cell><w>þis</w></cell>    <cell><w>þizōs</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>þamma</w></cell>  <cell><w>þamma</w></cell>  <cell><w>þizái</w></cell>  </row>
+        <row> <cell><grm>Plur.</grm></cell>                                                            </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>þái</w></cell>    <cell><w>þō</w></cell>     <cell><w>þōs</w></cell>    </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>þans</w></cell>   <cell><w>þō</w></cell>     <cell><w>þōs</w></cell>    </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>þizē</w></cell>   <cell><w>þizē</w></cell>   <cell><w>þizō</w></cell>   </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>þáim</w></cell>   <cell><w>þáim</w></cell>   <cell><w>þáim</w></cell>   </row>
       </table>
 
       <p>
-        In the parent <lang>Indg.</lang> language the nom. sing. masc. and fem. was *so, *sā = <lang>Gr.</lang> ὁ, ἡ, <lang>Goth.</lang> sa, sō.
-        All the other cases of the sing. and pl. were formed from the stems te-, to-, toi-;
-        tā-, tai-, as acc. sing. <lang>Gr.</lang> τόν, τήν, <lang>Lat.</lang> is-tum, is-tam, <lang>Goth.</lang> þan-a, þō;
-        nom. pl. <lang>Gr.</lang> τοί, ταί, <lang>Lat.</lang> is-tī, is-tae, <lang>Goth.</lang> þái, þōs.
+        In the parent <lang>Indg.</lang> language the <grm>nom. sing. masc. and fem.</grm> was <w>*so</w>, <w>*sā</w> = <lang>Gr.</lang> <w>ὁ</w>, <w>ἡ</w>, <lang>Goth.</lang> <w>sa</w>, <w>sō</w>.
+        All the other cases of the <grm>sing.</grm> and <grm>pl.</grm> were formed from the stems <m>te-</m>, <m>to-</m>, <m>toi-</m>;
+        <m>tā-</m>, <m>tai-</m>, as <grm>acc. sing.</grm> <lang>Gr.</lang> <w>τόν</w>, <w>τήν</w>, <lang>Lat.</lang> <w>is-tum</w>, <w>is-tam</w>, <lang>Goth.</lang> <w>þan-a</w>, <w>þō</w>;
+        <grm>nom. pl.</grm> <lang>Gr.</lang> <w>τοί</w>, <w>ταί</w>, <lang>Lat.</lang> <w>is-tī</w>, <w>is-tae</w>, <lang>Goth.</lang> <w>þái</w>, <w>þōs</w>.
       </p>
       <pb n="125"/>
       <p>
-        sa = <lang>Skr.</lang> sá, <lang>Gr.</lang> ὁ <lang>OE.</lang> sē̌;
-        þan-a (<lang>OE.</lang> þon-e, <lang>OS.</lang> then-a, than-a, <lang>OHG.</lang> den), on the final -a see § 261, <abbr>cp.</abbr> <lang>Skr.</lang> tám, <lang>Gr.</lang> τόν, <lang>Lat.</lang> is-tum;
-        þat-a, originally acc. only (§ 261), but in <lang>Goth.</lang> it came to be used for the nom. also (<lang>O.Icel.</lang> þat, <lang>OE.</lang> þæt, <lang>OS.</lang> that, <lang>OHG.</lang> daȥ), <abbr>cp.</abbr> <lang>Gr.</lang> τό, <lang>Lat.</lang> is-tud = <lang>Indg.</lang> *tod;
-        þis (<lang>OS.</lang> thes, <lang>OHG.</lang> des) = <lang>prim. Germ.</lang> *þesa, <lang>Indg.</lang> *teso;
-        þamma (<abbr>cp.</abbr> <lang>OS.</lang> themu, <lang>OHG.</lang> demu) from <lang>Indg.</lang> instr. *tosmē, -ō (§ 261), <abbr>cp.</abbr> ƕammēh (§ 275);
-        þái (<lang>OE.</lang> þā, <lang>OS.</lang> thē, <lang>OHG.</lang> dē), <abbr>cp.</abbr> <lang>Gr.</lang> τοί, <lang>Lat.</lang> is-tī;
-        þans = <lang>Gr. (Cretan dial.)</lang>;
-        τόνς;
-        nom. acc. neut. þō, <abbr>cp.</abbr> <lang>Skr.</lang> tā́, <lang>Lat.</lang> is-ta, <lang>Indg.</lang> *tā;
-        þizē, formed from the gen. sing. þis + the gen. pl. ending -ē (§§ 87 (1), 179), the regular <lang>Goth.</lang> form would have been *þáizē, which has been preserved in the adjectives as blindáizē (§ 226), the <lang>prim. Germanic</lang> form was *þaizō̃n (<lang>O.Icel.</lang> þeira, <lang>OE.</lang> þāra), <lang>Indg.</lang> *toisō̃m;
-        þáim (<abbr>cp.</abbr> <lang>O.Icel.</lang> þeim, <lang>OE.</lang> þǣm, <lang>OHG.</lang> dēm) from <lang>prim. Germ.</lang> *þaimiz (§ 175) with ai from the nom. plural.
+        <w>sa</w> = <lang>Skr.</lang> <w>sá</w>, <lang>Gr.</lang> <w>ὁ</w> <lang>OE.</lang> <w>sē̌</w>;
+        <w>þan-a</w> (<lang>OE.</lang> <w>þon-e</w>, <lang>OS.</lang> <w>then-a</w>, <w>than-a</w>, <lang>OHG.</lang> <w>den</w>), on the final <c>-a</c> see <ref>§ 261</ref>, <abbr>cp.</abbr> <lang>Skr.</lang> <w>tám</w>, <lang>Gr.</lang> <w>τόν</w>, <lang>Lat.</lang> <w>is-tum</w>;
+        <w>þat-a</w>, originally <grm>acc.</grm> only (<ref>§ 261</ref>), but in <lang>Goth.</lang> it came to be used for the <grm>nom.</grm> also (<lang>O.Icel.</lang> <w>þat</w>, <lang>OE.</lang> <w>þæt</w>, <lang>OS.</lang> <w>that</w>, <lang>OHG.</lang> <w>daȥ</w>), <abbr>cp.</abbr> <lang>Gr.</lang> <w>τό</w>, <lang>Lat.</lang> <w>is-tud</w> = <lang>Indg.</lang> <w>*tod</w>;
+        <w>þis</w> (<lang>OS.</lang> <w>thes</w>, <lang>OHG.</lang> <w>des</w>) = <lang>prim. Germ.</lang> <w>*þesa</w>, <lang>Indg.</lang> <w>*teso</w>;
+        <w>þamma</w> (<abbr>cp.</abbr> <lang>OS.</lang> <w>themu</w>, <lang>OHG.</lang> <w>demu</w>) from <lang>Indg.</lang> <grm>instr.</grm> <w>*tosmē</w>, <c>-ō</c> (<ref>§ 261</ref>), <abbr>cp.</abbr> <w>ƕammēh</w> (<ref>§ 275</ref>);
+        <w>þái</w> (<lang>OE.</lang> <w>þā</w>, <lang>OS.</lang> <w>thē</w>, <lang>OHG.</lang> <w>dē</w>), <abbr>cp.</abbr> <lang>Gr.</lang> <w>τοί</w>, <lang>Lat.</lang> <w>is-tī</w>;
+        <w>þans</w> = <lang>Gr. (Cretan dial.)</lang> <w>τόνς</w>;
+        <grm>nom. acc. neut.</grm> <w>þō</w>, <abbr>cp.</abbr> <lang>Skr.</lang> <w>tā́</w>, <lang>Lat.</lang> <w>is-ta</w>, <lang>Indg.</lang> <w>*tā</w>;
+        <w>þizē</w>, formed from the <grm>gen. sing.</grm> <w>þis</w> + the <grm>gen. pl.</grm> ending <m>-ē</m> (<ref>§§ 87 (1), 179</ref>), the regular <lang>Goth.</lang> form would have been <w>*þáizē</w>, which has been preserved in the adjectives as <w>blindáizē</w> (<ref>§ 226</ref>), the <lang>prim. Germanic</lang> form was <w>*þaizō̃n</w> (<lang>O.Icel.</lang> <w>þeira</w>, <lang>OE.</lang> þāra), <lang>Indg.</lang> <w>*toisō̃m</w>;
+        <w>þáim</w> (<abbr>cp.</abbr> <lang>O.Icel.</lang> <w>þeim</w>, <lang>OE.</lang> <w>þǣm</w>, <lang>OHG.</lang> <w>dēm</w>) from <lang>prim. Germ.</lang> <w>*þaimiz</w> (<ref>§ 175</ref>) with <m>ai</m> from the <grm>nom. plural</grm>.
       </p>
       <p>
-        sō = <lang>Skr.</lang> sā́, <lang>Gr. Doric</lang> ᾱ́, <lang>Att. Ionic</lang> ἡ, <lang>O.Icel.</lang> sū;
-        þō = <lang>Skr.</lang> tā́m, <lang>Gr.</lang> τᾱ́ν, τήν, <lang>Lat.</lang> is-tam;
-        þizōs (<lang>OS.</lang> thera, <lang>OHG.</lang> dera) from <lang>prim. Germanic</lang> *þezō̃s, <lang>Indg.</lang> *tesā̌s, the ái in adjectival forms like blindáizōs was from the genitive plural;
-        þizái from <lang>prim. Germanic</lang> *þezōĩ = <lang>Indg.</lang> *tesāĩ;
-        nom. acc. pl. þōs from <lang>prim. Germanic</lang> *þō̃s = <lang>Skr.</lang> tā́s, <lang>Lat.</lang> is-tās, <lang>Indg.</lang> *tā̃s;
-        þizō, with þiz- from the gen. sing. + -ō from older -ō̃n, the ending of the gen. plural.
-        The regular <lang>Goth.</lang> form would be *þáizō from <lang>prim. Germanic</lang> *þaizō̃n, corresponding to an <lang>Indg.</lang> *toisō̃m with oi from the masculine.
-        The -áizō has been preserved in adjectival forms like blindáizō (§ 226).
-        The original gen. pl. fem. was *tā́sō̃m which was preserved in <lang>Skr.</lang> tā́sām <lang>Gr.</lang> (Homer) τᾱ́ων from *τᾱ́σων.
+        <w>sō</w> = <lang>Skr.</lang> <w>sā́</w>, <lang>Gr. Doric</lang> <w>ᾱ́</w>, <lang>Att. Ionic</lang> <w>ἡ</w>, <lang>O.Icel.</lang> <w>sū</w>;
+        <w>þō</w> = <lang>Skr.</lang> <w>tā́m</w>, <lang>Gr.</lang> <w>τᾱ́ν</w>, <w>τήν</w>, <lang>Lat.</lang> <w>is-tam</w>;
+        <w>þizōs</w> (<lang>OS.</lang> <w>thera</w>, <lang>OHG.</lang> <w>dera</w>) from <lang>prim. Germanic</lang> <w>*þezō̃s</w>, <lang>Indg.</lang> <w>*tesā̌s</w>, the <c>ái</c> in adjectival forms like <w>blindáizōs</w> was from the <grm>genitive plural</grm>;
+        <w>þizái</w> from <lang>prim. Germanic</lang> <w>*þezōĩ</w> = <lang>Indg.</lang> <w>*tesāĩ</w>;
+        <grm>nom. acc. pl.</grm> <w>þōs</w> from <lang>prim. Germanic</lang> <w>*þō̃s</w> = <lang>Skr.</lang> <w>tā́s</w>, <lang>Lat.</lang> <w>is-tās</w>, <lang>Indg.</lang> <w>*tā̃s</w>;
+        <w>þizō</w>, with <m>þiz-</m> from the <grm>gen. sing.</grm> + <m>-ō</m> from older <m>-ō̃n</m>, the ending of the <grm>gen. plural</grm>.
+        The regular <lang>Goth.</lang> form would be <w>*þáizō</w> from <lang>prim. Germanic</lang> <w>*þaizō̃n</w>, corresponding to an <lang>Indg.</lang> <w>*toisō̃m</w> with <m>oi</m> from the masculine.
+        The <m>-áizō</m> has been preserved in adjectival forms like <w>blindáizō</w> (<ref>§ 226</ref>).
+        The original <grm>gen. pl. fem.</grm> was <w>*tā́sō̃m</w> which was preserved in <lang>Skr.</lang> <w>tā́sām</w> <lang>Gr. (Homer)</lang> <w>τᾱ́ων</w> from <w>*τᾱ́σων</w>.
       </p>
 
       <div type="note">
         <list>
           <item n="1">
             <p>
-              Note.—1. An instrumental neut. sing. has been preserved in the phrase ni þē haldis, none the more, and as a factor in several conjunctions:
-              bi-þē, whilst;
-              jaþ-þē, and if;
-              þē-ei,<pb n="126"/>that, &amp;c.;
-              and also an old locative in the conjunction þei (= <lang>Doric Gr.</lang> τεῖ-δε, here), that.
+              <label>Note.—</label>
+              1. An <grm>instrumental neut. sing.</grm> has been preserved in the phrase <phr>ni þē haldis</phr>, <gloss>none the more</gloss>, and as a factor in several conjunctions:
+              <w>bi-þē</w>, <gloss>whilst</gloss>;
+              <w>jaþ-þē</w>, <gloss>and if</gloss>;
+              <w>þē-ei</w>,<pb n="126"/><gloss>that</gloss>, &amp;c.;
+              and also an old locative in the conjunction <w>þei</w> (= <lang>Doric Gr.</lang> <w>τεῖ-δε</w>, <gloss>here</gloss>), <gloss>that</gloss>.
             </p>
           </item>
           <item n="2">
             <p>
-              2. The final a in þata is usually elided before ist: þat’ ist.
+              2. The final <c>a</c> in <w>þata</w> is usually elided before <w>ist</w>: <phr>þat’ ist</phr>.
             </p>
           </item>
         </list>
