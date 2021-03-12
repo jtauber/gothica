@@ -1,19 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap');
 
+:root {
+  --page-color: #FFF;
+  --ink-color: #000;
+  --bold-ink-color: #000;
+  --table-border-color: #666;
+  --footnote-color: #666;
+  --page-number-color: #369;
+  --wip-color: #FFD;
+}
+body.dark {
+  --page-color: #111;
+  --ink-color: #999;
+  --bold-ink-color: #AAA;
+  --table-border-color: #666;
+  --footnote-color: #888;
+  --page-number-color: #69C;
+  --wip-color: #330;
+}
+body.old {
+  text-shadow: 0 0 2px #333;
+  --page-color: #FFFFF7;
+  --ink-color: #333;
+}
+
 body {
   display: flex;
   justify-content: space-around;
   margin: 0;
 
+  background: var(--page-color);
+  color: var(--ink-color);
+
   font-family: 'Noto Serif';
   font-size: 13pt;
   line-height: 18pt;
 }
-body.old {
-  color: #333;
-  text-shadow: 0 0 2px #333;
-  background: #FFFFF7;
-}
+
 aside {
   flex: 1;
   padding: 1em 1em 0 0;
@@ -64,6 +87,7 @@ body.chapter-14 #chapter-14-link,
 body.chapter-15 #chapter-15-link,
 body.chapter-16 #chapter-16-link {
   font-weight: bold;
+  color: var(--bold-ink-color);
 }
 aside nav a {
   text-decoration: none;
@@ -128,6 +152,7 @@ main h2 {
 }
 h3 {
   font-weight: bold;
+  color: var(--bold-ink-color);
   text-align: center;
   font-size: 14pt;
   line-height: 20pt;
@@ -159,6 +184,7 @@ p {
 
 .section-label {
   font-weight: bold;
+  color: var(--bold-ink-color);
   margin-right: 0.5em;
 }
 .item-label {
@@ -167,9 +193,11 @@ p {
 .item-label-bold {
   margin-right: 0.5em;
   font-weight: bold;
+  color: var(--bold-ink-color);
 }
 .item-label-bold-inline {
   font-weight: bold;
+  color: var(--bold-ink-color);
 }
 .note-label {
   text-transform: uppercase;  /* until we have proper smallcaps */
@@ -180,10 +208,12 @@ p {
 
 .ref {
   font-weight: bold;
+  color: var(--bold-ink-color);
   white-space: nowrap;
 }
 .phr, .w, .m, .c, .seg {
   font-weight: bold;
+  color: var(--bold-ink-color);
 }
 .m, .c {
   white-space: nowrap;
@@ -214,7 +244,7 @@ td {
 }
 table.border td {
   padding: 5px 10px;
-  border: 1px solid #666;
+  border: 1px solid var(--table-border-color);
 }
 td.right-bracket::after {
   vertical-align: middle;
@@ -235,7 +265,7 @@ td.left-bracket::before {
   padding: 0 1em;
 }
 .footnote {
-  color: #666;
+  color: var(--footnote-color);
   margin: 0 0.5em;
 }
 .footnote::before {
@@ -261,7 +291,7 @@ div.float-list-item {
 /* page breaks */
 span.pb > span {
   font-size: 10pt;
-  color: #369;
+  color: var(--page-number-color);
   position: absolute;
   right: 100%;
   padding-right: 1em;
@@ -297,5 +327,5 @@ div.entry .grm {
 }
 
 .status-wip {
-  background: #FFD;
+  background: var(--wip-color);
 }
