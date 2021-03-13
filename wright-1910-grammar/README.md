@@ -49,16 +49,16 @@ But once this is done, not only can I produce a nice HTML version:
 
 ## Status of Other Parts
 
-| part                     | xml                      | html                           | status              |
-|--------------------------|--------------------------|--------------------------------|---------------------|
-| introduction             | [link](introduction.xml) | [link](html/introduction.html) | done                |
-| ulfilas                  |                          |                                | initial markup done |
-| matthew                  |                          |                                | initial markup done |
-| mark                     |                          |                                | initial markup done |
-| luke                     |                          |                                | initial markup done |
-| john                     |                          |                                | initial markup done |
-| timothy                  |                          |                                | initial markup done |
-| glossary                 |                          |                                | in progress         |
-| proper names             |                          |                                | initial markup done |
-| glossary of proper names |                          |                                | initial markup done |
+| part                     | xml                               | html                           | status              |
+|--------------------------|-----------------------------------|--------------------------------|---------------------|
+| introduction             | [link](introduction.xml)          | [link](html/introduction.html) | done                |
+| ulfilas                  | [link](ulfilas.xml)               |                                | initial markup done |
+| matthew                  | [link](matthew.xml)               |                                | initial markup done |
+| mark                     | [link](mark.xml)                  |                                | initial markup done |
+| luke                     | [link](luke.xml)                  |                                | initial markup done |
+| john                     | [link](john.xml)                  |                                | initial markup done |
+| timothy                  | [link](timothy.xml)               |                                | initial markup done |
+| glossary                 |                                   |                                | in progress         |
+| proper names             | [link](proper_names.xml)          |                                | initial markup done |
+| glossary of proper names | [link](glossary_proper_names.xml) |                                | initial markup done |
 
