@@ -218,96 +218,98 @@
     </table>
   </div>
   <pb n="55"/>
-  <div type="section" n="128" status="wip">
+  <div type="section" n="128">
     <p>
       <label>§ 128.</label>
-      The <lang>Indg.</lang> tenues p, t, k, q, became in <lang>prim. Germanic</lang> the voiceless spirants f, þ, χ, χ(χw).
+      The <lang>Indg.</lang> tenues <c>p</c>, <c>t</c>, <c>k</c>, <c>q</c>,
+      became in <lang>prim. Germanic</lang> the voiceless spirants <c>f</c>, <c>þ</c>, <c>χ</c>, <c>χ</c>(<c>χw</c>).
     </p>
 
     <p>
-      p > f.
-      <lang>Lat.</lang> pēs, <lang>Gr.</lang> πούς, <lang>Goth.</lang> fōtus, <lang>OE.</lang> <lang>OS.</lang> fōt, <lang>OHG.</lang> fuoz, <lang>O.Icel.</lang> fōtr, foot;
-      <lang>Lat.</lang> pecu, <lang>Goth.</lang> faíhu, <lang>OE.</lang> feoh, <lang>OS.</lang> fehu, <lang>OHG.</lang> fihu (fehu), <lang>O.Icel.</lang> fē, cattle;
-      <lang>Lat.</lang> piscis, <lang>Goth.</lang> fisks, <lang>OS.</lang> <lang>OHG.</lang> fisk, <lang>OE.</lang> fisc, <lang>O.Icel.</lang> fiskr, fish;
-      <lang>Lat.</lang> nepos, <lang>Goth.</lang> *nifa, <lang>OE.</lang> nefa, <lang>OHG.</lang> nefo, <lang>O.Icel.</lang> nefe, nephew;
-      <lang>Lat.</lang> clepō, <lang>Gr.</lang> κλέπτω, I steal, <lang>Goth.</lang> hlifan, to steal.
+      <c>p</c> > <c>f</c>.
+      <lang>Lat.</lang> <w>pēs</w>, <lang>Gr.</lang> <w>πούς</w>, <lang>Goth.</lang> <w>fōtus</w>, <lang>OE.</lang> <lang>OS.</lang> <w>fōt</w>, <lang>OHG.</lang> <w>fuoz</w>, <lang>O.Icel.</lang> <w>fōtr</w>, <gloss>foot</gloss>;
+      <lang>Lat.</lang> <w>pecu</w>, <lang>Goth.</lang> <w>faíhu</w>, <lang>OE.</lang> <w>feoh</w>, <lang>OS.</lang> <w>fehu</w>, <lang>OHG.</lang> <w>fihu</w> (<w>fehu</w>), <lang>O.Icel.</lang> <w>fē</w>, <gloss>cattle</gloss>;
+      <lang>Lat.</lang> <w>piscis</w>, <lang>Goth.</lang> <w>fisks</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>fisk</w>, <lang>OE.</lang> <w>fisc</w>, <lang>O.Icel.</lang> <w>fiskr</w>, <gloss>fish</gloss>;
+      <lang>Lat.</lang> <w>nepos</w>, <lang>Goth.</lang> <w>*nifa</w>, <lang>OE.</lang> <w>nefa</w>, <lang>OHG.</lang> <w>nefo</w>, <lang>O.Icel.</lang> <w>nefe</w>, <gloss>nephew</gloss>;
+      <lang>Lat.</lang> <w>clepō</w>, <lang>Gr.</lang> <w>κλέπτω</w>, <gloss>I steal</gloss>, <lang>Goth.</lang> <w>hlifan</w>, <gloss>to steal</gloss>.
     </p>
 
     <p>
-      t > þ.
-      <lang>Lat.</lang> trēs, <lang>Gr.</lang> τρεῖς, <lang>Goth.</lang> *þreis, <lang>OE.</lang> þrī, <lang>OS.</lang> thria, <lang>O.Icel.</lang> þrīr, <lang>OHG.</lang> drī, three;
-      <lang>Lat.</lang> tu, <lang>Gr.</lang> Dor. τύ, <lang>Goth.</lang> þu, <lang>OE.</lang> <lang>O.Icel.</lang> þū, <lang>OS.</lang> thū, <lang>OHG.</lang> dū, thou;
-      <lang>Lat.</lang> vertō, I turn, <lang>Goth.</lang> waírþan, <lang>OE.</lang> weorðan, <lang>OS.</lang> werthan, <lang>O.Icel.</lang> verða, <lang>OHG.</lang> werdan, to become;
-      <lang>Lat.</lang> frāter, <lang>Goth.</lang> brōþar, <lang>OE.</lang> brōðor, <lang>OS.</lang> brōthar, <lang>O.Icel.</lang> brōðir, <lang>OHG.</lang> bruoder, brother.
+      <c>t</c> > <c>þ</c>.
+      <lang>Lat.</lang> <w>trēs</w>, <lang>Gr.</lang> <w>τρεῖς</w>, <lang>Goth.</lang> <w>*þreis</w>, <lang>OE.</lang> <w>þrī</w>, <lang>OS.</lang> <w>thria</w>, <lang>O.Icel.</lang> <w>þrīr</w>, <lang>OHG.</lang> <w>drī</w>, <gloss>three</gloss>;
+      <lang>Lat.</lang> <w>tu</w>, <lang>Gr. Dor.</lang> <w>τύ</w>, <lang>Goth.</lang> <w>þu</w>, <lang>OE.</lang> <lang>O.Icel.</lang> <w>þū</w>, <lang>OS.</lang> <w>thū</w>, <lang>OHG.</lang> <w>dū</w>, <gloss>thou</gloss>;
+      <lang>Lat.</lang> <w>vertō</w>, <gloss>I turn</gloss>, <lang>Goth.</lang> <w>waírþan</w>, <lang>OE.</lang> <w>weorðan</w>, <lang>OS.</lang> <w>werthan</w>, <lang>O.Icel.</lang> <w>verða</w>, <lang>OHG.</lang> <w>werdan</w>, <gloss>to become</gloss>;
+      <lang>Lat.</lang> <w>frāter</w>, <lang>Goth.</lang> <w>brōþar</w>, <lang>OE.</lang> <w>brōðor</w>, <lang>OS.</lang> <w>brōthar</w>, <lang>O.Icel.</lang> <w>brōðir</w>, <lang>OHG.</lang> <w>bruoder</w>, <gloss>brother</gloss>.
     </p>
 
     <p>
-      k > χ.
-      <lang>Lat.</lang> canis, <lang>Gr.</lang> κύων, <lang>Goth.</lang> hunds, <lang>OE.</lang> <lang>OS.</lang> hund, <lang>O.Icel.</lang> hundr, <lang>OHG.</lang> hunt, hound, dog;
-      <lang>Lat.</lang> cor (gen. cordis), <lang>Gr.</lang> καρδίᾱ, <lang>Goth.</lang> haírtō, <lang>OE.</lang> heorte, <lang>OS.</lang> herta, <lang>O.Icel.</lang> hjarta, <lang>OHG.</lang> herza, heart;
-      <lang>Lat.</lang> decem, <lang>Gr.</lang> δέκα, <lang>Goth.</lang> taíhun, <lang>OS.</lang> tehan, <lang>OHG.</lang> zehan, ten;
-      <lang>Lat.</lang> pecu, <lang>Goth.</lang> faíhu, cattle;
-      <lang>Lat.</lang> dūcō, I lead, <lang>Goth.</lang> tiuhan, <lang>OS.</lang> tiohan, <lang>OHG.</lang> ziohan, to draw, lead.
+      <c>k</c> > <c>χ</c>.
+      <lang>Lat.</lang> <w>canis</w>, <lang>Gr.</lang> <w>κύων</w>, <lang>Goth.</lang> <w>hunds</w>, <lang>OE.</lang> <lang>OS.</lang> <w>hund</w>, <lang>O.Icel.</lang> <w>hundr</w>, <lang>OHG.</lang> <w>hunt</w>, <gloss>hound, dog</gloss>;
+      <lang>Lat.</lang> <w>cor</w> (<grm>gen.</grm> <w>cordis</w>), <lang>Gr.</lang> <w>καρδίᾱ</w>, <lang>Goth.</lang> <w>haírtō</w>, <lang>OE.</lang> <w>heorte</w>, <lang>OS.</lang> <w>herta</w>, <lang>O.Icel.</lang> <w>hjarta</w>, <lang>OHG.</lang> <w>herza</w>, <gloss>heart</gloss>;
+      <lang>Lat.</lang> <w>decem</w>, <lang>Gr.</lang> <w>δέκα</w>, <lang>Goth.</lang> <w>taíhun</w>, <lang>OS.</lang> <w>tehan</w>, <lang>OHG.</lang> <w>zehan</w>, <gloss>ten</gloss>;
+      <lang>Lat.</lang> <w>pecu</w>, <lang>Goth.</lang> <w>faíhu</w>, <gloss>cattle</gloss>;
+      <lang>Lat.</lang> <w>dūcō</w>, <gloss>I lead</gloss>, <lang>Goth.</lang> <w>tiuhan</w>, <lang>OS.</lang> <w>tiohan</w>, <lang>OHG.</lang> <w>ziohan</w>, <gloss>to draw, lead</gloss>.
     </p>
 
     <p>
-      q > χ (χw).
-      <lang>Lat.</lang> capiō, I take, <lang>Goth.</lang> hafjan, <lang>OE.</lang> hebban, <lang>OS.</lang> hebbian, <lang>OHG.</lang> heffen, <lang>O.Icel.</lang> hefja, to raise;
-      <lang>Lat.</lang> clepō, <lang>Gr.</lang> κλέπτω, I steal, <lang>Goth.</lang> hlifan, to steal;
-      <lang>Lat.</lang> vincō, I conquer, <lang>Goth.</lang> weihan, <lang>OHG.</lang> wīhan, to fight;
-      <lang>Lat.</lang> canō, I sing, <lang>Goth.</lang> hana, <lang>OE.</lang> hana, hona, <lang>O.Icel.</lang> hane, <lang>OS.</lang> <lang>OHG.</lang> hano, cock, lit. singer.
+      <c>q</c> > <c>χ</c> (<c>χw</c>).
+      <lang>Lat.</lang> <w>capiō</w>, <gloss>I take</gloss>, <lang>Goth.</lang> <w>hafjan</w>, <lang>OE.</lang> <w>hebban</w>, <lang>OS.</lang> <w>hebbian</w>, <lang>OHG.</lang> <w>heffen</w>, <lang>O.Icel.</lang> <w>hefja</w>, <gloss>to raise</gloss>;
+      <lang>Lat.</lang> <w>clepō</w>, <lang>Gr.</lang> <w>κλέπτω</w>, <gloss>I steal</gloss>, <lang>Goth.</lang> <w>hlifan</w>, <gloss>to steal</gloss>;
+      <lang>Lat.</lang> <w>vincō</w>, <gloss>I conquer</gloss>, <lang>Goth.</lang> <w>weihan</w>, <lang>OHG.</lang> <w>wīhan</w>, <gloss>to fight</gloss>;
+      <lang>Lat.</lang> <w>canō</w>, <gloss>I sing</gloss>, <lang>Goth.</lang> <w>hana</w>, <lang>OE.</lang> <w>hana</w>, <w>hona</w>, <lang>O.Icel.</lang> <w>hane</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>hano</w>, <gloss>cock</gloss>, <abbr>lit.</abbr> <gloss>singer</gloss>.
     </p>
 
     <p>
-      <lang>Lat.</lang> quis, <lang>Goth.</lang> ƕas, <lang>OE.</lang> hwā, <lang>OS.</lang> hwē, <lang>OHG.</lang> hwer (wer), who?;
-      <lang>Lat.</lang> linquō (pf. līquī), <lang>Gr.</lang> λείπω (from *leiqō), I leave, <lang>Goth.</lang> leiƕan, <lang>OE.</lang> lēon (from *līhan), <lang>OHG.</lang> līhan, to lend.
+      <lang>Lat.</lang> <w>quis</w>, <lang>Goth.</lang> <w>ƕas</w>, <lang>OE.</lang> <w>hwā</w>, <lang>OS.</lang> <w>hwē</w>, <lang>OHG.</lang> <w>hwer</w> (<w>wer</w>), <gloss>who?</gloss>;
+      <lang>Lat.</lang> <w>linquō</w> (<grm>pf.</grm> <w>līquī</w>), <lang>Gr.</lang> <w>λείπω</w> (from <w>*leiqō</w>), <gloss>I leave</gloss>, <lang>Goth.</lang> <w>leiƕan</w>, <lang>OE.</lang> <w>lēon</w> (from <w>*līhan</w>), <lang>OHG.</lang> <w>līhan</w>, <gloss>to lend</gloss>.
     </p>
 
     <div type="note">
       <list>
         <item n="1">
           <p>
-            Note.—1. The <lang>Indg.</lang> tenues remained unshifted in the combination s+tenues.
+            <label>Note.—</label>
+            1. The <lang>Indg.</lang> tenues remained unshifted in the combination <c>s</c>+tenues.
           </p>
           <pb n="56"/>
           <p>
-            sp:
-            <lang>Lat.</lang> spuere, <lang>Goth.</lang> speiwan, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> spīwan, to vomit;
-            <lang>Lat.</lang> con-spiciō, I look at, <lang>OHG.</lang> spehōn, to spy.
+            <c>sp</c>:
+            <lang>Lat.</lang> <w>spuere</w>, <lang>Goth.</lang> <w>speiwan</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>spīwan</w>, <gloss>to vomit</gloss>;
+            <lang>Lat.</lang> <w>con-spiciō</w>, <gloss>I look at</gloss>, <lang>OHG.</lang> <w>spehōn</w>, <gloss>to spy</gloss>.
           </p>
           <p>
-            st:
-            <lang>Gr.</lang> στείχω, I go, <lang>Lat.</lang> vestīgium, footstep, <lang>Goth.</lang> steigan, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> stīgan, <lang>O.Icel.</lang> stīga, to ascend;
-            <lang>Lat.</lang> est, <lang>Gr.</lang> ἔστι, <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> ist, is;
-            <lang>Lat.</lang> hostis, stranger, enemy, <lang>Goth.</lang> gasts, <lang>O.Icel.</lang> gestr, <lang>OE.</lang> giest, <lang>OS.</lang> <lang>OHG.</lang> gast, guest.
+            <c>st</c>:
+            <lang>Gr.</lang> <w>στείχω</w>, <gloss>I go</gloss>, <lang>Lat.</lang> <w>vestīgium</w>, <gloss>footstep</gloss>, <lang>Goth.</lang> <w>steigan</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>stīgan</w>, <lang>O.Icel.</lang> <w>stīga</w>, <gloss>to ascend</gloss>;
+            <lang>Lat.</lang> <w>est</w>, <lang>Gr.</lang> <w>ἔστι</w>, <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>ist</w>, <gloss>is</gloss>;
+            <lang>Lat.</lang> <w>hostis</w>, <gloss>stranger, enemy</gloss>, <lang>Goth.</lang> <w>gasts</w>, <lang>O.Icel.</lang> <w>gestr</w>, <lang>OE.</lang> <w>giest</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>gast</w>, <gloss>guest</gloss>.
           </p>
           <p>
-            sk:
-            <lang>Gr.</lang> σκιᾱ́, shadow, <lang>Goth.</lang> skeinan, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> scīnan, <lang>O.Icel.</lang> skīna, to shine;
-            <lang>Lat.</lang> piscis, <lang>Goth.</lang> fisks, <lang>OE.</lang> fisc, <lang>OS.</lang> <lang>OHG.</lang> fisk, <lang>O.Icel.</lang> fiskr, fish.
+            <c>sk</c>:
+            <lang>Gr.</lang> <w>σκιᾱ́</w>, <gloss>shadow</gloss>, <lang>Goth.</lang> <w>skeinan</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>scīnan</w>, <lang>O.Icel.</lang> <w>skīna</w>, <gloss>to shine</gloss>;
+            <lang>Lat.</lang> <w>piscis</w>, <lang>Goth.</lang> <w>fisks</w>, <lang>OE.</lang> <w>fisc</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>fisk</w>, <lang>O.Icel.</lang> <w>fiskr</w>, <gloss>fish</gloss>.
           </p>
           <p>
-            sq:
-            <lang>Gr.</lang> θυο-σκόος, sacrificing priest, <lang>Goth.</lang> *skaggwōn, <lang>OE.</lang> scēawian, <lang>OS.</lang> scauwōn, <lang>OHG.</lang> scouwōn, to look, view.
+            <c>sq</c>:
+            <lang>Gr.</lang> <w>θυο-σκόος</w>, <gloss>sacrificing priest</gloss>, <lang>Goth.</lang> <w>*skaggwōn</w>, <lang>OE.</lang> <w>scēawian</w>, <lang>OS.</lang> <w>scauwōn</w>, <lang>OHG.</lang> <w>scouwōn</w>, <gloss>to look, view</gloss>.
           </p>
         </item>
         <item n="2">
           <p>
-            2. The t also remained in the <lang>Indg.</lang> combinations pt, kt, qt.
+            2. The <c>t</c> also remained in the <lang>Indg.</lang> combinations <c>pt</c>, <c>kt</c>, <c>qt</c>.
           </p>
           <p>
-            pt > ft:
-            <lang>Gr.</lang> κλέπτης, <lang>Goth.</lang> hliftus, thief;
-            <lang>Lat.</lang> neptis, grand-daughter, niece, <lang>OE.</lang> <lang>OHG.</lang> nift, niece.
+            <c>pt</c> > <c>ft</c>:
+            <lang>Gr.</lang> <w>κλέπτης</w>, <lang>Goth.</lang> <w>hliftus</w>, <gloss>thief</gloss>;
+            <lang>Lat.</lang> <w>neptis</w>, <gloss>grand-daughter, niece</gloss>, <lang>OE.</lang> <lang>OHG.</lang> <w>nift</w>, <gloss>niece</gloss>.
           </p>
           <p>
-            kt > χt:
-            <lang>Gr.</lang> ὀκτώ, <lang>Lat.</lang> octō, <lang>Goth.</lang> ahtáu, <lang>OE.</lang> eahta, <lang>OS.</lang> <lang>OHG.</lang> ahto, eight;
-            <lang>Gr.</lang> ὀ-ρεκτός, stretched out, <lang>Lat.</lang> rēctus, <lang>Goth.</lang> raíhts, <lang>OE.</lang> riht, <lang>OS.</lang> <lang>OHG.</lang> reht, right, straight.
+            <c>kt</c> > <c>χt</c>:
+            <lang>Gr.</lang> <w>ὀκτώ</w>, <lang>Lat.</lang> <w>octō</w>, <lang>Goth.</lang> <w>ahtáu</w>, <lang>OE.</lang> <w>eahta</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>ahto</w>, <gloss>eight</gloss>;
+            <lang>Gr.</lang> <w>ὀ-ρεκτός</w>, <gloss>stretched out</gloss>, <lang>Lat.</lang> <w>rēctus</w>, <lang>Goth.</lang> <w>raíhts</w>, <lang>OE.</lang> <w>riht</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>reht</w>, <gloss>right, straight</gloss>.
           </p>
           <p>
-            qt > χt:
-            gen. sing. <lang>Gr.</lang> νυκτός, <lang>Lat.</lang> noctis, nom. <lang>Goth.</lang> nahts, <lang>OE.</lang> neaht, <lang>OS.</lang> <lang>OHG.</lang> naht, night.
+            <c>qt</c> > <c>χt</c>:
+            <grm>gen. sing.</grm> <lang>Gr.</lang> <w>νυκτός</w>, <lang>Lat.</lang> <w>noctis</w>, <grm>nom.</grm> <lang>Goth.</lang> <w>nahts</w>, <lang>OE.</lang> <w>neaht</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>naht</w>, <gloss>night</gloss>.
           </p>
         </item>
       </list>

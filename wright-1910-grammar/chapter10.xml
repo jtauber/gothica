@@ -202,16 +202,22 @@
       <div type="subsubchapter" n="2">
         <head>b. ja-stems.</head>
 
-        <div type="section" n="183" status="wip">
+        <div type="section" n="183">
           <p>
             <label>§ 183.</label>
-            Apart from the -j- it is necessary in this class of nouns to distinguish between
-            (1) nouns which have a short stem-syllable or a long open stem-syllable and
-            (2) those which have a long closed stem-syllable or when the stem (apart from any prefix) is of more than one syllable.
-            In the former case the gen. sing. regularly ends in -jis and in the latter in -eis, see §§ 153, 157.
+            Apart from the <c>-j-</c> it is necessary in this class of nouns to distinguish between
+            <list>
+              <item>
+                (1) nouns which have a short stem-syllable or a long open stem-syllable and
+              </item>
+              <item>
+                (2) those which have a long closed stem-syllable or when the stem (apart from any prefix) is of more than one syllable.
+              </item>
+            </list>
+            In the former case the <grm>gen. sing.</grm> regularly ends in <m>-jis</m> and in the latter in <m>-eis</m>, see <ref>§§ 153, 157</ref>.
             This distinction was preserved in the masculines, but in the neuters the original difference was almost entirely obliterated in favour of nouns belonging to (1).
-            The old and the new forms exist side by side in a few words, as gen. andbahteis, gawaírpeis, beside andbahtjis, gawaírþjis.
-            Cp. § 153 note.
+            The old and the new forms exist side by side in a few words, as <grm>gen.</grm> <w>andbahteis</w>, <w>gawaírpeis</w>, beside <w>andbahtjis</w>, <w>gawaírþjis</w>.
+            <abbr>Cp.</abbr> <ref>§ 153 note</ref>.
           </p>
         </div>
 

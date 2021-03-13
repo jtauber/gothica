@@ -214,23 +214,24 @@
         </p>
       </div>
       <pb n="107"/>
-      <div type="section" n="230" status="wip">
+      <div type="section" n="230">
         <p>
           <label>§ 230.</label>
         </p>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                 </row>
-          <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                         <cell>Fem.</cell>              </row>
-          <row> <cell>Nom.</cell> <cell><w>wilþeis</w>, <gloss>wild</gloss></cell>  <cell><w>wilþi</w>, <w>wilþjata</w></cell> <cell><w>wilþi</w></cell>      </row>
-          <row> <cell>Acc.</cell> <cell><w>wilþjana</w></cell>                      <cell><w>wilþi</w>, <w>wilþjata</w></cell> <cell><w>wilþja</w></cell>     </row>
-          <row> <cell>Gen.</cell> <cell><w>wilþeis</w></cell>                       <cell><w>wilþeis</w> (or -jis?)</cell>     <cell><w>wilþjáizōs</w></cell> </row>
-          <row> <cell>Dat.</cell> <cell><w>wilþjamma</w></cell>                     <cell><w>wilþjamma</w></cell>              <cell><w>wilþjái</w></cell>    </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                                 </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                                <cell><grm>Neut.</grm></cell>                         <cell><grm>Fem.</grm></cell>              </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>wilþeis</w>, <gloss>wild</gloss></cell>  <cell><w>wilþi</w>, <w>wilþj<hi>ata</hi></w></cell> <cell><w>wilþi</w></cell>      </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>wilþj<hi>ana</hi></w></cell>                      <cell><w>wilþi</w>, <w>wilþj<hi>ata</hi></w></cell> <cell><w>wilþja</w></cell>     </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>wilþeis</w></cell>                       <cell><w>wilþeis</w> (or <m>-jis</m>?)</cell>     <cell><w>wilþj<hi>áizōs</hi></w></cell> </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>wilþj<hi>amma</hi></w></cell>                     <cell><w>wilþj<hi>amma</hi></w></cell>              <cell><w>wilþjái</w></cell>    </row>
         </table>
     
         <div type="note">
           <p>
-            Note.—The gen. sing. of an adjective belonging to this class is not extant.
+            <label>Note.—</label>
+            The <grm>gen. sing.</grm> of an adjective belonging to this class is not extant.
           </p>
         </div>
       </div>

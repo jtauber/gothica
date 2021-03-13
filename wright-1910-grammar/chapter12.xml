@@ -284,43 +284,44 @@
       </div>
     </div>
 
-    <div type="section" n="266" status="wip">
+    <div type="section" n="266">
       <p>
         <label>§ 266.</label>
-        The compound demonstrative pronoun is formed from the simple one by affixing the enclitic particle -uh.
-        The origin of this particle is unknown, see § 73 note.
+        The compound demonstrative pronoun is formed from the simple one by affixing the enclitic particle <w>-uh</w>.
+        The origin of this particle is unknown, see <ref>§ 73 note</ref>.
       </p>
 
       <table>
-        <row> <cell>Sing.</cell>                                                                        </row>
-        <row> <cell/>           <cell>Masc.</cell>            <cell>Neut.</cell>  <cell>Fem.</cell>     </row>
-        <row> <cell>Nom.</cell> <cell>sah, this, that</cell>  <cell>þatuh</cell>  <cell>sōh</cell>      </row>
-        <row> <cell>Acc.</cell> <cell>þanuh</cell>            <cell>þatuh</cell>  <cell>þōh</cell>      </row>
-        <row> <cell>Gen.</cell> <cell>þizuh</cell>            <cell>þizuh</cell>  <cell>þizōzuh</cell>  </row>
-        <row> <cell>Dat.</cell> <cell>þammuh</cell>           <cell>þammuh</cell> <cell>þizáih</cell>   </row>
-        <row> <cell>Plur.</cell>                                                                        </row>
-        <row> <cell>Nom.</cell> <cell>þáih</cell>             <cell>þōh</cell>    <cell>þōzuh</cell>    </row>
-        <row> <cell>Acc.</cell> <cell>þanzuh</cell>           <cell>þōh</cell>    <cell>þōzuh</cell>    </row>
-        <row> <cell>Gen.</cell> <cell>þizēh</cell>            <cell>þizēh</cell>  <cell>þizōh</cell>    </row>
-        <row> <cell>Dat.</cell> <cell>þáimuh</cell>           <cell>þáimuh</cell> <cell>þáimuh</cell>   </row>
+        <row> <cell/> <cell cols="3"><grm>Sing.</grm></cell>                                                                               </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell> <cell><grm>Neut.</grm></cell>  <cell><grm>Fem.</grm></cell> </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>sah</w>, <gloss>this, that</gloss></cell>  <cell><w>þatuh</w></cell>  <cell><w>sōh</w></cell>      </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>þanuh</w></cell>    <cell><w>þatuh</w></cell>  <cell><w>þōh</w></cell>      </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>þizuh</w></cell>    <cell><w>þizuh</w></cell>  <cell><w>þizōzuh</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>þammuh</w></cell>   <cell><w>þammuh</w></cell> <cell><w>þizáih</w></cell>   </row>
+        <row> <cell/> <cell cols="3"><grm>Plur.</grm></cell>                                                                        </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>þáih</w></cell>     <cell><w>þōh</w></cell>    <cell><w>þōzuh</w></cell>    </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>þanzuh</w></cell>   <cell><w>þōh</w></cell>    <cell><w>þōzuh</w></cell>    </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>þizēh</w></cell>    <cell><w>þizēh</w></cell>  <cell><w>þizōh</w></cell>    </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>þáimuh</w></cell>   <cell><w>þáimuh</w></cell> <cell><w>þáimuh</w></cell>   </row>
       </table>
 
       <div type="note">
         <list>
           <item n="1">
             <p>
-              Note.—1. Of the plural of all genders only the nom. masc. is extant, and of the fem. sing. only the nom. is found.
+              <label>Note.—</label>
+              1. Of the plural of all genders only the <grm>nom. masc.</grm> is extant, and of the <grm>fem. sing.</grm> only the <grm>nom.</grm> is found.
             </p>
           </item>
           <item n="2">
             <p>
-              2. Where the cases of the simple pronoun end in -a this a is elided before the u (except in the nom. sing. masc.), but after a long vowel or a diphthong the u of uh is elided.
-              On the z in þizuh, &amp;c., see §§ 175 note 2, 261.
+              2. Where the cases of the simple pronoun end in <c>-a</c> this <c>a</c> is elided before the <c>u</c> (except in the <grm>nom. sing. masc.</grm>), but after a long vowel or a diphthong the <c>u</c> of <c>uh</c> is elided.
+              On the <c>z</c> in <w>þizuh</w>, <abbr>&amp;c.</abbr>, see <ref>§§ 175 note 2, 261</ref>.
               </p>
           </item>
           <item n="3">
             <p>
-              3. The instrumental occurs in the adverb bi-þēh, after that, then afterward.
+              3. The instrumental occurs in the adverb <w>bi-þēh</w>, <gloss>after that, then afterward</gloss>.
             </p>
           </item>
         </list>
