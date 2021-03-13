@@ -329,3 +329,15 @@ div.entry .grm {
 .status-wip {
   background: var(--wip-color);
 }
+
+/* body .c,
+body .m,
+body .w,
+body .lang,
+body .grm,
+body .gloss,
+body .abbr,
+body .ref
+{
+  color: #EEE;
+} */
