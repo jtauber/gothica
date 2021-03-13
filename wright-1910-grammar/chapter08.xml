@@ -197,7 +197,7 @@
 
     <table rend="border">
       <head>TABLE I.</head>
-      <row> <cell><lang>Indg.</lang></cell>   <cell><lang>Latin</lang></cell>    <cell><lang>Greek</lang></cell>   <cell>P. Germanic</cell> <cell><lang>Gothic</lang></cell>  <cell><lang>OE.</lang></cell>       <cell><lang>OHG.</lang></cell>      </row>
+      <row> <cell><lang>Indg.</lang></cell>   <cell><lang>Latin</lang></cell>    <cell><lang>Greek</lang></cell>   <cell><lang>P. Germanic</lang></cell> <cell><lang>Gothic</lang></cell>  <cell><lang>OE.</lang></cell>       <cell><lang>OHG.</lang></cell>      </row>
       <row> <cell><c>p</c></cell>       <cell><c>p</c></cell>        <cell><c>π</c></cell>       <cell><c>f</c></cell>           <cell><c>f</c></cell>       <cell><c>f</c></cell>         <cell><c>f</c></cell>         </row>
       <row> <cell><c>t</c></cell>       <cell><c>t</c></cell>        <cell><c>τ</c></cell>       <cell><c>þ</c></cell>           <cell><c>þ</c></cell>       <cell><c>þ</c></cell>         <cell><c>d</c></cell>         </row>
       <row> <cell><c>k</c>, <c>q</c></cell>    <cell><c>c</c></cell>        <cell><c>κ</c></cell>       <cell><c>χ</c></cell>           <cell><c>h</c>, <c>χ</c></cell>    <cell><c>h</c>, <c>χ</c></cell>      <cell><c>h</c>, <c>χ</c></cell>      </row>
@@ -208,7 +208,7 @@
 
     <table rend="border">
       <head>TABLE II.</head>
-      <row> <cell><lang>Indg.</lang></cell>   <cell><lang>Latin</lang></cell>    <cell><lang>Greek</lang></cell>   <cell>P. Germanic</cell> <cell><lang>Gothic</lang></cell>  <cell><lang>OE.</lang></cell>       <cell><lang>OHG.</lang></cell>      </row>
+      <row> <cell><lang>Indg.</lang></cell>   <cell><lang>Latin</lang></cell>    <cell><lang>Greek</lang></cell>   <cell><lang>P. Germanic</lang></cell> <cell><lang>Gothic</lang></cell>  <cell><lang>OE.</lang></cell>       <cell><lang>OHG.</lang></cell>      </row>
       <row> <cell><c>q</c></cell>       <cell><c>qu</c>, <c>c</c></cell>    <cell><c>π</c>, <c>τ</c>, <c>κ</c></cell> <cell><c>χ</c>, <c>w</c>, <c>χ</c></cell>     <cell><c>ƕ</c>, <c>h</c></cell>    <cell><c>hw</c>, <c>h</c></cell>     <cell>(<c>h</c>)<c>w</c>, <c>h</c></cell>   </row>
       <row> <cell><c>ɡ</c></cell>       <cell><c>v</c>, <c>gu</c>, <c>g</c></cell> <cell><c>β</c>, <c>δ</c>, <c>γ</c></cell> <cell><c>kw</c>, <c>k</c></cell>       <cell><c>q</c>, <c>k</c></cell>    <cell><c>cw</c>, <c>c</c></cell>     <cell><c>qu</c>; <c>k</c>, <c>hh</c></cell> </row>
       <row> <cell><c>bh</c></cell>      <cell><c>f</c>, <c>b</c></cell>     <cell><c>φ</c></cell>       <cell><c>b</c>, <c>Ҍ</c></cell>        <cell><c>b</c>, <c>Ҍ</c></cell>    <cell><c>b</c>, <c>Ҍ</c>, (<c>f</c>)</cell> <cell><c>b</c></cell>         </row>
@@ -316,51 +316,52 @@
     </div>
   </div>
 
-  <div type="section" n="129" status="wip">
+  <div type="section" n="129">
     <p>
       <label>§ 129.</label>
-      The <lang>Indg.</lang> mediae b, d, g, ɡ became the tenues p, t, k, k(kw).
+      The <lang>Indg.</lang> mediae <c>b</c>, <c>d</c>, <c>g</c>, <c>ɡ</c> became the tenues <c>p</c>, <c>t</c>, <c>k</c>, <c>k</c>(<c>kw</c>).
     </p>
 
     <p>
-      b > p.
-      O. Bulgarian slabŭ, slack, weak, <lang>Goth.</lang> slēpan, <lang>OE.</lang> slǣpan, <lang>OS.</lang> slāpan, <lang>OHG.</lang> slāfan, to sleep, originally to be slack;
-      <lang>Lat.</lang> lūbricus for *slūbricus, slippery, <lang>Goth.</lang> sliupan, <lang>OE.</lang> slūpan, <lang>OHG.</lang> sliofan, to slip;
-      <lang>Lithuanian</lang> dubùs, <lang>Goth.</lang> diups, <lang>OE.</lang> dēop, <lang>OS.</lang> diop, <lang>O.Icel.</lang> djūpr, <lang>OHG.</lang> tiof, deep;
-      <lang>Lithuanian</lang> trobà, house, related to <lang>Goth.</lang> ϸaúrp, field, <lang>OE.</lang> ϸorp, <lang>OS.</lang> thorp, <lang>OHG.</lang> dorf, village. b was a rare sound in the parent language.
+      <c>b</c> > <c>p</c>.
+      <lang>O. Bulgarian</lang> <w>slabŭ</w>, <gloss>slack, weak</gloss>, <lang>Goth.</lang> <w>slēpan</w>, <lang>OE.</lang> <w>slǣpan</w>, <lang>OS.</lang> <w>slāpan</w>, <lang>OHG.</lang> <w>slāfan</w>, <gloss>to sleep</gloss>, originally <gloss>to be slack</gloss>;
+      <lang>Lat.</lang> <w>lūbricus</w> for <w>*slūbricus</w>, <gloss>slippery</gloss>, <lang>Goth.</lang> <w>sliupan</w>, <lang>OE.</lang> <w>slūpan</w>, <lang>OHG.</lang> <w>sliofan</w>, <gloss>to slip</gloss>;
+      <lang>Lithuanian</lang> <w>dubùs</w>, <lang>Goth.</lang> <w>diups</w>, <lang>OE.</lang> <w>dēop</w>, <lang>OS.</lang> <w>diop</w>, <lang>O.Icel.</lang> <w>djūpr</w>, <lang>OHG.</lang> <w>tiof</w>, <gloss>deep</gloss>;
+      <lang>Lithuanian</lang> <w>trobà</w>, <gloss>house</gloss>, related to <lang>Goth.</lang> <w>ϸaúrp</w>, <gloss>field</gloss>, <lang>OE.</lang> <w>ϸorp</w>, <lang>OS.</lang> <w>thorp</w>, <lang>OHG.</lang> <w>dorf</w>, <gloss>village</gloss>.
+      <c>b</c> was a rare sound in the parent language.
     </p>
 
     <p>
-      d > t.
-      <lang>Lat.</lang> decem, <lang>Gr.</lang> δέκα, <lang>Goth.</lang> taíhun, <lang>O.Icel.</lang> tīo, <lang>OE.</lang> tīen, <lang>OS.</lang> tehan, <lang>OHG.</lang> zehan, ten;
-      gen. <lang>Lat.</lang> pedis, <lang>Gr.</lang> ποδός, nom. <lang>Goth.</lang> fōtus, <lang>O.Icel.</lang> fōtr, <lang>OE.</lang> <lang>OS.</lang> fōt, <lang>OHG.</lang> fuoȥ, foot;
-      <lang>Lat.</lang> dūcō, I lead, <lang>Goth.</lang> tiuhan, to draw, lead;
-      <lang>Gr.</lang> καρδίᾱ, <lang>Lat.</lang> gen. cordis, <lang>Goth.</lang> haírtō, heart;
-      <lang>Lat.</lang> vidēre, to see, <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> witan, <lang>O.Icel.</lang> vita,<pb n="57"/><lang>OHG.</lang> wiȥȥan, to know;
-      <lang>Lat.</lang> edere, <lang>Goth.</lang> itan, <lang>OE.</lang> <lang>OS.</lang> etan, <lang>O.Icel.</lang> eta, <lang>OHG.</lang> eȥȥan, to eat.
+      <c>d</c> > <c>t</c>.
+      <lang>Lat.</lang> <w>decem</w>, <lang>Gr.</lang> <w>δέκα</w>, <lang>Goth.</lang> <w>taíhun</w>, <lang>O.Icel.</lang> <w>tīo</w>, <lang>OE.</lang> <w>tīen</w>, <lang>OS.</lang> <w>tehan</w>, <lang>OHG.</lang> <w>zehan</w>, <gloss>ten</gloss>;
+      <grm>gen.</grm> <lang>Lat.</lang> <w>pedis</w>, <lang>Gr.</lang> <w>ποδός</w>, <grm>nom.</grm> <lang>Goth.</lang> <w>fōtus</w>, <lang>O.Icel.</lang> <w>fōtr</w>, <lang>OE.</lang> <lang>OS.</lang> <w>fōt</w>, <lang>OHG.</lang> <w>fuoȥ</w>, <gloss>foot</gloss>;
+      <lang>Lat.</lang> <w>dūcō</w>, <gloss>I lead</gloss>, <lang>Goth.</lang> <w>tiuhan</w>, <gloss>to draw, lead</gloss>;
+      <lang>Gr.</lang> <w>καρδίᾱ</w>, <lang>Lat.</lang> <grm>gen.</grm> <w>cordis</w>, <lang>Goth.</lang> <w>haírtō</w>, <gloss>heart</gloss>;
+      <lang>Lat.</lang> <w>vidēre</w>, <gloss>to see</gloss>, <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>witan</w>, <lang>O.Icel.</lang> <w>vita</w>,<pb n="57"/><lang>OHG.</lang> <w>wiȥȥan</w>, <gloss>to know</gloss>;
+      <lang>Lat.</lang> <w>edere</w>, <lang>Goth.</lang> <w>itan</w>, <lang>OE.</lang> <lang>OS.</lang> <w>etan</w>, <lang>O.Icel.</lang> <w>eta</w>, <lang>OHG.</lang> <w>eȥȥan</w>, <gloss>to eat</gloss>.
     </p>
 
     <p>
-      g > k.
-      <lang>Lat.</lang> genu, <lang>Gr.</lang> γόνυ, <lang>Goth.</lang> kniu, <lang>OE.</lang> cnēo, <lang>OS.</lang> <lang>OHG.</lang> kneo, <lang>O.Icel.</lang> knē, knee;
-      <lang>Lat.</lang> gustō, I taste, <lang>Gr.</lang> γεύω, I let taste, <lang>Goth.</lang> kiusan, <lang>OE.</lang> cēosan, <lang>OS.</lang> <lang>OHG.</lang> kiosan (keosan), <lang>O.Icel.</lang> kjōsa, to test, choose;
-      <lang>Lat.</lang> ager, <lang>Gr.</lang> ἀγρός, <lang>Goth.</lang> akrs, <lang>OE.</lang> æcer, <lang>OS.</lang> akkar, <lang>OHG.</lang> ackar, field, land;
-      <lang>Lat.</lang> egō, <lang>Gr.</lang> ἐγώ, <lang>Goth.</lang> <lang>OS.</lang> ik, <lang>OE.</lang> ic, <lang>O.Icel.</lang> ek, <lang>OHG.</lang> ih, I.
+      <c>g</c> > <c>k</c>.
+      <lang>Lat.</lang> <w>genu</w>, <lang>Gr.</lang> <w>γόνυ</w>, <lang>Goth.</lang> <w>kniu</w>, <lang>OE.</lang> <w>cnēo</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>kneo</w>, <lang>O.Icel.</lang> <w>knē</w>, <gloss>knee</gloss>;
+      <lang>Lat.</lang> <w>gustō</w>, <gloss>I taste</gloss>, <lang>Gr.</lang> <w>γεύω</w>, <gloss>I let taste</gloss>, <lang>Goth.</lang> <w>kiusan</w>, <lang>OE.</lang> <w>cēosan</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>kiosan</w> (<w>keosan</w>), <lang>O.Icel.</lang> <w>kjōsa</w>, <gloss>to test, choose</gloss>;
+      <lang>Lat.</lang> <w>ager</w>, <lang>Gr.</lang> <w>ἀγρός</w>, <lang>Goth.</lang> <w>akrs</w>, <lang>OE.</lang> <w>æcer</w>, <lang>OS.</lang> <w>akkar</w>, <lang>OHG.</lang> <w>ackar</w>, <gloss>field, land</gloss>;
+      <lang>Lat.</lang> <w>egō</w>, <lang>Gr.</lang> <w>ἐγώ</w>, <lang>Goth.</lang> <lang>OS.</lang> <w>ik</w>, <lang>OE.</lang> <w>ic</w>, <lang>O.Icel.</lang> <w>ek</w>, <lang>OHG.</lang> <w>ih</w>, <gloss>I</gloss>.
     </p>
 
     <p>
-      ɡ > k(kw).
-      <lang>Lat.</lang> gelu, frost, <lang>Goth.</lang> kalds, <lang>OE.</lang> ceald, <lang>OS.</lang> kald, <lang>OHG.</lang> kalt, <lang>O.Icel.</lang> kaldr, cold;
-      <lang>Lat.</lang> augēre, <lang>Goth.</lang> áukan, <lang>O.Icel.</lang> auka, <lang>OS.</lang> ōkian (wv.), <lang>OHG.</lang> ouhhōn (wv.), to add, increase, <abbr>cp.</abbr> also <lang>OE.</lang> part. adj. ēacen, great;
-      <lang>Lat.</lang> jugum, <lang>Gr.</lang> ζυγόν, <lang>Goth.</lang> juk, <lang>OE.</lang> geoc, <lang>OHG.</lang> joh, yoke.
+      <c>ɡ</c> > <c>k</c>(<c>kw</c>).
+      <lang>Lat.</lang> <w>gelu</w>, <gloss>frost</gloss>, <lang>Goth.</lang> <w>kalds</w>, <lang>OE.</lang> <w>ceald</w>, <lang>OS.</lang> <w>kald</w>, <lang>OHG.</lang> <w>kalt</w>, <lang>O.Icel.</lang> <w>kaldr</w>, <gloss>cold</gloss>;
+      <lang>Lat.</lang> <w>augēre</w>, <lang>Goth.</lang> <w>áukan</w>, <lang>O.Icel.</lang> <w>auka</w>, <lang>OS.</lang> <w>ōkian</w> (<grm>wv.</grm>), <lang>OHG.</lang> <w>ouhhōn</w> (<grm>wv.</grm>), <gloss>to add, increase</gloss>, <abbr>cp.</abbr> also <lang>OE.</lang> <grm>part. adj.</grm> <w>ēacen</w>, <gloss>great</gloss>;
+      <lang>Lat.</lang> <w>jugum</w>, <lang>Gr.</lang> <w>ζυγόν</w>, <lang>Goth.</lang> <w>juk</w>, <lang>OE.</lang> <w>geoc</w>, <lang>OHG.</lang> <w>joh</w>, <gloss>yoke</gloss>.
     </p>
 
     <p>
-      <lang>Gr.</lang> βίος from *ɡī̌wos, life, <lang>Lat.</lang> vīvos (*gwīwos), <lang>Goth.</lang> qius (gen. qiwis), <lang>OE.</lang> cwicu, <lang>OS.</lang> quik, <lang>OHG.</lang> quec, <lang>O.Icel.</lang> kvikr, quick, alive;
-      <lang>Gr.</lang> βαίνω for *βανjω, older *βαμjω, I go, <lang>Lat.</lang> veniō for *gwemjō, I come, <lang>Indg.</lang> form *ɡmjṓ, <lang>Goth.</lang> qiman, <lang>OHG.</lang> queman, <lang>OE.</lang> <lang>OS.</lang> cuman, <lang>O.Icel.</lang> koma, to come;
-      <lang>Skr.</lang> gurúṣ̌, <lang>Gr.</lang> βαρύς, from *ɡr-rus, <lang>Lat.</lang> gravis, <lang>Goth.</lang> kaúrus from prim. Germ. *k(w)uruz, heavy;
-      <lang>Gr.</lang> ἔρεβος, <lang>Goth.</lang> riqis (stem riqiza-), <lang>prim. form</lang> *reɡos, darkness;
-      <lang>Gr.</lang> Boeotian βανᾱ́, <lang>Goth.</lang> qinō, <lang>OE.</lang> cwene, <lang>OS.</lang> <lang>OHG.</lang> quena, woman, wife.
+      <lang>Gr.</lang> <w>βίος</w> from <w>*ɡī̌wos</w>, <gloss>life</gloss>, <lang>Lat.</lang> <w>vīvos</w> (<w>*gwīwos</w>), <lang>Goth.</lang> <w>qius</w> (<grm>gen.</grm> <w>qiwis</w>), <lang>OE.</lang> <w>cwicu</w>, <lang>OS.</lang> <w>quik</w>, <lang>OHG.</lang> <w>quec</w>, <lang>O.Icel.</lang> <w>kvikr</w>, <gloss>quick, alive</gloss>;
+      <lang>Gr.</lang> <w>βαίνω</w> for <w>*βανjω</w>, older <w>*βαμjω</w>, <gloss>I go</gloss>, <lang>Lat.</lang> <w>veniō</w> for <w>*gwemjō</w>, <gloss>I come</gloss>, <lang>Indg.</lang> form <w>*ɡmjṓ</w>, <lang>Goth.</lang> <w>qiman</w>, <lang>OHG.</lang> <w>queman</w>, <lang>OE.</lang> <lang>OS.</lang> <w>cuman</w>, <lang>O.Icel.</lang> <w>koma</w>, <gloss>to come</gloss>;
+      <lang>Skr.</lang> <w>gurúṣ̌</w>, <lang>Gr.</lang> <w>βαρύς</w>, from <w>*ɡr-rus</w>, <lang>Lat.</lang> <w>gravis</w>, <lang>Goth.</lang> <w>kaúrus</w> from <lang>prim. Germ.</lang> <w>*k(w)uruz</w>, <gloss>heavy</gloss>;
+      <lang>Gr.</lang> <w>ἔρεβος</w>, <lang>Goth.</lang> <w>riqis</w> (stem <m>riqiza-</m>), <lang>prim. form</lang> <w>*reɡos</w>, <gloss>darkness</gloss>;
+      <lang>Gr. Boeotian</lang> <w>βανᾱ́</w>, <lang>Goth.</lang> <w>qinō</w>, <lang>OE.</lang> <w>cwene</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>quena</w>, <gloss>woman, wife</gloss>.
     </p>
   </div>
 
@@ -485,7 +486,7 @@
         <lang>Goth.</lang> fidwōr, <lang>OE.</lang> fēower (but fyϸer-fēte, four-footed), <lang>OS.</lang> <lang>OHG.</lang> fior, <lang>prim. form</lang> *qetwṓres, <abbr>cp.</abbr> <lang>Lithuanian</lang> keturì, <lang>Lat.</lang> quattuor, <lang>Gr.</lang> τέσσαρες, <lang>Skr.</lang> catvā́ras;
         <lang>Goth.</lang> fimf, <lang>OE.</lang> <lang>OS.</lang> fīf, <lang>OHG.</lang> fimf (finf) from *fimfi, <lang>prim. form</lang> *peŋqe, <abbr>cp.</abbr> <lang>Skr.</lang> páńca, <lang>Gr.</lang> πέντε, <lang>Lat.</lang> quīnque (for *pīnque), five;
         <lang>OHG.</lang> wulpa, she-wolf, from *wulƀī́, <lang>prim. form</lang> *wlqī́, <abbr>cp.</abbr> <lang>Skr.</lang> vrkī́;
-        <lang>Goth.</lang> waírpan, <lang>OE.</lang> weorpan, <lang>OS.</lang> werpan, <lang>OHG.</lang> werfan, <lang>O.Icel.</lang> verpa, to throw, <abbr>cp.</abbr> O. Bulgarian vrῐgą, I throw;
+        <lang>Goth.</lang> waírpan, <lang>OE.</lang> weorpan, <lang>OS.</lang> werpan, <lang>OHG.</lang> werfan, <lang>O.Icel.</lang> verpa, to throw, <abbr>cp.</abbr> <lang>O. Bulgarian</lang> vrῐgą, I throw;
         <lang>OE.</lang> swāpan, <lang>OHG.</lang> sweifan, to swing, <abbr>cp.</abbr> <lang>Lithuanian</lang> swaikstù, I become dizzy.
       </p>
     </div>
@@ -789,8 +790,8 @@
       </p>
 
       <p>
-        <lang>Indg.</lang> z + media aspirata became z + voiced spirant, as <lang>Goth.</lang> mizdō, <lang>OE.</lang> meord, pay, reward, <abbr>cp.</abbr> O. Bulgarian mῐzda, <lang>Gr.</lang> μισθός, pay;
-        <lang>OE.</lang> mearg, <lang>OHG.</lang> marg, O. Bulgarian mozgŭ, marrow, root mezgh-;
+        <lang>Indg.</lang> z + media aspirata became z + voiced spirant, as <lang>Goth.</lang> mizdō, <lang>OE.</lang> meord, pay, reward, <abbr>cp.</abbr> <lang>O. Bulgarian</lang> mῐzda, <lang>Gr.</lang> μισθός, pay;
+        <lang>OE.</lang> mearg, <lang>OHG.</lang> marg, <lang>O. Bulgarian</lang> mozgŭ, marrow, root mezgh-;
         <lang>Goth.</lang> huzd, <lang>OE.</lang> hord, <lang>OHG.</lang> hort, hoard, treasure, root kuzdh-.
       </p>
     </div>

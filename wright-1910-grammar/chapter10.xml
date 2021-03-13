@@ -224,38 +224,40 @@
         <div type="subsubchapter" n="1">
           <head>Masculines.</head>
 
-          <div type="section" n="184" status="wip">
-            <label>§ 184.</label>
+          <div type="section" n="184">
+            <p>
+              <label>§ 184.</label>
+            </p>
 
             <table>
-              <row> <cell/>                 	<cell cols="2">Sing.</cell>                                 </row>
-              <row> <cell>Nom.</cell>       	<cell>harjis, army</cell> 	<cell>haírdeis, herdsman</cell> </row>
-              <row> <cell>Acc.	Voc.</cell> 	<cell>hari</cell>         	<cell>haírdi</cell>             </row>
-              <row> <cell>Gen.</cell>       	<cell>harjis</cell>       	<cell>haírdeis</cell>           </row>
-              <row> <cell>Dat.</cell>       	<cell>harja</cell>        	<cell>haírdja</cell>            </row>
-              <row> <cell/>                 	<cell cols="2">Plur.</cell>                                 </row>
-              <row> <cell>Nom.</cell>       	<cell>harjōs</cell>       	<cell>haírdjōs</cell>           </row>
-              <row> <cell>Acc.</cell>       	<cell>harjans</cell>      	<cell>haírdjans</cell>          </row>
-              <row> <cell>Gen.</cell>       	<cell>harjē</cell>        	<cell>haírdjē</cell>            </row>
-              <row> <cell>Dat.</cell>       	<cell>harjam</cell>       	<cell>haírdjam</cell>           </row>
+              <row> <cell/>                           <cell cols="2"><grm>Sing.</grm></cell>                               </row>
+              <row> <cell><grm>Nom.</grm></cell>      <cell><w>harjis</w>, <gloss>army</gloss></cell> <cell><w>haírdeis</w>, <gloss>herdsman</gloss></cell> </row>
+              <row> <cell><grm>Acc. Voc.</grm></cell> <cell><w>hari</w></cell>         <cell><w>haírdi</w></cell>             </row>
+              <row> <cell><grm>Gen.</grm></cell>      <cell><w>harjis</w></cell>       <cell><w>haírdeis</w></cell>           </row>
+              <row> <cell><grm>Dat.</grm></cell>      <cell><w>harja</w></cell>        <cell><w>haírdja</w></cell>            </row>
+              <row> <cell/>                           <cell cols="2"><grm>Plur.</grm></cell>                               </row>
+              <row> <cell><grm>Nom.</grm></cell>      <cell><w>harjōs</w></cell>       <cell><w>haírdjōs</w></cell>           </row>
+              <row> <cell><grm>Acc.</grm></cell>      <cell><w>harjans</w></cell>      <cell><w>haírdjans</w></cell>          </row>
+              <row> <cell><grm>Gen.</grm></cell>      <cell><w>harjē</w></cell>        <cell><w>haírdjē</w></cell>            </row>
+              <row> <cell><grm>Dat.</grm></cell>      <cell><w>harjam</w></cell>       <cell><w>haírdjam</w></cell>           </row>
             </table>
             <pb n="88"/>
             <p>
-              The prim. Germ. forms of harjis were:
-              Sing. nom. *χarjaz, acc. *χarjan, voc. *χarj(e), gen. *χarjesa (with pronominal ending), dat. *χarjē, -ō (originally instr.);
-              Pl. nom. *χarjōz, acc. *χarjans, gen. χarjō̃n, dat. *χarjomiz.
-              All the forms of the sing. except the nom., and all forms of the pl. except the gen., are regularly developed from the corresponding prim. Germ. forms.
-              *χarjaz became *haris (<abbr>cp.</abbr> § 155) and then the -j- in the cases where it was regular was extended to the nom.
-              On harjē, see § 179.
+              The <grm>prim. Germ.</grm> forms of <w>harjis</w> were:
+              <grm>Sing. nom.</grm> <w>*χarjaz</w>, <grm>acc.</grm> <w>*χarjan</w>, <grm>voc.</grm> <w>*χarj(e)</w>, <grm>gen.</grm> <w>*χarjesa</w> (with pronominal ending), <grm>dat.</grm> <w>*χarjē</w>, <m>-ō</m> (originally <grm>instr.</grm>);
+              <grm>Pl. nom.</grm> <w>*χarjōz</w>, <grm>acc.</grm> <w>*χarjans</w>, <grm>gen.</grm> <w>χarjō̃n</w>, <grm>dat.</grm> <w>*χarjomiz</w>.
+              All the forms of the <grm>sing.</grm> except the <grm>nom.</grm>, and all forms of the <grm>pl.</grm> except the <grm>gen.</grm>, are regularly developed from the corresponding <lang>prim. Germ.</lang> forms.
+              <w>*χarjaz</w> became <w>*haris</w> (<abbr>cp.</abbr> <ref>§ 155</ref>) and then the <c>-j-</c> in the cases where it was regular was extended to the <grm>nom.</grm>
+              On <w>harjē</w>, see <ref>§ 179</ref>.
             </p>
 
             <p>
-              The prim. Germ. forms of haírdeis were:
-              Sing. nom. *χirđijaz, acc. *χirđijan, voc. *χirđij(e), gen. *χirđijesa, dat. *χirđijē, -ō;
-              Pl. nom. *χirđijōz, acc. *χirđijanz, gen. *χirđijō̃n, dat. *χirđijomiz.
-              In the nom. acc. voc. sing. the -ij- became ī after the loss of a, -(e), -an, then the ī (written ei) being protected by a consonant remained in the nom., but became shortened in the acc. and voc. (but see § 154).
-              In the gen. sing. -ije- became -iji- and then the j disappeared between vowels; whence haírdeis.
-              After the -ij- had become -j- in the dat. sing. and all forms of the pl. the further development of these case endings was the same as that of harjis (§ 157).
+              The <lang>prim. Germ.</lang> forms of <w>haírdeis</w> were:
+              <grm>Sing. nom.</grm> <w>*χirđijaz</w>, <grm>acc.</grm> <w>*χirđijan</w>, <grm>voc.</grm> <w>*χirđij(e)</w>, <grm>gen.</grm> <w>*χirđijesa</w>, <grm>dat.</grm> <w>*χirđijē</w>, <m>-ō</m>;
+              <grm>Pl. nom.</grm> <w>*χirđijōz</w>, <grm>acc.</grm> <w>*χirđijanz</w>, <grm>gen.</grm> <w>*χirđijō̃n</w>, <grm>dat.</grm> <w>*χirđijomiz</w>.
+              In the <grm>nom. acc. voc. sing.</grm> the <c>-ij-</c> became <c>ī</c> after the loss of <c>a</c>, <c>-(e)</c>, <c>-an</c>, then the <c>ī</c> (written <c>ei</c>) being protected by a consonant remained in the <grm>nom.</grm>, but became shortened in the <grm>acc.</grm> and <grm>voc.</grm> (but see <ref>§ 154</ref>).
+              In the <grm>gen. sing.</grm> <c>-ije-</c> became <c>-iji-</c> and then the <c>j</c> disappeared between vowels; whence <w>haírdeis</w>.
+              After the <c>-ij-</c> had become <c>-j-</c> in the <grm>dat. sing.</grm> and all forms of the <grm>pl.</grm> the further development of these case endings was the same as that of <w>harjis</w> (<ref>§ 157</ref>).
             </p>
           </div>
 
