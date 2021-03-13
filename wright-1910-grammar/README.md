@@ -28,37 +28,37 @@ But once this is done, not only can I produce a nice HTML version:
 * **level 2** refers to the TEI-like semantic markup of languages, words, references, etc.
 * **level 3** refers to extraction of machine-actionable linguistic information from the above.
 
-| chapter | xml                   | html                        | status              |
-|---------|-----------------------|-----------------------------|---------------------|
-| I       | [link](chapter01.xml) | [link](html/chapter01.html) | level 2 done        |
-| II      | [link](chapter02.xml) | [link](html/chapter02.html) | level 2 done        |
-| III     | [link](chapter03.xml) | [link](html/chapter03.html) | level 2 done        |
-| IV      | [link](chapter04.xml) | [link](html/chapter04.html) | level 2 done        |
-| V       | [link](chapter05.xml) | [link](html/chapter05.html) | level 2 done        |
-| VI      | [link](chapter06.xml) | [link](html/chapter06.html) | level 2 done        |
-| VII     | [link](chapter07.xml) | [link](html/chapter07.html) | level 2 done        |
-| VIII    | [link](chapter08.xml) | [link](html/chapter08.html) | level 2 in-progress |
-| IX      | [link](chapter09.xml) | [link](html/chapter09.html) | level 2 in-progress |
-| X       | [link](chapter10.xml) | [link](html/chapter10.html) | level 2 in-progress |
-| XI      | [link](chapter11.xml) | [link](html/chapter11.html) | level 2 in-progress |
-| XII     | [link](chapter12.xml) | [link](html/chapter12.html) | level 2 in-progress |
-| XIII    | [link](chapter13.xml) | [link](html/chapter13.html) | level 2 in-progress |
-| XIV     | [link](chapter14.xml) | [link](html/chapter14.html) | level 2 done        |
-| XV      | [link](chapter15.xml) | [link](html/chapter15.html) | level 2 in-progress |
-| XVI     | [link](chapter16.xml) | [link](html/chapter16.html) | level 2 in-progress |
+| chapter | links                                              | status              |
+|---------|----------------------------------------------------|---------------------|
+| I       | [xml](chapter01.xml) • [html](html/chapter01.html) | level 2 done        |
+| II      | [xml](chapter02.xml) • [html](html/chapter02.html) | level 2 done        |
+| III     | [xml](chapter03.xml) • [html](html/chapter03.html) | level 2 done        |
+| IV      | [xml](chapter04.xml) • [html](html/chapter04.html) | level 2 done        |
+| V       | [xml](chapter05.xml) • [html](html/chapter05.html) | level 2 done        |
+| VI      | [xml](chapter06.xml) • [html](html/chapter06.html) | level 2 done        |
+| VII     | [xml](chapter07.xml) • [html](html/chapter07.html) | level 2 done        |
+| VIII    | [xml](chapter08.xml) • [html](html/chapter08.html) | level 2 in-progress |
+| IX      | [xml](chapter09.xml) • [html](html/chapter09.html) | level 2 in-progress |
+| X       | [xml](chapter10.xml) • [html](html/chapter10.html) | level 2 in-progress |
+| XI      | [xml](chapter11.xml) • [html](html/chapter11.html) | level 2 in-progress |
+| XII     | [xml](chapter12.xml) • [html](html/chapter12.html) | level 2 in-progress |
+| XIII    | [xml](chapter13.xml) • [html](html/chapter13.html) | level 2 in-progress |
+| XIV     | [xml](chapter14.xml) • [html](html/chapter14.html) | level 2 done        |
+| XV      | [xml](chapter15.xml) • [html](html/chapter15.html) | level 2 in-progress |
+| XVI     | [xml](chapter16.xml) • [html](html/chapter16.html) | level 2 in-progress |
 
 ## Status of Other Parts
 
-| part                     | xml                               | html                           | status              |
-|--------------------------|-----------------------------------|--------------------------------|---------------------|
-| introduction             | [link](introduction.xml)          | [link](html/introduction.html) | done                |
-| ulfilas                  | [link](ulfilas.xml)               |                                | initial markup done |
-| matthew                  | [link](matthew.xml)               |                                | initial markup done |
-| mark                     | [link](mark.xml)                  |                                | initial markup done |
-| luke                     | [link](luke.xml)                  |                                | initial markup done |
-| john                     | [link](john.xml)                  |                                | initial markup done |
-| timothy                  | [link](timothy.xml)               |                                | initial markup done |
-| glossary                 |                                   |                                | in progress         |
-| proper names             | [link](proper_names.xml)          |                                | initial markup done |
-| glossary of proper names | [link](glossary_proper_names.xml) |                                | initial markup done |
+| part                     | links                                                             | status              |
+|--------------------------|-------------------------------------------------------------------|---------------------|
+| introduction             | [xml](introduction.xml)          • [html](html/introduction.html) | done                |
+| ulfilas                  | [xml](ulfilas.xml)               •                                | initial markup done |
+| matthew                  | [xml](matthew.xml)               •                                | initial markup done |
+| mark                     | [xml](mark.xml)                  •                                | initial markup done |
+| luke                     | [xml](luke.xml)                  •                                | initial markup done |
+| john                     | [xml](john.xml)                  •                                | initial markup done |
+| timothy                  | [xml](timothy.xml)               •                                | initial markup done |
+| glossary                 |                                  •                                | in progress         |
+| proper names             | [xml](proper_names.xml)          •                                | initial markup done |
+| glossary of proper names | [xml](glossary_proper_names.xml) •                                | initial markup done |
 
