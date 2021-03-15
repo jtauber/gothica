@@ -551,48 +551,50 @@
       </list>
     </div>
 
-    <div type="section" n="435" status="wip">
+    <div type="section" n="435">
       <p>
         <label>§ 435.</label>
         <label>Infinitive.</label>
         The infinitive or a clause containing an infinitive is often used as the subject or object of a finite verb.
         <list>
           <item>
-            (1) As subject:—ni gōþ ist niman hláif barnē jah waírpan hundam, it is not good to take the children’s bread and to cast it to dogs;
-            warþ afsláuþnan allans, it came to pass that they were all amazed;
-            warþ þaírhgaggan imma þaírh atisk, it came to pass that he went through the cornfields.
+            (1) As subject:—
+            <phr>ni gōþ ist niman hláif barnē jah waírpan hundam</phr>, <gloss>it is not good to take the children’s bread and to cast it to dogs</gloss>;
+            <phr>warþ afsláuþnan allans</phr>, <gloss>it came to pass that they were all amazed</gloss>;
+            <phr>warþ þaírhgaggan imma þaírh atisk</phr>, <gloss>it came to pass that he went through the cornfields</gloss>.
           </item>
           <item>
-            (2) As object:—ōhtēdun fraíhnan ina, they feared to ask him;
-            sōkidēdun attēkan imma, they sought to touch him;
-            qiþand usstass ni wisan, they say that there is not any resurrection.
+            (2) As object:—
+            <phr>ōhtēdun fraíhnan ina</phr>, <gloss>they feared to ask him</gloss>;
+            <phr>sōkidēdun attēkan imma</phr>, <gloss>they sought to touch him</gloss>;
+            <phr>qiþand usstass ni wisan</phr>, <gloss>they say that there is not any resurrection</gloss>.
           </item>
         </list>
       </p>
       <pb n="194"/>
       <p>
-        The infinitive with and without du is also used to express purpose, as
-        qēmun saíƕan, they came to see;
-        gagg þuk silban atáugjan gudjin, go, show thyself to the priest;
-        sat du áihtrōn, he sat for the purpose of begging.
+        The infinitive with and without <w>du</w> is also used to express purpose, as
+        <phr>qēmun saíƕan</phr>, <gloss>they came to see</gloss>;
+        <phr>gagg þuk silban atáugjan gudjin</phr>, <gloss>go, show thyself to the priest</gloss>;
+        <phr>sat du áihtrōn</phr>, <gloss>he sat for the purpose of begging</gloss>.
       </p>
 
       <p>
         The passive infinitive is variously expressed.
         <list>
           <item>
-            (1) Generally by waírþan and a past participle, as
-            skal sunus mans uskusans waírþan, the son of man shall be rejected.
+            (1) Generally by <w>waírþan</w> and a <grm>past participle</grm>, as
+            <phr>skal sunus mans uskusans waírþan</phr>, <gloss>the son of man shall be rejected</gloss>.
           </item>
           <item>
-            (2) Not unfrequently by the active infinitive, as
-            qēmun þan mōtarjōs dáupjan, then came the publicans to be baptized;
-            qēmun háiljan sik saúhtē seináizō, they came to be healed of their infirmities.
+            (2) Not unfrequently by the <grm>active infinitive</grm>, as
+            <phr>qēmun þan mōtarjōs dáupjan</phr>, <gloss>then came the publicans to be baptized</gloss>;
+            <phr>qēmun háiljan sik saúhtē seináizō</phr>, <gloss>they came to be healed of their infirmities</gloss>.
           </item>
           <item>
-            (3) Occasionally by mahts wisan, skuld wisan, along with an active infinitive, as
-            maht wēsi frabugjan, it might have been sold (<abbr>lit.</abbr> it were possible to sell);
-            ƕáiwa þu qiþis, þatei skulds ist usháuhjan sa sunus mans? how sayest thou, that the son of man must be lifted up?
+            (3) Occasionally by <phr>mahts wisan</phr>, <phr>skuld wisan</phr>, along with an <grm>active infinitive</grm>, as
+            <phr>maht wēsi frabugjan</phr>, <gloss>it might have been sold (<abbr>lit.</abbr> it were possible to sell)</gloss>;
+            <phr>ƕáiwa þu qiþis, þatei skulds ist usháuhjan sa sunus mans?</phr> <gloss>how sayest thou, that the son of man must be lifted up?</gloss>
           </item>
         </list>
       </p>
