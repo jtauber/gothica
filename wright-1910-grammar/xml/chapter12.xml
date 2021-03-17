@@ -377,24 +377,24 @@
       </p>
     </div>
 
-    <div type="section" n="271" status="wip">
+    <div type="section" n="271">
       <p>
         <label>§ 271.</label>
-        The relative pronoun of the third person is expressed by affixing the particle ei to the simple demonstrative sa, þata, sō, and is declined as follows:—
+        The relative pronoun of the third person is expressed by affixing the particle <m>ei</m> to the simple demonstrative <w>sa</w>, <w>þata</w>, <w>sō</w>, and is declined as follows:—
       </p>
 
       <table>
-        <row> <cell>Sing.</cell>                                                              </row>
-        <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>  <cell>Fem.</cell>     </row>
-        <row> <cell>Nom.</cell> <cell>saei</cell>   <cell>þatei</cell>  <cell>sōei</cell>     </row>
-        <row> <cell>Acc.</cell> <cell>þanei</cell>  <cell>þatei</cell>  <cell>þōei</cell>     </row>
-        <row> <cell>Gen.</cell> <cell>þizei</cell>  <cell>þizei</cell>  <cell>þizōzei</cell>  </row>
-        <row> <cell>Dat.</cell> <cell>þammei</cell> <cell>þammei</cell> <cell>þizáiei</cell>  </row>
-        <row> <cell>Plur.</cell>                                                              </row>
-        <row> <cell>Nom.</cell> <cell>þáiei</cell>  <cell>þōei</cell>   <cell>þōzei</cell>    </row>
-        <row> <cell>Acc.</cell> <cell>þanzei</cell> <cell>þōei</cell>   <cell>þōzei</cell>    </row>
-        <row> <cell>Gen.</cell> <cell>þizēei</cell> <cell>þizēei</cell> <cell>*þizōei</cell>  </row>
-        <row> <cell>Dat.</cell> <cell>þáimei</cell> <cell>þáimei</cell> <cell>þáimei</cell>   </row>
+        <row> <cell/> <cell cols="3"><grm>Sing.</grm></cell>                                                              </row>
+        <row> <cell/>                       <cell><grm>Masc.</grm></cell> <cell><grm>Neut.</grm></cell> <cell><grm>Fem.</grm></cell>  </row>
+        <row> <cell><grm>Nom.</grm></cell>  <cell><w>saei</w></cell>      <cell><w>þatei</w></cell>     <cell><w>sōei</w></cell>      </row>
+        <row> <cell><grm>Acc.</grm></cell>  <cell><w>þanei</w></cell>     <cell><w>þatei</w></cell>     <cell><w>þōei</w></cell>      </row>
+        <row> <cell><grm>Gen.</grm></cell>  <cell><w>þizei</w></cell>     <cell><w>þizei</w></cell>     <cell><w>þizōzei</w></cell>   </row>
+        <row> <cell><grm>Dat.</grm></cell>  <cell><w>þammei</w></cell>    <cell><w>þammei</w></cell>    <cell><w>þizáiei</w></cell>   </row>
+        <row> <cell/>                       <cell cols="3"><grm>Plur.</grm></cell>                                                    </row>
+        <row> <cell><grm>Nom.</grm></cell>  <cell><w>þáiei</w></cell>     <cell><w>þōei</w></cell>      <cell><w>þōzei</w></cell>     </row>
+        <row> <cell><grm>Acc.</grm></cell>  <cell><w>þanzei</w></cell>    <cell><w>þōei</w></cell>      <cell><w>þōzei</w></cell>     </row>
+        <row> <cell><grm>Gen.</grm></cell>  <cell><w>þizēei</w></cell>    <cell><w>þizēei</w></cell>    <cell><w>*þizōei</w></cell>   </row>
+        <row> <cell><grm>Dat.</grm></cell>  <cell><w>þáimei</w></cell>    <cell><w>þáimei</w></cell>    <cell><w>þáimei</w></cell>    </row>
       </table>
 
       <pb n="128"/>
@@ -403,46 +403,51 @@
         <list>
           <item n="1">
             <p>
-              Note.—1. An instrumental neut. þē-ei also occurs, but only as a conjunction. þatei is also used as a conjunction.
+              <label>Note.—</label>
+              1.
+              An <grm>instrumental neut.</grm> <w>þē-ei</w> also occurs, but only as a conjunction.
+              <w>þatei</w> is also used as a conjunction.
             </p>
           </item>
           <item n="2">
             <p>
-              2. Where the cases of the simple pronoun end in -a this -a is elided before the particle ei (except in the nom. sing. masc.).
-              On the z in þizei, &amp;c., see §§ 175 note, 261.
+              2.
+              Where the cases of the simple pronoun end in <c>-a</c> this <c>-a</c> is elided before the particle <w>ei</w> (except in the <grm>nom. sing. masc.</grm>).
+              On the <c>z</c> in <w>þizei</w>, <abbr>&amp;c.</abbr>, see <ref>§§ 175 note, 261</ref>.
             </p>
           </item>
           <item n="3">
             <p>
-              3. Besides the nom. sing. forms saei, sōei, there also occur forms made from the personal pronouns, thus masc. izei (from is + ei);
-              fem. sei (from si + ei), which is more frequently met with than sōei.
-              Instead of izei the form izē occasionally occurs (<abbr>cp.</abbr> § 5).
-              The form izei (izē) is sometimes also used for the nom. pl. masc.;
-              þái sind þái izē, these are they who;
-              atsaíƕip faúra liugnapraúfētum þáim izei qimand at izwis, beware of false prophets, of them who come to you.
+              3.
+              Besides the <grm>nom. sing.</grm> forms <w>saei</w>, <w>sōei</w>, there also occur forms made from the personal pronouns, thus <grm>masc.</grm> <w>izei</w> (from <w>is</w> + <w>ei</w>);
+              <grm>fem.</grm> <w>sei</w> (from <w>si</w> + <w>ei</w>), which is more frequently met with than <w>sōei</w>.
+              Instead of <w>izei</w> the form <w>izē</w> occasionally occurs (<abbr>cp.</abbr> <ref>§ 5</ref>).
+              The form <w>izei</w> (<w>izē</w>) is sometimes also used for the <grm>nom. pl. masc.</grm>;
+              <phr>þái sind þái izē</phr>, <gloss>these are they who</gloss>;
+              <phr>atsaíƕip faúra liugnapraúfētum þáim izei qimand at izwis</phr>, <gloss>beware of false prophets, of them who come to you</gloss>.
             </p>
             <p>
-              Some scholars assume that sei is an indeclinable demonstrative particle representing an old locative like Latin sī, if;
-              sic from *sei-ke, so, thus;
-              and that izei is from an older *e-sei (<abbr>cp.</abbr> <lang>Gr.</lang> ἐ-κεῖ, there), where e- is the pronominal stem mentioned in § 270.
-              At a later period sei and izei came to be regarded as compounds of si + ei and is + ei.
-              This theory has much in its favour, because it explains why sei and izei have no oblique cases and why izei is used for the masc. nom. singular and plural.
+              Some scholars assume that <w>sei</w> is an indeclinable demonstrative particle representing an old locative like <lang>Latin</lang> <w>sī</w>, <gloss>if</gloss>;
+              <w>sic</w> from <w>*sei-ke</w>, <gloss>so, thus</gloss>;
+              and that <w>izei</w> is from an older <w>*e-sei</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ἐ-κεῖ</w>, <gloss>there</gloss>), where <m>e-</m> is the pronominal stem mentioned in <ref>§ 270</ref>.
+              At a later period <w>sei</w> and <w>izei</w> came to be regarded as compounds of <w>si</w> + <w>ei</w> and <w>is</w> + <w>ei</w>.
+              This theory has much in its favour, because it explains why <w>sei</w> and <w>izei</w> have no oblique cases and why <w>izei</w> is used for the <grm>masc. nom. singular and plural</grm>.
             </p>
           </item>
         </list>
       </div>
     </div>
 
-    <div type="section" n="272" status="wip">
+    <div type="section" n="272">
       <p>
         <label>§ 272.</label>
-        The relative pronoun for the first and second persons is expressed by suffixing ei to the respective personal pronouns, thus
-        ikei, (I) who;
-        þuei, (thou) who;
-        þukei, (thee) whom;
-        þuzei, (to thee) whom;
-        juzei, (ye) who;
-        dat. pl. izwizei, (to you) whom.
+        The relative pronoun for the first and second persons is expressed by suffixing <m>ei</m> to the respective personal pronouns, thus
+        <w>ikei</w>, <gloss>(I) who</gloss>;
+        <w>þuei</w>, <gloss>(thou) who</gloss>;
+        <w>þukei</w>, <gloss>(thee) whom</gloss>;
+        <w>þuzei</w>, <gloss>(to thee) whom</gloss>;
+        <w>juzei</w>, <gloss>(ye) who</gloss>;
+        <grm>dat. pl.</grm> <w>izwizei</w>, <gloss>(to you) whom</gloss>.
       </p>
     </div>
   </div>

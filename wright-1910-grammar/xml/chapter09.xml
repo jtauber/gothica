@@ -261,131 +261,173 @@
   <div type="subchapter" n="2">
     <head>Liquids and Nasals.</head>
 
-    <div type="section" n="158" status="wip">
+    <div type="section" n="158">
       <p>
         <label>§ 158.</label>
-        <lang>Germanic</lang> l, m, n, ŋ, r generally remained in <lang>Gothic</lang>:
+        <lang>Germanic</lang> <c>l</c>, <c>m</c>, <c>n</c>, <c>ŋ</c>, <c>r</c> generally remained in <lang>Gothic</lang>:
       </p>
 
       <p>
-        l.
-        <lang>Goth.</lang> lagjan, <lang>O.Icel.</lang> leggja, <lang>OE.</lang> lecgan, <lang>OS.</lang> leggian, <lang>OHG.</lang> leggen, to lay;
-        <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OS.</lang> <lang>OHG.</lang> skal, <lang>OE.</lang> sceal, shall;
+        <c>l</c>.
+        <lang>Goth.</lang> <w>lagjan</w>,
+        <lang>O.Icel.</lang> <w>leggja</w>,
+        <lang>OE.</lang> <w>lecgan</w>,
+        <lang>OS.</lang> <w>leggian</w>,
+        <lang>OHG.</lang> <w>leggen</w>, <gloss>to lay</gloss>;
+
+        <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>skal</w>,
+        <lang>OE.</lang> <w>sceal</w>, <gloss>shall</gloss>;
+
         and similarly
-        laggs, long;
-        haldan, to hold;
-        salt, salt;
-        wulfs, wolf;
-        mēl, time;
-        wulla, wool;
-        fulls, full.
+        <w>laggs</w>, <gloss>long</gloss>;
+        <w>haldan</w>, <gloss>to hold</gloss>;
+        <w>salt</w>, <gloss>salt</gloss>;
+        <w>wulfs</w>, <gloss>wolf</gloss>;
+        <w>mēl</w>, <gloss>time</gloss>;
+        <w>wulla</w>, <gloss>wool</gloss>;
+        <w>fulls</w>, <gloss>full</gloss>.
       </p>
       <pb n="75"/>
       <p>
-        m.
-        <lang>Goth.</lang> mēna, <lang>O.Icel.</lang> māne, <lang>OE.</lang> mōna, <lang>OS.</lang> <lang>OHG.</lang> māno, moon;
-        <lang>Goth.</lang> <lang>OE.</lang> guma, <lang>O.Icel.</lang> gume, <lang>OS.</lang> gumo, <lang>OHG.</lang> gomo, man;
-        <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OS.</lang> <lang>OHG.</lang> nam, I took;
+        <c>m</c>.
+        <lang>Goth.</lang> <w>mēna</w>,
+        <lang>O.Icel.</lang> <w>māne</w>,
+        <lang>OE.</lang> <w>mōna</w>,
+        <lang>OS.</lang> <lang>OHG.</lang> <w>māno</w>, <gloss>moon</gloss>;
+
+        <lang>Goth.</lang> <lang>OE.</lang> <w>guma</w>,
+        <lang>O.Icel.</lang> <w>gume</w>,
+        <lang>OS.</lang> <w>gumo</w>,
+        <lang>OHG.</lang> <w>gomo</w>, <gloss>man</gloss>;
+
+        <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>nam</w>, <gloss>I took</gloss>;
+
         and similarly
-        mēl, time;
-        manna, man;
-        niman, to take.
+        <w>mēl</w>, <gloss>time</gloss>;
+        <w>manna</w>, <gloss>man</gloss>;
+        <w>niman</w>, <gloss>to take</gloss>.
       </p>
 
       <div type="note">
         <p>
           <label>Note.—</label>
-          Medial -mn- became -Ҍn- which remained when the preceding syllable began with a voiceless consonant, but became -fn- by dissimilation when the preceding syllable began with a voiced consonant, as
-          witubni, knowledge;
-          fastubni, observance, fasting;
-          fráistubni, temptation;
-          stibna, voice, <abbr>cp.</abbr> <lang>OHG.</lang> stimna;
-          wundufni, wound, plague;
-          waldufni, power, might.
+          Medial <c>-mn-</c> became <c>-Ҍn-</c> which remained when the preceding syllable began with a voiceless consonant, but became <c>-fn-</c> by dissimilation when the preceding syllable began with a voiced consonant, as
+          <w>witubni</w>, <gloss>knowledge</gloss>;
+          <w>fastubni</w>, <gloss>observance, fasting</gloss>;
+          <w>fráistubni</w>, <gloss>temptation</gloss>;
+          <w>stibna</w>, <gloss>voice</gloss>, <abbr>cp.</abbr> <lang>OHG.</lang> <w>stimna</w>;
+          <w>wundufni</w>, <gloss>wound, plague</gloss>;
+          <w>waldufni</w>, <gloss>power, might</gloss>.
           See <ref>§ 386</ref>.
         </p>
 
         <p>
           In
-          namnjan, to name;
-          namnē, of names, the -mn- was reintroduced after the analogy of namō, namins, &amp;c.
+          <w>namnjan</w>, <gloss>to name</gloss>;
+          <w>namnē</w>, <gloss>of names</gloss>, the <c>-mn-</c> was reintroduced after the analogy of <w>namō</w>, <w>namins</w>, &amp;c.
         </p>
       </div>
 
       <p>
-        n.
-        <lang>Goth.</lang> <lang>OE.</lang> niman, <lang>O.Icel.</lang> nema, <lang>OS.</lang> <lang>OHG.</lang> neman, to take;
-        <lang>Goth.</lang> sunus, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> sunu, <lang>O.Icel.</lang> sunr, son;
-        <lang>Goth.</lang> <lang>O.Icel.</lang> kann, <lang>OS.</lang> <lang>OHG.</lang> kan, <lang>OE.</lang> can(n), I know;
+        <c>n</c>.
+        <lang>Goth.</lang> <lang>OE.</lang> <w>niman</w>,
+        <lang>O.Icel.</lang> <w>nema</w>,
+        <lang>OS.</lang> <lang>OHG.</lang> <w>neman</w>, <gloss>to take</gloss>;
+
+        <lang>Goth.</lang> <w>sunus</w>,
+        <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>sunu</w>,
+        <lang>O.Icel.</lang> <w>sunr</w>, <gloss>son</gloss>;
+
+        <lang>Goth.</lang> <lang>O.Icel.</lang> <w>kann</w>,
+        <lang>OS.</lang> <lang>OHG.</lang> <w>kan</w>,
+        <lang>OE.</lang> <w>can(n)</w>, <gloss>I know</gloss>;
+
         and similarly
-        nahts, night;
-        mēna, moon;
-        anþar, other;
-        manna, man;
-        rinnan, to run;
-        pret. rann, I ran.
+        <w>nahts</w>, <gloss>night</gloss>;
+        <w>mēna</w>, <gloss>moon</gloss>;
+        <w>anþar</w>, <gloss>other</gloss>;
+        <w>manna</w>, <gloss>man</gloss>;
+        <w>rinnan</w>, <gloss>to run</gloss>;
+        <grm>pret.</grm> <w>rann</w>, <gloss>I ran</gloss>.
       </p>
 
       <div type="note">
         <p>
           <label>Note.—</label>
-          -nn- became -n- before consonants except j, as
-          kant, thou knowest, beside kann, inf. kannjan, to make known;
-          mins (adv.) from *minniz, less, beside adj. minniza, less.
+          <c>-nn-</c> became <c>-n-</c> before consonants except <c>j</c>, as
+          <w>kant</w>, <gloss>thou knowest</gloss>, beside <w>kann</w>, <grm>inf.</grm> <w>kannjan</w>, <gloss>to make known</gloss>;
+          <w>mins</w> (<grm>adv.</grm>) from <w>*minniz</w>, <gloss>less</gloss>, beside <grm>adj.</grm> <w>minniza</w>, <gloss>less</gloss>.
         </p>
       </div>
 
       <p>
-        ŋ.
-        On the representation of <lang>Germanic</lang> ŋ in <lang>Gothic</lang>, see <ref>§ 17</ref>.
-        It only occurred before k, q and g, as
-        briggan, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> bringan, to bring;
-        drigkan, <lang>OE.</lang> drincan, <lang>OS.</lang> drinkan, <lang>OHG.</lang> trincan, to drink;
+        <c>ŋ</c>.
+        On the representation of <lang>Germanic</lang> <c>ŋ</c> in <lang>Gothic</lang>, see <ref>§ 17</ref>.
+        It only occurred before <c>k</c>, <c>q</c> and <c>g</c>, as
+        <w>briggan</w>,
+        <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>bringan</w>, <gloss>to bring</gloss>;
+        <w>drigkan</w>,
+        <lang>OE.</lang> <w>drincan</w>,
+        <lang>OS.</lang> <w>drinkan</w>,
+        <lang>OHG.</lang> <w>trincan</w>, <gloss>to drink</gloss>;
+
         and similarly
-        figgrs, finger;
-        gaggan, to go;
-        þagkjan, to think;
-        sigqan, to sink;
-        pret. sagq, he sank.
+        <w>figgrs</w>, <gloss>finger</gloss>;
+        <w>gaggan</w>, <gloss>to go</gloss>;
+        <w>þagkjan</w>, <gloss>to think</gloss>;
+        <w>sigqan</w>, <gloss>to sink</gloss>;
+        <grm>pret.</grm> <w>sagq</w>, <gloss>he sank</gloss>.
       </p>
 
       <p>
-        r.
-        <lang>Goth.</lang> ráups, <lang>O.Icel.</lang> rauþr, <lang>OE.</lang> rēad, <lang>OS.</lang> rōd, <lang>OHG.</lang> rōt, red;
-        <lang>Goth.</lang> harjis, <lang>OE.</lang> here, <lang>OS.</lang> <lang>OHG.</lang> heri, army;
-        <lang>Goth.</lang> <lang>OS.</lang> fadar, <lang>O.Icel.</lang> faðir, <lang>OE.</lang> fæder, <lang>OHG.</lang> fater, father;
+        <c>r</c>.
+        <lang>Goth.</lang> <w>ráups</w>,
+        <lang>O.Icel.</lang> <w>rauþr</w>,
+        <lang>OE.</lang> <w>rēad</w>,
+        <lang>OS.</lang> <w>rōd</w>,
+        <lang>OHG.</lang> <w>rōt</w>, <gloss>red</gloss>;
+
+        <lang>Goth.</lang> <w>harjis</w>,
+        <lang>OE.</lang> <w>here</w>,
+        <lang>OS.</lang> <lang>OHG.</lang> <w>heri</w>, <gloss>army</gloss>;
+
+        <lang>Goth.</lang> <lang>OS.</lang> <w>fadar</w>,
+        <lang>O.Icel.</lang> <w>faðir</w>,
+        <lang>OE.</lang> <w>fæder</w>,
+        <lang>OHG.</lang> <w>fater</w>, <gloss>father</gloss>;
+
         and similarly
-        raíhts, right;
-        razn, house;
-        barn, child;
-        baúrgs, city;
-        swaran, to swear;
-        daúr, door;
-        fidwōr, four;
-        faírra (adv.), far.
+        <w>raíhts</w>, <gloss>right</gloss>;
+        <w>razn</w>, <gloss>house</gloss>;
+        <w>barn</w>, <gloss>child</gloss>;
+        <w>baúrgs</w>, <gloss>city</gloss>;
+        <w>swaran</w>, <gloss>to swear</gloss>;
+        <w>daúr</w>, <gloss>door</gloss>;
+        <w>fidwōr</w>, <gloss>four</gloss>;
+        <w>faírra</w> (<grm>adv.</grm>), <gloss>far</gloss>.
       </p>
     </div>
 
-    <div type="section" n="159" status="wip">
+    <div type="section" n="159">
       <p>
         <label>§ 159.</label>
-        l, m, n, r, preceded by an explosive or spirant, became vocalic in unaccented syllables after the loss of<pb n="76"/>a short vowel (<ref>§ 88</ref>).
+        <c>l</c>, <c>m</c>, <c>n</c>, <c>r</c>, preceded by an explosive or spirant, became vocalic in unaccented syllables after the loss of<pb n="76"/>a short vowel (<ref>§ 88</ref>).
         The West Germanic languages generated a new vowel before the vocalic liquids and nasals which then became consonantal again, as
-        <lang>Goth.</lang> nom. fugls, acc. fugl, <lang>OE.</lang> fugol, <lang>OS.</lang> fugal, <lang>OHG.</lang> fogal, from *fuʒlaz, fuʒlan, bird;
-        <lang>Goth.</lang> ibns, ibn, <lang>OE.</lang> efen, <lang>OS.</lang> eƀan, <lang>OHG.</lang> eban, from *eƀnaz, *eƀnan, even;
-        <lang>Goth.</lang> akrs, akr, <lang>OE.</lang> æcer, <lang>OS.</lang> akkar, <lang>OHG.</lang> acchar, from *akraz, *akran, field;
-        and similarly <lang>Goth.</lang> tagl, hair;
-        hunsl, sacrifice;
-        sitls, seat;
-        máiþms, acc. máiþm, treasure;
-        bagms, tree;
-        razn, house;
-        táikns, token;
-        láugnjan, to deny;
-        tagr, tear;
-        ligrs, bed;
-        timrjan, timbrjan, to build;
-        tìmrja, carpenter.
+        <lang>Goth.</lang> <grm>nom.</grm> <w>fugls</w>, <grm>acc.</grm> <w>fugl</w>, <lang>OE.</lang> <w>fugol</w>, <lang>OS.</lang> <w>fugal</w>, <lang>OHG.</lang> <w>fogal</w>, from <w>*fuʒlaz</w>, <w>fuʒlan</w>, <gloss>bird</gloss>;
+        <lang>Goth.</lang> <w>ibns</w>, <w>ibn</w>, <lang>OE.</lang> <w>efen</w>, <lang>OS.</lang> <w>eƀan</w>, <lang>OHG.</lang> <w>eban</w>, from <w>*eƀnaz</w>, <w>*eƀnan</w>, <gloss>even</gloss>;
+        <lang>Goth.</lang> <w>akrs</w>, <w>akr</w>, <lang>OE.</lang> <w>æcer</w>, <lang>OS.</lang> <w>akkar</w>, <lang>OHG.</lang> <w>acchar</w>, from <w>*akraz</w>, <w>*akran</w>, <gloss>field</gloss>;
+        and similarly <lang>Goth.</lang> <w>tagl</w>, <gloss>hair</gloss>;
+        <w>hunsl</w>, <gloss>sacrifice</gloss>;
+        <w>sitls,</w> <gloss>seat</gloss>;
+        <w>máiþms</w>, <grm>acc.</grm> <w>máiþm</w>, <gloss>treasure</gloss>;
+        <w>bagms</w>, <gloss>tree</gloss>;
+        <w>razn</w>, <gloss>house</gloss>;
+        <w>táikns</w>, <gloss>token</gloss>;
+        <w>láugnjan</w>, <gloss>to deny</gloss>;
+        <w>tagr</w>, <gloss>tear</gloss>;
+        <w>ligrs</w>, <gloss>bed</gloss>;
+        <w>timrjan</w>, <w>timbrjan</w>, <gloss>to build</gloss>;
+        <w>tìmrja</w>, <gloss>carpenter</gloss>.
       </p>
     </div>
   </div>

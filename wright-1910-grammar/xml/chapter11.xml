@@ -270,49 +270,49 @@
     <div type="subsubchapter" n="4">
       <head>i-stems</head>
       
-      <div type="section" n="233" status="wip">
+      <div type="section" n="233">
         <p>
           <label>§ 233.</label>
-          With the exception of the nom. sing. all genders, the acc. sing. neut., and the gen. sing. masc. and neut., all the forms went over into the ja-declension with the same endings as midjis (§ 228).
-          Nom. sing. hráins like
-          gasts (§ 196),
-          ansts (§ 198);
-          gen. sing. hráinis like gastis;
-          nom. acc. sing. neut. hráin from prim. Germ. *χraini, <abbr>cp.</abbr> <lang>OE.</lang> bryce (neut.) from *bruki, brittle;
-          Gr. ἴδρι, skilful.
-          The gen. sing. fem. of an adjective of this class is not extant; nor is the -ata form of the nom. acc. sing. neuter.
+          With the exception of the <grm>nom. sing. all genders</grm>, the <grm>acc. sing. neut.</grm>, and the <grm>gen. sing. masc. and neut.</grm>, all the forms went over into the <c>ja</c>-declension with the same endings as <w>midjis</w> (<ref>§ 228</ref>).
+          <grm>Nom. sing.</grm> <w>hráins</w> like
+          <w>gasts</w> (<ref>§ 196</ref>),
+          <w>ansts</w> (<ref>§ 198</ref>);
+          <grm>gen. sing.</grm> <w>hráinis</w> like <w>gastis</w>;
+          <grm>nom. acc. sing. neut.</grm> <w>hráin</w> from <lang>prim. Germ.</lang> <w>*χraini</w>, <abbr>cp.</abbr> <lang>OE.</lang> <w>bryce</w> (<grm>neut.</grm>) from <w>*bruki</w>, <gloss>brittle</gloss>;
+          <lang>Gr.</lang> <w>ἴδρι</w>, <gloss>skilful</gloss>.
+          The <grm>gen. sing. fem.</grm> of an adjective of this class is not extant; nor is the <m>-ata</m> form of the <grm>nom. acc. sing. neuter</grm>.
         </p>
         <pb n="108"/>
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                         </row>
-          <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>              <cell>Fem.</cell>                 </row>
-          <row> <cell>Nom.</cell> <cell><w>hráins</w>, <gloss>clean</gloss></cell>  <cell><w>hráin</w></cell>       <cell><w>hráins</w></cell>        </row>
-          <row> <cell>Acc.</cell> <cell><w>hráinjana</w></cell>                     <cell><w>hráin</w></cell>       <cell><w>hráinja</w></cell>       </row>
-          <row> <cell>Gen.</cell> <cell><w>hráinis</w></cell>                       <cell><w>hráinis</w></cell>     <cell><w>*hráinjáizōs</w></cell>  </row>
-          <row> <cell>Dat.</cell> <cell><w>hráinjamma</w></cell>                    <cell><w>hráinjamma</w></cell>  <cell><w>hráinjái</w></cell>      </row>
-          <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                         </row>
-          <row> <cell>Nom.</cell>	<cell><w>hráinjái</w></cell>                      <cell><w>hráinja</w></cell>     <cell><w>hráinjōs</w></cell>      </row>
-          <row> <cell>Acc.</cell> <cell><w>hráinjans</w></cell>                     <cell><w>hráinja</w></cell>     <cell><w>hráinjōs</w></cell>      </row>
-          <row> <cell>Gen.</cell> <cell><w>hráinjáizē</w></cell>                    <cell><w>hráinjáizē</w></cell>  <cell><w>hráinjáizō</w></cell>    </row>
-          <row> <cell>Dat.</cell> <cell><w>hráinjáim</w></cell>                     <cell><w>hráinjáim</w></cell>   <cell><w>hráinjáim</w></cell>     </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                         </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                     <cell><grm>Neut.</grm></cell>   <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>hráins</w>, <gloss>clean</gloss></cell>  <cell><w>hráin</w></cell>       <cell><w>hráins</w></cell>        </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>hráinj<hi>ana</hi></w></cell>                     <cell><w>hráin</w></cell>       <cell><w>hráinja</w></cell>       </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>hráinis</w></cell>                       <cell><w>hráinis</w></cell>     <cell><w>*hráinj<hi>áizōs</hi></w></cell>  </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>hráinj<hi>amma</hi></w></cell>                    <cell><w>hráinj<hi>amma</hi></w></cell>  <cell><w>hráinjái</w></cell>      </row>
+          <row> <cell/>           <cell cols="3"><grm>Plur.</grm></cell>                                                                                         </row>
+          <row> <cell><grm>Nom.</grm></cell>	<cell><w>hráinj<hi>ái</hi></w></cell>                      <cell><w>hráinja</w></cell>     <cell><w>hráinjōs</w></cell>      </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>hráinjans</w></cell>                     <cell><w>hráinja</w></cell>     <cell><w>hráinjōs</w></cell>      </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>hráinj<hi>áizē</hi></w></cell>                    <cell><w>hráinj<hi>áizē</hi></w></cell>  <cell><w>hráinj<hi>áizō</hi></w></cell>    </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>hráinj<hi>áim</hi></w></cell>                     <cell><w>hráinj<hi>áim</hi></w></cell>   <cell><w>hráinj<hi>áim</hi></w></cell>     </row>
         </table>
       </div>
 
-      <div type="section" n="234" status="wip">
+      <div type="section" n="234">
         <p>
           <label>§ 234.</label>
-          Like hráins are declined
-          analáugns, hidden;
-          anasiuns, visible;
-          andanēms, pleasant;
-          áuþs, desert;
-          brūks, useful;
-          gafáurs, well-behaved;
-          gamáins, common;
-          sēls, kind;
-          skáuns, beautiful;
-          skeirs, clear;
-          suts (? sūts), sweet;
+          Like <w>hráins</w> are declined
+          <w>analáugns</w>, <gloss>hidden</gloss>;
+          <w>anasiuns</w>, <gloss>visible</gloss>;
+          <w>andanēms</w>, <gloss>pleasant</gloss>;
+          <w>áuþs</w>, <gloss>desert</gloss>;
+          <w>brūks</w>, <gloss>useful</gloss>;
+          <w>gafáurs</w>, <gloss>well-behaved</gloss>;
+          <w>gamáins</w>, <gloss>common</gloss>;
+          <w>sēls</w>, <gloss>kind</gloss>;
+          <w>skáuns</w>, <gloss>beautiful</gloss>;
+          <w>skeirs</w>, <gloss>clear</gloss>;
+          <w>suts</w> (? <w>sūts</w>), <gloss>sweet</gloss>;
           and a few others.
           </p>
       </div>

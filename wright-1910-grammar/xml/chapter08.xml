@@ -387,77 +387,217 @@
     </p>
   </div>
 
-  <div type="section" n="132" status="wip">
+  <div type="section" n="132">
     <p>
       <label>§ 132.</label>
-      ƀ, đ initially, and ƀ, đ, ʒ medially after their corresponding nasals, became the voiced explosives b, d, g:—
+      <c>ƀ</c>, <c>đ</c> initially, and <c>ƀ</c>, <c>đ</c>, <c>ʒ</c> medially after their corresponding nasals, became the voiced explosives <c>b</c>, <c>d</c>, <c>g</c>:—
     </p>
 
     <p>
-      b.
-      <lang>Goth.</lang> baíran, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> beran, <lang>O.Icel.</lang> bera, to bear, <lang>Skr.</lang> bhárāmi, <lang>Gr.</lang> φέρω, <lang>Lat.</lang> ferō, I bear;
-      <lang>Goth.</lang> beitan, <lang>O.Icel.</lang> bīta, <lang>OE.</lang> <lang>OS.</lang> bītan, <lang>OHG.</lang> bīȥȥan, to bite, <lang>Skr.</lang> bhḗdāmi, <lang>Lat.</lang> findō, I cleave;
-      <lang>Goth.</lang> brōϸar, <lang>OE.</lang> brōðor, <lang>OS.</lang> brōthar, <lang>OHG.</lang> bruoder, <lang>O.Icel.</lang> brōðir, <lang>Skr.</lang> bhrā́tar-, <lang>Lat.</lang> frāter, brother, <abbr>cp.</abbr> also <lang>Gr.</lang> φρᾱ́τηρ, φρᾱ́τωρ.
+      <c>b</c>.
+
+      <lang>Goth.</lang> <w>baíran</w>,
+      <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>beran</w>,
+      <lang>O.Icel.</lang> <w>bera</w>, <gloss>to bear</gloss>,
+      <lang>Skr.</lang> <w>bhárāmi</w>,
+      <lang>Gr.</lang> <w>φέρω</w>,
+      <lang>Lat.</lang> <w>ferō</w>, <gloss>I bear</gloss>;
+
+      <lang>Goth.</lang> <w>beitan</w>,
+      <lang>O.Icel.</lang> <w>bīta</w>,
+      <lang>OE.</lang> <lang>OS.</lang> <w>bītan</w>,
+      <lang>OHG.</lang> <w>bīȥȥan</w>, <gloss>to bite</gloss>,
+      <lang>Skr.</lang> <w>bhḗdāmi</w>,
+      <lang>Lat.</lang> <w>findō</w>, <gloss>I cleave</gloss>;
+
+      <lang>Goth.</lang> <w>brōϸar</w>,
+      <lang>OE.</lang> <w>brōðor</w>,
+      <lang>OS.</lang> <w>brōthar</w>,
+      <lang>OHG.</lang> <w>bruoder</w>,
+      <lang>O.Icel.</lang> <w>brōðir</w>,
+      <lang>Skr.</lang> <m>bhrā́tar-</m>,
+      <lang>Lat.</lang> <w>frāter</w>, <gloss>brother</gloss>,
+      <abbr>cp.</abbr> also
+      <lang>Gr.</lang> <w>φρᾱ́τηρ</w>, <w>φρᾱ́τωρ</w>.
     </p>
 
     <p>
-      <lang>Goth.</lang> *kambs, <lang>OE.</lang> camb, <lang>OHG.</lang> camb (chamb), <lang>O.Icel.</lang> kambr, comb, <lang>Skr.</lang> jámbhas, tooth, <lang>Gr.</lang> γόμφος, bolt, nail, <lang>prim. form</lang> *gombhos.
+      <lang>Goth.</lang> <w>*kambs</w>,
+      <lang>OE.</lang> <w>camb</w>,
+      <lang>OHG.</lang> <w>camb</w> (<w>chamb</w>),
+      <lang>O.Icel.</lang> <w>kambr</w>, <gloss>comb</gloss>,
+      <lang>Skr.</lang> <w>jámbhas</w>, <gloss>tooth</gloss>,
+      <lang>Gr.</lang> <w>γόμφος</w>, <gloss>bolt, nail</gloss>,
+      <lang>prim. form</lang> <w>*gombhos</w>.
     </p>
 
     <p>
-      d.
-      <lang>Goth.</lang> dags, <lang>OE.</lang> dæg, <lang>OS.</lang> dag, <lang>O.Icel.</lang> dagr, <lang>OHG.</lang> tag, day, <lang>Skr.</lang> ni-dāghás, older *ni-dhāghás, hot season, summer, <lang>Indg.</lang> form *dhoɡhos;
-      <lang>Goth.</lang> ga-dēϸs (stem gadēdi-), <lang>OE.</lang> dǣd, <lang>OS.</lang> dād, <lang>O.Icel.</lang> dāð, <lang>OHG.</lang> tāt, deed, related to <lang>Gr.</lang> θή-σω, I shall place, <lang>Skr.</lang> dhā́ma, law, dwelling-place, rt. dhē-;
-      <lang>Goth.</lang> daúhtar, <lang>OE.</lang> dohtor, <lang>OS.</lang> dohter, <lang>OHG.</lang> tohter, <lang>Gr.</lang> θυγάτηρ, daughter.
+      <c>d</c>.
+      <lang>Goth.</lang> <w>dags</w>,
+      <lang>OE.</lang> <w>dæg</w>,
+      <lang>OS.</lang> <w>dag</w>,
+      <lang>O.Icel.</lang> <w>dagr</w>,
+      <lang>OHG.</lang> <w>tag</w>, <gloss>day</gloss>,
+      <lang>Skr.</lang> <w>ni-dāghás</w>, older <w>*ni-dhāghás</w>, <gloss>hot season, summer</gloss>,
+      <lang>Indg.</lang> form <w>*dhoɡhos</w>;
+      <lang>Goth.</lang> <w>ga-dēϸs</w> (stem <m>gadēdi-</m>),
+      <lang>OE.</lang> <w>dǣd</w>,
+      <lang>OS.</lang> <w>dād</w>,
+      <lang>O.Icel.</lang> <w>dāð</w>,
+      <lang>OHG.</lang> <w>tāt</w>, <gloss>deed</gloss>,
+      related to
+      <lang>Gr.</lang> <w>θή-σω</w>, <gloss>I shall place</gloss>,
+      <lang>Skr.</lang> <w>dhā́ma</w>, <gloss>law, dwelling-place</gloss>, <abbr>rt.</abbr> <m>dhē-</m>;
+      <lang>Goth.</lang> <w>daúhtar</w>,
+      <lang>OE.</lang> <w>dohtor</w>,
+      <lang>OS.</lang> <w>dohter</w>,
+      <lang>OHG.</lang> <w>tohter</w>,
+      <lang>Gr.</lang> <w>θυγάτηρ</w>, <gloss>daughter</gloss>.
     </p>
 
     <p>
-      <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> bindan, <lang>O.Icel.</lang> binda, <lang>OHG.</lang> bintan, to bind, <lang>Skr.</lang> bándhanam, a binding, <abbr>cp.</abbr> <lang>Gr.</lang> πενθερός, father-in-law, <lang>Lat.</lang> of-fendimentum, chin-cloth, rt. bhendh-.
+      <lang>Goth.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>bindan</w>,
+      <lang>O.Icel.</lang> <w>binda</w>,
+      <lang>OHG.</lang> <w>bintan</w>, <gloss>to bind</gloss>,
+      <lang>Skr.</lang> <w>bándhanam</w>, <gloss>a binding</gloss>,
+      <abbr>cp.</abbr> <lang>Gr.</lang> <w>πενθερός</w>, <gloss>father-in-law</gloss>,
+      <lang>Lat.</lang> <w>of-fendimentum</w>, <gloss>chin-cloth</gloss>, <abbr>rt.</abbr> <m>bhendh-</m>.
     </p>
 
     <p>
-      g.
-      <lang>Goth.</lang> aggwus, <lang>OE.</lang> enge, <lang>OS.</lang> <lang>OHG.</lang> engi, narrow,<pb n="59"/><abbr>cp.</abbr> <lang>Lat.</lang> angō, <lang>Gr.</lang> ἄγχω, I press tight, rt. ańgh-;
-      <lang>Goth.</lang> laggs, <lang>OE.</lang> lang, long, <lang>OS.</lang> <lang>OHG.</lang> lang, <lang>O.Icel.</lang> langr, <lang>Lat.</lang> longus, long.
+      <c>g</c>.
+      <lang>Goth.</lang> <w>aggwus</w>,
+      <lang>OE.</lang> <w>enge</w>,
+      <lang>OS.</lang> <lang>OHG.</lang> <w>engi</w>, <gloss>narrow</gloss>,
+      <pb n="59"/>
+      <abbr>cp.</abbr> <lang>Lat.</lang> <w>angō</w>,
+      <lang>Gr.</lang> <w>ἄγχω</w>, <gloss>I press tight</gloss>, <abbr>rt.</abbr> ańgh-;
+      
+      <lang>Goth.</lang> <w>laggs</w>,
+      <lang>OE.</lang> <w>lang</w>, <gloss>long</gloss>,
+      <lang>OS.</lang> <lang>OHG.</lang> <w>lang</w>,
+      <lang>O.Icel.</lang> <w>langr</w>,
+      <lang>Lat.</lang> <w>longus</w>, <gloss>long</gloss>.
     </p>
   </div>
 
-  <div type="section" n="133" status="wip">
+  <div type="section" n="133">
     <p>
       <label>§ 133.</label>
-      ƀ, đ, ʒ remained in other positions, and their further development belongs to the history of the separate <lang>Germanic</lang> languages.
-      In <lang>Goth.</lang> ƀ, đ (written b, d) remained medially after vowels, but became explosives (b, d) after consonants.
-      They became f, ϸ finally after vowels and before final -s.
-      ʒ remained medially between vowels, and medially after vowels before voiced consonants, but became χ (written g) finally after vowels and before final -s.
-      It became g initially, and also medially after voiced consonants.
+      <c>ƀ</c>, <c>đ</c>, <c>ʒ</c> remained in other positions, and their further development belongs to the history of the separate <lang>Germanic</lang> languages.
+
+      In <lang>Goth.</lang> <c>ƀ</c>, <c>đ</c> (written <c>b</c>, <c>d</c>) remained medially after vowels, but became explosives (<c>b</c>, <c>d</c>) after consonants.
+
+      They became <c>f</c>, <c>ϸ</c> finally after vowels and before final <c>-s</c>.
+
+      <c>ʒ</c> remained medially between vowels, and medially after vowels before voiced consonants, but became <c>χ</c> (written <c>g</c>) finally after vowels and before final <c>-s</c>.
+
+      It became <c>g</c> initially, and also medially after voiced consonants.
+
       See <ref>§§ 166–9</ref>.
-      In <lang>O.Icel.</lang> ƀ (written f) remained medially between and finally after voiced sounds, but became f before voiceless sounds.
-      đ (written ð) generally remained medially and finally.
-      ʒ remained medially after vowels and liquids, but became χ and then disappeared finally.
-      It became g initially.
-      đ became d in all the West Germanic languages and then d became t in <lang>OHG.</lang>
-      In <lang>OE.</lang> ƀ (generally written f) remained between voiced sounds, but became voiceless f finally.
-      ʒ remained in the oldest period of the language.
-      In <lang>OS.</lang> ƀ (written ƀ, b) generally remained between voiced sounds.
-      It became f medially before l and n, and before voiceless consonants, and also finally.
-      ʒ (written g) remained initially and medially, but became χ finally, although it was generally written g.
-      In <lang>OHG.</lang> ƀ, ʒ became b, g.
-      Geminated ƀƀ, đđ, ʒʒ, of whatever origin, became bb, dd, gg in the prehistoric period of all the <lang>Germanic</lang> languages.
-      Examples are:—<lang>Goth.</lang> *nibls, <lang>OS.</lang> neƀal, <lang>OHG.</lang> nebul, <lang>Lat.</lang> nebula, <lang>Gr.</lang> νεφέλη, mist, cloud, <abbr>cp.</abbr> <lang>Skr.</lang> nábhas, <lang>Gr.</lang> νέφος, cloud;
-      <lang>Goth.</lang> liufs, <lang>O.Icel.</lang> ljūfr, <lang>OE.</lang> lēof, <lang>OS.</lang> liof, <lang>OHG.</lang> liob, dear, original form *leubhos, <abbr>cp.</abbr> <lang>Skr.</lang> lúbhyāmi, I feel a strong desire, <lang>Lat.</lang> lubet (libet), it pleases;
-      <lang>OE.</lang> <lang>OS.</lang> ūder, <lang>OHG.</lang> ūter, <lang>Skr.</lang> ū́dhar, <lang>Gr.</lang> οὖθαρ, udder;
-      <lang>Goth.</lang> ráuϸs, <lang>O.Icel.</lang> rauðr, <lang>OE.</lang><pb n="60"/>rēad, <lang>OS.</lang> rōd, <lang>OHG.</lang> rōt, <lang>prim. form</lang> *roudhos, <abbr>cp.</abbr> <lang>Skr.</lang> rudhirás, <lang>Gr.</lang> ἐ-ρυθρός, <lang>prim. form</lang> *rudhros, red;
-      <lang>Goth.</lang> <lang>OE.</lang> guma, <lang>O.Icel.</lang> gume, <lang>OS.</lang> <lang>OHG.</lang> gumo, <lang>Lat.</lang> homō, prim. stem-form *ghomon-, -en-, man;
-      <lang>OE.</lang> gōs, <lang>O.Icel.</lang> gās, <lang>OHG.</lang> gans, <lang>Gr.</lang> χήν, goose;
-      <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> wegan, <lang>Goth.</lang> ga-wigan, <lang>O.Icel.</lang> vega, to move, carry, <lang>Lat.</lang> vehō, <lang>prim. form</lang> *weghō, I carry;
-      <lang>Goth.</lang> gasts, <lang>OE.</lang> giest, <lang>O.Icel.</lang> gestr, <lang>OS.</lang> <lang>OHG.</lang> gast, guest, <lang>Lat.</lang> hostis, stranger, enemy, <lang>prim. form</lang> *ghostis;
-      <lang>Goth.</lang> steigan, <lang>O.Icel.</lang> stīga, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> stīgan, to ascend, <lang>Gr.</lang> στείχω, <lang>prim. form</lang> *steiɡhō, I go, <abbr>cp.</abbr> <lang>Lat.</lang> vestīgium, footstep.
+      
+      In <lang>O.Icel.</lang> <c>ƀ</c> (written <c>f</c>) remained medially between and finally after voiced sounds, but became <c>f</c> before voiceless sounds.
+
+      <c>đ</c> (written <c>ð</c>) generally remained medially and finally.
+
+      <c>ʒ</c> remained medially after vowels and liquids, but became <c>χ</c> and then disappeared finally.
+
+      It became <c>g</c> initially.
+      
+      <c>đ</c> became <c>d</c> in all the West Germanic languages and then <c>d</c> became <c>t</c> in <lang>OHG.</lang>
+      
+      In <lang>OE.</lang> <c>ƀ</c> (generally written <c>f</c>) remained between voiced sounds, but became voiceless <c>f</c> finally.
+
+      <c>ʒ</c> remained in the oldest period of the language.
+
+      In <lang>OS.</lang> <c>ƀ</c> (written <c>ƀ</c>, <c>b</c>) generally remained between voiced sounds.
+
+      It became <c>f</c> medially before <c>l</c> and <c>n</c>, and before voiceless consonants, and also finally.
+
+      <c>ʒ</c> (written <c>g</c>) remained initially and medially, but became <c>χ</c> finally, although it was generally written <c>g</c>.
+      
+      In <lang>OHG.</lang> <c>ƀ</c>, <c>ʒ</c> became <c>b</c>, <c>g</c>.
+
+      Geminated <c>ƀƀ</c>, <c>đđ</c>, <c>ʒʒ</c>, of whatever origin, became <c>bb</c>, <c>dd</c>, <c>gg</c> in the prehistoric period of all the <lang>Germanic</lang> languages.
+      
+      Examples are:—
+      <lang>Goth.</lang> <w>*nibls</w>,
+      <lang>OS.</lang> <w>neƀal</w>,
+      <lang>OHG.</lang> <w>nebul</w>,
+      <lang>Lat.</lang> <w>nebula</w>,
+      <lang>Gr.</lang> <w>νεφέλη</w>, <gloss>mist, cloud</gloss>,
+      <abbr>cp.</abbr>
+      <lang>Skr.</lang> <w>nábhas</w>,
+      <lang>Gr.</lang> <w>νέφος</w>, <gloss>cloud</gloss>;
+
+      <lang>Goth.</lang> <w>liufs</w>,
+      <lang>O.Icel.</lang> <w>ljūfr</w>,
+      <lang>OE.</lang> <w>lēof</w>,
+      <lang>OS.</lang> <w>liof</w>,
+      <lang>OHG.</lang> <w>liob</w>, <gloss>dear</gloss>,
+      original form <w>*leubhos</w>,
+      <abbr>cp.</abbr>
+      <lang>Skr.</lang> <w>lúbhyāmi</w>, <gloss>I feel a strong desire</gloss>,
+      <lang>Lat.</lang> <w>lubet</w> (<w>libet</w>), <gloss>it pleases</gloss>;
+
+      <lang>OE.</lang> <lang>OS.</lang> <w>ūder</w>,
+      <lang>OHG.</lang> <w>ūter</w>,
+      <lang>Skr.</lang> <w>ū́dhar</w>,
+      <lang>Gr.</lang> <w>οὖθαρ</w>, <gloss>udder</gloss>;
+
+      <lang>Goth.</lang> <w>ráuϸs</w>,
+      <lang>O.Icel.</lang> <w>rauðr</w>,
+      <lang>OE.</lang><pb n="60"/><w>rēad</w>,
+      <lang>OS.</lang> <w>rōd</w>,
+      <lang>OHG.</lang> <w>rōt</w>,
+      <lang>prim. form</lang> <w>*roudhos</w>,
+      <abbr>cp.</abbr>
+      <lang>Skr.</lang> <w>rudhirás</w>,
+      <lang>Gr.</lang> <w>ἐ-ρυθρός</w>,
+      <lang>prim. form</lang> <w>*rudhros</w>, <gloss>red</gloss>;
+
+      <lang>Goth.</lang> <lang>OE.</lang> <w>guma</w>,
+      <lang>O.Icel.</lang> <w>gume</w>,
+      <lang>OS.</lang> <lang>OHG.</lang> <w>gumo</w>,
+      <lang>Lat.</lang> <w>homō</w>,
+      prim. stem-form <m>*ghomon-</m>, <m>-en-</m>, <gloss>man</gloss>;
+
+      <lang>OE.</lang> <w>gōs</w>,
+      <lang>O.Icel.</lang> <w>gās</w>,
+      <lang>OHG.</lang> <w>gans</w>,
+      <lang>Gr.</lang> <w>χήν</w>, <gloss>goose</gloss>;
+
+      <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>wegan</w>,
+      <lang>Goth.</lang> <w>ga-wigan</w>,
+      <lang>O.Icel.</lang> <w>vega</w>, <gloss>to move, carry</gloss>,
+      <lang>Lat.</lang> <w>vehō</w>,
+      <lang>prim. form</lang> <w>*weghō</w>, <gloss>I carry</gloss>;
+
+      <lang>Goth.</lang> <w>gasts</w>,
+      <lang>OE.</lang> <w>giest</w>,
+      <lang>O.Icel.</lang> <w>gestr</w>,
+      <lang>OS.</lang> <lang>OHG.</lang> <w>gast</w>, <gloss>guest</gloss>,
+      <lang>Lat.</lang> <w>hostis</w>, <gloss>stranger, enemy</gloss>,
+      <lang>prim. form</lang> <w>*ghostis</w>;
+
+      <lang>Goth.</lang> <w>steigan</w>,
+      <lang>O.Icel.</lang> <w>stīga</w>,
+      <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>stīgan</w>, <gloss>to ascend</gloss>,
+      <lang>Gr.</lang> <w>στείχω</w>,
+      <lang>prim. form</lang> <w>*steiɡhō</w>, <gloss>I go</gloss>,
+      <abbr>cp.</abbr>
+      <lang>Lat.</lang> <w>vestīgium</w>, <gloss>footstep</gloss>.
     </p>
 
     <div type="note">
       <p>
-        Note.—ʒ was dropped in the initial combination ʒw = <lang>Indg.</lang> gh, as
-        <lang>Goth.</lang> warmjan, to warm, <lang>OE.</lang> wearm, <lang>OS.</lang> <lang>OHG.</lang> warm, warm, <lang>Skr.</lang> gharmás, Gk. θερμός, <lang>Lat.</lang> formus, warm.
+        <label>Note.—</label>
+        <c>ʒ</c> was dropped in the initial combination <c>ʒw</c> = <lang>Indg.</lang> <c>gh</c>, as
+        <lang>Goth.</lang> <w>warmjan</w>, <gloss>to warm</gloss>,
+        <lang>OE.</lang> <w>wearm</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>warm</w>, <gloss>warm</gloss>,
+        <lang>Skr.</lang> <w>gharmás</w>,
+        <lang>Gk.</lang> <w>θερμός</w>,
+        <lang>Lat.</lang> <w>formus</w>, <gloss>warm</gloss>.
       </p>
     </div>
   </div>
@@ -663,9 +803,9 @@
         <lang>Lat.</lang> nūptum, nūpsī, beside nūbere, to marry;
         <lang>Skr.</lang> loc. pl. patsú, beside loc. Sing. padí, on foot;
         <lang>Lat.</lang> rēxī, rectum, beside regere, to rule;
-        <lang>Lat.</lang> vēxī, vectum, beside vehere, to carry, rt. wegh-;
+        <lang>Lat.</lang> vēxī, vectum, beside vehere, to carry, <abbr>rt.</abbr> wegh-;
         <lang>Lat.</lang> lectus, <lang>Gr.</lang> λέχος, bed, couch, <lang>Goth.</lang> ligan, to lie down;
-        <lang>Skr.</lang> yuktá-, <lang>Gr.</lang> ζευκτός, <lang>Lat.</lang> jūnctus, yoked, rt. jeuɡ-; <abbr>&amp;c.</abbr>
+        <lang>Skr.</lang> yuktá-, <lang>Gr.</lang> ζευκτός, <lang>Lat.</lang> jūnctus, yoked, <abbr>rt.</abbr> jeuɡ-; <abbr>&amp;c.</abbr>
       </p>
 
       <p>
@@ -703,7 +843,7 @@
         <lang>Goth.</lang> witan, <lang>OE.</lang> witan, to know, beside pret. <lang>Goth.</lang> wissa, <lang>OE.</lang> wisse, <lang>OHG.</lang> wissa (wessa), part, adj. <lang>Goth.</lang> *ga-wiss, <lang>OE.</lang> ge-wis(s), <lang>OHG.</lang> gi-wis(s), sure, certain;
         <lang>Goth.</lang> ga-ƕatjan, <lang>OE.</lang> hwettan, to sharpen, beside <lang>Goth.</lang> ƕassei, sharpness, ƕassaba, sharply;
         <lang>Goth.</lang> qiþan, to say, beside ga-qiss, consent;
-        <lang>Goth.</lang> ana-biudan, to command, beside ana-busns (ana-būsns?), commandment, from pre-Germ. *bhū̌tsni-, rt. bheudh-;
+        <lang>Goth.</lang> ana-biudan, to command, beside ana-busns (ana-būsns?), commandment, from pre-Germ. *bhū̌tsni-, <abbr>rt.</abbr> bheudh-;
         <lang>Goth.</lang> us-standan, to rise again, beside us-stass, resurrection.
       </p>
 

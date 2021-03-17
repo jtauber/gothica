@@ -285,43 +285,47 @@
         <div type="subsubchapter" n="2">
           <head>Neuters.</head>
 
-          <div type="section" n="186" status="wip">
-            <label>§ 186.</label>
+          <div type="section" n="186">
+            <p>
+              <label>§ 186.</label>
+            </p>
 
             <table>
-              <row> <cell/>                     	<cell>Sing.</cell>      	<cell>Plur.</cell>  </row>
-              <row> <cell>Nom. Acc.	Voc.</cell> 	<cell>kuni, race</cell> 	<cell>kunja</cell>  </row>
-              <row> <cell>Gen.</cell>           	<cell>kunjis</cell>     	<cell>kunjē</cell>  </row>
-              <row> <cell>Dat.</cell>           	<cell>Kunja</cell>      	<cell>kunjam</cell> </row>
+              <row> <cell/>                                 <cell><grm>Sing.</grm></cell>   <cell><grm>Plur.</grm></cell> </row>
+              <row> <cell><grm>Nom. Acc. Voc.</grm></cell>  <cell><w>kuni</w>, <gloss>race</gloss></cell>  <cell><w>kunja</w></cell>            </row>
+              <row> <cell><grm>Gen.</grm></cell>            <cell><w>kunjis</w></cell>      <cell><w>kunjē</w></cell>            </row>
+              <row> <cell><grm>Dat.</grm></cell>            <cell><w>Kunja</w></cell>       <cell><w>kunjam</w></cell>           </row>
             </table>
 
             <p>
-              The nom. acc. sing. and pl. regularly go back to prim. Germ. *kunjan, *kunjō.
+              The <grm>nom. acc. sing. and pl.</grm> regularly go back to <lang>prim. Germ.</lang> <w>*kunjan</w>, <w>*kunjō</w>.
             </p>
           </div>
           <pb n="89"/>
-          <div type="section" n="187" status="wip">
+          <div type="section" n="187">
             <p>
-              <label>§ 187.</label> Like kuni are declined
-              badi, bed;
-              fraþi, understanding;
-              nati, net;
-              wadi, pledge;
-              gawi (gen. gáujis, § 150), region, district;
-              hawi (dat. háuja), hay;
-              taui (gen. tōjis, § 81), deed, work;
-              andbahti, service;
-              arbi, heritage;
-              garūni, counsel;
-              gawaírþi, peace;
-              kunþi, knowledge;
-              reiki, power;
-              þiubi, theft;
-              ufar-mēli, superscription;
-              faírguni, mountain;
-              fastubni, observance;
-              waldufni, power.
-              See § 183.
+              <label>§ 187.</label>
+              
+              Like <w>kuni</w> are declined
+              <w>badi</w>, <gloss>bed</gloss>;
+              <w>fraþi</w>, <gloss>understanding</gloss>;
+              <w>nati</w>, <gloss>net</gloss>;
+              <w>wadi</w>, <gloss>pledge</gloss>;
+              <w>gawi</w> (<grm>gen.</grm> <w>gáujis</w>, <ref>§ 150</ref>), <gloss>region, district</gloss>;
+              <w>hawi</w> (<grm>dat.</grm> <w>háuja</w>), <gloss>hay</gloss>;
+              <w>taui</w> (<grm>gen.</grm> <w>tōjis</w>, <ref>§ 81</ref>), <gloss>deed, work</gloss>;
+              <w>andbahti</w>, <gloss>service</gloss>;
+              <w>arbi</w>, <gloss>heritage</gloss>;
+              <w>garūni</w>, <gloss>counsel</gloss>;
+              <w>gawaírþi</w>, <gloss>peace</gloss>;
+              <w>kunþi</w>, <gloss>knowledge</gloss>;
+              <w>reiki</w>, <gloss>power</gloss>;
+              <w>þiubi</w>, <gloss>theft</gloss>;
+              <w>ufar-mēli</w>, <gloss>superscription</gloss>;
+              <w>faírguni</w>, <gloss>mountain</gloss>;
+              <w>fastubni</w>, <gloss>observance</gloss>;
+              <w>waldufni</w>, <gloss>power</gloss>.
+              See <ref>§ 183</ref>.
             </p>
           </div>
         </div>
