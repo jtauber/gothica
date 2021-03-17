@@ -55,7 +55,7 @@ But once this is done, not only can I produce a nice HTML version:
 | ulfilas                  | [xml](xml/ulfilas.xml) • [html](html/ulfilas.html)                             | initial markup done |
 | matthew                  | [xml](xml/matthew.xml) • [html](html/matthew.html)                             | initial markup done |
 | mark                     | [xml](xml/mark.xml) • [html](html/mark.html)                                   | initial markup done |
-| luke                     | [xml](xml/luke.xml)• [html](html/luke.html)                                    | initial markup done |
+| luke                     | [xml](xml/luke.xml) • [html](html/luke.html)                                    | initial markup done |
 | john                     | [xml](xml/john.xml) • [html](html/john.html)                                   | initial markup done |
 | timothy                  | [xml](xml/timothy.xml) • [html](html/timothy.html)                             | initial markup done |
 | glossary                 |                                                                                | in progress         |
