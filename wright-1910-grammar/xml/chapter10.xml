@@ -337,20 +337,23 @@
         <div type="subsubchapter" n="1">
           <head>Masculines.</head>
 
-          <div type="section" n="188" status="wip">
-            <label>§ 188.</label>
+          <div type="section" n="188">
+            <p>
+              <label>§ 188.</label>
+            </p>
 
             <table>
-              <row> <cell/>           	<cell>Sing.</cell>          	<cell>Plur.</cell>  </row>
-              <row> <cell>Nom.</cell> 	<cell>þius, servant</cell>  	<cell>þiwōs</cell>  </row>
-              <row> <cell>Acc.</cell> 	<cell>þiu</cell>            	<cell>þiwans</cell> </row>
-              <row> <cell>Gen.</cell> 	<cell>þiwis</cell>          	<cell>þiwē</cell>   </row>
-              <row> <cell>Dat.</cell> 	<cell>þiwa</cell>           	<cell>þiwam</cell>  </row>
+              <row> <cell/>                       <cell><grm>Sing.</grm></cell>                     <cell><grm>Plur.</grm></cell> </row>
+              <row> <cell><grm>Nom.</grm></cell>  <cell><w>þius</w>, <gloss>servant</gloss></cell>  <cell><w>þiwōs</w></cell>     </row>
+              <row> <cell><grm>Acc.</grm></cell>  <cell><w>þiu</w></cell>                           <cell><w>þiwans</w></cell>    </row>
+              <row> <cell><grm>Gen.</grm></cell>  <cell><w>þiwis</w></cell>                         <cell><w>þiwē</w></cell>      </row>
+              <row> <cell><grm>Dat.</grm></cell>  <cell><w>þiwa</w></cell>                          <cell><w>þiwam</w></cell>     </row>
             </table>
 
             <div type="note">
               <p>
-                Note.—Of the masculine wa-stems there are only traces extant, viz. the nom. and gen. pl. of *þius (§ 150), and the nom. sing. snáiws, snow, the acc. sing. of which would be snáiw, gen. snáiwis, see § 149, (3).
+                <label>Note.—</label>
+                Of the masculine <c>wa</c>-stems there are only traces extant, <abbr>viz.</abbr> the <grm>nom. and gen. pl.</grm> of <w>*þius</w> (<ref>§ 150</ref>), and the <grm>nom. sing.</grm> <w>snáiws</w>, <gloss>snow</gloss>, the <grm>acc. sing.</grm> of which would be <w>snáiw</w>, <grm>gen.</grm> <w>snáiwis</w>, see <ref>§ 149, (3)</ref>.
               </p>
             </div>
           </div>
@@ -359,31 +362,35 @@
         <div type="subsubchapter" n="2">
           <head>Neuters.</head>
 
-          <div type="section" n="189" status="wip">
-            <label>§ 189.</label>
+          <div type="section" n="189">
+            <p>
+              <label>§ 189.</label>
+            </p>
 
             <table>
-              <row> <cell/>                       	<cell>Sing.</cell>      	<cell>Plur.</cell>  </row>
-              <row> <cell>Nom.	Acc.	Voc.</cell> 	<cell>kniu, knee</cell> 	<cell>kniwa</cell>  </row>
-              <row> <cell>Gen.</cell>             	<cell>kniwis</cell>     	<cell>kniwē</cell>  </row>
-              <row> <cell>Dat.</cell>             	<cell>kniwa</cell>      	<cell>kniwam</cell> </row>
+              <row> <cell/>                                 <cell><grm>Sing.</grm></cell>                 <cell><grm>Plur.</grm></cell>    </row>
+              <row> <cell><grm>Nom. Acc. Voc.</grm></cell>  <cell><w>kniu</w>, <gloss>knee</gloss></cell> <cell><w>kniwa</w></cell>   </row>
+              <row> <cell><grm>Gen.</grm></cell>            <cell><w>kniwis</w></cell>                    <cell><w>kniwē</w></cell>   </row>
+              <row> <cell><grm>Dat.</grm></cell>            <cell><w>kniwa</w></cell>                     <cell><w>kniwam</w></cell>  </row>
             </table>
             
             <div type="note">
               <list>
                 <item>
                   <p>
-                    Note.—1. Only plural forms of kniu are extant.
-                    Like kniu is also declined triu, wood (§ 150).
+                    Note.—
+                    1. Only plural forms of <w>kniu</w> are extant.
+                    Like <w>kniu</w> is also declined <w>triu</w>, <gloss>wood</gloss> (<ref>§ 150</ref>).
                   </p>
                 </item>
                 <item>
                   <p>
-                    2. fráiw, seed;
-                    gáidw (OE. gād), want, lack;
-                    hláiw, grave;
-                    lēw, occasion;
-                    waúrstw, work, retain the w in the nom. acc. sing., see § 149, (3), and are declined like waúrd.
+                    2. <w>fráiw</w>, <gloss>seed</gloss>;
+                    <w>gáidw</w> (OE. <w>gād</w>), <gloss>want, lack</gloss>;
+                    <w>hláiw</w>, <gloss>grave</gloss>;
+                    <w>lēw</w>, <gloss>occasion</gloss>;
+                    <w>waúrstw</w>, <gloss>work</gloss>,
+                    retain the <c>w</c> in the <grm>nom. acc. sing.</grm>, see <ref>§ 149, (3)</ref>, and are declined like <w>waúrd</w>.
                   </p>
                 </item>
               </list>
@@ -396,13 +403,13 @@
     <div type="subchapter" n="2">
       <head>2. The ō-declension.</head>
 
-      <div type="section" n="190" status="wip">
+      <div type="section" n="190">
         <p>
           <label>§ 190.</label>
-          The ō-declension contains feminine nouns only, and corresponds to the <lang>Latin</lang> and <lang>Greek</lang> ā-declension, for<pb n="90"/>which reason it is sometimes called the ā-declension.
-          It is divided into pure ō-stems, jō-stems, and wō-stems.
-          The wō-stems and also the jō-stems with a short radical syllable are declined exactly like the pure ō-stems.
-          The remaining jō-stems are also declined like the pure ō-stems, except that the nom. sing. ends in -i.
+          The <c>ō</c>-declension contains feminine nouns only, and corresponds to the <lang>Latin</lang> and <lang>Greek</lang> <c>ā</c>-declension, for<pb n="90"/>which reason it is sometimes called the <c>ā</c>-declension.
+          It is divided into pure <c>ō</c>-stems, <c>jō</c>-stems, and <c>wō</c>-stems.
+          The <c>wō</c>-stems and also the <c>jō</c>-stems with a short radical syllable are declined exactly like the pure <c>ō</c>-stems.
+          The remaining <c>jō</c>-stems are also declined like the pure <c>ō</c>-stems, except that the <grm>nom. sing.</grm> ends in <c>-i</c>.
         </p>
       </div>
 

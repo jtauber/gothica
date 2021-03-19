@@ -435,92 +435,92 @@
   <div type="subchapter" n="3">
     <head>Labials.</head>
 
-    <div type="section" n="160" status="wip">
+    <div type="section" n="160">
       <p>
         <label>§ 160.</label>
-        <lang>Germanic</lang> p and f remained in <lang>Gothic</lang>, as
-        páida, <lang>OE.</lang> pād, <lang>OS.</lang> pēda, coat;
-        <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OE.</lang> <lang>OS.</lang> pund, <lang>OHG.</lang> pfunt, pound;
-        slēpan, <lang>OE.</lang> slǣpan, <lang>OS.</lang> slāpan, <lang>OHG.</lang> slāfan, to sleep;
-        diups, <lang>O.Icel.</lang> djūpr, <lang>OE.</lang> dēop, <lang>OS.</lang> diop, <lang>OHG.</lang> tiof, deep;
+        <lang>Germanic</lang> <c>p</c> and <c>f</c> remained in <lang>Gothic</lang>, as
+        <w>páida</w>, <lang>OE.</lang> <w>pād</w>, <lang>OS.</lang> <w>pēda</w>, <gloss>coat</gloss>;
+        <lang>Goth.</lang> <lang>O.Icel.</lang> <lang>OE.</lang> <lang>OS.</lang> <w>pund</w>, <lang>OHG.</lang> <w>pfunt</w>, <gloss>pound</gloss>;
+        <w>slēpan</w>, <lang>OE.</lang> <w>slǣpan</w>, <lang>OS.</lang> <w>slāpan</w>, <lang>OHG.</lang> <w>slāfan</w>, <gloss>to sleep</gloss>;
+        <w>diups</w>, <lang>O.Icel.</lang> <w>djūpr</w>, <lang>OE.</lang> <w>dēop</w>, <lang>OS.</lang> <w>diop</w>, <lang>OHG.</lang> <w>tiof</w>, <gloss>deep</gloss>;
         and similarly
-        plinsjan, to dance;
-        hilpan, to help;
-        skapjan, to create;
-        skip, ship.
+        <w>plinsjan</w>, <gloss>to dance</gloss>;
+        <w>hilpan</w>, <gloss>to help</gloss>;
+        <w>skapjan</w>, <gloss>to create</gloss>;
+        <w>skip</w>, <gloss>ship</gloss>.
       </p>
 
       <div type="note">
         <p>
           <label>Note.—</label>
-          Initial p does not occur in <lang>Gothic</lang> in pure <lang>Germanic</lang> words.
+          Initial <c>p</c> does not occur in <lang>Gothic</lang> in pure <lang>Germanic</lang> words.
         </p>
       </div>
 
       <p>
-        <lang>Goth.</lang> fadar, <lang>O.Icel.</lang> faðir, <lang>OE.</lang> fæder, <lang>OS.</lang> fadar, <lang>OHG.</lang> fater, father;
-        <lang>Goth.</lang> <lang>OHG.</lang> fimf, <lang>OE.</lang> <lang>OS.</lang> fīf, five;
+        <lang>Goth.</lang> <w>fadar</w>, <lang>O.Icel.</lang> <w>faðir</w>, <lang>OE.</lang> <w>fæder</w>, <lang>OS.</lang> <w>fadar</w>, <lang>OHG.</lang> <w>fater</w>, <gloss>father</gloss>;
+        <lang>Goth.</lang> <lang>OHG.</lang> <w>fimf</w>, <lang>OE.</lang> <lang>OS.</lang> <w>fīf</w>, <gloss>five</gloss>;
         and similarly
-        faran, to go;
-        fulls, full;
-        hlifan, to steal;
-        ufar, over;
-        wulfs, wolf.
+        <w>faran</w>, <gloss>to go</gloss>;
+        <w>fulls</w>, <gloss>full</gloss>;
+        <w>hlifan</w>, <gloss>to steal</gloss>;
+        <w>ufar</w>, <gloss>over</gloss>;
+        <w>wulfs</w>, <gloss>wolf</gloss>.
       </p>
     </div>
 
     <div type="subsubchapter">
       <head>b, ƀ.</head>
 
-      <div type="section" n="161" status="wip">
+      <div type="section" n="161">
         <p>
           <label>§ 161.</label>
-          <lang>Germanic</lang> b, which only occurred initially and after m, remained in <lang>Gothic</lang> (<ref>§ 132</ref>), as
-          baíran, <lang>O.Icel.</lang> bera, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> beran, to bear;
-          dumbs, <lang>O.Icel.</lang> dumbr, <lang>OE.</lang> dumb, <lang>OHG.</lang> tumb, dumb;
+          <lang>Germanic</lang> <c>b</c>, which only occurred initially and after <c>m</c>, remained in <lang>Gothic</lang> (<ref>§ 132</ref>), as
+          <w>baíran</w>, <lang>O.Icel.</lang> <w>bera</w>, <lang>OE.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>beran</w>, <gloss>to bear</gloss>;
+          <w>dumbs</w>, <lang>O.Icel.</lang> <w>dumbr</w>, <lang>OE.</lang> <w>dumb</w>, <lang>OHG.</lang> <w>tumb</w>, <gloss>dumb</gloss>;
           and similarly
-          badi, bed;
-          barn, child;
-          bindan, to bind;
-          brōþar, brother;
-          wamba, womb;
-          lamb, lamb.
+          <w>badi</w>, <gloss>bed</gloss>;
+          <w>barn</w>, <gloss>child</gloss>;
+          <w>bindan</w>, <gloss>to bind</gloss>;
+          <w>brōþar</w>, <gloss>brother</gloss>;
+          <w>wamba</w>, <gloss>womb</gloss>;
+          <w>lamb</w>, <gloss>lamb</gloss>.
         </p>
         <pb n="77"/>
         <p>
-          ƀ > b after r and l, as
-          arbi, heritage;
-          swaírban, to wipe;
-          swarb, he wiped;
-          silba, self;
-          kalbō, calf;
-          salbōn, to anoint.
+          <c>ƀ</c> > <c>b</c> after <c>r</c> and <c>l</c>, as
+          <w>arbi</w>, <gloss>heritage</gloss>;
+          <w>swaírban</w>, <gloss>to wipe</gloss>;
+          <w>swarb</w>, <gloss>he wiped</gloss>;
+          <w>silba</w>, <gloss>self</gloss>;
+          <w>kalbō</w>, <gloss>calf</gloss>;
+          <w>salbōn</w>, <gloss>to anoint</gloss>.
         </p>
         <p>
-          ƀ > f after vowels both finally and before final -s.
-          Hence the frequent interchange between ƀ (written b in <lang>Gothic</lang>) and f in inflexion, as
-          giban, to give, pret. sing. gaf;
-          sweiban, to cease, pret. sing. swáif;
-          bi-leiban, to remain, pret. sing. bi-láif;
-          gen. hláibis, nom. sing. hláifs, acc. hláif, loaf, bread,
-          <abbr>cp.</abbr> on the other hand swaírban, to wipe, pret. swarb.
+          <c>ƀ</c> > <c>f</c> after vowels both finally and before final <c>-s</c>.
+          Hence the frequent interchange between <c>ƀ</c> (written <c>b</c> in <lang>Gothic</lang>) and <c>f</c> in inflexion, as
+          <w>giban</w>, <gloss>to give</gloss>, <grm>pret. sing.</grm> <w>gaf</w>;
+          <w>sweiban</w>, <gloss>to cease</gloss>, <grm>pret. sing.</grm> <w>swáif</w>;
+          <w>bi-leiban</w>, <gloss>to remain</gloss>, <grm>pret. sing.</grm> <w>bi-láif</w>;
+          <grm>gen.</grm> <w>hláibis</w>, <grm>nom. sing.</grm> <w>hláifs</w>, <grm>acc.</grm> <w>hláif</w>, <gloss>loaf, bread</gloss>,
+          <abbr>cp.</abbr> on the other hand <w>swaírban</w>, <gloss>to wipe</gloss>, <grm>pret.</grm> <w>swarb</w>.
         </p>
         <div type="note">
           <p>
             <label>Note.—</label>
             In occasional forms like
-            grōb beside grōf, he dug;
-            hláib beside hláif,
-            the b had been transferred from forms where it was regular.
+            <w>grōb</w> beside <w>grōf</w>, <gloss>he dug</gloss>;
+            <w>hláib</w> beside <w>hláif</w>,
+            the <c>b</c> had been transferred from forms where it was regular.
           </p>
         </div>
         <p>
-          Medial ƀ (written b) remained unchanged after vowels, as
-          haban, to have;
-          liban, to live;
-          sibun, seven;
-          ga-láubjan, to believe;
-          ibns, even.
+          Medial <c>ƀ</c> (written <c>b</c>) remained unchanged after vowels, as
+          <w>haban</w>, <gloss>to have</gloss>;
+          <w>liban</w>, <gloss>to live</gloss>;
+          <w>sibun</w>, <gloss>seven</gloss>;
+          <w>ga-láubjan</w>, <gloss>to believe</gloss>;
+          <w>ibns</w>, <gloss>even</gloss>.
           See <ref>§ 133</ref>.
         </p>
       </div>
@@ -555,20 +555,21 @@
     <div type="subsubchapter">
       <head>kw</head>
 
-      <div type="section" n="163" status="wip">
+      <div type="section" n="163">
         <p>
           <label>§ 163.</label>
-          kw (<lang>OE.</lang> cw, <lang>OS.</lang> <lang>OHG.</lang> qu, <lang>O.Icel.</lang> kv) became a labialized k which had the same sound-value as <lang>Lat.</lang> qu, i. e. it was a simple sound, and not a compound one composed of the elements k + w;
-          hence Ulfilas expressed it in his alphabet by a single letter u.
-          In modern philological works the sound in question is transcribed by q.
-          Examples are:—qēns, <lang>O.Icel.</lang> kvān, <lang>OE.</lang> cwēn, <lang>OS.</lang> quān, wife,<pb n="78"/>woman;
-          qiþan, <lang>O.Icel.</lang> kveða, <lang>OE.</lang> cweþan, <lang>OS.</lang> queðan, <lang>OHG.</lang> quedan, to say;
+          <c>kw</c> (<lang>OE.</lang> <c>cw</c>, <lang>OS.</lang> <lang>OHG.</lang> <c>qu</c>, <lang>O.Icel.</lang> <c>kv</c>) became a labialized <c>k</c> which had the same sound-value as <lang>Lat.</lang> <c>qu</c>, <abbr>i. e.</abbr> it was a simple sound, and not a compound one composed of the elements <c>k</c> + <c>w</c>;
+          hence Ulfilas expressed it in his alphabet by a single letter <c>u</c>.
+          In modern philological works the sound in question is transcribed by <c>q</c>.
+          Examples are:—
+          <w>qēns</w>, <lang>O.Icel.</lang> <w>kvān</w>, <lang>OE.</lang> <w>cwēn</w>, <lang>OS.</lang> <w>quān</w>, <gloss>wife,<pb n="78"/>woman</gloss>;
+          <w>qiþan</w>, <lang>O.Icel.</lang> <w>kveða</w>, <lang>OE.</lang> <w>cweþan</w>, <lang>OS.</lang> <w>queðan</w>, <lang>OHG.</lang> <w>quedan</w>, <gloss>to say</gloss>;
           and similarly
-          qiman, to come;
-          riqis, darkness;
-          naqaþs, naked;
-          sigqan, to sink;
-          sagq, he sank.
+          <w>qiman</w>, <gloss>to come</gloss>;
+          <w>riqis</w>, <gloss>darkness</gloss>;
+          <w>naqaþs</w>, <gloss>naked</gloss>;
+          <w>sigqan</w>, <gloss>to sink</gloss>;
+          <w>sagq</w>, <gloss>he sank</gloss>.
         </p>
       </div>
     </div>

@@ -321,49 +321,50 @@
     <div type="subsubchapter" n="5">
       <head>u-stems</head>
     
-      <div type="section" n="235" status="wip">
+      <div type="section" n="235">
         <p>
           <label>§ 235.</label>
-          The u-forms appear only in the nom. sing. of all genders and in the acc. sing. neut. and are like sunus (§ 202), faíhu (§ 205).
-          The gen. and dat. sing. of all genders are wanting.
-          The ending of the gen. sing. masc. and neut. would probably be -áus;
-          <abbr>cp.</abbr> the adverbial gen. filáus (§ 205 note).
-          The nom. acc. neut. pl. are also wanting.
-          All the other extant cases have passed over into the ja-declension.
+          The <c>u</c>-forms appear only in the <grm>nom. sing.</grm> of all genders and in the <grm>acc. sing. neut.</grm> and are like <w>sunus</w> (<ref>§ 202</ref>), <w>faíhu</w> (<ref>§ 205</ref>).
+          The <grm>gen. and dat. sing.</grm> of all genders are wanting.
+          The ending of the <grm>gen. sing. masc. and neut.</grm> would probably be <m>-áus</m>;
+          <abbr>cp.</abbr> the adverbial <grm>gen.</grm> <w>filáus</w> (<ref>§ 205 note</ref>).
+          The <grm>nom. acc. neut. pl.</grm> are also wanting.
+          All the other extant cases have passed over into the <c>ja</c>-declension.
         </p>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                 </row>
-          <row> <cell/>           <cell>Masc.</cell>                              <cell>Neut.</cell>                          <cell>Fem.</cell>               </row>
-          <row> <cell>Nom.</cell> <cell><w>hardus</w>, <gloss>hard</gloss></cell> <cell><w>hardu</w>, <w>hardjata</w></cell>  <cell><w>hardus</w></cell>      </row>
-          <row> <cell>Acc.</cell> <cell><w>hardjana</w></cell>                    <cell><w>hardu</w>, <w>hardjata</w></cell>  <cell><w>hardja</w></cell>      </row>
-          <row> <cell>Gen.</cell> <cell><w>*hardáus</w></cell>                    <cell><w>*hardáus</w></cell>                <cell><w>*hardjáizōs</w></cell> </row>
-          <row> <cell>Dat.</cell> <cell><w>*hardjamma</w></cell>                  <cell><w>*hardjamma</w></cell>              <cell><w>*hardjái</w></cell>    </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                                 </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                              <cell><grm>Neut.</grm></cell>                          <cell><grm>Fem</grm>.</cell>               </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>hardus</w>, <gloss>hard</gloss></cell> <cell><w>hardu</w>, <w>hardj<hi>ata</hi></w></cell>  <cell><w>hardus</w></cell>      </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>hardj<hi>ana</hi></w></cell>                    <cell><w>hardu</w>, <w>hardj<hi>ata</hi></w></cell>  <cell><w>hardja</w></cell>      </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>*hardáus</w></cell>                    <cell><w>*hardáus</w></cell>                <cell><w>*hardj<hi>áizōs</hi></w></cell> </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>*hardj<hi>amma</hi></w></cell>                  <cell><w>*hardj<hi>amma</hi></w></cell>              <cell><w>*hardjái</w></cell>    </row>
           <pb n="109"/>
-          <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                                 </row>
-          <row> <cell>Nom.</cell>	<cell><w>hardjái</w></cell>                     <cell><w>*hardja</w></cell>                 <cell><w>hardjōs</w></cell>     </row>
-          <row> <cell>Acc.</cell> <cell><w>hardjans</w></cell>                    <cell><w>*hardja</w></cell>                 <cell><w>hardjōs</w></cell>     </row>
-          <row> <cell>Gen.</cell> <cell><w>hardjáizē</w></cell>                   <cell><w>hardáizē</w></cell>                <cell><w>hardjáizō</w></cell>   </row>
-          <row> <cell>Dat.</cell> <cell><w>hardjáim</w></cell>                    <cell><w>hardjáim</w></cell>                <cell><w>hardjáim</w></cell>    </row>
+          <row> <cell/>           <cell cols="3"><grm>Plur.</grm></cell>                                                                                                 </row>
+          <row> <cell><grm>Nom.</grm></cell>	<cell><w>hardj<hi>ái</hi></w></cell>                     <cell><w>*hardja</w></cell>                 <cell><w>hardjōs</w></cell>     </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>hardjans</w></cell>                    <cell><w>*hardja</w></cell>                 <cell><w>hardjōs</w></cell>     </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>hardj<hi>áizē</hi></w></cell>                   <cell><w>hard<hi>áizē</hi></w></cell>                <cell><w>hardj<hi>áizō</hi></w></cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>hardj<hi>áim</hi></w></cell>                    <cell><w>hardj<hi>áim</hi></w></cell>                <cell><w>hardj<hi>áim</hi></w></cell>    </row>
         </table>
 
       </div>
 
-      <div type="section" n="236" status="wip">
+      <div type="section" n="236">
         <p>
           <label>§ 236.</label>
-          Like hardus are declined the following adjectives:—aggwus, narrow;
-          aglus, difficult;
-          hnasqus, soft;
-          kaúrus, heavy;
-          láushandus, empty-handed;
-          manwus, ready;
-          qaírrus, gentle;
-          seiþus, late;
-          tulgus, steadfast;
-          twalibwintrus, twelve years old;
-          þaúrsus, withered;
-          þlaqus, soft.
+          Like <w>hardus</w> are declined the following adjectives:—
+          <w>aggwus</w>, <gloss>narrow</gloss>;
+          <w>aglus</w>, <gloss>difficult</gloss>;
+          <w>hnasqus</w>, <gloss>soft</gloss>;
+          <w>kaúrus</w>, <gloss>heavy</gloss>;
+          <w>láushandus</w>, <gloss>empty-handed</gloss>;
+          <w>manwus</w>, <gloss>ready</gloss>;
+          <w>qaírrus</w>, <gloss>gentle</gloss>;
+          <w>seiþus</w>, <gloss>late</gloss>;
+          <w>tulgus</w>, <gloss>steadfast</gloss>;
+          <w>twalibwintrus</w>, <gloss>twelve years old</gloss>;
+          <w>þaúrsus</w>, <gloss>withered</gloss>;
+          <w>þlaqus</w>, <gloss>soft</gloss>.
         </p>
       </div>
     </div>

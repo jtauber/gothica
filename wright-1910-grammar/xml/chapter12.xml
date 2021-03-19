@@ -455,70 +455,83 @@
   <div type="subsubchapter" n="6">
     <head>6. Interrogative</head>
 
-    <div type="section" n="273" status="wip">
+    <div type="section" n="273">
       <p>
         <label>§ 273.</label>
-        The parent <lang>Indg.</lang> language had two stems from which the interrogative pronoun was formed, viz. qo- and qi- with labialized q (§§ 127, 134).
-        The former occurs in <lang>Gr.</lang> πό-τερος, which of two?, <lang>Goth.</lang> ƕas, <lang>OE.</lang> hwā̌, who?, from an original form *qos;
-        <lang>Lat.</lang> quod, <lang>Goth.</lang> ƕa, <lang>O.Icel.</lang> huat, <lang>OS.</lang> hwat, <lang>OHG.</lang> hwaȥ, <lang>OE.</lang> hwæt, what?, from an original form *qod. And the latter occurs in <lang>Gr.</lang> τίς,<pb n="129"/><lang>Lat.</lang> quis, who?, from an original form *qis;
-        <lang>Goth.</lang> ƕileiks, <lang>OE.</lang> hwilc, what sort of?
+        The parent <lang>Indg.</lang> language had two stems from which the interrogative pronoun was formed, <abbr>viz.</abbr> <m>qo-</m> and <m>qi-</m> with labialized <c>q</c> (<ref>§§ 127, 134</ref>).
+        The former occurs in <lang>Gr.</lang> <w>πό-τερος</w>, <gloss>which of two?</gloss>, <lang>Goth.</lang> <w>ƕas</w>, <lang>OE.</lang> <w>hwā̌</w>, <gloss>who?</gloss>, from an original form <w>*qos</w>;
+        <lang>Lat.</lang> <w>quod</w>, <lang>Goth.</lang> <w>ƕa</w>, <lang>O.Icel.</lang> <w>huat</w>, <lang>OS.</lang> <w>hwat</w>, <lang>OHG.</lang> <w>hwaȥ</w>, <lang>OE.</lang> <w>hwæt</w>, <gloss>what?</gloss>, from an original form <w>*qod</w>. And the latter occurs in <lang>Gr.</lang> <w>τίς</w>,<pb n="129"/><lang>Lat.</lang> <w>quis</w>, <gloss>who?</gloss>, from an original form <w>*qis</w>;
+        <lang>Goth.</lang> <w>ƕileiks</w>, <lang>OE.</lang> <w>hwilc</w>, <gloss>what sort of?</gloss>
       </p>
       <p>
         Of the simple interrogative pronoun, only singular forms occur.
       </p>
 
       <table>
-        <row> <cell/>           <cell>Masc.</cell>    <cell>Neut.</cell>    <cell>Fem.</cell>   </row>
-        <row> <cell>Nom.</cell> <cell>ƕas, who</cell> <cell>ƕa, what</cell> <cell>ƕō</cell>     </row>
-        <row> <cell>Acc.</cell> <cell>ƕana</cell>     <cell>ƕa</cell>       <cell>ƕō</cell>     </row>
-        <row> <cell>Gen.</cell> <cell>ƕis</cell>      <cell>ƕis</cell>      <cell>*ƕizōs</cell> </row>
-        <row> <cell>Dat.</cell> <cell>ƕamma</cell>    <cell>ƕamma</cell>    <cell>ƕizái</cell>  </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>    <cell><grm>Neut.</grm></cell>    <cell><grm>Fem.</grm></cell>   </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>ƕas</w>, <gloss>who</gloss></cell> <cell><w>ƕa</w>, what</cell> <cell><w>ƕō</w></cell>     </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>ƕana</w></cell>     <cell><w>ƕa</w></cell>       <cell><w>ƕō</w></cell>     </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>ƕis</w></cell>      <cell><w>ƕis</w></cell>      <cell><w>*ƕizōs</w></cell> </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>ƕamma</w></cell>    <cell><w>ƕamma</w></cell>    <cell><w>ƕizái</w></cell>  </row>
       </table>
 
       <div type="note">
         <list>
           <item n="1">
             <p>
-              Note.—1. An instrumental neut. ƕē from <lang>prim. Germanic</lang> *χwē, how, is also found.
+              <label>Note.—</label>
+              1. An <grm>instrumental neut.</grm> <w>ƕē</w> from <lang>prim. Germanic</lang> <w>*χwē</w>, <gloss>how</gloss>, is also found.
             </p>
           </item>
           <item n="2">
             <p>
-              2. A trace of the plural occurs in the compound form ƕanzuh (§ 275 note);
-              insandida ins twans ƕanzuh, he sent them forth two and two.
+              2. A trace of the <grm>plural</grm> occurs in the compound form <w>ƕanzuh</w> (<ref>§ 275 note</ref>);
+              <phr>insandida ins twans ƕanzuh</phr>, <gloss>he sent them forth two and two</gloss>.
             </p>
           </item>
           <item n="3">
             <p>
-              3. On ƕas, ƕa, ƕō, used as an indefinite pronoun, see § 279.
+              3. On <w>ƕas</w>, <w>ƕa</w>, <w>ƕō</w>, used as an indefinite pronoun, see <ref>§ 279</ref>.
             </p>
           </item>
         </list>
       </div>
 
       <p>
-        The <lang>prim. Germanic</lang> forms were: nom. *χwas = <lang>Skr.</lang> kás, <lang>Indg.</lang> *qos;
-        *χwat (<lang>Lat.</lang> quod, <lang>O.Icel.</lang> hvat, <lang>OE.</lang> hwæt, <lang>OS.</lang> hwat, <lang>OHG.</lang> hwaȥ), Goth ƕa was probably the unaccented form when used as an indef. pronoun (§ 279), see § 87, (2);
-        *χwō = <lang>Skr.</lang> kā́, <lang>Indg.</lang> *qā́;
-        acc. *χwanō = <lang>OE.</lang> hwone (§ 261);
-        *χwat;
-        *χwōn, <lang>Skr.</lang> kā́m, <lang>Indg.</lang> *qām;
-        gen. *χwesa (<lang>Gr.</lang> (Homer) τέο from *τέσο, O.Bulgarian česo, <lang>O.Icel.</lang> hvess, <lang>OS.</lang> <lang>OHG.</lang> hews);
-        dat. *χwammē, -ō = <lang>Indg.</lang> *qo-smē, -ō (§ 261);
-        *χwesai, <abbr>cp.</abbr> gibái (§ 191).
+        The <lang>prim. Germanic</lang> forms were:
+        <grm>nom.</grm>
+        <w>*χwas</w> =
+        <lang>Skr.</lang> <w>kás</w>,
+        <lang>Indg.</lang> <w>*qos</w>;
+
+        <w>*χwat</w> (<lang>Lat.</lang> <w>quod</w>, <lang>O.Icel.</lang> <w>hvat</w>, <lang>OE.</lang> <w>hwæt</w>, <lang>OS.</lang> <w>hwat</w>, <lang>OHG.</lang> <w>hwaȥ</w>), <lang>Goth</lang> <w>ƕa</w> was probably the unaccented form when used as an <abbr>indef.</abbr> pronoun (<ref>§ 279</ref>), see <ref>§ 87, (2)</ref>;
+
+        <w>*χwō</w> = <lang>Skr.</lang> <w>kā́</w>, <lang>Indg.</lang> <w>*qā́</w>;
+
+        <grm>acc.</grm> <w>*χwanō</w> = <lang>OE.</lang> <w>hwone</w> (<grm>§ 261</grm>);
+
+        <w>*χwat</w>;
+
+        <w>*χwōn</w>, <lang>Skr.</lang> <w>kā́m</w>, <lang>Indg.</lang> <w>*qām</w>;
+
+        <grm>gen.</grm> <w>*χwesa</w> (<lang>Gr. (Homer)</lang> <w>τέο</w> from <w>*τέσο</w>, <lang>O.Bulgarian</lang> <w>česo</w>, <lang>O.Icel.</lang> <w>hvess</w>, <lang>OS.</lang> <lang>OHG.</lang> <w>hews</w>);
+
+        <grm>dat.</grm> <w>*χwammē</w>, <m>-ō</m> = <lang>Indg.</lang> <w>*qo-smē</w>, <m>-ō</m> (<ref>§ 261</ref>);
+        <w>*χwesai</w>, <abbr>cp.</abbr> <w>gibái</w> (<ref>§ 191</ref>).
       </p>
 
     </div>
 
-    <div type="section" n="274" status="wip">
+    <div type="section" n="274">
       <p>
         <label>§ 274.</label>
-        Nom. sing. masc. and neut. ƕaþar, which of two (other cases do not occur);
-        ƕarjis, which (out of many), inflected like midjis (§ 228), except that the neut. nom. sing. always ends in -ata;
-        ƕileiks, what sort of;
-        ƕēláuþs (fem. ƕēláuda), how great;
-        swaleiks, such;
-        swaláuþs (fem. swaláuda), so great. The extant cases of the last four words are inflected like blinds (§ 226).
+        <grm>Nom. sing. masc. and neut.</grm> <w>ƕaþar</w>, <gloss>which of two</gloss> (other cases do not occur);
+        <w>ƕarjis</w>, <gloss>which (out of many)</gloss>, inflected like <w>midjis</w> (<ref>§ 228</ref>), except that the <grm>neut. nom. sing.</grm> always ends in <m>-ata</m>;
+        <w>ƕileiks</w>, <gloss>what sort of</gloss>;
+        <w>ƕēláuþs</w> (<grm>fem.</grm> <w>ƕēláuda</w>), <gloss>how great</gloss>;
+        <w>swaleiks</w>, <gloss>such</gloss>;
+        <w>swaláuþs</w> (<grm>fem.</grm> <w>swaláuda</w>), <gloss>so great</gloss>.
+        The extant cases of the last four words are inflected like <w>blinds</w> (<ref>§ 226</ref>).
       </p>
     </div>
   </div>
