@@ -373,27 +373,27 @@
   <div type="subchapter" n="2">
     <head>B. Weak Declension.</head>
 
-    <div type="section" n="237" status="wip">
+    <div type="section" n="237">
       <p>
         <label>§ 237.</label>
         The weak declension of adjectives agrees exactly with that of the three nouns
-        hana (§ 207),
-        haírtō (§ 213),
-        and tuggō (§ 210).
+        <w>hana</w> (<ref>§ 207</ref>),
+        <w>haírtō</w> (<ref>§ 213</ref>),
+        and <w>tuggō</w> (<ref>§ 210</ref>).
       </p>
 
       <table>
-        <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                   </row>
-        <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>            <cell>Fem.</cell>             </row>
-        <row> <cell>Nom.</cell> <cell><w>blinda</w>, <gloss>blind</gloss></cell>  <cell><w>blindō</w></cell>    <cell><w>blindō</w></cell>    </row>
-        <row> <cell>Acc.</cell> <cell><w>blindan</w></cell>                       <cell><w>blindō</w></cell>    <cell><w>blindōn</w></cell>   </row>
-        <row> <cell>Gen.</cell> <cell><w>blindins</w></cell>                      <cell><w>blindins</w></cell>  <cell><w>blindōns</w></cell>  </row>
-        <row> <cell>Dat.</cell> <cell><w>blindin</w></cell>                       <cell><w>blindin</w></cell>   <cell><w>blindōn</w></cell>   </row>
-        <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                   </row>
-        <row> <cell>Nom.</cell>	<cell><w>blindans</w></cell>                      <cell><w>blindōna</w></cell>  <cell><w>blindōns</w></cell>  </row>
-        <row> <cell>Acc.</cell> <cell><w>blindans</w></cell>                      <cell><w>blindōna</w></cell>  <cell><w>blindōns</w></cell>  </row>
-        <row> <cell>Gen.</cell> <cell><w>blindanē</w></cell>                      <cell><w>blindanē</w></cell>  <cell><w>blindōnō</w></cell>  </row>
-        <row> <cell>Dat.</cell> <cell><w>blindam</w></cell>                       <cell><w>blindam</w></cell>   <cell><w>blindōm</w></cell>   </row>
+        <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                   </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>                                <cell><grm>Neut.</grm></cell>            <cell><grm>Fem.</grm></cell>             </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>blinda</w>, <gloss>blind</gloss></cell>  <cell><w>blindō</w></cell>    <cell><w>blindō</w></cell>    </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>blindan</w></cell>                       <cell><w>blindō</w></cell>    <cell><w>blindōn</w></cell>   </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>blindins</w></cell>                      <cell><w>blindins</w></cell>  <cell><w>blindōns</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>blindin</w></cell>                       <cell><w>blindin</w></cell>   <cell><w>blindōn</w></cell>   </row>
+        <row> <cell/>           <cell cols="3"><grm>Plur.</grm></cell>                                                                                   </row>
+        <row> <cell><grm>Nom.</grm></cell>	<cell><w>blindans</w></cell>                      <cell><w>blindōna</w></cell>  <cell><w>blindōns</w></cell>  </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>blindans</w></cell>                      <cell><w>blindōna</w></cell>  <cell><w>blindōns</w></cell>  </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>blindanē</w></cell>                      <cell><w>blindanē</w></cell>  <cell><w>blindōnō</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>blindam</w></cell>                       <cell><w>blindam</w></cell>   <cell><w>blindōm</w></cell>   </row>
       </table>
 
     </div>

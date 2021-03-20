@@ -539,57 +539,59 @@
   <div type="subsubchapter" n="7">
     <head>7. Indefinite</head>
 
-    <div type="section" n="275" status="wip">
+    <div type="section" n="275">
       <p>
         <label>§ 275.</label>
-        From ƕas, ƕarjis, ƕaþar are formed by means of the particle uh (§ 266) the three indefinite pronouns ƕazuh, each, every;
-        ƕarjizuh, each, every;
-        ƕaþaruh, each of two;
-        but of the last only the dat. masc. occurs, ƕaþarammēh (and in the form áinƕaþarammēh, to each one of two).
+        From <w>ƕas</w>, <w>ƕarjis</w>, <w>ƕaþar</w> are formed by means of the particle <w>uh</w> (<ref>§ 266</ref>) the three indefinite pronouns <w>ƕazuh</w>, <gloss>each, every</gloss>;
+        <w>ƕarjizuh</w>, <gloss>each, every</gloss>;
+        <w>ƕaþaruh</w>, <gloss>each of two</gloss>;
+        but of the last only the <grm>dat. masc.</grm> occurs, <w>ƕaþarammēh</w> (and in the form <w>áinƕaþarammēh</w>, <gloss>to each one of two</gloss>).
         The other two are declined thus:—
       </p>
 
       <table>
-        <row> <cell>Sing.</cell>                                                              </row>
-        <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>  <cell>Fem.</cell>     </row>
-        <row> <cell>Nom.</cell> <cell>ƕazuh</cell>  <cell>ƕah</cell>    <cell>ƕōh</cell>      </row>
-        <row> <cell>Acc.</cell> <cell>ƕanōh</cell>  <cell>ƕah</cell>    <cell>ƕōh</cell>      </row>
-        <row> <cell>Gen.</cell> <cell>ƕizuh</cell>  <cell>ƕizuh</cell>  <cell>ƕizōzuh</cell>  </row>
-        <row> <cell>Dat.</cell> <cell>ƕammēh</cell> <cell>ƕammēh</cell> <cell>ƕizáih</cell>   </row>
+        <row> <cell><grm>Sing.</grm></cell>                                                              </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>  <cell><grm>Neut.</grm></cell>  <cell><grm>Fem.</grm></cell>     </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>ƕazuh</w></cell>  <cell><w>ƕah</w></cell>    <cell><w>ƕōh</w></cell>      </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>ƕanōh</w></cell>  <cell><w>ƕah</w></cell>    <cell><w>ƕōh</w></cell>      </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>ƕizuh</w></cell>  <cell><w>ƕizuh</w></cell>  <cell><w>ƕizōzuh</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>ƕammēh</w></cell> <cell><w>ƕammēh</w></cell> <cell><w>ƕizáih</w></cell>   </row>
       </table>
 
       <div type="note">
         <p>
-          Note.—Of the fem. only the nom. occurs. Acc. pl. masc. ƕanzuh also occurs (§ 273 note 2).
+          <label>Note.—</label>
+          Of the <grm>fem.</grm> only the <grm>nom.</grm> occurs. <grm>Acc. pl. masc.</grm> <w>ƕanzuh</w> also occurs (<ref>§ 273 note 2</ref>).
         </p>
       </div>
   
       <table>
-        <row> <cell>Sing.</cell>                                                                        </row>
-        <row> <cell/>           <cell>Masc.</cell>      <cell>Neut.</cell>      <cell>Fem.</cell>       </row>
-        <row> <cell>Nom.</cell>	<cell>ƕarjizuh</cell>	  <cell>ƕarjatōh</cell>	  <cell>ƕarjōh</cell>     </row>
-        <row> <cell>Acc.</cell> <cell>ƕarjanōh</cell>   <cell>ƕarjatōh</cell>   <cell>harjōh</cell>     </row>
-        <row> <cell>Gen.</cell> <cell>ƕarjizuh</cell>   <cell>ƕarjizuh</cell>   <cell>ƕarjizōzuh</cell> </row>
-        <row> <cell>Dat.</cell> <cell>ƕarjammēh</cell>  <cell>ƕarjammēh</cell>  <cell>ƕarjáih</cell>    </row>
+        <row> <cell><grm>Sing.</grm></cell>                                                                        </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>      <cell><grm>Neut.</grm></cell>      <cell><grm>Fem.</grm></cell>       </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>ƕarjizuh</w></cell>   <cell><w>ƕarjatōh</w></cell>   <cell><w>ƕarjōh</w></cell>     </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>ƕarjanōh</w></cell>   <cell><w>ƕarjatōh</w></cell>   <cell><w>harjōh</w></cell>     </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>ƕarjizuh</w></cell>   <cell><w>ƕarjizuh</w></cell>   <cell><w>ƕarjizōzuh</w></cell> </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>ƕarjammēh</w></cell>  <cell><w>ƕarjammēh</w></cell>  <cell><w>ƕarjáih</w></cell>    </row>
       </table>
 
       <div type="note">
         <list>
           <item>
             <p>
-              Note.—1. Of the neut. only the nom. and of the fem. only the acc. occurs.
+              <label>Note.—</label>
+              1. Of the <grm>neut.</grm> only the <grm>nom.</grm> and of the <grm>fem.</grm> only the <grm>acc.</grm> occurs.
             </p>
           </item>
           <item>
             <p>
-              2. The uninflected form áin- prefixed to ƕarjizuh forms the compound áinƕarjizuh, every one.
-              The following cases are found: masc. sing. nom. áinƕarjizuh, acc. áinƕarjanōh, gen. áinƕarjizuh, dat. áinƕarjammēh, nom. sing. neut. áinƕarjatōh.
+              2. The uninflected form <grm>áin-</grm> prefixed to <w>ƕarjizuh</w> forms the compound <w>áinƕarjizuh</w>, <gloss>every one</gloss>.
+              The following cases are found: <grm>masc. sing. nom.</grm> <w>áinƕarjizuh</w>, <grm>acc.</grm> <w>áinƕarjanōh</w>, <grm>gen.</grm> <w>áinƕarjizuh</w>, <grm>dat.</grm> <w>áinƕarjammēh</w>, <grm>nom. sing. neut.</grm> <w>áinƕarjatōh</w>.
             </p>
           </item>
           <item>
             <p>
-              3. On -uh beside -h, see § 266 note 2.
-              And on the preservation of the long vowels when protected by -h, see § 89 and note.
+              3. On <c>-uh</c> beside <c>-h</c>, see <ref>§ 266 note 2</ref>.
+              And on the preservation of the long vowels when protected by <c>-h</c>, see <ref>§ 89 and note</ref>.
             </p>
           </item>
         </list>

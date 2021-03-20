@@ -416,21 +416,31 @@
       <div type="subsubchapter" n="1">
         <head>a. Pure ō-stems.</head>
 
-        <div type="section" n="191" status="wip">
-          <label>§ 191.</label>
+        <div type="section" n="191">
+          <p>
+            <label>§ 191.</label>
+          </p>
 
           <table>
-            <row> <cell/>                 	<cell>Sing.</cell>      	<cell>Plur.</cell>  </row>
-            <row> <cell>Nom.	Acc.</cell> 	<cell>giba, gift</cell> 	<cell>gibōs</cell>  </row>
-            <row> <cell>Gen.</cell>       	<cell>gibōs</cell>      	<cell>gibō</cell>   </row>
-            <row> <cell>Dat.</cell>       	<cell>gibái</cell>      	<cell>gibōm</cell>  </row>
+            <row> <cell/>                           <cell><grm>Sing.</grm></cell>                 <cell><grm>Plur.</grm></cell> </row>
+            <row> <cell><grm>Nom. Acc.</grm></cell> <cell><w>giba</w>, <gloss>gift</gloss></cell> <cell><w>gibōs</w></cell>     </row>
+            <row> <cell><grm>Gen.</grm></cell>      <cell><w>gibōs</w></cell>                     <cell><w>gibō</w></cell>      </row>
+            <row> <cell><grm>Dat.</grm></cell>      <cell><w>gibái</w></cell>                     <cell><w>gibōm</w></cell>     </row>
           </table>
 
           <p>
-            The prim. Germ. forms of giba were:
-            Sing. nom. *ʒeƀō;
-            acc. *ʒeƀōn (<abbr>cp.</abbr> <lang>Gr.</lang> χώρᾱν, land), gen. *ʒeƀō̃z, dat. *ʒeƀai older *ʒeƀōĩ (= <lang>Indg.</lang> -āĩ, <abbr>cp.</abbr> <lang>Gr.</lang> θεᾷ, to a goddess);
-            Pl. nom. acc. *ʒeƀō̃z, gen. *ʒeƀō̃n, dat. *ʒeƀōmiz, from which the corresponding <lang>Gothic</lang> forms are regularly developed.
+            The <lang>prim. Germ.</lang> forms of <w>giba</w> were:
+            <grm>Sing.</grm>
+            <grm>nom.</grm> <w>*ʒeƀō</w>;
+            <grm>acc.</grm> <w>*ʒeƀōn</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>χώρᾱν</w>, <gloss>land</gloss>),
+            <grm>gen.</grm> <w>*ʒeƀō̃z</w>,
+            <grm>dat.</grm> <w>*ʒeƀai</w> older <w>*ʒeƀōĩ</w>
+            (= <lang>Indg.</lang> <m>-āĩ</m>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>θεᾷ</w>, <gloss>to a goddess</gloss>);
+            <grm>Pl.</grm>
+            <grm>nom. acc.</grm> <w>*ʒeƀō̃z</w>,
+            <grm>gen.</grm> <w>*ʒeƀō̃n</w>,
+            <grm>dat.</grm> <w>*ʒeƀōmiz</w>,
+            from which the corresponding <lang>Gothic</lang> forms are regularly developed.
           </p>
         </div>
 

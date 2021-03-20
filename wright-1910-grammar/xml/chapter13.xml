@@ -424,10 +424,28 @@
         </p>
       </div>
     
-      <div type="section" n="297" status="wip">
+      <div type="section" n="297">
         <p>
           <label>§ 297.</label>
-          Several of the imperative and subjunctive forms end in -u, viz. nimadáu, nimandáu, nimáu, nēmjáu, nimáidáu, nimáizáu, nimáindáu. This -u did not originally form a part of the personal endings, but was a deictic particle added enclitically especially to verbal and pronominal forms to emphasize them. It also occurs in <lang>Skr.</lang> and the Slavonic languages and probably in <lang>Greek</lang> in such words as πάν-υ, altogether, at all, beside neut. πᾶν, all. <lang>Skr.</lang> id-ám-u, this, this ‘here’, <abbr>cp.</abbr> <lang>Lat.</lang> id-em, the same; <lang>Skr.</lang> a-sā-ú, that, yon, that ‘there’; <lang>Skr.</lang> bhárat-u, let him bear; bhárant-u, let them bear; O. Bulgarian beret-ŭ, he bears; berąt-ŭ, they bear. The same u occurs in <lang>Goth.</lang> as an interrogative particle, as skuld-u ist?, is it lawful?; ga-u-láubjats?, do ye two believe?; sa-u ist sa sunus izwar?, <lang>Gr.</lang> οὗτός ἐστιν ὁ υἱὸς ὑμῶν; is this your son?
+          Several of the imperative and subjunctive forms end in <m>-u</m>,
+          <abbr>viz.</abbr> <w>nimadáu</w>, <w>nimandáu</w>, <w>nimáu</w>, <w>nēmjáu</w>, <w>nimáidáu</w>, <w>nimáizáu</w>, <w>nimáindáu</w>.
+          
+          This <m>-u</m> did not originally form a part of the personal endings, but was a deictic particle added enclitically especially to verbal and pronominal forms to emphasize them.
+          
+          It also occurs in <lang>Skr.</lang> and the Slavonic languages and probably in <lang>Greek</lang> in such words as <w>πάν-υ</w>, <gloss>altogether, at all</gloss>, beside <grm>neut.</grm> <w>πᾶν</w>, <gloss>all</gloss>.
+          
+          <lang>Skr.</lang> <w>id-ám-u</w>, <gloss>this, this ‘here’</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>id-em</w>, <gloss>the same</gloss>;
+          <lang>Skr.</lang> <w>a-sā-ú</w>, <gloss>that, yon, that ‘there’</gloss>;
+          <lang>Skr.</lang> <w>bhárat-u</w>, <gloss>let him bear</gloss>;
+          <w>bhárant-u</w>, <gloss>let them bear</gloss>;
+          <lang>O. Bulgarian</lang> <w>beret-ŭ</w>, <gloss>he bears</gloss>;
+          <w>berąt-ŭ</w>, <gloss>they bear</gloss>.
+          
+          The same <m>u</m> occurs in <lang>Goth.</lang> as an interrogative particle, as
+          <phr>skuld-u ist?</phr>, <gloss>is it lawful?</gloss>;
+          <phr>ga-u-láubjats?</phr>, <gloss>do ye two believe?</gloss>;
+          <phr>sa-u ist sa sunus izwar?</phr>, <lang>Gr.</lang> <phr>οὗτός ἐστιν ὁ υἱὸς ὑμῶν</phr>;
+          <gloss>is this your son?</gloss>
         </p>
       </div>
     </div>

@@ -577,36 +577,37 @@
     <div type="subsubchapter">
       <head>h, χ</head>
 
-      <div type="section" n="164" status="wip">
+      <div type="section" n="164">
         <p>
           <label>§ 164.</label>
-          <lang>Prim. Germanic</lang> χ had already become an aspirate initially before vowels during the prim. Germanic period (<ref>§ 143</ref>).
+          <lang>Prim. Germanic</lang> <c>χ</c> had already become an aspirate initially before vowels during the <lang>prim. Germanic</lang> period (<ref>§ 143</ref>).
           It probably also became an aspirate in <lang>Gothic</lang> medially between vowels.
-          Examples are:—haban, <lang>O.Icel.</lang> hafa, <lang>OE.</lang> habban, <lang>OHG.</lang> habēn, to have;
-          faíhu, <lang>OE.</lang> feoh, <lang>OHG.</lang> fihu, cattle, property;
+          Examples are:—
+          <w>haban</w>, <lang>O.Icel.</lang> <w>hafa</w>, <lang>OE.</lang> <w>habban</w>, <lang>OHG.</lang> <w>habēn</w>, <gloss>to have</gloss>;
+          <w>faíhu</w>, <lang>OE.</lang> <w>feoh</w>, <lang>OHG.</lang> <w>fihu</w>, <gloss>cattle, property</gloss>;
           and similarly
-          haírtō, heart;
-          hafjan, to raise;
-          hund, hundred;
-          taíhun, ten;
-          þeihan, to thrive.
+          <w>haírtō</w>, <gloss>heart</gloss>;
+          <w>hafjan</w>, <gloss>to raise</gloss>;
+          <w>hund</w>, <gloss>hundred</gloss>;
+          <w>taíhun</w>, <gloss>ten</gloss>;
+          <w>þeihan</w>, <gloss>to thrive</gloss>.
         </p>
         <p>
-          <lang>Germanic</lang> χ (written h, and pronounced like NHG. ch) remained in <lang>Gothic</lang> in other positions, as
-          hláifs, loaf, bread;
-          hliftus, thief;
-          hráins, pure, clean;
-          daúhtar, daughter;
-          filhan, to hide, bury;
-          nahts, night;
-          jah, and;
-          þáih, he throve.
+          <lang>Germanic</lang> <c>χ</c> (written <c>h</c>, and pronounced like <lang>NHG.</lang> <c>ch</c>) remained in <lang>Gothic</lang> in other positions, as
+          <w>hláifs</w>, <gloss>loaf, bread</gloss>;
+          <w>hliftus</w>, <gloss>thief</gloss>;
+          <w>hráins</w>, <gloss>pure, clean</gloss>;
+          <w>daúhtar</w>, <gloss>daughter</gloss>;
+          <w>filhan</w>, <gloss>to hide, bury</gloss>;
+          <w>nahts</w>, <gloss>night</gloss>;
+          <w>jah</w>, <gloss>and</gloss>;
+          <w>þáih</w>, <gloss>he throve</gloss>.
         </p>
         <div type="note">
           <p>
             <label>Note.—</label>
-            The final -h in unaccented particles was often assimilated to the initial consonant of the following word, as
-            wasuþ-þan = wasuh-þan, anþaruþ-þan = anþaruh-pan, jan-ni = jah-ni, jas-sa = jah-sa, niþ-þan = nih-þan.
+            The final <c>-h</c> in unaccented particles was often assimilated to the initial consonant of the following word, as
+            <w>wasuþ-þan</w> = <w>wasuh-þan</w>, <w>anþaruþ-þan</w> = <w>anþaruh-pan</w>, <w>jan-ni</w> = <w>jah-ni</w>, <w>jas-sa</w> = <w>jah-sa</w>, <w>niþ-þan</w> = <w>nih-þan</w>.
           </p>
         </div>
       </div>
