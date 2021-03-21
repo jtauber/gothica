@@ -847,104 +847,105 @@
   <div type="subsubchapter">
     <head>Other Consonant Changes</head>
 
-    <div type="section" n="138" status="wip">
+    <div type="section" n="138">
       <p>
         <label>§ 138.</label>
         Most of the sound changes comprised under this paragraph might have been disposed of in the paragraphs treating of the shifting of the <lang>Indg.</lang> mediae and mediae aspiratae, but to prevent any possible misunderstanding or confusion, it was thought advisable to reserve them for a special paragraph.
       </p>
       <pb n="65"/>
       <p>
-        The <lang>Indg.</lang> mediae and mediae aspiratae became tenues before a suffixal t or s already in the pre-Germanic period; thus:—
+        The <lang>Indg.</lang> mediae and mediae aspiratae became tenues before a suffixal <c>t</c> or <c>s</c> already in the pre-Germanic period; thus:—
       </p>
 
       <table>
-        <row> <cell>bt</cell>     <cell rows="2" rend="left-bracket">pt</cell>  <cell>bs</cell>     <cell rows="2" rend="left-bracket">ps</cell> </row>
-        <row> <cell>bht</cell>                              <cell>bhs</cell>                             </row>
-        <row> <cell>dt</cell>     <cell rows="2" rend="left-bracket">tt</cell>  <cell>ds</cell>     <cell rows="2" rend="left-bracket">ts</cell> </row>
-        <row> <cell>dht</cell>                              <cell>dhs</cell>                             </row>
-        <row> <cell>gt</cell>     <cell rows="2" rend="left-bracket">kt</cell>  <cell>gs</cell>     <cell rows="2" rend="left-bracket">ks</cell> </row>
-        <row> <cell>ght</cell>                              <cell>ghs</cell>                             </row>
-        <row> <cell>ɡt</cell>     <cell rows="2" rend="left-bracket">qt</cell>  <cell>ɡs</cell>     <cell rows="2" rend="left-bracket">qs</cell> </row>
-        <row> <cell>ɡht</cell>                              <cell>ɡhs</cell>                             </row>
+        <row> <cell><c>bt</c></cell>     <cell rows="2" rend="left-bracket"><c>pt</c></cell>  <cell><c>bs</c></cell>     <cell rows="2" rend="left-bracket"><c>ps</c></cell> </row>
+        <row> <cell><c>bht</c></cell>                              <cell><c>bhs</c></cell>                             </row>
+        <row> <cell><c>dt</c></cell>     <cell rows="2" rend="left-bracket"><c>tt</c></cell>  <cell><c>ds</c></cell>     <cell rows="2" rend="left-bracket"><c>ts</c></cell> </row>
+        <row> <cell><c>dht</c></cell>                              <cell><c>dhs</c></cell>                             </row>
+        <row> <cell><c>gt</c></cell>     <cell rows="2" rend="left-bracket"><c>kt</c></cell>  <cell><c>gs</c></cell>     <cell rows="2" rend="left-bracket"><c>ks</c></cell> </row>
+        <row> <cell><c>ght</c></cell>                              <cell><c>ghs</c></cell>                             </row>
+        <row> <cell><c>ɡt</c></cell>     <cell rows="2" rend="left-bracket"><c>qt</c></cell>  <cell><c>ɡs</c></cell>     <cell rows="2" rend="left-bracket"><c>qs</c></cell> </row>
+        <row> <cell><c>ɡht</c></cell>                              <cell><c>ɡhs</c></cell>                             </row>
       </table>
 
       <p>
         Examples are
-        <lang>Lat.</lang> nūptum, nūpsī, beside nūbere, to marry;
-        <lang>Skr.</lang> loc. pl. patsú, beside loc. Sing. padí, on foot;
-        <lang>Lat.</lang> rēxī, rectum, beside regere, to rule;
-        <lang>Lat.</lang> vēxī, vectum, beside vehere, to carry, <abbr>rt.</abbr> wegh-;
-        <lang>Lat.</lang> lectus, <lang>Gr.</lang> λέχος, bed, couch, <lang>Goth.</lang> ligan, to lie down;
-        <lang>Skr.</lang> yuktá-, <lang>Gr.</lang> ζευκτός, <lang>Lat.</lang> jūnctus, yoked, <abbr>rt.</abbr> jeuɡ-; <abbr>&amp;c.</abbr>
+        <lang>Lat.</lang> <w>nūptum</w>, <w>nūpsī</w>, beside <w>nūbere</w>, <gloss>to marry</gloss>;
+        <lang>Skr.</lang> <grm>loc. pl.</grm> <w>patsú</w>, beside <grm>loc. sing.</grm> <w>padí</w>, <gloss>on foot</gloss>;
+        <lang>Lat.</lang> <w>rēxī</w>, <w>rectum</w>, beside <w>regere</w>, <gloss>to rule</gloss>;
+        <lang>Lat.</lang> <w>vēxī</w>, <w>vectum</w>, beside <w>vehere</w>, <gloss>to carry</gloss>, <abbr>rt.</abbr> <m>wegh-</m>;
+        <lang>Lat.</lang> <w>lectus</w>, <lang>Gr.</lang> <w>λέχος</w>, <gloss>bed, couch</gloss>, <lang>Goth.</lang> <w>ligan</w>, <gloss>to lie down</gloss>;
+        <lang>Skr.</lang> <m>yuktá-</m>, <lang>Gr.</lang> <w>ζευκτός</w>, <lang>Lat.</lang> <w>jūnctus</w>, <gloss>yoked</gloss>, <abbr>rt.</abbr> <m>jeuɡ-</m>;
+        <abbr>&amp;c.</abbr>
       </p>
 
       <p>
-        Then pt, kt, qt; ps, ks, qs were shifted to ft, χt; fs, χs at the same time as the original <lang>Indg.</lang> tenues became voiceless spirants (<ref>§ 128</ref>).
-        And tt, ts became ss through the intermediate stages of ϸt, ϸs respectively.
-        ss then became simplified to s after long syllables and before r, and then between the s and r there was developed a t.
+        Then <c>pt</c>, <c>kt</c>, <c>qt</c>; <c>ps</c>, <c>ks</c>, <c>qs</c> were shifted to <c>ft</c>, <c>χt</c>; <c>fs</c>, <c>χs</c> at the same time as the original <lang>Indg.</lang> tenues became voiceless spirants (<ref>§ 128</ref>).
+        And <c>tt</c>, <c>ts</c> became <c>ss</c> through the intermediate stages of <c>ϸt</c>, <c>ϸs</c> respectively.
+        <c>ss</c> then became simplified to <c>s</c> after long syllables and before <c>r</c>, and then between the <c>s</c> and <c>r</c> there was developed a <c>t</c>.
       </p>
 
       <p>
-        This explains the frequent interchange between p, ƀ(b), and f;
-        between k, ʒ(g), and h (<abbr>i. e.</abbr> χ);
-        and between t, ϸ, đ(d), and ss, s in forms which are etymologically related.
+        This explains the frequent interchange between <c>p</c>, <c>ƀ</c>(<c>b</c>), and <c>f</c>;
+        between <c>k</c>, <c>ʒ</c>(<c>g</c>), and <c>h</c> (<abbr>i. e.</abbr> <c>χ</c>);
+        and between <c>t</c>, <c>ϸ</c>, <c>đ</c>(<c>d</c>), and <c>ss</c>, <c>s</c> in forms which are etymologically related.
       </p>
 
       <p>
-        p, ƀ(b)—f.
-        <lang>Goth.</lang> skapjan, <lang>OE.</lang> scieppan, <lang>OHG.</lang> skephen, to create, beside <lang>Goth.</lang> ga-skafts, creation, <lang>OE.</lang> ge-sceaft, <lang>OHG.</lang> gi-scaft, creature;
-        <lang>Goth.</lang> giban, <lang>OHG.</lang> geban, to give, beside <lang>Goth.</lang> fra-gifts, a giving, <lang>OE.</lang> <lang>OHG.</lang> gift, gift;
-        <lang>OHG.</lang> weban, to weave, beside <lang>English</lang> weft.
+        <c>p</c>, <c>ƀ</c>(<c>b</c>)—<c>f</c>.
+        <lang>Goth.</lang> <w>skapjan</w>, <lang>OE.</lang> <w>scieppan</w>, <lang>OHG.</lang> <w>skephen</w>, <gloss>to create</gloss>, beside <lang>Goth.</lang> <w>ga-skafts</w>, <gloss>creation</gloss>, <lang>OE.</lang> <w>ge-sceaft</w>, <lang>OHG.</lang> <w>gi-scaft</w>, <gloss>creature</gloss>;
+        <lang>Goth.</lang> <w>giban</w>, <lang>OHG.</lang> <w>geban</w>, <gloss>to give</gloss>, beside <lang>Goth.</lang> <w>fra-gifts</w>, <gloss>a giving</gloss>, <lang>OE.</lang> <lang>OHG.</lang> <w>gift</w>, <gloss>gift</gloss>;
+        <lang>OHG.</lang> <w>weban</w>, <gloss>to weave</gloss>, beside <lang>English</lang> <w>weft</w>.
       </p>
 
       <p>
-        k, ʒ(g)—h.
-        <lang>Goth.</lang> waúrkjan, <lang>OE.</lang> wyrcan, <lang>OHG.</lang> wurken, to work, beside pret. and pp. <lang>Goth.</lang> waúrhta, waúrhts, <lang>OE.</lang> worhte, worht, <lang>OHG.</lang> worhta, gi-worht;
-        <lang>Goth.</lang> ϸugkjan, <lang>OE.</lang> ϸync(e)an, <lang>OHG.</lang> dunken, to seem,
+        <c>k</c>, <c>ʒ</c>(<c>g</c>)—<c>h</c>.
+        <lang>Goth.</lang> <w>waúrkjan</w>, <lang>OE.</lang> <w>wyrcan</w>, <lang>OHG.</lang> <w>wurken</w>, <gloss>to work</gloss>, beside <grm>pret. and pp.</grm> <lang>Goth.</lang> <w>waúrhta</w>, <w>waúrhts</w>, <lang>OE.</lang> <w>worhte</w>, <w>worht</w>, <lang>OHG.</lang> <w>worhta</w>, <w>gi-worht</w>;
+        <lang>Goth.</lang> <w>ϸugkjan</w>, <lang>OE.</lang> <w>ϸync(e)an</w>, <lang>OHG.</lang> <w>dunken</w>, <gloss>to seem,
         <pb n="66"/>
-        appear, beside pret. and pp. <lang>Goth.</lang> þūhta, *þūhts, <lang>OE.</lang> þūhte, þūht, <lang>OHG.</lang> dūhta, gi-dūht;
-        1 pers. pl. <lang>Goth.</lang> magum, <lang>OE.</lang> magon, <lang>OHG.</lang> magun (mugun), we may, can, beside pret. sing. <lang>Goth.</lang> mahta, <lang>OE.</lang> meahte, <lang>OHG.</lang> mahta, pp. <lang>Goth.</lang> mahts, <abbr>cp.</abbr> also <lang>Goth.</lang> mahts, <lang>OE.</lang> meaht, <lang>OHG.</lang> maht, might, power;
-        <lang>Goth.</lang> bugjan, <lang>OE.</lang> bycg(e)an, to buy, beside pret. and pp. <lang>Goth.</lang> baúhta, baúhts, <lang>OE.</lang> bohte, boht;
-        <lang>Goth.</lang> briggan, <lang>OE.</lang> <lang>OHG.</lang> bringan, to bring, beside pret. and pp. <lang>Goth.</lang> brāhta, *brāhts, <lang>OE.</lang> brōhte, brōht, <lang>OHG.</lang> brāhta, brāht.
+        appear</gloss>, beside <grm>pret. and pp.</grm> <lang>Goth.</lang> <w>þūhta</w>, <w>*þūhts</w>, <lang>OE.</lang> <w>þūhte</w>, <w>þūht</w>, <lang>OHG.</lang> <w>dūhta</w>, <w>gi-dūht</w>;
+        <grm>1 pers. pl.</grm> <lang>Goth.</lang> <w>magum</w>, <lang>OE.</lang> <w>magon</w>, <lang>OHG.</lang> <w>magun</w> (<w>mugun</w>), <gloss>we may, can</gloss>, beside <grm>pret. sing.</grm> <lang>Goth.</lang> <w>mahta</w>, <lang>OE.</lang> <w>meahte</w>, <lang>OHG.</lang> <w>mahta</w>, <grm>pp.</grm> <lang>Goth.</lang> <w>mahts</w>, <abbr>cp.</abbr> also <lang>Goth.</lang> <w>mahts</w>, <lang>OE.</lang> <w>meaht</w>, <lang>OHG.</lang> <w>maht</w>, <gloss>might, power</gloss>;
+        <lang>Goth.</lang> <w>bugjan</w>, <lang>OE.</lang> <w>bycg(e)an</w>, <gloss>to buy</gloss>, beside <grm>pret. and pp.</grm> <lang>Goth.</lang> <w>baúhta</w>, <w>baúhts</w>, <lang>OE.</lang> <w>bohte</w>, <w>boht</w>;
+        <lang>Goth.</lang> <w>briggan</w>, <lang>OE.</lang> <lang>OHG.</lang> <w>bringan</w>, <gloss>to bring</gloss>, beside <grm>pret. and pp.</grm> <lang>Goth.</lang> <w>brāhta</w>, <w>*brāhts</w>, <lang>OE.</lang> <w>brōhte</w>, <w>brōht</w>, <lang>OHG.</lang> <w>brāhta</w>, <w>brāht</w>.
       </p>
 
       <p>
-        t, þ, đ(d)—ss, s.
-        <lang>Goth.</lang> witan, <lang>OE.</lang> witan, to know, beside pret. <lang>Goth.</lang> wissa, <lang>OE.</lang> wisse, <lang>OHG.</lang> wissa (wessa), part, adj. <lang>Goth.</lang> *ga-wiss, <lang>OE.</lang> ge-wis(s), <lang>OHG.</lang> gi-wis(s), sure, certain;
-        <lang>Goth.</lang> ga-ƕatjan, <lang>OE.</lang> hwettan, to sharpen, beside <lang>Goth.</lang> ƕassei, sharpness, ƕassaba, sharply;
-        <lang>Goth.</lang> qiþan, to say, beside ga-qiss, consent;
-        <lang>Goth.</lang> ana-biudan, to command, beside ana-busns (ana-būsns?), commandment, from pre-Germ. *bhū̌tsni-, <abbr>rt.</abbr> bheudh-;
-        <lang>Goth.</lang> us-standan, to rise again, beside us-stass, resurrection.
+        <c>t</c>, <c>þ</c>, <c>đ</c>(<c>d</c>)—<c>ss</c>, <c>s</c>.
+        <lang>Goth.</lang> <w>witan</w>, <lang>OE.</lang> <w>witan</w>, <gloss>to know</gloss>, beside <grm>pret.</grm> <lang>Goth.</lang> <w>wissa</w>, <lang>OE.</lang> <w>wisse</w>, <lang>OHG.</lang> <w>wissa</w> (<w>wessa</w>), <grm>part. adj.</grm> <lang>Goth.</lang> <w>*ga-wiss</w>, <lang>OE.</lang> <w>ge-wis(s)</w>, <lang>OHG.</lang> <w>gi-wis(s)</w>, <gloss>sure, certain</gloss>;
+        <lang>Goth.</lang> <w>ga-ƕatjan</w>, <lang>OE.</lang> <w>hwettan</w>, <gloss>to sharpen</gloss>, beside <lang>Goth.</lang> <w>ƕassei</w>, <gloss>sharpness</gloss>, <w>ƕassaba</w>, <gloss>sharply</gloss>;
+        <lang>Goth.</lang> <w>qiþan</w>, <gloss>to say</gloss>, beside <w>ga-qiss</w>, <gloss>consent</gloss>;
+        <lang>Goth.</lang> <w>ana-biudan</w>, <gloss>to command</gloss>, beside <w>ana-busns</w> (<w>ana-būsns</w>?), <gloss>commandment</gloss>, from <lang>pre-Germ.</lang> <m>*bhū̌tsni-</m>, <abbr>rt.</abbr> <m>bheudh-</m>;
+        <lang>Goth.</lang> <w>us-standan</w>, <gloss>to rise again</gloss>, beside <w>us-stass</w>, <gloss>resurrection</gloss>.
       </p>
 
       <p>
-        ss > s after long syllables and before r:
-        <lang>Goth.</lang> háitan, to command, call, <lang>OE.</lang> hātan, to call, beside <lang>OE.</lang> hǣs, from *haissi-, command;
-        <lang>Goth.</lang> <lang>OE.</lang> witan, to know, beside <lang>Goth.</lang> un-weis, unknowing, <lang>OE.</lang> <lang>OHG.</lang> wīs, wise, <abbr>cp.</abbr> <lang>Lat.</lang> vīsus;
-        <lang>Goth.</lang> itan, <lang>OE.</lang> etan, to eat, beside <lang>OE.</lang> ǣs, <lang>OHG.</lang> ās, carrion, <abbr>cp.</abbr> <lang>Lat.</lang> ēsum.
-        <lang>Goth.</lang> guþ-blōstreis, worshipper of God, <lang>OHG.</lang> bluoster, sacrifice, <abbr>cp.</abbr> <lang>Goth.</lang> blōtan, to worship;
-        <lang>OE.</lang> fōstor, <lang>O.Icel.</lang> fōstr, sustenance, <abbr>cp.</abbr> <lang>Goth.</lang> fōdjan, to feed.
+        <c>ss</c> > <c>s</c> after long syllables and before <c>r</c>:
+        <lang>Goth.</lang> <w>háitan</w>, <gloss>to command, call</gloss>, <lang>OE.</lang> <w>hātan</w>, <gloss>to call</gloss>, beside <lang>OE.</lang> <w>hǣs</w>, from <m>*haissi-</m>, <gloss>command</gloss>;
+        <lang>Goth.</lang> <lang>OE.</lang> <w>witan</w>, <gloss>to know</gloss>, beside <lang>Goth.</lang> <w>un-weis</w>, <gloss>unknowing</gloss>, <lang>OE.</lang> <lang>OHG.</lang> <w>wīs</w>, <gloss>wise</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>vīsus</w>;
+        <lang>Goth.</lang> <w>itan</w>, <lang>OE.</lang> <w>etan</w>, <gloss>to eat</gloss>, beside <lang>OE.</lang> <w>ǣs</w>, <lang>OHG.</lang> <w>ās</w>, <gloss>carrion</gloss>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>ēsum</w>.
+        <lang>Goth.</lang> <w>guþ-blōstreis</w>, <gloss>worshipper of God</gloss>, <lang>OHG.</lang> <w>bluoster</w>, <gloss>sacrifice</gloss>, <abbr>cp.</abbr> <lang>Goth.</lang> <w>blōtan</w>, <gloss>to worship</gloss>;
+        <lang>OE.</lang> <w>fōstor</w>, <lang>O.Icel.</lang> <w>fōstr</w>, <gloss>sustenance</gloss>, <abbr>cp.</abbr> <lang>Goth.</lang> <w>fōdjan</w>, <gloss>to feed</gloss>.
       </p>
 
       <p>
-        Instead of ss (s) we often meet with st.
-        In such cases the st is due to the analogy of forms where t was quite regular, <abbr>e. g.</abbr> regular forms were <lang>Goth.</lang> last, thou didst gather, inf. lisan; slōht, thou didst strike, inf. slahan;
-        <lang>OE.</lang> meaht, <lang>OHG.</lang> maht, thou canst, inf. <lang>OHG.</lang> magan;
-        then after the analogy of such forms were made 2 pers.
+        Instead of <c>ss</c> (<c>s</c>) we often meet with <c>st</c>.
+        In such cases the <c>st</c> is due to the analogy of forms where <c>t</c> was quite regular, <abbr>e. g.</abbr> regular forms were <lang>Goth.</lang> <w>last</w>, <gloss>thou didst gather</gloss>, <grm>inf.</grm> <w>lisan</w>; <w>slōht</w>, <gloss>thou didst strike</gloss>, <grm>inf.</grm> <w>slahan</w>;
+        <lang>OE.</lang> <w>meaht</w>, <lang>OHG.</lang> <w>maht</w>, <gloss>thou canst</gloss>, <grm>inf.</grm> <lang>OHG.</lang> <w>magan</w>;
+        then after the analogy of such forms were made <grm>2 pers.
         <pb n="67"/>
-        sing. <lang>Goth.</lang> wáist for *wáis, <lang>OE.</lang> wāst for *wās, <lang>OHG.</lang> weist for *weis;
-        <lang>Goth.</lang> qast for *qass, inf. qiþan, to say;
-        <lang>Goth.</lang> báust for *báus, inf. biudan, to bid;
-        regular forms were pret. sing. <lang>Goth.</lang> waúrhta, <lang>OE.</lang> worhte, <lang>OHG.</lang> worhta, <lang>Goth.</lang> inf. waúrkjan, to work;
-        then after the analogy of such forms were made <lang>OE.</lang> wiste, beside wisse, <lang>OHG.</lang> westa, beside wissa (wessa), I knew, inf. <lang>OE.</lang> witan;
-        <lang>Goth.</lang> pret. sing. káupasta for *káupassa, inf. káupatjan, to strike with the palm of the hand, buffet.
+        sing.</grm> <lang>Goth.</lang> <w>wáist</w> for <w>*wáis</w>, <lang>OE.</lang> <w>wāst</w> for <w>*wās</w>, <lang>OHG.</lang> <w>weist</w> for <w>*weis</w>;
+        <lang>Goth.</lang> <w>qast</w> for <w>*qass</w>, <grm>inf.</grm> <w>qiþan</w>, <gloss>to say</gloss>;
+        <lang>Goth.</lang> <w>báust</w> for <w>*báus</w>, <grm>inf.</grm> <w>biudan</w>, <gloss>to bid</gloss>;
+        regular forms were <grm>pret. sing.</grm> <lang>Goth.</lang> <w>waúrhta</w>, <lang>OE.</lang> <w>worhte</w>, <lang>OHG.</lang> <w>worhta</w>, <lang>Goth.</lang> <grm>inf.</grm> <w>waúrkjan</w>, <gloss>to work</gloss>;
+        then after the analogy of such forms were made <lang>OE.</lang> <w>wiste</w>, beside <w>wisse</w>, <lang>OHG.</lang> <w>westa</w>, beside <w>wissa</w> (<w>wessa</w>), <gloss>I knew</gloss>, <grm>inf.</grm> <lang>OE.</lang> <w>witan</w>;
+        <lang>Goth.</lang> <grm>pret. sing.</grm> <w>káupasta</w> for <w>*káupassa</w>, <grm>inf.</grm> <w>káupatjan</w>, <gloss>to strike with the palm of the hand, buffet</gloss>.
       </p>
 
       <p>
         For purely practical purposes the above laws may be thus formulated:—
-        every labial + t appears as ft,
-        every guttural + t as ht,
-        every dental + t as ss, s (st).
+        every labial + <c>t</c> appears as <c>ft</c>,
+        every guttural + <c>t</c> as <c>ht</c>,
+        every dental + <c>t</c> as <c>ss</c>, <c>s</c> (<c>st</c>).
       </p>
     </div>
 

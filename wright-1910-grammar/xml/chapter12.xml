@@ -36,10 +36,10 @@
 
         <table>
           <row> <cell/>           <cell>Sing.</cell>  <cell>Dual.</cell>    <cell>Plur.</cell>      </row>
-          <row> <cell>Nom.</cell> <cell><w>ik</w>, <gloss>I</gloss></cell>  <cell><w>wit</w></cell>      <cell><w>weis</w></cell>       </row>
-          <row> <cell>Acc.</cell> <cell><w>mik</w></cell>    <cell><w>ugkis</w></cell>    <cell><w>uns</w>, <w>unsis</w></cell> </row>
-          <row> <cell>Gen.</cell> <cell><w>meina</w></cell>  <cell><w>*ugkara</w></cell>  <cell><w>unsara</w></cell>     </row>
-          <row> <cell>Dat.</cell> <cell><w>mis</w></cell>    <cell><w>ugkis</w></cell>    <cell><w>uns</w>, <w>unsis</w></cell> </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>ik</w>, <gloss>I</gloss></cell>  <cell><w>wit</w></cell>      <cell><w>weis</w></cell>       </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>mik</w></cell>    <cell><w>ugkis</w></cell>    <cell><w>uns</w>, <w>unsis</w></cell> </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>meina</w></cell>  <cell><w>*ugkara</w></cell>  <cell><w>unsara</w></cell>     </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>mis</w></cell>    <cell><w>ugkis</w></cell>    <cell><w>uns</w>, <w>unsis</w></cell> </row>
         </table>
       </div>
 
@@ -47,10 +47,10 @@
         <head>Second Person.</head>
 
         <table>
-          <row> <cell>Nom.</cell>  <cell><w>þu</w>, <gloss>thou</gloss></cell>    <cell><w>*jut</w></cell>      <cell><w>jus</w></cell>     </row>
-          <row> <cell>Acc.</cell>  <cell><w>þuk</w></cell>         <cell><w>igqis</w></cell>     <cell><w>izwis</w></cell>   </row>
-          <row> <cell>Gen.</cell>  <cell><w>þeina</w></cell>       <cell><w>igqara</w></cell>    <cell><w>izwara</w></cell>  </row>
-          <row> <cell>Dat.</cell>  <cell><w>þus</w></cell>         <cell><w>igqis</w></cell>     <cell><w>izwis</w></cell>   </row>
+          <row> <cell><grm>Nom.</grm></cell>  <cell><w>þu</w>, <gloss>thou</gloss></cell>    <cell><w>*jut</w></cell>      <cell><w>jus</w></cell>     </row>
+          <row> <cell><grm>Acc.</grm></cell>  <cell><w>þuk</w></cell>         <cell><w>igqis</w></cell>     <cell><w>izwis</w></cell>   </row>
+          <row> <cell><grm>Gen.</grm></cell>  <cell><w>þeina</w></cell>       <cell><w>igqara</w></cell>    <cell><w>izwara</w></cell>  </row>
+          <row> <cell><grm>Dat.</grm></cell>  <cell><w>þus</w></cell>         <cell><w>igqis</w></cell>     <cell><w>izwis</w></cell>   </row>
         </table>
       </div>  
 
@@ -59,16 +59,16 @@
 
         <table>
           <row> <cell>Sing.</cell>                                                              </row>
-          <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>   <cell>Fem.</cell>    </row>
-          <row> <cell>Nom.</cell> <cell><w>is</w>, <gloss>he</gloss></cell> <cell><w>ita</w>, <gloss>it</gloss></cell> <cell><w>si</w>, <gloss>she</gloss></cell> </row>
-          <row> <cell>Acc.</cell> <cell><w>ina</w></cell>    <cell><w>ita</w></cell>     <cell><w>ija</w></cell>     </row>
-          <row> <cell>Gen.</cell> <cell><w>is</w></cell>     <cell><w>is</w></cell>      <cell><w>izōs</w></cell>    </row>
-          <row> <cell>Dat.</cell> <cell><w>imma</w></cell>   <cell><w>imma</w></cell>    <cell><w>izái</w></cell>    </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>  <cell><grm>Neut.</grm></cell>   <cell><grm>Fem.</grm></cell>    </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>is</w>, <gloss>he</gloss></cell> <cell><w>ita</w>, <gloss>it</gloss></cell> <cell><w>si</w>, <gloss>she</gloss></cell> </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>ina</w></cell>    <cell><w>ita</w></cell>     <cell><w>ija</w></cell>     </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>is</w></cell>     <cell><w>is</w></cell>      <cell><w>izōs</w></cell>    </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>imma</w></cell>   <cell><w>imma</w></cell>    <cell><w>izái</w></cell>    </row>
           <row> <cell>Plur.</cell>                                                              </row>
-          <row> <cell>Nom.</cell> <cell><w>eis</w></cell>    <cell><w>ija</w></cell>     <cell><w>*ijōs</w></cell>   </row>
-          <row> <cell>Acc.</cell> <cell><w>ins</w></cell>    <cell><w>*ija</w></cell>    <cell><w>ijōs</w></cell>    </row>
-          <row> <cell>Gen.</cell> <cell><w>izē</w></cell>    <cell><w>*izē</w></cell>    <cell><w>izō</w></cell>     </row>
-          <row> <cell>Dat.</cell> <cell><w>im</w></cell>     <cell><w>im</w></cell>      <cell><w>im</w></cell>      </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>eis</w></cell>    <cell><w>ija</w></cell>     <cell><w>*ijōs</w></cell>   </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>ins</w></cell>    <cell><w>*ija</w></cell>    <cell><w>ijōs</w></cell>    </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>izē</w></cell>    <cell><w>*izē</w></cell>    <cell><w>izō</w></cell>     </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>im</w></cell>     <cell><w>im</w></cell>      <cell><w>im</w></cell>      </row>
         </table>
       </div>
     </div>
@@ -599,21 +599,21 @@
 
     </div>
 
-    <div type="section" n="276" status="wip">
+    <div type="section" n="276">
       <p>
         <label>§ 276.</label>
-        The three combinations ƕazuh saei, saƕazuh saei, saƕazuh izei are used in the nom. sing. masc. with<pb n="131"/>the meaning whosoever;
-        the corresponding neut., which only occurs in the acc. sing., is þataƕah þei, whatsoever.
-        Another compound indefinite pronoun with the same meaning is formed by prefixing an indeclinable þis (gen. of þata, § 265) to ƕazuh, hah, followed by saei (neut. þatei), þei (§ 265 note 1), or ei (§ 270).
+        The three combinations <phr>ƕazuh saei</phr>, <phr>saƕazuh saei</phr>, <phr>saƕazuh izei</phr> are used in the <grm>nom. sing. masc.</grm> with<pb n="131"/>the meaning <gloss>whosoever</gloss>;
+        the corresponding <grm>neut.</grm>, which only occurs in the <grm>acc. sing.</grm>, is <phr>þataƕah þei</phr>, <gloss>whatsoever</gloss>.
+        Another compound indefinite pronoun with the same meaning is formed by prefixing an indeclinable <w>þis</w> (<grm>gen.</grm> of <w>þata</w>, <ref>§ 265</ref>) to <w>ƕazuh</w>, <w>hah</w>, followed by <w>saei</w> (<grm>neut.</grm> <w>þatei</w>), <w>þei</w> (<ref>§ 265 note 1</ref>), or <w>ei</w> (<ref>§ 270</ref>).
         It is declined as follows:—
       </p>
 
       <table>
-        <row> <cell/>           <cell>Masc.</cell>          <cell>Neut.</cell>                </row>
-        <row> <cell>Nom.</cell>	<cell>þisƕazuh saei</cell>	<cell>þisƕah pei or þatei</cell>  </row>
-        <row> <cell>Acc.</cell>	<cell>þisƕranōh saei</cell>	<cell>þisƕah þei or þatei</cell>  </row>
-        <row> <cell>Gen.</cell>	<cell>wanting</cell>	      <cell>þisƕizuh þei</cell>         </row>
-        <row> <cell>Dat.</cell>	<cell>þisƕammēh saei</cell>	<cell>þisƕammēh þei</cell>        </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>          <cell><grm>Neut.</grm></cell>                </row>
+        <row> <cell><grm>Nom.</grm></cell>	<cell><phr>þisƕazuh saei</phr></cell>	<cell><phr>þisƕah pei</phr> or <phr>þatei</phr></cell>  </row>
+        <row> <cell><grm>Acc.</grm></cell>	<cell><phr>þisƕranōh saei</phr></cell>	<cell><phr>þisƕah þei</phr> or <phr>þatei</phr></cell>  </row>
+        <row> <cell><grm>Gen.</grm></cell>	<cell>wanting</cell>	      <cell><phr>þisƕizuh þei</phr></cell>         </row>
+        <row> <cell><grm>Dat.</grm></cell>	<cell><phr>þisƕammēh saei</phr></cell>	<cell><phr>þisƕammēh þei</phr></cell>        </row>
       </table>
     </div>
 
@@ -638,11 +638,11 @@
 
       <table>
         <row> <cell>Sing.</cell>                                                                                </row>
-        <row> <cell/>           <cell>Masc.</cell>            <cell>Neut.</cell>      <cell>Fem.</cell>         </row>
-        <row> <cell>Nom.</cell> <cell>áinshun</cell>          <cell>áinhun</cell>     <cell>áinōhun</cell>      </row>
-        <row> <cell>Acc.</cell> <cell>áinnōhun áinōhun</cell> <cell>áinhun</cell>	    <cell>áinōhun</cell>      </row>
-        <row> <cell>Gen.</cell> <cell>áinishun</cell>         <cell>áinishun</cell>   <cell>*áináizōshun</cell> </row>
-        <row> <cell>Dat.</cell> <cell>áinummēhun</cell>       <cell>áinummēhun</cell> <cell>áináihun</cell>     </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>            <cell><grm>Neut.</grm></cell>      <cell><grm>Fem.</grm></cell>         </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell>áinshun</cell>          <cell>áinhun</cell>     <cell>áinōhun</cell>      </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell>áinnōhun áinōhun</cell> <cell>áinhun</cell>	    <cell>áinōhun</cell>      </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell>áinishun</cell>         <cell>áinishun</cell>   <cell>*áináizōshun</cell> </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell>áinummēhun</cell>       <cell>áinummēhun</cell> <cell>áináihun</cell>     </row>
       </table>
       
       <pb n="132"/>

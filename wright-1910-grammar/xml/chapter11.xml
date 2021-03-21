@@ -185,14 +185,14 @@
 
         <table>
           <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                               </row>
-          <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                       <cell>Fem.</cell>              </row>
-          <row> <cell>Nom.</cell> <cell><w>midjis</w>, <gloss>middle</gloss></cell> <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
-          <row> <cell>Acc.</cell> <cell><w>midj<hi>ana</hi></w></cell>              <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
+          <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                       <cell><grm>Fem.</grm></cell>              </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>midjis</w>, <gloss>middle</gloss></cell> <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>midj<hi>ana</hi></w></cell>              <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
           <row> <cell>Gen.</cell> <cell><w>midjis</w></cell>                        <cell><w>midjis</w></cell>               <cell><w>midj<hi>áizōs</hi></w></cell>  </row>
           <row> <cell>Dat.</cell> <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midjái</w></cell>     </row>
           <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                               </row>
-          <row> <cell>Nom.</cell>	<cell><w>midj<hi>ái</hi></w></cell>               <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
-          <row> <cell>Acc.</cell> <cell><w>midjans</w></cell>                       <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
+          <row> <cell><grm>Nom.</grm></cell>	<cell><w>midj<hi>ái</hi></w></cell>               <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>midjans</w></cell>                       <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
           <row> <cell>Gen.</cell> <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizō</hi></w></cell>   </row>
           <row> <cell>Dat.</cell> <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>    </row>
         </table>
@@ -398,56 +398,56 @@
 
     </div>
     
-    <div type="section" n="238" status="wip">
+    <div type="section" n="238">
       <p>
         <label>§ 238.</label>
-        In the same manner are declined the weak forms of the ja-stems.
-        See § 153 note.
-        The i- and u-stems are also thus declined, but have the endings -ja, -jō, -jō in the nom. sing. like the ja-stems, thus:—
+        In the same manner are declined the weak forms of the <c>ja</c>-stems.
+        See <ref>§ 153 note</ref>.
+        The <c>i</c>- and <c>u</c>-stems are also thus declined, but have the endings <m>-ja</m>, <m>-jō</m>, <m>-jō</m> in the <grm>nom. sing.</grm> like the <c>ja</c>-stems, thus:—
       </p>
       <pb n="110"/>
 
-      <div>
+      <div type="subsection">
         <head>ja-stems.</head>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                       </row>
-          <row> <cell/>           <cell>Masc.</cell>                            <cell>Neut.</cell>                <cell>Fem.</cell>                 </row>
-          <row> <cell>Nom.</cell> <cell><w>niuja</w>, <gloss>new</gloss></cell> <cell><w>niujō</w></cell>         <cell><w>niujō</w></cell>         </row>
-          <row> <cell>Acc.</cell> <cell><w>niujan</w></cell>                    <cell><w>niujō</w></cell>         <cell><w>niujōn</w></cell>        </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                       </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                            <cell><grm>Neut.</grm></cell>                <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>niuja</w>, <gloss>new</gloss></cell> <cell><w>niujō</w></cell>         <cell><w>niujō</w></cell>         </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>niujan</w></cell>                    <cell><w>niujō</w></cell>         <cell><w>niujōn</w></cell>        </row>
           <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>             <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> </row>
         </table>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                         </row>
-          <row> <cell/>           <cell>Masc.</cell>                              <cell>Neut.</cell>                <cell>Fem.</cell>                 </row>
-          <row> <cell>Nom.</cell> <cell><w>wilþja</w>, <gloss>wild</gloss></cell> <cell><w>wilþjō</w></cell>        <cell><w>wilþjō</w></cell>        </row>
-          <row> <cell>Acc.</cell> <cell><w>wilþjan</w></cell>                     <cell><w>wilþjō</w></cell>        <cell><w>wilþjōn</w></cell>       </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                         </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                              <cell><grm>Neut.</grm></cell>                <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>wilþja</w>, <gloss>wild</gloss></cell> <cell><w>wilþjō</w></cell>        <cell><w>wilþjō</w></cell>        </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>wilþjan</w></cell>                     <cell><w>wilþjō</w></cell>        <cell><w>wilþjōn</w></cell>       </row>
           <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>               <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> </row>
         </table>
 
       </div>
 
-      <div>
+      <div type="subsection">
         <head>i-stems.</head>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                           </row>
-          <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                <cell>Fem.</cell>                 </row>
-          <row> <cell>Nom.</cell> <cell><w>hráinja</w>, <gloss>clean</gloss></cell> <cell><w>hráinjō</w></cell>       <cell><w>hráinjō</w></cell>       </row>
-          <row> <cell>Acc.</cell> <cell><w>hráinjan</w></cell>                      <cell><w>hráinjō</w></cell>       <cell><w>hráinjōn</w></cell>      </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                           </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                                <cell><grm>Neut.</grm></cell>                <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>hráinja</w>, <gloss>clean</gloss></cell> <cell><w>hráinjō</w></cell>       <cell><w>hráinjō</w></cell>       </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>hráinjan</w></cell>                      <cell><w>hráinjō</w></cell>       <cell><w>hráinjōn</w></cell>      </row>
           <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>                 <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> </row>
         </table>
       </div>
   
-      <div>
+      <div type="subsection">
         <head>u-stems.</head>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                         </row>
-          <row> <cell/>           <cell>Masc.</cell>                              <cell>Neut.</cell>                <cell>Fem.</cell>                 </row>
-          <row> <cell>Nom.</cell> <cell><w>hardja</w>, <gloss>hard</gloss></cell> <cell><w>hardjō</w></cell>        <cell><w>hardjō</w></cell>        </row>
-          <row> <cell>Acc.</cell> <cell><w>hardjan</w></cell>                     <cell><w>hardjō</w></cell>        <cell><w>hardjōn</w></cell>       </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                         </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                              <cell><grm>Neut.</grm></cell>                <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>hardja</w>, <gloss>hard</gloss></cell> <cell><w>hardjō</w></cell>        <cell><w>hardjō</w></cell>        </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>hardjan</w></cell>                     <cell><w>hardjō</w></cell>        <cell><w>hardjōn</w></cell>       </row>
           <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>               <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> </row>
         </table>
       </div>
@@ -476,14 +476,14 @@
 
       <table>
         <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                       </row>
-        <row> <cell/>           <cell>Masc.</cell>                                                  <cell>Neut.</cell>            <cell>Fem.</cell>               </row>
-        <row> <cell>Nom.</cell> <cell><w>nimands</w>, <w>nimanda</w>, <gloss>taking</gloss></cell>  <cell><w>nimandō</w></cell>   <cell><w>nimandei</w></cell>    </row>
-        <row> <cell>Acc.</cell> <cell><w>nimandan</w></cell>                                        <cell><w>nimandō</w></cell>   <cell><w>nimandein</w></cell>   </row>
+        <row> <cell/>           <cell>Masc.</cell>                                                  <cell>Neut.</cell>            <cell><grm>Fem.</grm></cell>               </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>nimands</w>, <w>nimanda</w>, <gloss>taking</gloss></cell>  <cell><w>nimandō</w></cell>   <cell><w>nimandei</w></cell>    </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>nimandan</w></cell>                                        <cell><w>nimandō</w></cell>   <cell><w>nimandein</w></cell>   </row>
         <row> <cell>Gen.</cell> <cell><w>nimandins</w></cell>                                       <cell><w>nimandins</w></cell> <cell><w>nimandeins</w></cell>  </row>
         <row> <cell>Dat.</cell> <cell><w>nimandin</w></cell>                                        <cell><w>nimandin</w></cell>  <cell><w>nimandein</w></cell>   </row>
         <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                   </row>
-        <row> <cell>Nom.</cell>	<cell><w>nimandans</w></cell>                                       <cell><w>nimandōna</w></cell> <cell><w>nimandeins</w></cell>  </row>
-        <row> <cell>Acc.</cell> <cell><w>nimandans</w></cell>                                       <cell><w>nimandōna</w></cell> <cell><w>nimandeins</w></cell>  </row>
+        <row> <cell><grm>Nom.</grm></cell>	<cell><w>nimandans</w></cell>                                       <cell><w>nimandōna</w></cell> <cell><w>nimandeins</w></cell>  </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>nimandans</w></cell>                                       <cell><w>nimandōna</w></cell> <cell><w>nimandeins</w></cell>  </row>
         <row> <cell>Gen.</cell> <cell><w>nimandanē</w></cell>                                       <cell><w>nimandanē</w></cell> <cell><w>nimandeinō</w></cell>  </row>
         <row> <cell>Dat.</cell> <cell><w>nimandam</w></cell>                                        <cell><w>nimandam</w></cell>  <cell><w>nimandeim</w></cell>   </row>
       </table>
@@ -505,9 +505,9 @@
 
       <table>
         <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                     </row>
-        <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                          <cell>Fem.</cell>                 </row>
-        <row> <cell>Nom.</cell> <cell><w>numans</w>, <gloss>taken</gloss></cell>  <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
-        <row> <cell>Acc.</cell> <cell><w>numanana</w></cell>                      <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
+        <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                          <cell><grm>Fem.</grm></cell>                 </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>numans</w>, <gloss>taken</gloss></cell>  <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>numanana</w></cell>                      <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
         <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>                 <cell><abbr>&amp;c.</abbr></cell>           <cell><abbr>&amp;c.</abbr></cell> </row>
       </table>
 
@@ -527,7 +527,7 @@
 
       <table>
         <row> <cell/>                                         <cell cols="3">Sing.</cell>                                                                           </row>
-        <row> <cell/>                                         <cell>Masc.</cell>                <cell>Neut.</cell>                <cell>Fem.</cell>                 </row>
+        <row> <cell/>                                         <cell>Masc.</cell>                <cell>Neut.</cell>                <cell><grm>Fem.</grm></cell>                 </row>
         <row> <cell rows="2" rend="right-bracket">Nom.</cell> <cell><w>numana</w></cell>        <cell><w>numanō</w></cell>        <cell><w>numanō</w></cell>        </row>
         <row>                                                 <cell><w>nasida</w></cell>        <cell><w>nasidō</w></cell>        <cell><w>nasidō</w></cell>        </row>
         <row> <cell rows="2" rend="right-bracket">Acc.</cell> <cell><w>numanan</w></cell>       <cell><w>numanō</w></cell>        <cell><w>numanōn</w></cell>       </row>
@@ -731,9 +731,9 @@
         </p>
 
         <table>
-          <row> <cell/>           <cell>Masc.</cell>    <cell>Neut.</cell>    <cell>Fem.</cell>   </row>
-          <row> <cell>Nom.</cell> <cell><w>twái</w></cell>     <cell><w>twa</w></cell>      <cell><w>twōs</w></cell>  </row>
-          <row> <cell>Acc.</cell> <cell><w>twans</w></cell>    <cell><w>twa</w></cell>      <cell><w>twōs</w></cell>  </row>
+          <row> <cell/>           <cell>Masc.</cell>    <cell>Neut.</cell>    <cell><grm>Fem.</grm></cell>   </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>twái</w></cell>     <cell><w>twa</w></cell>      <cell><w>twōs</w></cell>  </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>twans</w></cell>    <cell><w>twa</w></cell>      <cell><w>twōs</w></cell>  </row>
           <row> <cell>Gen.</cell> <cell><w>twaddjē</w></cell>  <cell><w>twaddjē</w></cell>  <cell>—</cell>            </row>
           <row> <cell>Dat.</cell> <cell><w>twáim</w></cell>    <cell><w>twáim</w></cell>    <cell><w>twáim</w></cell> </row>
         </table>
@@ -745,9 +745,9 @@
         </p>
 
         <table>
-          <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>  <cell>Fem.</cell>   </row>
-          <row> <cell>Nom.</cell> <cell><w>*þreis</w></cell> <cell><w>þrija</w></cell>  <cell><w>*þreis</w></cell>  </row>
-          <row> <cell>Acc.</cell> <cell><w>þrins</w></cell>  <cell><w>þrija</w></cell>  <cell><w>þrins</w></cell>   </row>
+          <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>  <cell><grm>Fem.</grm></cell>   </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>*þreis</w></cell> <cell><w>þrija</w></cell>  <cell><w>*þreis</w></cell>  </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>þrins</w></cell>  <cell><w>þrija</w></cell>  <cell><w>þrins</w></cell>   </row>
           <row> <cell>Gen.</cell> <cell><w>þrijē</w></cell>  <cell><w>þrijē</w></cell>  <cell>—</cell>              </row>
           <row> <cell>Dat.</cell> <cell><w>þrim</w></cell>   <cell><w>þrim</w></cell>   <cell>—</cell>              </row>
         </table>
