@@ -501,51 +501,55 @@
       <div type="subsubchapter" n="2">
         <head>b. jō-stems.</head>
 
-        <div type="section" n="193" status="wip">
-          <label>§ 193.</label>
+        <div type="section" n="193">
+          <p>
+            <label>§ 193.</label>
+          </p>
 
           <table>
-            <row> <cell/>           	<cell>Sing.</cell>        	<cell>Plur.</cell>    </row>
-            <row> <cell>Nom.</cell> 	<cell>bandi, band</cell>  	<cell>bandjōs</cell>  </row>
-            <row> <cell>Acc.</cell> 	<cell>bandja</cell>       	<cell>bandjōs</cell>  </row>
-            <row> <cell>Gen.</cell> 	<cell>bandjōs</cell>      	<cell>bandjō</cell>   </row>
-            <row> <cell>Dat.</cell> 	<cell>bandjái</cell>      	<cell>bandjōm</cell>  </row>
+            <row> <cell/>           <cell><grm>Sing.</grm></cell>        <cell><grm>Plur.</grm></cell>    </row>
+            <row> <cell><grm>Nom.</grm></cell> <cell><w>bandi</w>, <gloss>band</gloss></cell>  <cell><w>bandjōs</w></cell>  </row>
+            <row> <cell><grm>Acc.</grm></cell> <cell><w>bandja</w></cell>       <cell><w>bandjōs</w></cell>  </row>
+            <row> <cell><grm>Gen.</grm></cell> <cell><w>bandjōs</w></cell>      <cell><w>bandjō</w></cell>   </row>
+            <row> <cell><grm>Dat.</grm></cell> <cell><w>bandjái</w></cell>      <cell><w>bandjōm</w></cell>  </row>
           </table>
 
           <p>
-            Excepting the nom. sing. the prim. Germ. case endings were the same as those of the pure ō-stems.
-            The nom. sing. was *ƀandī, which regularly became bandi in <lang>Gothic</lang>.
+            Excepting the <grm>nom. sing.</grm> the <lang>prim. Germ.</lang> case endings were the same as those of the pure <c>ō</c>-stems.
+            The <grm>nom. sing.</grm> was <w>*ƀandī</w>, which regularly became <w>bandi</w> in <lang>Gothic</lang>.
           </p>
         </div>
 
-        <div type="section" n="194" status="wip">
+        <div type="section" n="194">
           <p>
             <label>§ 194.</label>
-            Like bandi are declined jō-stems which have a long stem-syllable, and those whose stems are polysyllabic, as
-            frijōndi, friend;
-            fráistubni, temptation;
-            háipi, field;
-            háiti, command;
-            mawi (gen. máujōs, § 150), maiden;
-            þiudangardi, kingdom;
-            þiwi (gen. þiujōs, § 150), maid-servant;
-            þūsundi, thousand;
-            wasti, clothing;
-            wundufni, wound.
+            Like <w>bandi</w> are declined <c>jō</c>-stems which have a long stem-syllable, and those whose stems are polysyllabic, as
+            <w>frijōndi</w>, <gloss>friend</gloss>;
+            <w>fráistubni</w>, <gloss>temptation</gloss>;
+            <w>háipi</w>, <gloss>field</gloss>;
+            <w>háiti</w>, <gloss>command</gloss>;
+            <w>mawi</w> (<grm>gen.</grm> <w>máujōs</w>, <ref>§ 150</ref>), <gloss>maiden</gloss>;
+            <w>þiudangardi</w>, <gloss>kingdom</gloss>;
+            <w>þiwi</w> (<grm>gen.</grm> <w>þiujōs</w>, <ref>§ 150</ref>), <gloss>maid-servant</gloss>;
+            <w>þūsundi</w>, <gloss>thousand</gloss>;
+            <w>wasti</w>, <gloss>clothing</gloss>;
+            <w>wundufni</w>, <gloss>wound</gloss>.
           </p>
         </div>
       </div>
     </div>
 
     <div type="subchapter" n="3">
-      <head>3. The i-declension.</head>
+      <head>3. The <c>i</c>-declension.</head>
 
-      <div type="section" n="195" status="wip">
+      <div type="section" n="195">
         <p>
           <label>§ 195.</label>
-          The i-declension contains only masculine and feminine nouns, and corresponds to the <lang>Lat.</lang> and <lang>Gr.</lang> i-declension (nom. <lang>Lat.</lang> -is, <lang>Gr.</lang> -ις, acc. -im, -ιν).
-          In the parent language the masc. and fem. i-stems were declined alike.
-          In <lang>Gothic</lang> the nom. acc. voc. sing. regularly fell together with the a-declension (§ 179), which was the reason why the gen. and dat. sing. and probably also the gen. pl. of the masc. nouns were re-formed after the analogy of the a-declension.
+          The <c>i</c>-declension contains only masculine and feminine nouns, and corresponds to the <lang>Lat.</lang> and <lang>Gr.</lang> <c>i</c>-declension (<grm>nom.</grm> <lang>Lat.</lang> <m>-is</m>, <lang>Gr.</lang> <m>-ις</m>, <grm>acc.</grm> <m>-im</m>, <m>-ιν</m>).
+          
+          In the parent language the <grm>masc. and fem.</grm> <c>i</c>-stems were declined alike.
+
+          In <lang>Gothic</lang> the <grm>nom. acc. voc. sing.</grm> regularly fell together with the <c>a</c>-declension (<ref>§ 179</ref>), which was the reason why the <grm>gen. and dat. sing.</grm> and probably also the <grm>gen. pl.</grm> of the <grm>masc.</grm> nouns were re-formed after the analogy of the <c>a</c>-declension.
         </p>
       </div>
 
@@ -556,12 +560,12 @@
           <label>§ 196.</label>
 
           <table>
-            <row> <cell/>           	<cell>Sing.</cell>        	<cell>Plur.</cell>    </row>
-            <row> <cell>Nom.</cell> 	<cell>gasts, guest</cell> 	<cell>gasteis</cell>  </row>
+            <row> <cell/>           	<cell><grm>Sing.</grm></cell>        	<cell><grm>Plur.</grm></cell>    </row>
+            <row> <cell><grm>Nom.</grm></cell> 	<cell>gasts, guest</cell> 	<cell>gasteis</cell>  </row>
             <row> <cell>Voc.</cell> 	<cell>gast</cell>         	<cell/>               </row>
-            <row> <cell>Acc.</cell> 	<cell>gast</cell>         	<cell>gastins</cell>  </row>
-            <row> <cell>Gen.</cell> 	<cell>gastis</cell>       	<cell>gastē</cell>    </row>
-            <row> <cell>Dat.</cell> 	<cell>gasta</cell>        	<cell>gastim</cell>   </row>
+            <row> <cell><grm>Acc.</grm></cell> 	<cell>gast</cell>         	<cell>gastins</cell>  </row>
+            <row> <cell><grm>Gen.</grm></cell> 	<cell>gastis</cell>       	<cell>gastē</cell>    </row>
+            <row> <cell><grm>Dat.</grm></cell> 	<cell>gasta</cell>        	<cell>gastim</cell>   </row>
           </table>
 
           <p>
@@ -618,12 +622,12 @@
           <label>§ 198.</label>
 
           <table>
-            <row> <cell/>           	<cell>Sing.</cell>          	<cell>Plur.</cell>    </row>
-            <row> <cell>Nom.</cell> 	<cell>ansts, favour</cell>  	<cell>ansteis</cell>  </row>
+            <row> <cell/>           	<cell><grm>Sing.</grm></cell>          	<cell><grm>Plur.</grm></cell>    </row>
+            <row> <cell><grm>Nom.</grm></cell> 	<cell>ansts, favour</cell>  	<cell>ansteis</cell>  </row>
             <row> <cell>Voc.</cell> 	<cell>anst</cell>           	<cell></cell>         </row>
-            <row> <cell>Acc.</cell> 	<cell>anst</cell>           	<cell>anstins</cell>  </row>
-            <row> <cell>Gen.</cell> 	<cell>anstáis</cell>        	<cell>anstē</cell>    </row>
-            <row> <cell>Dat.</cell> 	<cell>anstái</cell>         	<cell>anstim</cell>   </row>
+            <row> <cell><grm>Acc.</grm></cell> 	<cell>anst</cell>           	<cell>anstins</cell>  </row>
+            <row> <cell><grm>Gen.</grm></cell> 	<cell>anstáis</cell>        	<cell>anstē</cell>    </row>
+            <row> <cell><grm>Dat.</grm></cell> 	<cell>anstái</cell>         	<cell>anstim</cell>   </row>
           </table>
           
           <p>
@@ -737,15 +741,15 @@
 
           <table>
             <row> <cell/>                 	<cell cols="2">Sing.</cell>                                         </row>
-            <row> <cell>Nom.</cell>       	<cell>sunus (masc.), son</cell> 	<cell>handus (fem.), hand</cell>  </row>
+            <row> <cell><grm>Nom.</grm></cell>       	<cell>sunus (masc.), son</cell> 	<cell>handus (fem.), hand</cell>  </row>
             <row> <cell>Voc. Acc.</cell>  	<cell>sunu</cell>               	<cell>handu</cell>                </row>
-            <row> <cell>Gen.</cell>       	<cell>sunáus</cell>             	<cell>handáus</cell>              </row>
-            <row> <cell>Dat.</cell>       	<cell>sunáu</cell>              	<cell>handáu</cell>               </row>
+            <row> <cell><grm>Gen.</grm></cell>       	<cell>sunáus</cell>             	<cell>handáus</cell>              </row>
+            <row> <cell><grm>Dat.</grm></cell>       	<cell>sunáu</cell>              	<cell>handáu</cell>               </row>
             <row> <cell/>                 	<cell cols="2">Plur.</cell>                                         </row>
-            <row> <cell>Nom.</cell>       	<cell>sunjus</cell>             	<cell>handjus</cell>              </row>
-            <row> <cell>Acc.</cell>       	<cell>sununs</cell>             	<cell>handuns</cell>              </row>
-            <row> <cell>Gen.</cell>       	<cell>suniwē</cell>             	<cell>handiwē</cell>              </row>
-            <row> <cell>Dat.</cell>       	<cell>sunum</cell>              	<cell>handum</cell>               </row>
+            <row> <cell><grm>Nom.</grm></cell>       	<cell>sunjus</cell>             	<cell>handjus</cell>              </row>
+            <row> <cell><grm>Acc.</grm></cell>       	<cell>sununs</cell>             	<cell>handuns</cell>              </row>
+            <row> <cell><grm>Gen.</grm></cell>       	<cell>suniwē</cell>             	<cell>handiwē</cell>              </row>
+            <row> <cell><grm>Dat.</grm></cell>       	<cell>sunum</cell>              	<cell>handum</cell>               </row>
           </table>
 
           <div type="note">
@@ -819,8 +823,8 @@
 
           <table>
             <row> <cell>Nom.	Acc.</cell> 	<cell>faíhu, cattle</cell>  </row>
-            <row> <cell>Gen.</cell>       	<cell>faíháus</cell>        </row>
-            <row> <cell>Dat.</cell>       	<cell>faíháu</cell>         </row>
+            <row> <cell><grm>Gen.</grm></cell>       	<cell>faíháus</cell>        </row>
+            <row> <cell><grm>Dat.</grm></cell>       	<cell>faíháu</cell>         </row>
           </table>
 
           <div type="note">
@@ -893,11 +897,11 @@
         <label>§ 207.</label>
 
         <table>
-          <row> <cell/>           	<cell>Sing.</cell>      	<cell>Plur.</cell>  </row>
-          <row> <cell>Nom.</cell> 	<cell>hana, cock</cell> 	<cell>hanans</cell> </row>
-          <row> <cell>Acc.</cell> 	<cell>hanan</cell>      	<cell>hanans</cell> </row>
-          <row> <cell>Gen.</cell> 	<cell>hanins</cell>     	<cell>hananē</cell> </row>
-          <row> <cell>Dat.</cell> 	<cell>hanin</cell>      	<cell>hanam</cell>  </row>
+          <row> <cell/>           	<cell><grm>Sing.</grm></cell>      	<cell><grm>Plur.</grm></cell>  </row>
+          <row> <cell><grm>Nom.</grm></cell> 	<cell>hana, cock</cell> 	<cell>hanans</cell> </row>
+          <row> <cell><grm>Acc.</grm></cell> 	<cell>hanan</cell>      	<cell>hanans</cell> </row>
+          <row> <cell><grm>Gen.</grm></cell> 	<cell>hanins</cell>     	<cell>hananē</cell> </row>
+          <row> <cell><grm>Dat.</grm></cell> 	<cell>hanin</cell>      	<cell>hanam</cell>  </row>
         </table>
 
         <p>
@@ -1012,15 +1016,15 @@
 
         <table>
           <row> <cell/>                 	<cell cols="2">Sing.</cell>                                   </row>
-          <row> <cell>Nom.</cell>       	<cell>tuggō, tongue</cell>  	<cell>managei, multitude</cell> </row>
-          <row> <cell>Acc.</cell>       	<cell>tuggōn</cell>         	<cell>managein</cell>           </row>
-          <row> <cell>Gen.</cell>       	<cell>tuggōns</cell>        	<cell>manageins</cell>          </row>
-          <row> <cell>Dat.</cell>       	<cell>tuggōn</cell>         	<cell>managein</cell>           </row>
+          <row> <cell><grm>Nom.</grm></cell>       	<cell>tuggō, tongue</cell>  	<cell>managei, multitude</cell> </row>
+          <row> <cell><grm>Acc.</grm></cell>       	<cell>tuggōn</cell>         	<cell>managein</cell>           </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell>tuggōns</cell>        	<cell>manageins</cell>          </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell>tuggōn</cell>         	<cell>managein</cell>           </row>
           <pb n="99"/>
           <row> <cell/>                 	<cell cols="2">Plur.</cell>                                   </row>
           <row> <cell>Nom.	Acc.</cell> 	<cell>tuggōns</cell>        	<cell>manageins</cell>          </row>
-          <row> <cell>Gen.</cell>       	<cell>tuggōnō</cell>        	<cell>manageinō</cell>          </row>
-          <row> <cell>Dat.</cell>       	<cell>tuggōm</cell>         	<cell>manageim</cell>           </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell>tuggōnō</cell>        	<cell>manageinō</cell>          </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell>tuggōm</cell>         	<cell>manageim</cell>           </row>
         </table>
 
         <p>
@@ -1115,10 +1119,10 @@
         <label>§ 213.</label>
 
         <table>
-          <row> <cell/>                 	<cell>Sing.</cell>          	<cell>Plur.</cell>    </row>
+          <row> <cell/>                 	<cell><grm>Sing.</grm></cell>          	<cell><grm>Plur.</grm></cell>    </row>
           <row> <cell>Nom.	Acc.</cell> 	<cell>haírtō, heart</cell>  	<cell>haírtōna</cell> </row>
-          <row> <cell>Gen.</cell>       	<cell>haírtins</cell>       	<cell>haírtanē</cell> </row>
-          <row> <cell>Dat.</cell>       	<cell>haírtin</cell>        	<cell>haírtam</cell>  </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell>haírtins</cell>       	<cell>haírtanē</cell> </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell>haírtin</cell>        	<cell>haírtam</cell>  </row>
         </table>
 
         <p>
@@ -1165,11 +1169,11 @@
         <label>§ 215.</label>
 
         <table>
-          <row> <cell/>            	<cell>Sing.</cell>            	<cell>Plur.</cell>    </row>
-          <row> <cell>Nom.</cell> 	<cell>brōþar, brother</cell>  	<cell>brōþrjus</cell> </row>
-          <row> <cell>Acc.</cell> 	<cell>brōþar</cell>           	<cell>brōþruns</cell> </row>
-          <row> <cell>Gen.</cell> 	<cell>brōþrs</cell>           	<cell>brōþrē</cell>   </row>
-          <row> <cell>Dat.</cell> 	<cell>brōþr</cell>            	<cell>brōþrum</cell>  </row>
+          <row> <cell/>            	<cell><grm>Sing.</grm></cell>            	<cell><grm>Plur.</grm></cell>    </row>
+          <row> <cell><grm>Nom.</grm></cell> 	<cell>brōþar, brother</cell>  	<cell>brōþrjus</cell> </row>
+          <row> <cell><grm>Acc.</grm></cell> 	<cell>brōþar</cell>           	<cell>brōþruns</cell> </row>
+          <row> <cell><grm>Gen.</grm></cell> 	<cell>brōþrs</cell>           	<cell>brōþrē</cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell> 	<cell>brōþr</cell>            	<cell>brōþrum</cell>  </row>
         </table>
         <pb n="101"/>
         <p>
@@ -1221,11 +1225,11 @@
         </p>
 
         <table>
-          <row> <cell/>                 	<cell>Sing.</cell>            	<cell>Plur.</cell>      </row>
-          <row> <cell>Nom.</cell>       	<cell>frijōnds, friend</cell> 	<cell>frijōnds</cell>   </row>
+          <row> <cell/>                 	<cell><grm>Sing.</grm></cell>            	<cell><grm>Plur.</grm></cell>      </row>
+          <row> <cell><grm>Nom.</grm></cell>       	<cell>frijōnds, friend</cell> 	<cell>frijōnds</cell>   </row>
           <row> <cell>Voc. Acc.</cell>  	<cell>frijōnd</cell>          	<cell>frijōnds</cell>   </row>
-          <row> <cell>Gen.</cell>       	<cell>frijōndis</cell>        	<cell>frijōndē</cell>   </row>
-          <row> <cell>Dat.</cell>       	<cell>frijōnd</cell>          	<cell>frijōndam</cell>  </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell>frijōndis</cell>        	<cell>frijōndē</cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell>frijōnd</cell>          	<cell>frijōndam</cell>  </row>
         </table>
       </div>
 
@@ -1268,11 +1272,11 @@
         <label>§ 220.</label>
 
         <table>
-          <row> <cell/>           	<cell>Sing.</cell>        	<cell>Plur.</cell>    </row>
-          <row> <cell>Nom.</cell> 	<cell>baúrgs, city</cell> 	<cell>baúrgs</cell>   </row>
-          <row> <cell>Acc.</cell> 	<cell>baúrg</cell>        	<cell>baúrgs</cell>   </row>
-          <row> <cell>Gen.</cell>  	<cell>baúrgs</cell>       	<cell>baúrgē</cell>   </row>
-          <row> <cell>Dat.</cell> 	<cell>baúrg</cell>        	<cell>baúrgim</cell>  </row>
+          <row> <cell/>           <cell><grm>Sing.</grm></cell>        <cell><grm>Plur.</grm></cell>    </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell>baúrgs, city</cell> <cell>baúrgs</cell>   </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell>baúrg</cell>        <cell>baúrgs</cell>   </row>
+          <row> <cell><grm>Gen.</grm></cell> 	<cell>baúrgs</cell>     <cell>baúrgē</cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell>baúrg</cell>        <cell>baúrgim</cell>  </row>
         </table>
         <pb n="103"/>
         <p>

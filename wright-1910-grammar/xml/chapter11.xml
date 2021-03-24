@@ -184,17 +184,17 @@
         </p>
 
         <table>
-          <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                               </row>
-          <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                       <cell><grm>Fem.</grm></cell>              </row>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                               </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                                <cell><grm>Neut.</grm></cell>                       <cell><grm>Fem.</grm></cell>              </row>
           <row> <cell><grm>Nom.</grm></cell> <cell><w>midjis</w>, <gloss>middle</gloss></cell> <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
           <row> <cell><grm>Acc.</grm></cell> <cell><w>midj<hi>ana</hi></w></cell>              <cell><w>midi</w>, <w>midj<hi>ata</hi></w></cell> <cell><w>midja</w></cell>      </row>
-          <row> <cell>Gen.</cell> <cell><w>midjis</w></cell>                        <cell><w>midjis</w></cell>               <cell><w>midj<hi>áizōs</hi></w></cell>  </row>
-          <row> <cell>Dat.</cell> <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midjái</w></cell>     </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>midjis</w></cell>                        <cell><w>midjis</w></cell>               <cell><w>midj<hi>áizōs</hi></w></cell>  </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midj<hi>amma</hi></w></cell>             <cell><w>midjái</w></cell>     </row>
           <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                               </row>
           <row> <cell><grm>Nom.</grm></cell>	<cell><w>midj<hi>ái</hi></w></cell>               <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
           <row> <cell><grm>Acc.</grm></cell> <cell><w>midjans</w></cell>                       <cell><w>midja</w></cell>                <cell><w>midjōs</w></cell>     </row>
-          <row> <cell>Gen.</cell> <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizō</hi></w></cell>   </row>
-          <row> <cell>Dat.</cell> <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>    </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizē</hi></w></cell>             <cell><w>midj<hi>áizō</hi></w></cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>              <cell><w>midj<hi>áim</hi></w></cell>    </row>
         </table>
 
       </div>
@@ -458,82 +458,93 @@
   <div type="subchapter" n="3">
     <head>C. Declension of Participles.</head>
 
-    <div type="section" n="239" status="wip">
+    <div type="section" n="239">
       <p>
         <label>§ 239.</label>
-        In the parent language the stem of the present participle ended in -nt, as in <lang>Lat.</lang> ferent-, Gr. φέροντ-, bearing.
-        The masc. and neut. were originally declined like consonant stems (§ 217), and the fem. like bandi (§ 193).
-        This original distinction was not preserved either in <lang>Gothic</lang> or the West Germanic languages.
-        In <lang>Gothic</lang> the present participle came to have only weak forms except in the masc. nom. sing. nimands (§ 217) beside nimanda.
+        In the parent language the stem of the present participle ended in <m>-nt</m>, as in <lang>Lat.</lang> <m>ferent-</m>, <grm>Gr.</grm> <m>φέροντ-</m>, <gloss>bearing</gloss>.
+
+        The <grm>masc. and neut.</grm> were originally declined like consonant stems (<ref>§ 217</ref>), and the <grm>fem.</grm> like <w>bandi</w> (<ref>§ 193</ref>).
+
+        This original distinction was not preserved either in <lang>Gothic</lang> or the <lang>West Germanic languages</lang>.
+
+        In <lang>Gothic</lang> the present participle came to have only weak forms except in the <grm>masc. nom. sing.</grm> <w>nimands</w> (<ref>§ 217</ref>) beside <w>nimanda</w>.
         <pb n="111"/>
+        
         In other respects it is always declined weak like the three nouns
-        hana (§ 207),
-        haírtō (§ 213),
-        managei (§ 210).
-        The reason why the fem. is declined like managei and not like tuggō is owing to the fact that the original ending of the nom. was -ī (§§ 193, 210).
-        In the West Germanic languages the masc. and neut. went over into the ja-declension after the analogy of the feminine, and then the pres. participle came to be declined like an ordinary adjective according to both the strong and the weak declension.
+        <w>hana</w> (<ref>§ 207</ref>),
+        <w>haírtō</w> (<ref>§ 213</ref>),
+        <w>managei</w> (<ref>§ 210</ref>).
+        
+        The reason why the <grm>fem.</grm> is declined like <w>managei</w> and not like <w>tuggō</w> is owing to the fact that the original ending of the <grm>nom.</grm> was <m>-ī</m> (<ref>§§ 193, 210</ref>).
+
+        In the <lang>West Germanic languages</lang> the <grm>masc. and neut.</grm> went over into the <c>ja</c>-declension after the analogy of the feminine, and then the <grm>pres. participle</grm> came to be declined like an ordinary adjective according to both the strong and the weak declension.
       </p>
 
       <table>
-        <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                       </row>
-        <row> <cell/>           <cell>Masc.</cell>                                                  <cell>Neut.</cell>            <cell><grm>Fem.</grm></cell>               </row>
+        <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                                       </row>
+        <row> <cell/>           <cell><grm>Masc.</grm></cell>                                                  <cell><grm>Neut.</grm></cell>            <cell><grm>Fem.</grm></cell>               </row>
         <row> <cell><grm>Nom.</grm></cell> <cell><w>nimands</w>, <w>nimanda</w>, <gloss>taking</gloss></cell>  <cell><w>nimandō</w></cell>   <cell><w>nimandei</w></cell>    </row>
         <row> <cell><grm>Acc.</grm></cell> <cell><w>nimandan</w></cell>                                        <cell><w>nimandō</w></cell>   <cell><w>nimandein</w></cell>   </row>
-        <row> <cell>Gen.</cell> <cell><w>nimandins</w></cell>                                       <cell><w>nimandins</w></cell> <cell><w>nimandeins</w></cell>  </row>
-        <row> <cell>Dat.</cell> <cell><w>nimandin</w></cell>                                        <cell><w>nimandin</w></cell>  <cell><w>nimandein</w></cell>   </row>
-        <row> <cell/>           <cell cols="3">Plur.</cell>                                                                                   </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>nimandins</w></cell>                                       <cell><w>nimandins</w></cell> <cell><w>nimandeins</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>nimandin</w></cell>                                        <cell><w>nimandin</w></cell>  <cell><w>nimandein</w></cell>   </row>
+        <row> <cell/>           <cell cols="3"><grm>Plur.</grm></cell>                                                                                   </row>
         <row> <cell><grm>Nom.</grm></cell>	<cell><w>nimandans</w></cell>                                       <cell><w>nimandōna</w></cell> <cell><w>nimandeins</w></cell>  </row>
         <row> <cell><grm>Acc.</grm></cell> <cell><w>nimandans</w></cell>                                       <cell><w>nimandōna</w></cell> <cell><w>nimandeins</w></cell>  </row>
-        <row> <cell>Gen.</cell> <cell><w>nimandanē</w></cell>                                       <cell><w>nimandanē</w></cell> <cell><w>nimandeinō</w></cell>  </row>
-        <row> <cell>Dat.</cell> <cell><w>nimandam</w></cell>                                        <cell><w>nimandam</w></cell>  <cell><w>nimandeim</w></cell>   </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>nimandanē</w></cell>                                       <cell><w>nimandanē</w></cell> <cell><w>nimandeinō</w></cell>  </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>nimandam</w></cell>                                        <cell><w>nimandam</w></cell>  <cell><w>nimandeim</w></cell>   </row>
       </table>
     </div>
 
-    <div type="section" n="240" status="wip">
+    <div type="section" n="240">
       <p>
         <label>§ 240.</label>
         The past participle has both the strong and the weak declension.
-        In the former case it is declined like blinds (§ 226), and in the latter like blinda (§ 237).
+        In the former case it is declined like <w>blinds</w> (<ref>§ 226</ref>), and in the latter like <w>blinda</w> (<ref>§ 237</ref>).
       </p>
     </div>
     
-    <div type="section" n="241" status="wip">
-      <p>
-        <label>§ 241.</label>
-        Strong
-      </p>
+    <div type="subsubchapter">
+      <head>Strong.</head>
 
-      <table>
-        <row> <cell/>           <cell cols="3">Sing.</cell>                                                                                                     </row>
-        <row> <cell/>           <cell>Masc.</cell>                                <cell>Neut.</cell>                          <cell><grm>Fem.</grm></cell>                 </row>
-        <row> <cell><grm>Nom.</grm></cell> <cell><w>numans</w>, <gloss>taken</gloss></cell>  <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
-        <row> <cell><grm>Acc.</grm></cell> <cell><w>numanana</w></cell>                      <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
-        <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>                 <cell><abbr>&amp;c.</abbr></cell>           <cell><abbr>&amp;c.</abbr></cell> </row>
-      </table>
-
-      <p>
-        In the same manner are declined the past participles of weak verbs, as
-        nasiþs, saved, acc. nasidana;
-        salbōþs, anointed, acc. salbōdana, &amp;c.
-        On the interchange of þ and d see § 173.
-      </p>
+      <div type="section" n="241">
+        <p>
+          <label>§ 241.</label>
+        </p>
+  
+        <table>
+          <row> <cell/>           <cell cols="3"><grm>Sing.</grm></cell>                                                                                                     </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>                                <cell><grm>Neut.</grm></cell>                          <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>numans</w>, <gloss>taken</gloss></cell>  <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>numanana</w></cell>                      <cell><w>numan</w>, <w>numanata</w></cell>  <cell><w>numana</w></cell>        </row>
+          <row> <cell/>           <cell><abbr>&amp;c.</abbr></cell>                 <cell><abbr>&amp;c.</abbr></cell>           <cell><abbr>&amp;c.</abbr></cell> </row>
+        </table>
+  
+        <p>
+          In the same manner are declined the past participles of weak verbs, as
+          <w>nasiþs</w>, <gloss>saved</gloss>, <grm>acc.</grm> <w>nasidana</w>;
+          <w>salbōþs</w>, <gloss>anointed</gloss>, <grm>acc.</grm> <w>salbōdana</w>, <abbr>&amp;c.</abbr>
+          On the interchange of <c>þ</c> and <c>d</c> see <ref>§ 173</ref>.
+        </p>
+      </div>
     </div>
     <pb n="112"/>
-    <div type="section" n="242" status="wip">
-      <p>
-        <label>§ 242.</label>
-        Weak
-      </p>
-
-      <table>
-        <row> <cell/>                                         <cell cols="3">Sing.</cell>                                                                           </row>
-        <row> <cell/>                                         <cell>Masc.</cell>                <cell>Neut.</cell>                <cell><grm>Fem.</grm></cell>                 </row>
-        <row> <cell rows="2" rend="right-bracket">Nom.</cell> <cell><w>numana</w></cell>        <cell><w>numanō</w></cell>        <cell><w>numanō</w></cell>        </row>
-        <row>                                                 <cell><w>nasida</w></cell>        <cell><w>nasidō</w></cell>        <cell><w>nasidō</w></cell>        </row>
-        <row> <cell rows="2" rend="right-bracket">Acc.</cell> <cell><w>numanan</w></cell>       <cell><w>numanō</w></cell>        <cell><w>numanōn</w></cell>       </row>
-        <row>                                                 <cell><w>nasidan</w></cell>       <cell><w>nasidō</w></cell>        <cell><w>nasidōn</w></cell>       </row>
-        <row> <cell/>                                         <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> </row>
-      </table>
+    <div type="subsubchapter">
+      <head>Weak.</head>
+      <div type="section" n="242">
+        <p>
+          <label>§ 242.</label>
+        </p>
+  
+        <table>
+          <row> <cell/>                                         <cell cols="3"><grm>Sing.</grm></cell>                                                                           </row>
+          <row> <cell/>                                         <cell><grm>Masc.</grm></cell>                <cell><grm>Neut.</grm></cell>                <cell><grm>Fem.</grm></cell>                 </row>
+          <row> <cell rows="2" rend="right-bracket">Nom.</cell> <cell><w>numana</w></cell>        <cell><w>numanō</w></cell>        <cell><w>numanō</w></cell>        </row>
+          <row>                                                 <cell><w>nasida</w></cell>        <cell><w>nasidō</w></cell>        <cell><w>nasidō</w></cell>        </row>
+          <row> <cell rows="2" rend="right-bracket">Acc.</cell> <cell><w>numanan</w></cell>       <cell><w>numanō</w></cell>        <cell><w>numanōn</w></cell>       </row>
+          <row>                                                 <cell><w>nasidan</w></cell>       <cell><w>nasidō</w></cell>        <cell><w>nasidōn</w></cell>       </row>
+          <row> <cell/>                                         <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> <cell><abbr>&amp;c.</abbr></cell> </row>
+        </table>
+      </div>
     </div>
   </div>
 
@@ -731,11 +742,11 @@
         </p>
 
         <table>
-          <row> <cell/>           <cell>Masc.</cell>    <cell>Neut.</cell>    <cell><grm>Fem.</grm></cell>   </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>    <cell><grm>Neut.</grm></cell>    <cell><grm>Fem.</grm></cell>   </row>
           <row> <cell><grm>Nom.</grm></cell> <cell><w>twái</w></cell>     <cell><w>twa</w></cell>      <cell><w>twōs</w></cell>  </row>
           <row> <cell><grm>Acc.</grm></cell> <cell><w>twans</w></cell>    <cell><w>twa</w></cell>      <cell><w>twōs</w></cell>  </row>
-          <row> <cell>Gen.</cell> <cell><w>twaddjē</w></cell>  <cell><w>twaddjē</w></cell>  <cell>—</cell>            </row>
-          <row> <cell>Dat.</cell> <cell><w>twáim</w></cell>    <cell><w>twáim</w></cell>    <cell><w>twáim</w></cell> </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>twaddjē</w></cell>  <cell><w>twaddjē</w></cell>  <cell>—</cell>            </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>twáim</w></cell>    <cell><w>twáim</w></cell>    <cell><w>twáim</w></cell> </row>
         </table>
       </div>
     
@@ -745,11 +756,11 @@
         </p>
 
         <table>
-          <row> <cell/>           <cell>Masc.</cell>  <cell>Neut.</cell>  <cell><grm>Fem.</grm></cell>   </row>
+          <row> <cell/>           <cell><grm>Masc.</grm></cell>  <cell><grm>Neut.</grm></cell>  <cell><grm>Fem.</grm></cell>   </row>
           <row> <cell><grm>Nom.</grm></cell> <cell><w>*þreis</w></cell> <cell><w>þrija</w></cell>  <cell><w>*þreis</w></cell>  </row>
           <row> <cell><grm>Acc.</grm></cell> <cell><w>þrins</w></cell>  <cell><w>þrija</w></cell>  <cell><w>þrins</w></cell>   </row>
-          <row> <cell>Gen.</cell> <cell><w>þrijē</w></cell>  <cell><w>þrijē</w></cell>  <cell>—</cell>              </row>
-          <row> <cell>Dat.</cell> <cell><w>þrim</w></cell>   <cell><w>þrim</w></cell>   <cell>—</cell>              </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>þrijē</w></cell>  <cell><w>þrijē</w></cell>  <cell>—</cell>              </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>þrim</w></cell>   <cell><w>þrim</w></cell>   <cell>—</cell>              </row>
         </table>
       </div>
     

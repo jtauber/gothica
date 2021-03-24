@@ -973,48 +973,52 @@
       </p>
     </div>
 
-    <div type="section" n="140" status="wip">
+    <div type="section" n="140">
       <p>
         <label>§ 140.</label>
-        Prim. Germanic Ҍn, đn, ʒn = <lang>Indg.</lang> pń-, tń-, kń-, qń- (by Verner’s law), and bhn-́, *dhn-́, ghn-́, ghn-́, became ҌҌ, đđ, ʒʒ before the principal accent, then later bb, dd, gg;
-        and in like manner <lang>Indg.</lang> bn-́, dn-́, gn-́, gn-́ became bb, dd, gg.
-        And these mediae were shifted to pp, tt, kk at the same time as the original <lang>Indg.</lang> mediae became tenues (<ref>§ 129</ref>).
-        These geminated consonants were simplified to p, t, k after long syllables.
+        <lang>Prim. Germanic</lang> <c>Ҍn</c>, <c>đn</c>, <c>ʒn</c> = <lang>Indg.</lang> <c>pn-́ </c>, <c>tn-́ </c>, <c>kn-́ </c>, <c>qn-́ </c> (by Verner’s law), and <c>bhn-́</c>, <c>*dhn-́</c>, <c>ghn-́</c>, <c>ghn-́</c>, became <c>ҌҌ</c>, <c>đđ</c>, <c>ʒʒ</c> before the principal accent, then later <c>bb</c>, <c>dd</c>, <c>gg</c>;
+        and in like manner <lang>Indg.</lang> <c>bn-́</c>, <c>dn-́</c>, <c>gn-́</c>, <c>gn-́</c> became <c>bb</c>, <c>dd</c>, <c>gg</c>.
+
+        And these mediae were shifted to <c>pp</c>, <c>tt</c>, <c>kk</c> at the same time as the original <lang>Indg.</lang> mediae became tenues (<ref>§ 129</ref>).
+
+        These geminated consonants were simplified to <c>p</c>, <c>t</c>, <c>k</c> after long syllables.
+
         Examples are:
-        <lang>OE.</lang> hnæpp, <lang>OHG.</lang> napf, from *χnaҌn-́ or *χnabn-́, basin, bowl;
-        <lang>OE.</lang> hoppian, <lang>O.Icel.</lang> hoppa, MHG. hopfen, from *χoҌn-́, to<pb n="68"/>hop;
-        <lang>OE.</lang> <lang>OS.</lang> topp, <lang>O.Icel.</lang> toppr, from *toҌn-́ or *tobn-́, top, summit;
-        <lang>OE.</lang> hēap, <lang>OS.</lang> hōp, <lang>OHG.</lang> houf, from *χauҌn-́; <lang>OE.</lang> cnotta, from *knođn-́, beside <lang>OHG.</lang> chnodo, chnoto, knot;
-        <lang>Goth.</lang> ƕeits, <lang>OE.</lang> <lang>OS.</lang> hwīt, from *χwīđn-́, white; <lang>OE.</lang> bucc, <lang>O.Icel.</lang> bokkr, <lang>OHG.</lang> boc (gen. bockes), <lang>prim. form</lang> *bhugnós, buck;
-        <lang>OE.</lang> liccian, <lang>OS.</lang> leccōn, <lang>OHG.</lang> lecchōn, from *leʒn-́, to lick;
-        <lang>OE.</lang> locc, <lang>O.Icel.</lang> lokkr, <lang>prim. form</lang> *lugnós, lock;
-        <lang>OE.</lang> smocc, <lang>O.Icel.</lang> smokkr, from *smoʒn-́, smock;
-        <lang>OE.</lang> lōcian, <lang>OS.</lang> lōkōn, from *lōgn-́ or *lōʒn-́, to look.
+        <lang>OE.</lang> <w>hnæpp</w>, <lang>OHG.</lang> <w>napf</w>, from <w>*χnaҌn-́</w> or <w>*χnabn-́</w>, <gloss>basin, bowl</gloss>;
+        <lang>OE.</lang> <w>hoppian</w>, <lang>O.Icel.</lang> <w>hoppa</w>, <lang>MHG.</lang> <w>hopfen</w>, from <w>*χoҌn-́</w>, <gloss>to<pb n="68"/>hop</gloss>;
+        <lang>OE.</lang> <lang>OS.</lang> <w>topp</w>, <lang>O.Icel.</lang> <w>toppr</w>, from <w>*toҌn-́</w> or <w>*tobn-́</w>, <gloss>top, summit</gloss>;
+        <lang>OE.</lang> <w>hēap</w>, <lang>OS.</lang> <w>hōp</w>, <lang>OHG.</lang> <w>houf</w>, from <w>*χauҌn-́</w>; <lang>OE.</lang> <w>cnotta</w>, from <w>*knođn-́</w>, beside <lang>OHG.</lang> <w>chnodo</w>, <w>chnoto</w>, <gloss>knot</gloss>;
+        <lang>Goth.</lang> <w>ƕeits</w>, <lang>OE.</lang> <lang>OS.</lang> <w>hwīt</w>, from <w>*χwīđn-́</w>, <gloss>white</gloss>;
+        <lang>OE.</lang> <w>bucc</w>, <lang>O.Icel.</lang> <w>bokkr</w>, <lang>OHG.</lang> <w>boc</w> (<grm>gen.</grm> <w>bockes</w>), <lang>prim. form</lang> <w>*bhugnós</w>, <gloss>buck</gloss>;
+        <lang>OE.</lang> <w>liccian</w>, <lang>OS.</lang> <w>leccōn</w>, <lang>OHG.</lang> <w>lecchōn</w>, from <w>*leʒn-́</w>, <gloss>to lick</gloss>;
+        <lang>OE.</lang> <w>locc</w>, <lang>O.Icel.</lang> <w>lokkr</w>, <lang>prim. form</lang> <w>*lugnós</w>, <gloss>lock</gloss>;
+        <lang>OE.</lang> <w>smocc</w>, <lang>O.Icel.</lang> <w>smokkr</w>, from <w>*smoʒn-́</w>, <gloss>smock</gloss>;
+        <lang>OE.</lang> <w>lōcian</w>, <lang>OS.</lang> <w>lōkōn</w>, from <w>*lōgn-́</w> or <w>*lōʒn-́</w>, <gloss>to look</gloss>.
       </p>
     </div>
 
-    <div type="section" n="141" status="wip">
+    <div type="section" n="141">
       <p>
         <label>§ 141.</label>
-        <lang>Indg.</lang> z + media became s + tenuis, as <lang>Goth.</lang> asts, <lang>OHG.</lang> ast = <lang>Gr.</lang> ὄζος, from *ozdos, branch, twig;
-        <lang>OE.</lang> <lang>OHG.</lang> nest, <lang>Lat.</lang> nīdus, from *ni-zdos, nest, related to root sed-, sit;
-        <lang>OE.</lang> masc. <lang>OHG.</lang> masca, mesh, net, <abbr>cp.</abbr> <lang>Lithuanian</lang> mezgù, I tie in knots.
+        <lang>Indg.</lang> <c>z</c> + media became <c>s</c> + tenuis, as <lang>Goth.</lang> <w>asts</w>, <lang>OHG.</lang> <w>ast</w> = <lang>Gr.</lang> <w>ὄζος</w>, from <w>*ozdos</w>, <gloss>branch, twig</gloss>;
+        <lang>OE.</lang> <lang>OHG.</lang> <w>nest</w>, <lang>Lat.</lang> <w>nīdus</w>, from <w>*ni-zdos</w>, <gloss>nest</gloss>, related to root <m>sed-</m>, <gloss>sit</gloss>;
+        <lang>OE.</lang> <grm>masc.</grm> <lang>OHG.</lang> <w>masca</w>, <gloss>mesh, net</gloss>, <abbr>cp.</abbr> <lang>Lithuanian</lang> <w>mezgù</w>, <gloss>I tie in knots</gloss>.
       </p>
 
       <p>
-        <lang>Indg.</lang> z + media aspirata became z + voiced spirant, as <lang>Goth.</lang> mizdō, <lang>OE.</lang> meord, pay, reward, <abbr>cp.</abbr> <lang>O. Bulgarian</lang> mῐzda, <lang>Gr.</lang> μισθός, pay;
-        <lang>OE.</lang> mearg, <lang>OHG.</lang> marg, <lang>O. Bulgarian</lang> mozgŭ, marrow, root mezgh-;
-        <lang>Goth.</lang> huzd, <lang>OE.</lang> hord, <lang>OHG.</lang> hort, hoard, treasure, root kuzdh-.
+        <lang>Indg.</lang> <c>z</c> + media aspirata became <c>z</c> + voiced spirant, as <lang>Goth.</lang> <w>mizdō</w>, <lang>OE.</lang> <w>meord</w>, <gloss>pay, reward</gloss>, <abbr>cp.</abbr> <lang>O. Bulgarian</lang> <w>mῐzda</w>, <lang>Gr.</lang> <w>μισθός</w>, <gloss>pay</gloss>;
+        <lang>OE.</lang> <w>mearg</w>, <lang>OHG.</lang> <w>marg</w>, <lang>O. Bulgarian</lang> <w>mozgŭ</w>, <gloss>marrow</gloss>, root <m>mezgh-</m>;
+        <lang>Goth.</lang> <w>huzd</w>, <lang>OE.</lang> <w>hord</w>, <lang>OHG.</lang> <w>hort</w>, <gloss>hoard, treasure</gloss>, root <m>kuzdh-</m>.
       </p>
     </div>
 
-    <div type="section" n="142" status="wip">
+    <div type="section" n="142">
       <p>
         <label>§ 142.</label>
-        Guttural n (ŋ) disappeared before χ, as <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> fāhan, <lang>OE.</lang> fōn, from *faŋχanan, to seize;
-        <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> hāhan, <lang>OE.</lang> hōn, from *χaŋχanan, to hang;
-        <lang>Goth.</lang> þeihan, <lang>OS.</lang> thīhan, <lang>OHG.</lang> dīhan, <lang>OE.</lang> þīon, þēon, from *þiŋχanan, to thrive;
-        pret. <lang>Goth.</lang> þāhta, <lang>OE.</lang> þōhte, <lang>OS.</lang> thāhta, <lang>OHG.</lang> dāhta, from *þaŋχtō-, I thought, beside inf. <lang>Goth.</lang> þagkjan, <lang>OS.</lang> thenkian, <lang>OHG.</lang> denken, <lang>OE.</lang> þencan.
+        Guttural <c>n</c> (<c>ŋ</c>) disappeared before <c>χ</c>, as <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>fāhan</w>, <lang>OE.</lang> <w>fōn</w>, from <w>*faŋχanan</w>, <gloss>to seize</gloss>;
+        <lang>Goth.</lang> <lang>OS.</lang> <lang>OHG.</lang> <w>hāhan</w>, <lang>OE.</lang> <w>hōn</w>, from <w>*χaŋχanan</w>, <gloss>to hang</gloss>;
+        <lang>Goth.</lang> <w>þeihan</w>, <lang>OS.</lang> <w>thīhan</w>, <lang>OHG.</lang> <w>dīhan</w>, <lang>OE.</lang> <w>þīon</w>, <w>þēon</w>, from <w>*þiŋχanan</w>, <gloss>to thrive</gloss>;
+        <grm>pret.</grm> <lang>Goth.</lang> <w>þāhta</w>, <lang>OE.</lang> <w>þōhte</w>, <lang>OS.</lang> <w>thāhta</w>, <lang>OHG.</lang> <w>dāhta</w>, from <m>*þaŋχtō-</m>, <gloss>I thought</gloss>, beside <grm>inf.</grm> <lang>Goth.</lang> <w>þagkjan</w>, <lang>OS.</lang> <w>thenkian</w>, <lang>OHG.</lang> <w>denken</w>, <lang>OE.</lang> <w>þencan</w>.
       </p>
     </div>
 

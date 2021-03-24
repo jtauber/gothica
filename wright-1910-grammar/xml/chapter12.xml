@@ -617,32 +617,37 @@
       </table>
     </div>
 
-    <div type="section" n="277" status="wip">
+    <div type="section" n="277">
       <p>
         <label>§ 277.</label>
-        Sums, some one, a certain one, declined like blinds (§ 226).
-        Sums … sums (= <lang>Gr.</lang> ὁ μέν … ὁ δέ), the one … the other;
-        in this usage the particle uh is generally added to the second member, and sometimes to the first also, as nom. pl. sumái(h) … sumáih, some … and others.
+        <w>Sums</w>, <gloss>some one, a certain one</gloss>, declined like <w>blinds</w> (<ref>§ 226</ref>).
+        <w>Sums</w> … <w>sums</w> (= <lang>Gr.</lang> <phr>ὁ μέν … ὁ δέ</phr>), <gloss>the one … the other</gloss>;
+        in this usage the particle <w>uh</w> is generally added to the second member, and sometimes to the first also, as <grm>nom. pl.</grm> <w>sumái(h)</w> … <w>sumáih</w>, <gloss>some … and others</gloss>.
       </p>
     </div>
 
-    <div type="section" n="278" status="wip">
+    <div type="section" n="278">
       <p>
         <label>§ 278.</label>
-        From ƕas, who, manna, man, áins, one, are formed with the enclitic particle hun the three indefinite pronouns ƕashun, mannahun, áinshun.
-        They always occur along with the negative particle ni in the meaning no one, no, none (neut.), nothing.
-        Of the first only the nom. sing. masc. ni ƕashun, no one, occurs.
-        Of the second, which is naturally always masc., we have sing. nom. ni mannahun, no one, acc. ni mannanhun, gen. ni manshun, dat. ni mannhun. 
-        Ni áinshun, no one, no, none (neut.), nothing, is declined thus:—
+
+        From <w>ƕas</w>, who, manna, man, <w>áins</w>, one, are formed with the enclitic particle <w>hun</w> the three indefinite pronouns <w>ƕashun</w>, <w>mannahun</w>, <w>áinshun</w>.
+
+        They always occur along with the negative particle <w>ni</w> in the meaning <gloss>no one, no, none</gloss> (<grm>neut.</grm>), <gloss>nothing</gloss>.
+
+        Of the first only the <grm>nom. sing. masc.</grm> <phr>ni ƕashun</phr>, <gloss>no one</gloss>, occurs.
+
+        Of the second, which is naturally always <grm>masc.</grm>, we have <grm>sing. nom.</grm> <phr>ni mannahun</phr>, <gloss>no one</gloss>, <grm>acc.</grm> <phr>ni mannanhun</phr>, <grm>gen.</grm> <phr>ni manshun</phr>, <grm>dat.</grm> <phr>ni mannhun</phr>.
+
+        <phr>Ni áinshun</phr>, <gloss>no one, no, none</gloss> (<grm>neut.</grm>), <gloss>nothing</gloss>, is declined thus:—
       </p>
 
       <table>
         <row> <cell>Sing.</cell>                                                                                </row>
         <row> <cell/>           <cell><grm>Masc.</grm></cell>            <cell><grm>Neut.</grm></cell>      <cell><grm>Fem.</grm></cell>         </row>
-        <row> <cell><grm>Nom.</grm></cell> <cell>áinshun</cell>          <cell>áinhun</cell>     <cell>áinōhun</cell>      </row>
-        <row> <cell><grm>Acc.</grm></cell> <cell>áinnōhun áinōhun</cell> <cell>áinhun</cell>	    <cell>áinōhun</cell>      </row>
-        <row> <cell><grm>Gen.</grm></cell> <cell>áinishun</cell>         <cell>áinishun</cell>   <cell>*áináizōshun</cell> </row>
-        <row> <cell><grm>Dat.</grm></cell> <cell>áinummēhun</cell>       <cell>áinummēhun</cell> <cell>áináihun</cell>     </row>
+        <row> <cell><grm>Nom.</grm></cell> <cell><w>áinshun</w></cell>          <cell><w>áinhun</w></cell>     <cell><w>áinōhun</w></cell>      </row>
+        <row> <cell><grm>Acc.</grm></cell> <cell><w>áinnōhun</w> <w>áinōhun</w></cell> <cell><w>áinhun</w></cell>	    <cell><w>áinōhun</w></cell>      </row>
+        <row> <cell><grm>Gen.</grm></cell> <cell><w>áinishun</w></cell>         <cell><w>áinishun</w></cell>   <cell><w>*áináizōshun</w></cell> </row>
+        <row> <cell><grm>Dat.</grm></cell> <cell><w>áinummēhun</w></cell>       <cell><w>áinummēhun</w></cell> <cell><w>áináihun</w></cell>     </row>
       </table>
       
       <pb n="132"/>
@@ -651,30 +656,31 @@
         <list>
           <item n="1">
             <p>
-              Note.—1. The pronominal particle -hun is related to <lang>Skr.</lang> ca, <lang>Gr.</lang> τέ, <lang>Lat.</lang> que, and, and was always used along with the negative ni, <abbr>cp.</abbr> <lang>Skr.</lang> ná káš́ caná (= ca + neg.) = <lang>Goth.</lang> ni ƕas-hun, no one whatever, no one, none, lit. not who and not.
+              <label>Note.—</label>
+              1. The pronominal particle <m>-hun</m> is related to <lang>Skr.</lang> <w>ca</w>, <lang>Gr.</lang> <w>τέ</w>, <lang>Lat.</lang> <w>que</w>, <gloss>and</gloss>, and was always used along with the negative <w>ni</w>, <abbr>cp.</abbr> <lang>Skr.</lang> <phr>ná káš́ caná</phr> (= <w>ca</w> + <grm>neg.</grm>) = <lang>Goth.</lang> <phr>ni ƕas-hun</phr>, <gloss>no one whatever, no one, none</gloss>, <abbr>lit.</abbr> <gloss>not who and not</gloss>.
             </p>
           </item>
           <item n="2">
             <p>
-              2. On the preservation of the long vowels when protected by -h, -hun, see § 89 and note.
+              2. On the preservation of the long vowels when protected by <m>-h</m>, <m>-hun</m>, see <ref>§ 89 and note</ref>.
             </p>
           </item>
           <item n="3">
             <p>
-              3. Acc. masc. áinnōhun, áinōhun from older *áinanōhun.
-              It is difficult to account for the u in áinummēhun.
-              </p>
+              3. <grm>Acc. masc.</grm> <w>áinnōhun</w>, <w>áinōhun</w> from older <w>*áinanōhun</w>.
+              It is difficult to account for the <c>u</c> in <w>áinummēhun</w>.
+            </p>
           </item>
         </list>
       </div>
 
     </div>
 
-    <div type="section" n="279" status="wip">
+    <div type="section" n="279">
       <p>
         <label>§ 279.</label>
-        The simple interrogative ƕas, ƕa is often used indefinitely with the meaning anyone, neut. anything;
-        also the numeral áins, one, a certain one.
+        The simple interrogative <w>ƕas</w>, <w>ƕa</w> is often used indefinitely with the meaning <gloss>anyone</gloss>, <grm>neut.</grm> <gloss>anything</gloss>;
+        also the numeral <w>áins</w>, <gloss>one, a certain one</gloss>.
       </p>
     </div>
   </div>

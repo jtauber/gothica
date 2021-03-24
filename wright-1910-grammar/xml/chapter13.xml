@@ -470,11 +470,13 @@
       <div type="subsubsubchapter">
         <head>Class I.</head>
     
-        <div type="section" n="299" status="wip">
-          <label>§ 299.</label>
+        <div type="section" n="299">
+          <p>
+            <label>§ 299.</label>
+          </p>
       
           <table>
-            <row> <cell/>                                   <cell>Infin.</cell>           <cell>Pret. Sing.</cell> <cell>Pret. Pl.</cell>                            <cell>P.P.</cell>        </row>
+            <row> <cell/>                                   <cell><grm>Infin.</grm></cell>           <cell><grm>Pret. Sing.</grm></cell> <cell><grm>Pret. Pl.</grm></cell>                            <cell><grm>P.P.</grm></cell>        </row>
             <row> <cell/>                                   <cell><c>ei</c></cell>        <cell><c>ái</c></cell>   <cell><c>i</c> (<c>aí</c> <ref>§ 69</ref>)</cell> <cell><c>i</c> (<c>aí</c> <ref>§ 69</ref>)</cell>  </row>
             <row> <cell><lang>Goth.</lang></cell>           <cell><w>beidan</w>, <gloss>to await</gloss></cell> <cell><w>báiþ</w></cell>        <cell><w>bidum</w></cell>        <cell><w>bidans</w></cell>       </row>
             <row> <cell><lang>O.Icel.</lang></cell>         <cell><w>bīða</w></cell>             <cell><w>beið</w></cell>        <cell><w>biðum</w></cell>        <cell><w>beðinn</w></cell>       </row>
@@ -486,10 +488,31 @@
           </table>
         </div>
       
-        <div type="section" n="300" status="wip">
+        <div type="section" n="300">
           <p>
             <label>§ 300.</label>
-            To this class also belong:—beitan, to bite; deigan, to knead; dreiban, to drive; greipan, to seize; hneiwan, to bow; bi-leiban, to remain; ga-leiþan, to go; ur-reisan, to arise; skeinan, to shine; dis-skreitan, to rend; ga-smeitan, to smear; speiwan, to spit; steigan, to ascend; sweiban, to cease; ga-teihan, to tell; þeihan, to thrive; þreihan, to press upon; weihan, to fight; weipan, to crown; inweitan, to worship.
+
+            To this class also belong:—
+            <w>beitan</w>, <gloss>to bite</gloss>;
+            <w>deigan</w>, <gloss>to knead</gloss>;
+            <w>dreiban</w>, <gloss>to drive</gloss>;
+            <w>greipan</w>, <gloss>to seize</gloss>;
+            <w>hneiwan</w>, <gloss>to bow</gloss>;
+            <w>bi-leiban</w>, <gloss>to remain</gloss>;
+            <w>ga-leiþan</w>, <gloss>to go</gloss>;
+            <w>ur-reisan</w>, <gloss>to arise</gloss>;
+            <w>skeinan</w>, <gloss>to shine</gloss>;
+            <w>dis-skreitan</w>, <gloss>to rend</gloss>;
+            <w>ga-smeitan</w>, <gloss>to smear</gloss>;
+            <w>speiwan</w>, <gloss>to spit</gloss>;
+            <w>steigan</w>, <gloss>to ascend</gloss>;
+            <w>sweiban</w>, <gloss>to cease</gloss>;
+            <w>ga-teihan</w>, <gloss>to tell</gloss>;
+            <w>þeihan</w>, <gloss>to thrive</gloss>;
+            <w>þreihan</w>, <gloss>to press upon</gloss>;
+            <w>weihan</w>,<gloss> to fight</gloss>;
+            <w>weipan</w>, <gloss>to crown</gloss>;
+            <w>inweitan</w>, <gloss>to worship</gloss>.
           </p>
         </div>
       </div>
@@ -497,11 +520,14 @@
       <div type="subsubsubchapter">
         <head>Class II.</head>
     
-        <div type="section" n="301" status="wip">
-          <label>§ 301.</label>
+        <div type="section" n="301">
+
+          <p>
+            <label>§ 301.</label>
+          </p>
       
           <table>
-            <row> <cell/>                                   <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>Pret. Pl.</cell>                             <cell>P.P.</cell>        </row>
+            <row> <cell/>                                   <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>Pret. Pl.</grm></cell>                             <cell><grm>P.P.</grm></cell>        </row>
             <row> <cell/>                                   <cell><c>iu</c></cell>                    <cell><c>áu</c></cell>   <cell><c>u</c> (<c>aú</c> <ref>§ 73</ref>)</cell> <cell><c>u</c> (<c>aú</c> <ref>§ 71</ref>)</cell>  </row>
             <row> <cell><lang>Goth.</lang></cell>           <cell><w>-biudan</w>, <gloss>to bid</gloss></cell> <cell><w>-báuþ</w></cell>   <cell><w>-budum</w></cell>                             <cell><w>-budans</w></cell>       </row>
             <row> <cell><lang>O.Icel.</lang></cell>         <cell><w>bjóða</w></cell>                    <cell><w>bauð</w></cell>   <cell><w>buðum</w></cell>                             <cell><w>boðinn</w></cell>       </row>
@@ -514,15 +540,33 @@
       
         </div>
         <pb n="142"/>
-        <div type="section" n="302" status="wip">
+        <div type="section" n="302">
           <p>
             <label>§ 302.</label>
-            To this class also belong:—biugan, to bend; driugan, to serve as a soldier; giutan, to pour; hiufan, to mourn; dis-hniupan, to break asunder; kiusan, to test; kriustan, to gnash; liudan, to grow; liugan, to lie; fraliusan, to lose; ga-lūkan, to shut; niutan, to enjoy; siukan, to be sick; af-skiuban, to push aside; sliupan, to slip; þliuhan, to flee; us-þriutan, to trouble.
+            To this class also belong:—
+            <w>biugan</w>, <gloss>to bend</gloss>;
+            <w>driugan</w>, <gloss>to serve as a soldier</gloss>;
+            <w>giutan</w>, <gloss>to pour</gloss>;
+            <w>hiufan</w>, <gloss>to mourn</gloss>;
+            <w>dis-hniupan</w>, <gloss>to break asunder</gloss>;
+            <w>kiusan</w>, <gloss>to test</gloss>;
+            <w>kriustan</w>, <gloss>to gnash</gloss>;
+            <w>liudan</w>, <gloss>to grow</gloss>;
+            <w>liugan</w>, <gloss>to lie</gloss>;
+            <w>fraliusan</w>, <gloss>to lose</gloss>;
+            <w>ga-lūkan</w>, <gloss>to shut</gloss>;
+            <w>niutan</w>, <gloss>to enjoy</gloss>;
+            <w>siukan</w>, <gloss>to be sick</gloss>;
+            <w>af-skiuban</w>, <gloss>to push aside</gloss>;
+            <w>sliupan</w>, <gloss>to slip</gloss>;
+            <w>þliuhan</w>, <gloss>to flee</gloss>;
+            <w>us-þriutan</w>, <gloss>to trouble</gloss>.
           </p>
           <div type="note">
             <p>
               <label>Note.—</label>
-              ga-lūkan (-láuk, -lukum, -lukans) is properly an aorist present, like <lang>Gr.</lang> τῡ́φω, τρῑ́βω. See <ref>§ 280</ref>.
+              <w>ga-lūkan</w> (<m>-láuk</m>, <m>-lukum</m>, <m>-lukans</m>) is properly an aorist present, like <lang>Gr.</lang> <w>τῡ́φω</w>, <w>τρῑ́βω</w>.
+              See <ref>§ 280</ref>.
             </p>
           </div>
         </div>
@@ -538,7 +582,7 @@
           </p>
       
           <table>
-            <row> <cell/>                          <cell>Infin.</cell>                                      <cell>Pret. Sing.</cell> <cell>Pret. Pl.</cell>                             <cell>P.P.</cell>      </row>
+            <row> <cell/>                          <cell><grm>Infin.</grm></cell>                                      <cell><grm>Pret. Sing.</grm></cell> <cell><grm>Pret. Pl.</grm></cell>                             <cell><grm>P.P.</grm></cell>      </row>
             <row> <cell/>                          <cell><c>i</c> (<c>aí</c>, <ref>§§ 67, 69</ref>)</cell>  <cell><c>a</c></cell>   <cell><c>u</c> (<c>aú</c> <ref>§ 73</ref>)</cell> <cell><c>u</c> (<c>aú</c> <ref>§§ 71, 73</ref>)</cell>  </row>
             <row> <cell><lang>Goth.</lang></cell>  <cell><w>bindan</w>, <gloss>to bind</gloss></cell> <cell><w>band</w></cell>   <cell><w>bundum</w></cell>                             <cell><w>bundans</w></cell> </row>
             <row> <cell><lang>O.Icel.</lang></cell><cell><w>binda</w></cell>                    <cell><w>batt</w></cell>   <cell><w>bundum</w></cell>                             <cell><w>bundinn</w></cell> </row>
@@ -574,7 +618,7 @@
           </p>
       
           <table>
-            <row> <cell/>                          <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>Pret. Pl.</cell>                             <cell>P.P.</cell>      </row>
+            <row> <cell/>                          <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>Pret. Pl.</grm></cell>                             <cell><grm>P.P.</grm></cell>      </row>
             <row> <cell/>                          <cell><c>i</c> (<c>aí</c>, <ref>§ 67</ref>)</cell>                    <cell><c>a</c></cell>   <cell><c>ē</c></cell> <cell><c>u</c> (<c>aú</c> <ref>§ 71</ref>)</cell>  </row>
             <row> <cell><lang>Goth.</lang></cell>  <cell><w>niman</w>, <gloss>to take</gloss></cell> <cell><w>nam</w></cell> <cell><w>nēmum</w></cell> <cell><w>numans</w></cell> </row>
             <row> <cell><ditto/></cell><cell><w>baíran</w>, <gloss>to bear</gloss></cell>            <cell><w>bar</w></cell> <cell><w>bērum</w></cell> <cell><w>baúrans</w></cell> </row>
@@ -610,7 +654,7 @@
           </p>
       
           <table>
-            <row> <cell/>                           <cell>Infin.</cell>                                   <cell>Pret. Sing.</cell>  <cell>Pret. Pl.</cell>                             <cell>P.P.</cell>      </row>
+            <row> <cell/>                           <cell><grm>Infin.</grm></cell>                                   <cell><grm>Pret. Sing.</grm></cell>  <cell><grm>Pret. Pl.</grm></cell>                             <cell><grm>P.P.</grm></cell>      </row>
             <row> <cell/>                           <cell><c>i</c> (<c>aí</c> <ref>§ 67</ref>)</cell>     <cell><c>a</c></cell>     <cell><c>ē</c></cell> <cell><c>i</c> (<c>aí</c> <ref>§ 67</ref>)</cell>  </row>
             <row> <cell/>                           <cell><w>giban</w>, <gloss>to give</gloss></cell>     <cell><w>gaf</w></cell>    <cell><w>gēbum</w></cell>                             <cell><w>gibans</w></cell> </row>
             <row> <cell/>                           <cell><w>qiþan</w>, <gloss>to say</gloss></cell>      <cell><w>qaþ</w></cell>   <cell><w>qēþum</w></cell>                             <cell><w>qiþans</w></cell> </row>
@@ -652,7 +696,7 @@
           <label>§ 309.</label>
       
           <table>
-            <row> <cell/>                           <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>Pret. Pl.</cell> <cell>P.P.</cell>      </row>
+            <row> <cell/>                           <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>Pret. Pl.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
             <row> <cell/>                           <cell><c>a</c></cell>                     <cell><c>ō</c></cell>   <cell><c>ō</c></cell> <cell><c>a</c></cell> </row>
             <row> <cell><lang>Goth.</lang></cell>   <cell><w>faran</w>, <gloss>to go</gloss></cell> <cell><w>fōr</w></cell>   <cell><w>fōrum</w></cell> <cell><w>farans</w></cell> </row>
             <row> <cell><lang>O.Icel.</lang></cell> <cell><w>fara</w></cell>                    <cell><w>fōr</w></cell>   <cell><w>fōrum</w></cell> <cell><w>farinn</w></cell> </row>
@@ -738,7 +782,7 @@
             </p>
         
             <table>
-              <row><cell/>                            <cell>Infin.</cell>                                                   <cell>Pret. Sing.</cell>          <cell>P.P.</cell>               </row>
+              <row><cell/>                            <cell><grm>Infin.</grm></cell>                                                   <cell><grm>Pret. Sing.</grm></cell>          <cell><grm>P.P.</grm></cell>               </row>
               <row><cell><c>a</c>(<c>ā</c>):—</cell>  <cell><w>falþan</w>, <gloss>to fold</gloss></cell>                    <cell><w>faífalþ</w></cell>       <cell><w>falþans</w></cell>     </row>
               <row><cell/>                            <cell><w>haldan</w>, <gloss>to hold</gloss></cell>                    <cell><w>haíhald</w></cell>       <cell><w>haldans</w></cell>     </row>
               <row><cell/>                            <cell><w>ga-staldan</w>, <gloss>to possess</gloss></cell>             <cell><w>ga-staístald</w></cell>  <cell><w>ga-staldans</w></cell> </row>
@@ -756,7 +800,7 @@
             <pb n="148"/>
         
             <table>
-              <row><cell/>                  <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>P.P.</cell>      </row>
+              <row><cell/>                  <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
               <row><cell><c>ái</c>:—</cell> <cell><w>af-ádikan</w>, <gloss>to deny</gloss></cell> <cell><w>af-aíáik</w></cell>   <cell><w>af-áikans</w></cell> </row>
               <row><cell/>                  <cell><w>fráisan</w>, <gloss>to tempt</gloss></cell> <cell><w>faífráis</w></cell>   <cell><w>fráisans</w></cell> </row>
               <row><cell/>                  <cell><w>háitan</w>, <gloss>to call</gloss></cell> <cell><w>haíháit</w></cell>   <cell><w>háitans</w></cell> </row>
@@ -773,7 +817,7 @@
             </div>
         
             <table>
-              <row><cell/>                  <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>P.P.</cell>      </row>
+              <row><cell/>                  <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
               <row><cell><c>ē</c>:—</cell> <cell><w>slēpan</w>, <gloss>to sleep</gloss></cell> <cell><w>saíslēp</w> <w>saízlēp</w></cell>   <cell><w>slēpans</w></cell> </row>
             </table>
         
@@ -785,7 +829,7 @@
             </div>
         
             <table>
-              <row><cell/>                  <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>P.P.</cell>      </row>
+              <row><cell/>                  <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
               <row><cell><c>ō</c>:—</cell> <cell><w>ƕōpan</w>, <gloss>to boast</gloss></cell> <cell><w>ƕaíƕōp</w></cell>   <cell><w>ƕōpans</w></cell> </row>
             </table>
         
@@ -797,7 +841,7 @@
             </div>
         
             <table>
-              <row><cell/>                  <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>P.P.</cell>      </row>
+              <row><cell/>                  <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
               <row><cell><c>áu</c>:—</cell> <cell><w>áukan</w>, <gloss>to add</gloss></cell> <cell><w>aíáuk</w></cell>   <cell><w>áukans</w></cell> </row>
             </table>
           
@@ -820,7 +864,7 @@
             </p>
         
             <table>
-              <row> <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>P.P.</cell>      </row>
+              <row> <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
               <row> <cell><w>grētan</w>, <gloss>to weep</gloss></cell> <cell><w>gaígrōt</w></cell>   <cell><w>grētans</w></cell> </row>
               <row> <cell><w>lētan</w>, <gloss>to let</gloss></cell> <cell><w>laílōt</w></cell>   <cell><w>lētans</w></cell> </row>
               <row> <cell><w>ga-rēdan</w>, <gloss>to reflect upon</gloss></cell> <cell><w>ga-raírōþ</w></cell>   <cell><w>ga-rēdans</w></cell> </row>
@@ -1081,7 +1125,7 @@
         </p>
     
         <table>
-          <row> <cell>Infin.</cell>                       <cell>Pret. Sing.</cell> <cell>P.P.</cell>      </row>
+          <row> <cell><grm>Infin.</grm></cell>                       <cell><grm>Pret. Sing.</grm></cell> <cell><grm>P.P.</grm></cell>      </row>
           <row> <cell><w>briggan</w>, <gloss>to bring</gloss></cell> <cell><w>brāhta</w></cell>   <cell><w>*brāhts</w></cell> </row>
           <row> <cell><w>brūkjan</w>, <gloss>to use</gloss></cell> <cell><w>brūhta</w></cell>   <cell><w>*brūhts</w></cell> </row>
           <row> <cell><w>bugjan</w>, <gloss>to buy</gloss></cell> <cell><w>baúhta</w></cell>   <cell><w>baúhts</w></cell> </row>
@@ -1175,7 +1219,7 @@
             </table>
         
             <table>
-              <row> <cell>Infin.</cell>         <cell>Participle.</cell>      </row>
+              <row> <cell><grm>Infin.</grm></cell>         <cell>Participle.</cell>      </row>
               <row> <cell><w>salbōn</w></cell>  <cell><w>salbōnds</w></cell>  </row>
             </table>
           </div>
@@ -1274,7 +1318,7 @@
             <pb n="158"/>
         
             <table>
-              <row> <cell>Infin.</cell>         <cell>Participle.</cell>      </row>
+              <row> <cell><grm>Infin.</grm></cell>         <cell>Participle.</cell>      </row>
               <row> <cell><w>haban</w></cell>  <cell><w>habands</w></cell>  </row>
             </table>
           </div>
@@ -1380,7 +1424,7 @@
           <pb n="160"/>
       
           <table>
-            <row> <cell>Infin.</cell>         <cell>Participle.</cell>      </row>
+            <row> <cell><grm>Infin.</grm></cell>         <cell>Participle.</cell>      </row>
             <row> <cell><w>fullnan</w></cell>  <cell><w>fullnands</w></cell>  </row>
           </table>
         </div>
@@ -1584,7 +1628,7 @@
             </table>
         
             <table>
-              <row> <cell>Infin.</cell> <cell><w>wisan</w></cell> <cell>Participle</cell> <cell><w>wisands</w></cell> </row>
+              <row> <cell><grm>Infin.</grm></cell> <cell><w>wisan</w></cell> <cell>Participle</cell> <cell><w>wisands</w></cell> </row>
             </table>
           </div>
       

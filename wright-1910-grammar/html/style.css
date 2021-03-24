@@ -150,6 +150,9 @@ main h2 {
   letter-spacing: 1px;
   margin: 1.5em 0 1em;
 }
+main h2 > .c {
+  text-transform: none;
+}
 h3 {
   font-weight: bold;
   color: var(--bold-ink-color);
