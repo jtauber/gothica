@@ -37,8 +37,8 @@ But once this is done, not only can I produce a nice HTML version:
 | V       | [xml](xml/chapter05.xml) • [html](html/chapter05.html) | level 2 done        |
 | VI      | [xml](xml/chapter06.xml) • [html](html/chapter06.html) | level 2 done        |
 | VII     | [xml](xml/chapter07.xml) • [html](html/chapter07.html) | level 2 done        |
-| VIII    | [xml](xml/chapter08.xml) • [html](html/chapter08.html) | level 2 in-progress |
-| IX      | [xml](xml/chapter09.xml) • [html](html/chapter09.html) | level 2 in-progress |
+| VIII    | [xml](xml/chapter08.xml) • [html](html/chapter08.html) | level 2 done        |
+| IX      | [xml](xml/chapter09.xml) • [html](html/chapter09.html) | level 2 done        |
 | X       | [xml](xml/chapter10.xml) • [html](html/chapter10.html) | level 2 in-progress |
 | XI      | [xml](xml/chapter11.xml) • [html](html/chapter11.html) | level 2 in-progress |
 | XII     | [xml](xml/chapter12.xml) • [html](html/chapter12.html) | level 2 done        |
