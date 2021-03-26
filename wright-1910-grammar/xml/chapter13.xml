@@ -575,10 +575,10 @@
       <div type="subsubsubchapter">
         <head>Class III.</head>
     
-        <div type="section" n="303" status="wip">
+        <div type="section" n="303">
           <p>
             <label>§ 303.</label>
-            To this class belong all strong verbs having a medial nasal or liquid + a consonant, and a few others in which the vowel is followed by two consonants other than nasal or liquid + a consonant. Cp. <ref>§ 124</ref>.
+            To this class belong all strong verbs having a medial nasal or liquid + a consonant, and a few others in which the vowel is followed by two consonants other than nasal or liquid + a consonant. <abbr>Cp.</abbr> <ref>§ 124</ref>.
           </p>
       
           <table>
@@ -599,10 +599,39 @@
       
         </div>
         <pb n="143"/>
-        <div type="section" n="304" status="wip">
+        <div type="section" n="304">
           <p>
             <label>§ 304.</label>
-            To this class also belong:—baírgan, to keep; bliggwan (<ref>§ 151</ref>), to beat; brinnan, to burn; drigkan, to drink; filhan, to hide; finþan, to find; us-gildan, to repay; du-ginnan, to begin; uf-gaírdan, to gird up; fra-hinþan, to capture; ƕaírban, to walk; af-linnan, to depart; rinnan, to run; siggwan, to sing; sigqan, to sink; fra-slindan, to swallow up; spinnan, to spin; stigqan, to thrust; af-swaírban, to wipe out; swiltan, to die; ana-trimpan, to tread on; at-þinsan, to attract; ga-þaírsan, to wither; þriskan, to thresh; waírpan, to throw; wilwan, to rob; windan, to wind; winnan, to suffer; ga-wrisqan, to bear fruit.
+            To this class also belong:—
+            <w>baírgan</w>, <gloss>to keep</gloss>;
+            <w>bliggwan</w> (<ref>§ 151</ref>), <gloss>to beat</gloss>;
+            <w>brinnan</w>, <gloss>to burn</gloss>;
+            <w>drigkan</w>, <gloss>to drink</gloss>;
+            <w>filhan</w>, <gloss>to hide</gloss>;
+            <w>finþan</w>, <gloss>to find</gloss>;
+            <w>us-gildan</w>, <gloss>to repay</gloss>;
+            <w>du-ginnan</w>, <gloss>to begin</gloss>;
+            <w>uf-gaírdan</w>, <gloss>to gird up</gloss>;
+            <w>fra-hinþan</w>, <gloss>to capture</gloss>;
+            <w>ƕaírban</w>, <gloss>to walk</gloss>;
+            <w>af-linnan</w>, <gloss>to depart</gloss>;
+            <w>rinnan</w>, <gloss>to run</gloss>;
+            <w>siggwan</w>, <gloss>to sing</gloss>;
+            <w>sigqan</w>, <gloss>to sink</gloss>;
+            <w>fra-slindan</w>, <gloss>to swallow up</gloss>;
+            <w>spinnan</w>, <gloss>to spin</gloss>;
+            <w>stigqan</w>, <gloss>to thrust</gloss>;
+            <w>af-swaírban</w>, <gloss>to wipe out</gloss>;
+            <w>swiltan</w>, <gloss>to die</gloss>;
+            <w>ana-trimpan</w>, <gloss>to tread on</gloss>;
+            <w>at-þinsan</w>, <gloss>to attract</gloss>;
+            <w>ga-þaírsan</w>, <gloss>to wither</gloss>;
+            <w>þriskan</w>, <gloss>to thresh</gloss>;
+            <w>waírpan</w>, <gloss>to throw</gloss>;
+            <w>wilwan</w>, <gloss>to rob</gloss>;
+            <w>windan</w>, <gloss>to wind</gloss>;
+            <w>winnan</w>, <gloss>to suffer</gloss>;
+            <w>ga-wrisqan</w>, <gloss>to bear fruit</gloss>.
           </p>
         </div>
   

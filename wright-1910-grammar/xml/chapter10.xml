@@ -556,61 +556,65 @@
       <div type="subsubchapter" n="1">
         <head>a. Masculines.</head>
 
-        <div type="section" n="196" status="wip">
-          <label>§ 196.</label>
+        <div type="section" n="196">
+          <p>
+            <label>§ 196.</label>
+          </p>
 
           <table>
-            <row> <cell/>           	<cell><grm>Sing.</grm></cell>        	<cell><grm>Plur.</grm></cell>    </row>
-            <row> <cell><grm>Nom.</grm></cell> 	<cell>gasts, guest</cell> 	<cell>gasteis</cell>  </row>
-            <row> <cell>Voc.</cell> 	<cell>gast</cell>         	<cell/>               </row>
-            <row> <cell><grm>Acc.</grm></cell> 	<cell>gast</cell>         	<cell>gastins</cell>  </row>
-            <row> <cell><grm>Gen.</grm></cell> 	<cell>gastis</cell>       	<cell>gastē</cell>    </row>
-            <row> <cell><grm>Dat.</grm></cell> 	<cell>gasta</cell>        	<cell>gastim</cell>   </row>
+            <row> <cell/>                       <cell><grm>Sing.</grm></cell>                   <cell><grm>Plur.</grm></cell> </row>
+            <row> <cell><grm>Nom.</grm></cell> 	<cell><w>gasts</w>, <gloss>guest</gloss></cell> <cell><w>gasteis</w></cell>   </row>
+            <row> <cell>Voc.</cell>             <cell><w>gast</w></cell>                        <cell/>                       </row>
+            <row> <cell><grm>Acc.</grm></cell>  <cell><w>gast</w></cell>                        <cell><w>gastins</w></cell>   </row>
+            <row> <cell><grm>Gen.</grm></cell>  <cell><w>gastis</w></cell>                      <cell><w>gastē</w></cell>     </row>
+            <row> <cell><grm>Dat.</grm></cell>  <cell><w>gasta</w></cell>                       <cell><w>gastim</w></cell>    </row>
           </table>
 
           <p>
-            On the pl. forms see § 198.
+            On the <grm>pl.</grm> forms see <ref>§ 198</ref>.
           </p>
           <pb n="92"/>
           <div type="note">
             <list>
-              <item>
+              <item n="1">
                 <p>
-                  Note.—
+                  <label>Note.—</label>
                   1.
-                  On nom. forms like drus, fall baúr, child, son, gen. drusis, baúris, see § 175.
-                  On the nom. sing. náus, corpse, beside nom. pl. naweis, see § 150.
+                  On <grm>nom.</grm> forms like <w>drus</w>, <gloss>fall</gloss>, <w>baúr</w>, <gloss>child, son</gloss>, <grm>gen.</grm> <w>drusis</w>, <w>baúris</w>, see <ref>§ 175</ref>.
+                  On the <grm>nom. sing.</grm> <w>náus</w>, <gloss>corpse</gloss>, beside <grm>nom. pl.</grm> <w>naweis</w>, see <ref>§ 150</ref>.
                 </p>
               </item>
               <item>
-                <p>
+                <p n="2">
                   2.
-                  The endings of the whole of the singular and of the gen. plural being the same as those of the a-declension, it can only be decided by aid of comparison with the other <lang>Germanic</lang> languages, whether a noun, whose pl. nom. dat. or acc. is not extant, belongs to this or to the a-declension.
-                  Thus the mutated vowel in OE. cyme, coming; dryre, fall, shows that Goth. qums, drus belong to the i-declension.
+                  The endings of the whole of the singular and of the <grm>gen. plural</grm> being the same as those of the <c>a</c>-declension, it can only be decided by aid of comparison with the other <lang>Germanic</lang> languages, whether a noun, whose <grm>pl. nom. dat. or acc.</grm> is not extant, belongs to this or to the <c>a</c>-declension.
+                  Thus the mutated vowel in <lang>OE.</lang> <w>cyme</w>, <gloss>coming</gloss>;
+                  <w>dryre</w>, <gloss>fall</gloss>, shows that <lang>Goth.</lang> <w>qums</w>, <w>drus</w> belong to the <c>i</c>-declension.
                 </p>
               </item>
             </list>
           </div>
         </div>
 
-        <div type="section" n="197" status="wip">
+        <div type="section" n="197">
           <p>
             <label>§ 197.</label>
-            Like gasts are declined arms, arm;
-            balgs, wine-skin;
-            barms, bosom, lap;
-            brūþfaþs (gen. -fadis, § 173), bridegroom;
-            gards, house;
-            hups, hip;
-            láists, track;
-            mats, meat;
-            muns, thought;
-            saggws, song;
-            sáiws, sea;
-            sáuþs (gen. sáudis, § 173), sacrifice;
-            staþs (gen. stadis, § 173), place;
-            striks, stroke;
-            þlaúhs, flight.
+            Like <w>gasts</w> are declined
+            <w>arms</w>, <gloss>arm</gloss>;
+            <w>balgs</w>, <gloss>wine-skin</gloss>;
+            <w>barms</w>, <gloss>bosom, lap</gloss>;
+            <w>brūþfaþs</w> (<grm>gen.</grm> <m>-fadis</m>, <ref>§ 173</ref>), <gloss>bridegroom</gloss>;
+            <w>gards</w>, <gloss>house</gloss>;
+            <w>hups</w>, <gloss>hip</gloss>;
+            <w>láists</w>, <gloss>track</gloss>;
+            <w>mats</w>, <gloss>meat</gloss>;
+            <w>muns</w>, <gloss>thought</gloss>;
+            <w>saggws</w>, <gloss>song</gloss>;
+            <w>sáiws</w>, <gloss>sea</gloss>;
+            <w>sáuþs</w> (<grm>gen.</grm> <w>sáudis</w>, <ref>§ 173</ref>), <gloss>sacrifice</gloss>;
+            <w>staþs</w> (<grm>gen.</grm> <w>stadis</w>, <ref>§ 173</ref>), <gloss>place</gloss>;
+            <w>striks</w>, <gloss>stroke</gloss>;
+            <w>þlaúhs</w>, <gloss>flight</gloss>.
           </p>
         </div>
       </div>
@@ -860,9 +864,9 @@
         <lang>Lat.</lang> homo, man;
         sermo, discourse;
         acc. rā́jānam, hominem, sermōnem.
-        In <lang>prim. Germanic</lang> the two forms existed side by side, as in Goth. hana from -ēn, -ōn (§ 87, (1)), beside tuggō, haírtō from -ō̃ (§ 89).
-        In Goth. the -ō̃ became<pb n="96"/>restricted to the feminine and neuter, whereas in the West Germanic languages it became restricted to the masculine, as OE. guma, OS. gumo, OHG. gomo, man, from -ō̃, beside OE. tunge, OS. tunga, OHG. zunga, tongue;
-        OE. ēage, OS. ōga, OHG. ouga, eye, from -ōn.
+        In <lang>prim. Germanic</lang> the two forms existed side by side, as in <lang>Goth.</lang> hana from -ēn, -ōn (§ 87, (1)), beside tuggō, haírtō from -ō̃ (§ 89).
+        In <lang>Goth.</lang> the -ō̃ became<pb n="96"/>restricted to the feminine and neuter, whereas in the West Germanic languages it became restricted to the masculine, as <lang>OE.</lang> guma, OS. gumo, OHG. gomo, man, from -ō̃, beside <lang>OE.</lang> tunge, OS. tunga, OHG. zunga, tongue;
+        <lang>OE.</lang> ēage, OS. ōga, OHG. ouga, eye, from -ōn.
       </p>
 
       <p>
@@ -875,14 +879,14 @@
         aúhs-n-ē, of oxen;
         man-n-ē, of men.
         In tuggō the ō of the nom. sing. was extended to the other cases.
-        And similarly in OE. the -an- of the acc. sing. of guma, man;
+        And similarly in <lang>OE.</lang> the -an- of the acc. sing. of guma, man;
         tunge, tongue, was extended to the gen. and dat., so that all three cases became the same: guman, tungan.
       </p>
 
       <p>
         The masc. and fem. n-stems were originally declined alike, as in <lang>Latin</lang>, <lang>Greek</lang> and <lang>Sanskrit</lang>, but already in the prehistoric period of the <lang>Germanic</lang> languages they became differentiated in some of the cases by partly generalizing one or other of the forms.
         Thus, as we have seen above, the nom. sing. originally ended in -ō̃ or -ōn in both genders, <lang>Gothic</lang> restricted -ō̃ to the feminine and -ōn to the masculine, but in the West Germanic languages the reverse took place.
-        In the feminine <lang>Gothic</lang> O.Icel. OS. and OHG. levelled out the original long vowel of the nom. sing. into the oblique cases, whereas OE. had the same forms as the masculine except in the nom. sing. tunge from <lang>prim. Germanic</lang> -ōn.
+        In the feminine <lang>Gothic</lang> O.Icel. OS. and OHG. levelled out the original long vowel of the nom. sing. into the oblique cases, whereas <lang>OE.</lang> had the same forms as the masculine except in the nom. sing. tunge from <lang>prim. Germanic</lang> -ōn.
       </p>
 
       <p>
@@ -907,7 +911,7 @@
         <p>
           The <lang>prim. Germanic</lang> forms of hana were:
           Sing. nom. *χanēn or -ōn (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμήν, shepherd; ἡγεμών, leader), acc. *χananun (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνα), gen. *χanenaz or *χaniniz (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμένος), dat. (originally loc.) *χanini (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμένι);
-          Pl. nom. *xananiz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνες), acc. *χananunz older *χannunz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνας, κύνας = <lang>Indg.</lang> *kun-ns (§§ 53–4), dogs), gen. *χannō̃n (<abbr>cp.</abbr> Goth. aúhsn-ē, OE. oxn-a, of oxen, <lang>Gr.</lang> κυν-ῶν, of dogs), dat. *χanunmiz.
+          Pl. nom. *xananiz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνες), acc. *χananunz older *χannunz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνας, κύνας = <lang>Indg.</lang> *kun-ns (§§ 53–4), dogs), gen. *χannō̃n (<abbr>cp.</abbr> <lang>Goth.</lang> aúhsn-ē, <lang>OE.</lang> oxn-a, of oxen, <lang>Gr.</lang> κυν-ῶν, of dogs), dat. *χanunmiz.
           The <lang>Gothic</lang> cases of the sing. and the nom. pl. are regularly developed from the corresponding <lang>prim. Germanic</lang> forms.
           The acc. pl. hanans is the nom. used for the accusative.
           *xannō̃n would have become *hannō;
@@ -1179,7 +1183,7 @@
         <p>
           In the parent language the words for father, mother and daughter had in the sing. nom. -tēr, acc. loc. -ter-, voc. -ter, gen. dat. -tr- (with consonantal r), Pl. nom. -ter-, acc. -tr- (with consonantal r), dat. loc. -tr- (with vocalic r), <abbr>cp.</abbr> § 206.
           The word for brother had sing. nom. -tōr or -tēr, and the word for sister -ōr (see § 147) with short -or- or loss of -o- in the other cases just as in -tēr, -ter-, -tr-.
-          In Goth. -e-, -o- regularly became -a- before the following -r- (<abbr>cp.</abbr> §§ 39 note, 106).
+          In <lang>Goth.</lang> -e-, -o- regularly became -a- before the following -r- (<abbr>cp.</abbr> §§ 39 note, 106).
           The prim. Germ. forms of brōþar were:
           Sing. nom. *ƀrōþōr, or -ēr (<abbr>cp.</abbr> <lang>Gr. Dor.</lang> φρᾱ́τωρ, φρᾱ́τηρ, member of a clan, πατήρ, father),
           acc. *ƀrōþarun, or -erun (<abbr>cp.</abbr> φρᾱ́τορα, φρᾱ́τερα),

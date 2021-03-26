@@ -554,30 +554,38 @@
     <div type="subsubchapter" n="1">
       <head>1. The Comparative Degree.</head>
     
-      <div type="section" n="243" status="wip">
+      <div type="section" n="243">
         <p>
           <label>§ 243.</label>
           The <lang>Indg.</lang> parent language had several suffixes by means of which the comparative degree was formed.
           But in the individual branches of the parent language one of the suffixes generally became more productive than the rest, and in the course of time came to be the principal one from which the comparative was formed, the other suffixes only being preserved in isolated forms.
-          The only <lang>Indg.</lang> comparative suffix which remained productive in the <lang>Germanic</lang> languages is -is-, which became -iz- (=<lang>Goth.</lang> -iz-, <lang>OHG.</lang> -ir-, <lang>OE.</lang> -r-) in <lang>prim. Germanic</lang> by Verner’s law (§ 136).
-          To this suffix was added in <lang>prim. Germanic</lang>, or probably in the pre-Germanic period, the formative suffix -en-, -on-, as in Gr. ἡδίων from *σϝᾱδίσων, gen. ἡδίονος = <lang>Goth.</lang> sū̌tiza, gen. sū̌tizins, <lang>OHG.</lang> Suoȥiro, gen. suoȥ-iren, <lang>OE.</lang> Swētra, sweeter, gen. swētran.
+          The only <lang>Indg.</lang> comparative suffix which remained productive in the <lang>Germanic</lang> languages is <m>-is-</m>, which became <m>-iz-</m> (=<lang>Goth.</lang> <m>-iz-</m>, <lang>OHG.</lang> <m>-ir-</m>, <lang>OE.</lang> <m>-r-</m>) in <lang>prim. Germanic</lang> by Verner’s law (<ref>§ 136</ref>).
+
+          To this suffix was added in <lang>prim. Germanic</lang>, or probably in the pre-Germanic period, the formative suffix <m>-en-</m>, <m>-on-</m>, as in
+          <lang>Gr.</lang> <w>ἡδίων</w> from <w>*σϝᾱδίσων</w>, <grm>gen.</grm> <w>ἡδίονος</w> = <lang>Goth.</lang> <w>sū̌tiza</w>, <grm>gen.</grm> <w>sū̌tizins</w>, <lang>OHG.</lang> <w>suoȥiro</w>, <grm>gen.</grm> <w>suoȥ-iren</w>, <lang>OE.</lang> <w>swētra</w>, <gloss>sweeter</gloss>, <grm>gen.</grm> <w>swētran</w>.
+
           This explains why the comparative is declined weak in the oldest periods of the <lang>Germanic</lang> languages.
-          In <lang>Gothic</lang> it is declined like the present participle (§ 239), except that the nom. sing. masc. is always weak.
-          Beside the suffix -iz- there was also in <lang>prim. Germanic</lang> a suffix -ōz- (<lang>Goth.</lang> -ōz-, <lang>OHG.</lang> -ōr-, <lang>OE.</lang> -r-) which did not exist in <lang>Indo-Germanic</lang>.
-          This suffix is a special <lang>Germanic</lang> new formation, and arose from the comparative of adverbs whose positive originally ended in<pb n="113"/>-ō̃ = <lang>Indg.</lang> ablative ending -ō̃d (§ 89).
+
+          In <lang>Gothic</lang> it is declined like the present participle (<ref>§ 239</ref>), except that the <grm>nom. sing. masc.</grm> is always weak.
+
+          Beside the suffix <m>-iz-</m> there was also in <lang>prim. Germanic</lang> a suffix <m>-ōz-</m> (<lang>Goth.</lang> <m>-ōz-</m>, <lang>OHG.</lang> <m>-ōr-</m>, <lang>OE.</lang> <m>-r-</m>) which did not exist in <lang>Indo-Germanic</lang>.
+
+          This suffix is a special <lang>Germanic</lang> new formation, and arose from the comparative of adverbs whose positive originally ended in<pb n="113"/><m>-ō̃</m> = <lang>Indg.</lang> ablative ending <m>-ō̃d</m> (<ref>§ 89</ref>).
+
           And then at a later period it became extended to adjectives.
-          In <lang>Gothic</lang> the ja-stems, i-stems, and u-stems take the suffix -iz-;
-          pure a-stems sometimes take the one, sometimes the other suffix, thus:—
+
+          In <lang>Gothic</lang> the <c>ja</c>-stems, <c>i</c>-stems, and <c>u</c>-stems take the suffix <m>-iz-</m>;
+          pure <c>a</c>-stems sometimes take the one, sometimes the other suffix, thus:—
         </p>
 
         <table>
-          <row> <cell>Positive.</cell>                            <cell>Comparative.</cell>               </row>	
-          <row> <cell><w>manags</w>, <gloss>great</gloss></cell>  <cell><w>managiza</w></cell>            </row>
-          <row> <cell><w>juggs</w>, <gloss>young</gloss></cell>   <cell><w>jūhiza</w> (§§ 62, 137)</cell> </row>
-          <row> <cell><w>swinþs</w>, <gloss>strong</gloss></cell> <cell><w>swinþōza</w></cell>            </row>
-          <row> <cell><w>alþeis</w>, <gloss>old</gloss></cell>    <cell><w>alþiza</w></cell>              </row>
-          <row> <cell><w>sū̌ts</w>, <gloss>sweet</gloss></cell>    <cell><w>sū̌tiza</w></cell>              </row>
-          <row> <cell><w>hardus</w>, <gloss>hard</gloss></cell>   <cell><w>hardiza</w></cell>             </row>
+          <row> <cell>Positive.</cell>                            <cell>Comparative.</cell>                           </row>	
+          <row> <cell><w>manags</w>, <gloss>great</gloss></cell>  <cell><w>managiza</w></cell>                        </row>
+          <row> <cell><w>juggs</w>, <gloss>young</gloss></cell>   <cell><w>jūhiza</w> (<ref>§§ 62, 137</ref>)</cell>  </row>
+          <row> <cell><w>swinþs</w>, <gloss>strong</gloss></cell> <cell><w>swinþōza</w></cell>                        </row>
+          <row> <cell><w>alþeis</w>, <gloss>old</gloss></cell>    <cell><w>alþiza</w></cell>                          </row>
+          <row> <cell><w>sū̌ts</w>, <gloss>sweet</gloss></cell>    <cell><w>sū̌tiza</w></cell>                          </row>
+          <row> <cell><w>hardus</w>, <gloss>hard</gloss></cell>   <cell><w>hardiza</w></cell>                         </row>
         </table>
       </div>
     </div>
@@ -585,23 +593,33 @@
     <div type="subsubchapter" n="2">
       <head>2. The Superlative Degree.</head>
     
-      <div type="section" n="244" status="wip">
+      <div type="section" n="244">
         <p>
           <label>§ 244.</label>
           The superlative, like the comparative degree, was formed in the <lang>Indg.</lang> parent language by means of several suffixes.
+
           But in the individual branches of the parent language one of the suffixes generally became more productive than the rest, and in the course of time came to be the principal one from which the superlative degree was formed, the other suffixes only being preserved in isolated forms.
-          The only superlative suffix which remained productive in the <lang>Germanic</lang> languages is -to- in the combination -isto-, formed by adding the original superlative suffix -to- to the comparative suffix -is-, as in <lang>Sanskrit</lang> and <lang>Greek</lang>, as Gr. ἥδιστος = <lang>Goth.</lang> sū̌tists, <lang>OHG.</lang> suoȥisto, <lang>OE.</lang> swētest(a), sweetest.
-          The simple superlative suffix -to- has been preserved in Gr., <lang>Lat.</lang>, and the <lang>Germanic</lang> languages in the formation of the ordinal numerals, as Gr. ἕκτος, <lang>Lat.</lang> sextus, <lang>Goth.</lang> saíhsta, <lang>OHG.</lang> sehsto, <lang>OE.</lang> siexta, sixth. 
-          The <lang>Germanic</lang> suffix -ōst- was a new formation like -ōz- in the comparative.
-          In <lang>Gothic</lang> the rule seems to have been that adjectives which had -iz- in the comparative had -ist- in the superlative, and those<pb n="114"/>which had -ōz- in the comparative had -ōst- in the superlative;
+
+          The only superlative suffix which remained productive in the <lang>Germanic</lang> languages is <m>-to-</m> in the combination <m>-isto-</m>, formed by adding the original superlative suffix <m>-to-</m> to the comparative suffix <m>-is-</m>, as in <lang>Sanskrit</lang> and <lang>Greek</lang>,
+          as <lang>Gr.</lang> <w>ἥδιστος</w> = <lang>Goth.</lang> <w>sū̌tists</w>, <lang>OHG.</lang> <w>suoȥisto</w>, <lang>OE.</lang> <w>swētest(a)</w>, <gloss>sweetest</gloss>.
+
+          The simple superlative suffix <m>-to-</m> has been preserved in <lang>Gr.</lang>, <lang>Lat.</lang>, and the <lang>Germanic</lang> languages in the formation of the ordinal numerals, as <lang>Gr.</lang> <w>ἕκτος</w>, <lang>Lat.</lang> <w>sextus</w>, <lang>Goth.</lang> <w>saíhsta</w>, <lang>OHG.</lang> <w>sehsto</w>, <lang>OE.</lang> <w>siexta</w>, <gloss>sixth</gloss>.
+
+          The <lang>Germanic</lang> suffix <m>-ōst-</m> was a new formation like <m>-ōz-</m> in the comparative.
+
+          In <lang>Gothic</lang> the rule seems to have been that adjectives which had <m>-iz-</m> in the comparative had <m>-ist-</m> in the superlative,
+          and those<pb n="114"/>which had <m>-ōz-</m> in the comparative had <m>-ōst-</m> in the superlative;
           but there are not sufficient examples of the comparative and superlative of the same adjective extant to enable us to establish the rule with certainty.
+
           The superlative has both the strong and weak declension.
-          In the former case it is declined like blinds (§ 226), except that the neut. nom. acc. sing. in -ata does not occur, and perhaps was not in use;
-          and in the latter case like blinda (§ 237).
+
+          In the former case it is declined like <w>blinds</w> (<ref>§ 226</ref>), except that the <grm>neut. nom. acc. sing.</grm> in <m>-ata</m> does not occur, and perhaps was not in use;
+          and in the latter case like <w>blinda</w> (<ref>§ 237</ref>).
+
           Examples of the superlative are
-          armōsts, poorest;
-          háuhists, highest;
-          managists, greatest.
+          <w>armōsts</w>, <gloss>poorest</gloss>;
+          <w>háuhists</w>, <gloss>highest</gloss>;
+          <w>managists</w>, <gloss>greatest</gloss>.
         </p>
       </div>
     </div>
@@ -626,7 +644,7 @@
 
         <div type="note">
           <p>
-            Note.—sinista is used as the translation of Gr. πρεσβύτερος, elder, þái sinistans, the elders.
+            Note.—sinista is used as the translation of <lang>Gr.</lang> πρεσβύτερος, elder, þái sinistans, the elders.
           </p>
         </div>
       </div>
@@ -699,21 +717,21 @@
         </p>
 
         <p>
-          The final -n in sibun, niun, taíhun = prim. Germ. *sebun, older -um, *newun (<lang>Indg.</lang> *newn with vocalic n), *tehun, older -um (§ 87), was either due to the inflected forms (§ 252) or else to the influence of the ordinals (§ 253) as in OS. and <lang>OHG.</lang> *áinlif and twalif originally meant something like (ten and) one left over, (ten and) two left over, <abbr>cp.</abbr> Lithuanian vënů́lika, eleven, dvýlika, twelve, &amp;c., where <lang>Goth.</lang> -lif and Lith. -lika are from *liq-, the weak form of the <lang>Indg.</lang> root leiq-, to leave, and are ultimately related to <lang>Goth.</lang> leiƕan, to lend, Gr. λείπω, <lang>Lat.</lang> linquō, I leave.
+          The final -n in sibun, niun, taíhun = prim. Germ. *sebun, older -um, *newun (<lang>Indg.</lang> *newn with vocalic n), *tehun, older -um (§ 87), was either due to the inflected forms (§ 252) or else to the influence of the ordinals (§ 253) as in OS. and <lang>OHG.</lang> *áinlif and twalif originally meant something like (ten and) one left over, (ten and) two left over, <abbr>cp.</abbr> Lithuanian vënů́lika, eleven, dvýlika, twelve, &amp;c., where <lang>Goth.</lang> -lif and Lith. -lika are from *liq-, the weak form of the <lang>Indg.</lang> root leiq-, to leave, and are ultimately related to <lang>Goth.</lang> leiƕan, to lend, <lang>Gr.</lang> λείπω, <lang>Lat.</lang> linquō, I leave.
           The<pb n="116"/>assimilation of *-lih to -lif first took place in twalif because of the preceding labial (§ 134 note), and then, at a later period, the -lif was extended to *áinlif (<abbr>cp.</abbr> dat. áinlibim) for older *áinlih.
           13 to 19 were formed by the simple ordinals plus taíhun, but of these only fidwōrtaíhun and fimftaíhun are extant.
         </p>
 
         <p>
           The decades 20 to 60 were formed in <lang>prim. Germanic</lang> from the units 2 to 6 and the abstract noun *teȝunđʹ- = <lang>Indg.</lang> *dekmtʹ-, decade, whence the <lang>Goth.</lang> stem-form tigu- which went over into the u-declension with a plural tigjus, as nom. twái tigjus, twenty, dat. twáim tigum.
-          Prim. Germanic *teȝunđʹ- is a derivative of <lang>prim. Germanic</lang> *teχun- (= <lang>Indg.</lang> *dékm, Gr. δέκα, <lang>Lat.</lang> decem, <lang>Goth.</lang> taíhun) with change of χ to ȝ by Verner’s law (§ 136) and the loss of the final consonants (§ 87).
+          Prim. Germanic *teȝunđʹ- is a derivative of <lang>prim. Germanic</lang> *teχun- (= <lang>Indg.</lang> *dékm, <lang>Gr.</lang> δέκα, <lang>Lat.</lang> decem, <lang>Goth.</lang> taíhun) with change of χ to ȝ by Verner’s law (§ 136) and the loss of the final consonants (§ 87).
           These numerals govern the gen. case.
           The existing acc. gen. dat. forms are:—acc. þrins tiguns, fidwōr tiguns, fimf tignus;
           gen. þrijē tigiwē;
           dat. twáim tigum, saíhs tigum.
           The formation of the numerals 70–100 is difficult to explain;
           for an account of the various explanations hitherto proposed, see Osthoff-Brugmann’s Morphologische Untersuchungen, v. pp. 11–17.
-          The numerals 200, 300, 500, 900 are formed from the units and the neut. noun hund (= Gr. ἑ-κατόν, <lang>Lat.</lang> centum), hundred, which is declined like waúrd (§ 181).
+          The numerals 200, 300, 500, 900 are formed from the units and the neut. noun hund (= <lang>Gr.</lang> ἑ-κατόν, <lang>Lat.</lang> centum), hundred, which is declined like waúrd (§ 181).
           They govern the gen. case.
           The only existing inflected forms of the oblique cases are:
           dat. twáim hundam, fimf hundam;
@@ -793,7 +811,7 @@
         </p>
 
         <p>
-          þridja (Gr. τρίτος) with weak stem-form from <lang>Indg.</lang> *tri-, the weak form of *trei-, three.
+          þridja (<lang>Gr.</lang> τρίτος) with weak stem-form from <lang>Indg.</lang> *tri-, the weak form of *trei-, three.
           From þridja onwards the other ordinals were formed from the cardinals by means of the <lang>Indg.</lang> superlative suffix -to- (§ 244), the t of which regularly remained unshifted in fimfta- and saíhsta (§ 128 note 2).
           In other positions the t became þ by the first sound-shifting (§ 128), then þ became đ by Verner’s law (§ 136), which regularly became d after n (see §§ 172–3).
           It is difficult to account for the -u- in ahtuda.
