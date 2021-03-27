@@ -45,7 +45,5 @@ I believe **JERAMELEINAIS** is a coinage of Tolkien's:
 
 `and this.ACC.SG down-write.PRET.1SG in book.ACC.PL my.ACC.PL this.DAT.SG twelfth.DAT.SG this.GEN.SG sixth.GEN.SG after-which.GEN.SG I.NOM.SG already first* through-read.PRET.SUBJ.1SG all this.ACC.PL word.ACC.PL carefully`
 
-**HITA** seems an odd choice to me here.
-
 ‘and this I inscribed in my books on the twelfth of the sixth (month) after I had already ? first read through all the words carefully.’
 
