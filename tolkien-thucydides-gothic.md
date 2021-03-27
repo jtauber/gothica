@@ -14,6 +14,8 @@ Here is my transcription and interlinear gloss along with some explanations and 
 
 **las** (`I gathered`) is used to mean ‘read’ by analogy with other Germanic languages.
 
+Note **ÞIZO BOKO** (`GEN.PL`) was probably meant to be **ÞIZŌS BŌKŌS** (`GEN.SG`) (per Tolkien's letter)
+
 I believe **JERAMELEINAIS** is a coinage of Tolkien's:
 
 **jēr** = `year`;
@@ -44,6 +46,8 @@ I believe **JERAMELEINAIS** is a coinage of Tolkien's:
 **FRUMINS** is probably an error for **FRUMIST** (per Tolkien's letter)
 
 `and this.ACC.SG down-write.PRET.1SG in book.ACC.PL my.ACC.PL this.DAT.SG twelfth.DAT.SG this.GEN.SG sixth.GEN.SG after-which.GEN.SG I.NOM.SG already first* through-read.PRET.SUBJ.1SG all this.ACC.PL word.ACC.PL carefully`
+
+**BOKOS MEINOS** (`ACC.PL`) is probaby an error for **BOKA MEINA** (`ACC.SG`) (per Tolkien's letter)
 
 ‘and this I inscribed in my books on the twelfth of the sixth (month) after I had already ? first read through all the words carefully.’
 
