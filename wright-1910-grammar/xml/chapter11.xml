@@ -627,14 +627,14 @@
     <div type="subsubchapter" n="3">
       <head>3. Irregular Comparison</head>
     
-      <div type="section" n="245" status="wip">
+      <div type="section" n="245">
         <p>
           <label>§ 245.</label>
           The following adjectives form their comparative and superlative from a different root or stem than the positive:—
         </p>
 
         <table>
-          <row> <cell>Pos.</cell>                                                             <cell>Comp.</cell>            <cell>Superl.</cell>          </row>	
+          <row> <cell><grm>Pos.</grm></cell>                                                             <cell><grm>Comp.</grm></cell>            <cell><grm>Superl.</grm></cell>          </row>	
           <row> <cell><w>gōþs</w> (<grm>gen.</grm> <w>gōdis</w>), <gloss>good</gloss></cell>  <cell><w>batiza</w></cell>    <cell><w>batists</w></cell>   </row>
           <row> <cell><w>leitils</w>, <gloss>little</gloss></cell>                            <cell><w>minniza</w></cell>   <cell><w>minnists</w></cell>  </row>
           <row> <cell><w>mikils</w>, <gloss>great</gloss></cell>                              <cell><w>máiza</w></cell>     <cell><w>máists</w></cell>    </row>
@@ -644,27 +644,30 @@
 
         <div type="note">
           <p>
-            Note.—sinista is used as the translation of <lang>Gr.</lang> πρεσβύτερος, elder, þái sinistans, the elders.
+            <label>Note.—</label>
+            <w>sinista</w> is used as the translation of <lang>Gr.</lang> <w>πρεσβύτερος</w>, <gloss>elder</gloss>, <w>þái sinistans</w>, <gloss>the elders</gloss>.
           </p>
         </div>
       </div>
 
-      <div type="section" n="246" status="wip">
+      <div type="section" n="246">
         <p>
           <label>§ 246.</label>
-          There are six superlative forms ending in -ma, -tuma, -duma which were formed from adverbial stems with the <lang>Germanic</lang> superlative suffixes -um-, -tum-, -đum-, <abbr>cp.</abbr> <lang>Lat.</lang> optimus, best;
-          intimus from *entemos, inmost = <lang>Indg.</lang> *en-tmos with vocalic m (§ 53).
-          On the -t- beside đ see §§ 128 note 2, 136.
+          There are six superlative forms ending in <m>-ma</m>, <m>-tuma</m>, <m>-duma</m> which were formed from adverbial stems with the <lang>Germanic</lang> superlative suffixes <m>-um-</m>, <m>-tum-</m>, <m>-đum-</m>, <abbr>cp.</abbr> <lang>Lat.</lang> <w>optimus</w>, <gloss>best</gloss>;
+          <w>intimus</w> from <w>*entemos</w>, <gloss>inmost</gloss> = <lang>Indg.</lang> <w>*en-tmos</w> with vocalic <c>m</c> (<ref>§ 53</ref>).
+          On the <c>-t-</c> beside <c>đ</c> see <ref>§§ 128 note 2, 136</ref>.
           The forms are:
-          aúhuma, higher;
-          fruma, the former, prior, first;
-          innuma, the inner, innermost;
-          aftuma, the following, next, posterus;
-          iftuma, the following, next;
-          hleiduma, the left, which are all declined weak like hana (§ 207), haírtō (§ 213), managei (§ 210).
-          These came to have a comparative meaning in <lang>Gothic</lang>,<pb n="115"/>and then to aúhuma, aftuma, and fruma new superlatives aúhumists (aúhmists), highest;
-          aftumists, last, aftermost, frumists, first, were formed;
-          and similarly hindumists, hindmost, spēdumists, last, from *hinduma, *spēduma.
+          <w>aúhuma</w>, <gloss>higher</gloss>;
+          <w>fruma</w>, <gloss>the former, prior, first</gloss>;
+          <w>innuma</w>, <gloss>the inner, innermost</gloss>;
+          <w>aftuma</w>, <gloss>the following, next, posterus</gloss>;
+          <w>iftuma</w>, <gloss>the following, next</gloss>;
+          <w>hleiduma</w>, <gloss>the left</gloss>,
+          which are all declined weak like <w>hana</w> (<ref>§ 207</ref>), <w>haírtō</w> (<ref>§ 213</ref>), <w>managei</w> (<ref>§ 210</ref>).
+
+          These came to have a comparative meaning in <lang>Gothic</lang>,<pb n="115"/>and then to <w>aúhuma</w>, <w>aftuma</w>, and <w>fruma</w> new superlatives <w>aúhumists</w> (<w>aúhmists</w>), <gloss>highest</gloss>;
+          <w>aftumists</w>, <gloss>last, aftermost</gloss>, <w>frumists</w>, <gloss>first</gloss>, were formed;
+          and similarly <w>hindumists</w>, <gloss>hindmost</gloss>, <w>spēdumists</w>, <gloss>last</gloss>, from <w>*hinduma</w>, <w>*spēduma</w>.
         </p>
       </div>
     </div>

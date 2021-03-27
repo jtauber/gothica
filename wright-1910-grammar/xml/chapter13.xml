@@ -640,10 +640,10 @@
       <div type="subsubsubchapter">
         <head>Class IV.</head>
     
-        <div type="section" n="305" status="wip">
+        <div type="section" n="305">
           <p>
             <label>§ 305.</label>
-            To this class belong strong verbs whose stems end in a single nasal or liquid, and a few others. Cp. <ref>§ 124</ref>.
+            To this class belong strong verbs whose stems end in a single nasal or liquid, and a few others. <abbr>Cp.</abbr> <ref>§ 124</ref>.
           </p>
       
           <table>
@@ -658,15 +658,21 @@
       
         </div>
       
-        <div type="section" n="306" status="wip">
+        <div type="section" n="306">
           <p>
             <label>§ 306.</label>
-            To this class belong also:—brikan, to break; qiman, to come; stilan, to steal; ga-taíran, to destroy; ga-timan, to suit; trudan, to tread.
+            To this class belong also:—
+            <w>brikan</w>, <gloss>to break</gloss>;
+            <w>qiman</w>, <gloss>to come</gloss>;
+            <w>stilan</w>, <gloss>to steal</gloss>;
+            <w>ga-taíran</w>, <gloss>to destroy</gloss>;
+            <w>ga-timan</w>, <gloss>to suit</gloss>;
+            <w>trudan</w>, <gloss>to tread</gloss>.
           </p>
       
           <div type="note">
             <label>Note.—</label>
-            trudan (*traþ, *tredum, trudans) is properly an aorist present, like ga-lūkan (<ref>§ 280</ref>).
+            <w>trudan</w> (<w>*traþ</w>, <w>*tredum</w>, <w>trudans</w>) is properly an <grm>aorist present</grm>, like <w>ga-lūkan</w> (<ref>§ 280</ref>).
           </div>
         </div>
       </div>

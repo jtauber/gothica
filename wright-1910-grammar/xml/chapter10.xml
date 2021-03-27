@@ -564,7 +564,7 @@
           <table>
             <row> <cell/>                       <cell><grm>Sing.</grm></cell>                   <cell><grm>Plur.</grm></cell> </row>
             <row> <cell><grm>Nom.</grm></cell> 	<cell><w>gasts</w>, <gloss>guest</gloss></cell> <cell><w>gasteis</w></cell>   </row>
-            <row> <cell>Voc.</cell>             <cell><w>gast</w></cell>                        <cell/>                       </row>
+            <row> <cell><grm>Voc.</grm></cell>  <cell><w>gast</w></cell>                        <cell/>                       </row>
             <row> <cell><grm>Acc.</grm></cell>  <cell><w>gast</w></cell>                        <cell><w>gastins</w></cell>   </row>
             <row> <cell><grm>Gen.</grm></cell>  <cell><w>gastis</w></cell>                      <cell><w>gastē</w></cell>     </row>
             <row> <cell><grm>Dat.</grm></cell>  <cell><w>gasta</w></cell>                       <cell><w>gastim</w></cell>    </row>
@@ -622,83 +622,94 @@
       <div type="subsubchapter" n="2">
         <head>b. Feminines.</head>
 
-        <div type="section" n="198" status="wip">
-          <label>§ 198.</label>
+        <div type="section" n="198">
+          <p>
+            <label>§ 198.</label>
+          </p>
 
           <table>
-            <row> <cell/>           	<cell><grm>Sing.</grm></cell>          	<cell><grm>Plur.</grm></cell>    </row>
-            <row> <cell><grm>Nom.</grm></cell> 	<cell>ansts, favour</cell>  	<cell>ansteis</cell>  </row>
-            <row> <cell>Voc.</cell> 	<cell>anst</cell>           	<cell></cell>         </row>
-            <row> <cell><grm>Acc.</grm></cell> 	<cell>anst</cell>           	<cell>anstins</cell>  </row>
-            <row> <cell><grm>Gen.</grm></cell> 	<cell>anstáis</cell>        	<cell>anstē</cell>    </row>
-            <row> <cell><grm>Dat.</grm></cell> 	<cell>anstái</cell>         	<cell>anstim</cell>   </row>
+            <row> <cell/>                       <cell><grm>Sing.</grm></cell> <cell><grm>Plur.</grm></cell>    </row>
+            <row> <cell><grm>Nom.</grm></cell>  <cell><w>ansts</w>, <gloss>favour</gloss></cell>  <cell><w>ansteis</w></cell> </row>
+            <row> <cell><grm>Voc.</grm></cell>  <cell><w>anst</w></cell>                          <cell></cell>               </row>
+            <row> <cell><grm>Acc.</grm></cell>  <cell><w>anst</w></cell>                          <cell><w>anstins</w></cell> </row>
+            <row> <cell><grm>Gen.</grm></cell>  <cell><w>anstáis</w></cell>                       <cell><w>anstē</w></cell>   </row>
+            <row> <cell><grm>Dat.</grm></cell>  <cell><w>anstái</w></cell>                        <cell><w>anstim</w></cell>  </row>
           </table>
           
           <p>
-            The prim. Germ. forms of ansts were:
-            Sing. nom. *anstiz, acc. *anstin, voc. *ansti, gen. *anstaiz (= <lang>Indg.</lang> -eĩs, -oĩs), dat. *anstēi (originally the loc. ending);
-            Pl. nom. *anstīz (older -ijiz = <lang>Indg.</lang> -ejes, <abbr>cp.</abbr> Skr. tráyas, <lang>Gr.</lang> τρεῖς from *τρέ(j)ες, three);
-            acc. *anstinz, gen. *ansti(j)ō̃n, dat. *anstimiz, from which the <lang>Gothic</lang> forms are regularly developed except the gen. pl. which was formed direct from anst- + the gen. pl. ending -ē, see §§ 87, 179.
+            The <lang>prim. Germ.</lang> forms of <w>ansts</w> were:
+            <grm>Sing.</grm>
+            <grm>nom.</grm> <w>*anstiz</w>,
+            <grm>acc.</grm> <w>*anstin</w>,
+            <grm>voc.</grm> <w>*ansti</w>,
+            <grm>gen.</grm> <w>*anstaiz</w> (= <lang>Indg.</lang> <m>-eĩs</m>, <m>-oĩs</m>),
+            <grm>dat.</grm> <w>*anstēi</w> (originally the <grm>loc.</grm> ending);
+            <grm>Pl.</grm>
+            <grm>nom.</grm> <w>*anstīz</w> (older <m>-ijiz</m> = <lang>Indg.</lang> <m>-ejes</m>, <abbr>cp.</abbr> <lang>Skr.</lang> <w>tráyas</w>, <lang>Gr.</lang> <w>τρεῖς</w> from <w>*τρέ(j)ες</w>, <gloss>three</gloss>);
+            <grm>acc.</grm> <w>*anstinz</w>,
+            <grm>gen.</grm> <w>*ansti(j)ō̃n</w>,
+            <grm>dat.</grm> <w>*anstimiz</w>,
+            from which the <lang>Gothic</lang> forms are regularly developed except the <grm>gen. pl.</grm> which was formed direct from <m>anst-</m> + the <grm>gen. pl.</grm> ending <m>-ē</m>, see <ref>§§ 87, 179</ref>.
           </p>
 
           <div type="note">
             <p>
-              Note.—
-              On forms like nom. usstass, gen. usstassáis, resurrection, see § 175.
+              <label>Note.—</label>
+              On forms like <grm>nom.</grm> <w>usstass</w>, <grm>gen.</grm> <w>usstassáis</w>, <gloss>resurrection</gloss>, see <ref>§ 175</ref>.
             </p>
           </div>
         </div>
 
-        <div type="section" n="199" status="wip">
+        <div type="section" n="199">
           <p>
             <label>§ 199.</label>
-            Like ansts are declined a great many feminine nouns, as
-            áihts, property;
-            arbáiþs (gen. arbáidáis), labour;
+            Like <w>ansts</w> are declined a great many feminine nouns, as
+            <w>áihts</w>, <gloss>property</gloss>;
+            <w>arbáiþs</w> (<grm>gen.</grm> <w>arbáidáis</w>), <gloss>labour</gloss>;
             <pb n="93"/>
-            asans, harvest;
-            anabūsns (anabusns?), command;
-            andahafts, answer;
-            dáils, portion;
-            dēþs (gen. dēdáis), deed;
-            fadreins, family;
-            fahēþs (gen. fahēdáis), joy;
-            fralusts, loss;
-            frawaúrhts, sin;
-            gabaúrþs, birth;
-            gahugds, thought;
-            gakusts, test;
-            gamunds, remembrance;
-            ganists, salvation;
-            gaqumps, assembly;
-            garuns, market-place;
-            gaskafts, creation;
-            gataúrþs, destruction;
-            haúrds, door;
-            lists, craftiness;
-            missadēþs (-dēds), misdeed;
-            magaþs, maid;
-            mahts, power;
-            manasēþs (gen. -sēdáis), world;
-            mikildūþs, greatness;
-            náuþs, need;
-            qēns, woman;
-            saúhts, sickness;
-            siuns, sight;
-            slaúhts, slaughter;
-            sōkns, search;
-            táikns, token;
-            þaúrfts, need;
-            urrists, resurrection;
-            wēns, hope;
-            waúrts, root;
-            wrōhs, accusation.
+            <w>asans</w>, <gloss>harvest</gloss>;
+            <w>anabūsns</w> (<w>anabusns</w>?), <gloss>command</gloss>;
+            <w>andahafts</w>, <gloss>answer</gloss>;
+            <w>dáils</w>, <gloss>portion</gloss>;
+            <w>dēþs</w> (<grm>gen.</grm> <w>dēdáis</w>), <gloss>deed</gloss>;
+            <w>fadreins</w>, <gloss>family</gloss>;
+            <w>fahēþs</w> (<grm>gen.</grm> <w>fahēdáis</w>), <gloss>joy</gloss>;
+            <w>fralusts</w>, <gloss>loss</gloss>;
+            <w>frawaúrhts</w>, <gloss>sin</gloss>;
+            <w>gabaúrþs</w>, <gloss>birth</gloss>;
+            <w>gahugds</w>, <gloss>thought</gloss>;
+            <w>gakusts</w>, <gloss>test</gloss>;
+            <w>gamunds</w>, <gloss>remembrance</gloss>;
+            <w>ganists</w>, <gloss>salvation</gloss>;
+            <w>gaqumps</w>, <gloss>assembly</gloss>;
+            <w>garuns</w>, <gloss>market-place</gloss>;
+            <w>gaskafts</w>, <gloss>creation</gloss>;
+            <w>gataúrþs</w>, <gloss>destruction</gloss>;
+            <w>haúrds</w>, <gloss>door</gloss>;
+            <w>lists</w>, <gloss>craftiness</gloss>;
+            <w>missadēþs</w> (<m>-dēds</m>), <gloss>misdeed</gloss>;
+            <w>magaþs</w>, <gloss>maid</gloss>;
+            <w>mahts</w>, <gloss>power</gloss>;
+            <w>manasēþs</w> (<grm>gen.</grm> <m>-sēdáis</m>), <gloss>world</gloss>;
+            <w>mikildūþs</w>, <gloss>greatness</gloss>;
+            <w>náuþs</w>, <gloss>need</gloss>;
+            <w>qēns</w>, <gloss>woman</gloss>;
+            <w>saúhts</w>, <gloss>sickness</gloss>;
+            <w>siuns</w>, <gloss>sight</gloss>;
+            <w>slaúhts</w>, <gloss>slaughter</gloss>;
+            <w>sōkns</w>, <gloss>search</gloss>;
+            <w>táikns</w>, <gloss>token</gloss>;
+            <w>þaúrfts</w>, <gloss>need</gloss>;
+            <w>urrists</w>, <gloss>resurrection</gloss>;
+            <w>wēns</w>, <gloss>hope</gloss>;
+            <w>waúrts</w>, <gloss>root</gloss>;
+            <w>wrōhs</w>, <gloss>accusation</gloss>.
           </p>
           
           <div type="note">
             <p>
-              Note.—
-              háims, village, is declined like ansts in the singular, but like giba (§ 191) in the plural.
+              <label>Note.—</label>
+              <w>háims</w>, <gloss>village</gloss>, is declined like <w>ansts</w> in the <grm>singular</grm>, but like <w>giba</w> (<ref>§ 191</ref>) in the <grm>plural</grm>.
             </p>
           </div>
         </div>
@@ -764,7 +775,7 @@
           </div>
   
           <p>
-            The prim. Germ. forms of sunus were:
+            The <lang>prim. Germ.</lang> forms of sunus were:
             Sing. nom. *sunuz, acc. *sunun, voc. *sunu and *sunau (= <lang>Indg.</lang> -ou, <abbr>cp.</abbr> Lith. sūnaũ), gen. *sunauz (= <lang>Indg.</lang> -eũs, oũs, <abbr>cp.</abbr> Lith. sūnaũs), dat. *sunēu (originally loc.);
             Pl. nom. *suniwiz (=<lang>Indg.</lang> -ewes, <abbr>cp.</abbr> <lang>Gr. Ionic</lang> πήχεες from *πήχεϝες, fore-arms);
             acc. *sununz, gen. *suniwō̃n (= <lang>Indg.</lang> -ewō̃m, <abbr>cp.</abbr> <lang>Gr.</lang> πήχεων from πήχεϝων), dat. *sunumiz, from which the <lang>Gothic</lang> forms are all regularly developed except the -ē in the gen. plural, see § 179.
@@ -860,7 +871,7 @@
         The various <lang>Indg.</lang> languages generalized one or other of the two forms in prehistoric times, as in
         <lang>Gr.</lang> nom. ποιμήν, shepherd;
         ἡγεμών, leader;
-        acc. ποιμένα, ἡγεμόνα, beside nom. Skr. rā́jā, king;
+        acc. ποιμένα, ἡγεμόνα, beside nom. <lang>Skr.</lang> rā́jā, king;
         <lang>Lat.</lang> homo, man;
         sermo, discourse;
         acc. rā́jānam, hominem, sermōnem.
@@ -874,7 +885,7 @@
         acc. sing. and nom. pl. -on-, loc. sing. -en-, gen. dat. sing. and acc. gen. pl. consonantal -n-, dat. and loc. pl. vocalic -n-.
         These distinctions were not faithfully preserved in the historic period of any of the <lang>Indg.</lang> languages.
         Owing to levelling out in various directions the different stem-endings were extended to cases to which they did not originally belong.
-        Thus in <lang>Gothic</lang> the -an- in the nom. pl. hanans from prim. Germ. *xananiz was extended to the gen.
+        Thus in <lang>Gothic</lang> the -an- in the nom. pl. hanans from <lang>prim. Germ.</lang> *xananiz was extended to the gen.
         The old form is still found in ab-n-ē, of fathers;
         aúhs-n-ē, of oxen;
         man-n-ē, of men.
@@ -1184,7 +1195,7 @@
           In the parent language the words for father, mother and daughter had in the sing. nom. -tēr, acc. loc. -ter-, voc. -ter, gen. dat. -tr- (with consonantal r), Pl. nom. -ter-, acc. -tr- (with consonantal r), dat. loc. -tr- (with vocalic r), <abbr>cp.</abbr> § 206.
           The word for brother had sing. nom. -tōr or -tēr, and the word for sister -ōr (see § 147) with short -or- or loss of -o- in the other cases just as in -tēr, -ter-, -tr-.
           In <lang>Goth.</lang> -e-, -o- regularly became -a- before the following -r- (<abbr>cp.</abbr> §§ 39 note, 106).
-          The prim. Germ. forms of brōþar were:
+          The <lang>prim. Germ.</lang> forms of brōþar were:
           Sing. nom. *ƀrōþōr, or -ēr (<abbr>cp.</abbr> <lang>Gr. Dor.</lang> φρᾱ́τωρ, φρᾱ́τηρ, member of a clan, πατήρ, father),
           acc. *ƀrōþarun, or -erun (<abbr>cp.</abbr> φρᾱ́τορα, φρᾱ́τερα),
           voc. *ƀrōþar, or -er (<abbr>cp.</abbr> φρᾱ́τορ, φρᾱ́τερ),
@@ -1284,7 +1295,7 @@
         </table>
         <pb n="103"/>
         <p>
-          The prim. Germ. forms of baúrgs were:
+          The <lang>prim. Germ.</lang> forms of baúrgs were:
           Sing. nom. *ƀurχs (§ 138), acc. *ƀurʒun, gen. *ƀurʒaz or -iz, dat. *ƀurʒi;
           Pl. nom. *ƀurʒiz, acc. *ƀurʒunz, gen. *ƀurʒō̃n, dat. *ƀurʒumiz, from which are regularly developed the gen. dat. sing. and nom. plural (but see § 169).
           Nom. sing. baúrgs for *baúrhs with g from the other cases.
