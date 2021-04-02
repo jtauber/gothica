@@ -679,85 +679,103 @@
     <div type="subsubchapter" n="1">
       <head>1. Cardinals.</head>
     
-      <div type="section" n="247" status="wip">
+      <div type="section" n="247">
         <p>
           <label>§ 247.</label>
-          The extant cardinal numerals are:—áins, one;
-          twái, two;
-          þrija (neut.), three;
-          fidwōr, four;
-          fimf, five;
-          saíhs, six;
-          sibun, seven;
-          ahtáu, eight;
-          niun, nine;
-          taíhun, ten;
-          *áinlif (but dat. áinlibim), eleven;
-          twalif (dat. twalibim), twelve;
-          fidwōrtaíhun, fourteen;
-          fimftaíhun, fifteen;
-          twái tigjus, twenty;
-          *þreis tigjus (but acc. þrins tiguns), thirty;
-          fidwōr tigjus, forty;
-          fimf tigjus, fifty;
-          saíhs tigjus, sixty;
-          sibuntēhund, seventy;
-          ahtáutēhund, eighty;
-          niuntēhund (gen. niuntēhundis), ninety;
-          taíhuntēhund (taíhuntaíhund), hundred;
-          twa hunda, two hundred;
-          þrija hunda, three hundred;
-          fimf hunda, five hundred;
-          niun hunda, nine hundred;
-          þūsundi, thousand;
-          twōs þūsndjōs, two thousand;
-          -g- (= *þreis, see § 2) þūsundjōs, three thousand;
-          fidwōr þūsundjōs, four thousand;
-          fimf þūsundjōs, five thousand;
-          and the datives miþ taíhun þūsundjōm, with ten thousand;
-          miþ twáim tigum þūsundjō, with twenty thousand.
-          See § 2.
+          The extant cardinal numerals are:—
+          
+          <w>áins</w>, <gloss>one</gloss>;
+          <w>twái</w>, <gloss>two</gloss>;
+          <w>þrija</w> (<grm>neut.</grm>), <gloss>three</gloss>;
+          <w>fidwōr</w>, <gloss>four</gloss>;
+          <w>fimf</w>, <gloss>five</gloss>;
+          <w>saíhs</w>, <gloss>six</gloss>;
+          <w>sibun</w>, <gloss>seven</gloss>;
+          <w>ahtáu</w>, <gloss>eight</gloss>;
+          <w>niun</w>, <gloss>nine</gloss>;
+          <w>taíhun</w>, <gloss>ten</gloss>;
+          <w>*áinlif</w> (but <grm>dat.</grm> <w>áinlibim</w>), <gloss>eleven</gloss>;
+          <w>twalif</w> (<grm>dat.</grm> <w>twalibim</w>), <gloss>twelve</gloss>;
+          <w>fidwōrtaíhun</w>, <gloss>fourteen</gloss>;
+          <w>fimftaíhun</w>, <gloss>fifteen</gloss>;
+          <phr>twái tigjus</phr>, <gloss>twenty</gloss>;
+          <phr>*þreis tigjus</phr> (but <grm>acc.</grm> <phr>þrins tiguns</phr>), <gloss>thirty</gloss>;
+          <phr>fidwōr tigjus</phr>, <gloss>forty</gloss>;
+          <phr>fimf tigjus</phr>, <gloss>fifty</gloss>;
+          <phr>saíhs tigjus</phr>, <gloss>sixty</gloss>;
+          <w>sibuntēhund</w>, <gloss>seventy</gloss>;
+          <w>ahtáutēhund</w>, <gloss>eighty</gloss>;
+          <w>niuntēhund</w> (<grm>gen.</grm> <w>niuntēhundis</w>), <gloss>ninety</gloss>;
+          <w>taíhuntēhund</w> (<w>taíhuntaíhund</w>), <gloss>hundred</gloss>;
+          <phr>twa hunda</phr>, <gloss>two hundred</gloss>;
+          <phr>þrija hunda</phr>, <gloss>three hundred</gloss>;
+          <phr>fimf hunda</phr>, <gloss>five hundred</gloss>;
+          <phr>niun hunda</phr>, <gloss>nine hundred</gloss>;
+          <w>þūsundi</w>, <gloss>thousand</gloss>;
+          <phr>twōs þūsndjōs</phr>, <gloss>two thousand</gloss>;
+          <c>·g·</c> (= <w>*þreis</w>, see <ref>§ 2</ref>) <w>þūsundjōs</w>, <gloss>three thousand</gloss>;
+          <phr>fidwōr þūsundjōs</phr>, <gloss>four thousand</gloss>;
+          <phr>fimf þūsundjōs</phr>, <gloss>five thousand</gloss>;
+          and the datives <phr>miþ taíhun þūsundjōm</phr>, <gloss>with ten thousand</gloss>;
+          <phr>miþ twáim tigum þūsundjō</phr>, <gloss>with twenty thousand</gloss>.
+          See <ref>§ 2</ref>.
         </p>
 
         <p>
-          The final -n in sibun, niun, taíhun = prim. Germ. *sebun, older -um, *newun (<lang>Indg.</lang> *newn with vocalic n), *tehun, older -um (§ 87), was either due to the inflected forms (§ 252) or else to the influence of the ordinals (§ 253) as in OS. and <lang>OHG.</lang> *áinlif and twalif originally meant something like (ten and) one left over, (ten and) two left over, <abbr>cp.</abbr> Lithuanian vënů́lika, eleven, dvýlika, twelve, &amp;c., where <lang>Goth.</lang> -lif and Lith. -lika are from *liq-, the weak form of the <lang>Indg.</lang> root leiq-, to leave, and are ultimately related to <lang>Goth.</lang> leiƕan, to lend, <lang>Gr.</lang> λείπω, <lang>Lat.</lang> linquō, I leave.
-          The<pb n="116"/>assimilation of *-lih to -lif first took place in twalif because of the preceding labial (§ 134 note), and then, at a later period, the -lif was extended to *áinlif (<abbr>cp.</abbr> dat. áinlibim) for older *áinlih.
-          13 to 19 were formed by the simple ordinals plus taíhun, but of these only fidwōrtaíhun and fimftaíhun are extant.
+          The final <m>-n</m> in <w>sibun</w>, <w>niun</w>, <w>taíhun</w> = <lang>prim. Germ.</lang> <w>*sebun</w>, older <m>-um</m>, <w>*newun</w> (<lang>Indg.</lang> <w>*newn</w> with vocalic <c>n</c>), <w>*tehun</w>, older <m>-um</m> (<ref>§ 87</ref>), was either due to the inflected forms (<ref>§ 252</ref>) or else to the influence of the ordinals (<ref>§ 253</ref>) as in <lang>OS.</lang> and <lang>OHG.</lang> <w>*áinlif</w> and <w>twalif</w> originally meant something like <gloss>(ten and) one left over</gloss>, <gloss>(ten and) two left over</gloss>, <abbr>cp.</abbr> <lang>Lithuanian</lang> <w>vënů́lika</w>, <gloss>eleven</gloss>, <w>dvýlika</w>, <gloss>twelve</gloss>, <abbr>&amp;c.</abbr>, where <lang>Goth.</lang> <m>-lif</m> and <lang>Lith.</lang> <m>-lika</m> are from <m>*liq-</m>, the weak form of the <lang>Indg.</lang> root <m>leiq-</m>, <gloss>to leave</gloss>, and are ultimately related to <lang>Goth.</lang> <w>leiƕan</w>, <gloss>to lend</gloss>, <lang>Gr.</lang> <w>λείπω</w>, <lang>Lat.</lang> <w>linquō</w>, <gloss>I leave</gloss>.
+
+          The<pb n="116"/>assimilation of <m>*-lih</m> to <m>-lif</m> first took place in <w>twalif</w> because of the preceding labial (<ref>§ 134 note</ref>), and then, at a later period, the <m>-lif</m> was extended to <w>*áinlif</w> (<abbr>cp.</abbr> <grm>dat.</grm> <w>áinlibim</w>) for older <w>*áinlih</w>.
+
+          13 to 19 were formed by the simple ordinals plus <w>taíhun</w>, but of these only <w>fidwōrtaíhun</w> and <w>fimftaíhun</w> are extant.
         </p>
 
         <p>
-          The decades 20 to 60 were formed in <lang>prim. Germanic</lang> from the units 2 to 6 and the abstract noun *teȝunđʹ- = <lang>Indg.</lang> *dekmtʹ-, decade, whence the <lang>Goth.</lang> stem-form tigu- which went over into the u-declension with a plural tigjus, as nom. twái tigjus, twenty, dat. twáim tigum.
-          Prim. Germanic *teȝunđʹ- is a derivative of <lang>prim. Germanic</lang> *teχun- (= <lang>Indg.</lang> *dékm, <lang>Gr.</lang> δέκα, <lang>Lat.</lang> decem, <lang>Goth.</lang> taíhun) with change of χ to ȝ by Verner’s law (§ 136) and the loss of the final consonants (§ 87).
-          These numerals govern the gen. case.
-          The existing acc. gen. dat. forms are:—acc. þrins tiguns, fidwōr tiguns, fimf tignus;
-          gen. þrijē tigiwē;
-          dat. twáim tigum, saíhs tigum.
+          The decades 20 to 60 were formed in <lang>prim. Germanic</lang> from the units 2 to 6 and the abstract noun <m>*teȝunđʹ-</m> = <lang>Indg.</lang> <m>*dekmtʹ-</m>, <gloss>decade</gloss>, whence the <lang>Goth.</lang> stem-form <m>tigu-</m> which went over into the <c>u</c>-declension with a plural <w>tigjus</w>, as <grm>nom.</grm> <phr>twái tigjus</phr>, <gloss>twenty</gloss>, <grm>dat.</grm> <phr>twáim tigum</phr>.
+          <lang>Prim. Germanic</lang> <m>*teȝunđʹ-</m> is a derivative of <lang>prim. Germanic</lang> <m>*teχun-</m> (= <lang>Indg.</lang> <w>*dékm</w>, <lang>Gr.</lang> <w>δέκα</w>, <lang>Lat.</lang> <w>decem</w>, <lang>Goth.</lang> <w>taíhun</w>) with change of <c>χ</c> to <c>ȝ</c> by Verner’s law (<ref>§ 136</ref>) and the loss of the final consonants (<ref>§ 87</ref>).
+
+          These numerals govern the <grm>gen.</grm> case.
+          
+          The existing <grm>acc. gen. dat.</grm> forms are:—
+          <grm>acc.</grm> <phr>þrins tiguns</phr>, <phr>fidwōr tiguns</phr>, <phr>fimf tignus</phr>;
+          <grm>gen.</grm> <phr>þrijē tigiwē</phr>;
+          <grm>dat.</grm> <phr>twáim tigum</phr>, <phr>saíhs tigum</phr>.
+
           The formation of the numerals 70–100 is difficult to explain;
-          for an account of the various explanations hitherto proposed, see Osthoff-Brugmann’s Morphologische Untersuchungen, v. pp. 11–17.
-          The numerals 200, 300, 500, 900 are formed from the units and the neut. noun hund (= <lang>Gr.</lang> ἑ-κατόν, <lang>Lat.</lang> centum), hundred, which is declined like waúrd (§ 181).
-          They govern the gen. case.
+          for an account of the various explanations hitherto proposed, see
+          
+          Osthoff-Brugmann’s
+          Morphologische Untersuchungen,
+          v. pp. 11–17.
+          
+          The numerals 200, 300, 500, 900 are formed from the units and the <grm>neut.</grm> noun <w>hund</w> (= <lang>Gr.</lang> <w>ἑ-κατόν</w>, <lang>Lat.</lang> <w>centum</w>), <gloss>hundred</gloss>, which is declined like <w>waúrd</w> (<ref>§ 181</ref>).
+          They govern the <grm>gen.</grm> case.
           The only existing inflected forms of the oblique cases are:
-          dat. twáim hundam, fimf hundam;
-          þūsundi is a fem. noun, declined like bandi (§ 193), and governs the gen. case.
+          <grm>dat.</grm> <phr>twáim hundam</phr>, <phr>fimf hundam</phr>;
+          <w>þūsundi</w> is a <grm>fem.</grm> noun, declined like <w>bandi</w> (<ref>§ 193</ref>), and governs the <grm>gen.</grm> case.
           The examples of the oblique cases are:
-          dat. fidwōr þūsundjōm, fimf þūsundjōm, and those given on p. 115.
+          <grm>dat.</grm> <phr>fidwōr þūsundjōm</phr>, <phr>fimf þūsundjōm</phr>, and those given on <ref>p. 115</ref>.
         </p>
       </div>
     
-      <div type="section" n="248" status="wip">
+      <div type="section" n="248">
         <p>
-          <label>§ 248.</label> The first three cardinal numerals are declinable in all cases and genders.
+          <label>§ 248.</label>
+          
+          The first three cardinal numerals are declinable in all cases and genders.
         </p>
       </div>
     
-      <div type="section" n="249" status="wip">
+      <div type="section" n="249">
         <p>
-          <label>§ 249.</label> (1) áins, neut. áin, áinata, fem. áina, is always strong and is declined like blinds (§ 226).
-          Plural forms meaning only, alone also occur.
+          <label>§ 249.</label>
+          
+          (1)
+          <w>áins</w>, <grm>neut.</grm> <w>áin</w>, <w>áinata</w>, <grm>fem.</grm> <w>áina</w>, is always strong and is declined like <w>blinds</w> (<ref>§ 226</ref>).
+          Plural forms meaning <gloss>only, alone</gloss> also occur.
         </p>
       </div>
       <pb n="117"/>
-      <div type="section" n="250" status="wip">
+      <div type="section" n="250">
         <p>
           <label>§ 250.</label> (2)
         </p>
@@ -771,7 +789,7 @@
         </table>
       </div>
     
-      <div type="section" n="251" status="wip">
+      <div type="section" n="251">
         <p>
           <label>§ 251.</label> (3)
         </p>
@@ -785,13 +803,14 @@
         </table>
       </div>
     
-      <div type="section" n="252" status="wip">
+      <div type="section" n="252">
         <p>
           <label>§ 252.</label>
+
           The cardinal numerals 4–15 usually remain uninflected;
-          when inflected they follow the i-declension (§ 196), forming their dat. in -im and gen. in -ē;
-          the existing examples are dat. fid wōrim, taíhunim, áiniibim, twalibim, fimf taíhunim;
-          gen. niunē, twalibē.
+          when inflected they follow the <c>i</c>-declension (<ref>§ 196</ref>), forming their <grm>dat.</grm> in <m>-im</m> and <grm>gen.</grm> in <m>-ē</m>;
+          the existing examples are <grm>dat.</grm> <w>fid wōrim</w>, <w>taíhunim</w>, <w>áiniibim</w>, <w>twalibim</w>, <w>fimf taíhunim</w>;
+          <grm>gen.</grm> <w>niunē</w>, <w>twalibē</w>.
           </p>
       </div>
     </div>
@@ -799,35 +818,36 @@
     <div type="subsubchapter" n="1">
       <head>2. Ordinals.</head>
 
-      <div type="section" n="253" status="wip">
+      <div type="section" n="253">
         <p>
           <label>§ 253.</label>
-          The extant ordinals are:—fruma (frumists, § 246), first;
-          anþar, second;
-          þridja, third;
-          fimfta-, fifth;
-          saíhsta, sixth;
-          ahtuda, eighth;
-          niunda, ninth;
-          taíhunda, tenth;
-          fimftataíhunda, fifteenth (dat. fimftataíhundin).
+          The extant ordinals are:—
+          <w>fruma</w> (<w>frumists</w>, <ref>§ 246</ref>), <gloss>first</gloss>;
+          <w>anþar</w>, <gloss>second</gloss>;
+          <w>þridja</w>, <gloss>third</gloss>;
+          <w>fimfta-</w>, <gloss>fifth</gloss>;
+          <w>saíhsta</w>, <gloss>sixth</gloss>;
+          <w>ahtuda</w>, <gloss>eighth</gloss>;
+          <w>niunda</w>, <gloss>ninth</gloss>;
+          <w>taíhunda</w>, <gloss>tenth</gloss>;
+          <w>fimftataíhunda</w>, <gloss>fifteenth</gloss> (<grm>dat.</grm> <w>fimftataíhundin</w>).
         </p>
 
         <p>
-          þridja (<lang>Gr.</lang> τρίτος) with weak stem-form from <lang>Indg.</lang> *tri-, the weak form of *trei-, three.
-          From þridja onwards the other ordinals were formed from the cardinals by means of the <lang>Indg.</lang> superlative suffix -to- (§ 244), the t of which regularly remained unshifted in fimfta- and saíhsta (§ 128 note 2).
-          In other positions the t became þ by the first sound-shifting (§ 128), then þ became đ by Verner’s law (§ 136), which regularly became d after n (see §§ 172–3).
-          It is difficult to account for the -u- in ahtuda.
+          <w>þridja</w> (<lang>Gr.</lang> <w>τρίτος</w>) with weak stem-form from <lang>Indg.</lang> <m>*tri-</m>, the weak form of <m>*trei-</m>, <gloss>three</gloss>.
+          From <w>þridja</w> onwards the other ordinals were formed from the cardinals by means of the <lang>Indg.</lang> superlative suffix <m>-to-</m> (<ref>§ 244</ref>), the <c>t</c> of which regularly remained unshifted in <w>fimfta-</w> and <w>saíhsta</w> (<ref>§ 128 note 2</ref>).
+          In other positions the <c>t</c> became <c>þ</c> by the first sound-shifting (<ref>§ 128</ref>), then <c>þ</c> became <c>đ</c> by Verner’s law (<ref>§ 136</ref>), which regularly became <c>d</c> after <c>n</c> (see <ref>§§ 172–3</ref>).
+          It is difficult to account for the <c>-u-</c> in <w>ahtuda</w>.
         </p>
       </div>
     
-      <div type="section" n="254" status="wip">
+      <div type="section" n="254">
         <p>
           <label>§ 254.</label>
-          fruma follows the weak declension, the fem. of which is declined like managei (§ 210).
-          anþar is declined strong like blinds (§ 226), except that the nom. acc. neut. never ends in -ata;
-          nom. masc. anþar (§ 175), neut. anþar,<pb n="118"/>fem. anþara.
-          The remaining ordinals are declined weak like blinda (§ 237).
+          <w>fruma</w> follows the weak declension, the <grm>fem.</grm> of which is declined like <w>managei</w> (<ref>§ 210</ref>).
+          <w>anþar</w> is declined strong like <w>blinds</w> (<ref>§ 226</ref>), except that the <grm>nom. acc. neut.</grm> never ends in <m>-ata</m>;
+          <grm>nom. masc.</grm> <w>anþar</w> (<ref>§ 175</ref>), <grm>neut.</grm> <w>anþar</w>,<pb n="118"/><grm>fem.</grm> <w>anþara</w>.
+          The remaining ordinals are declined weak like <w>blinda</w> (<ref>§ 237</ref>).
           </p>
       </div>
     </div>
@@ -838,15 +858,15 @@
       <div type="section" n="255" status="wip">
         <p>
           <label>§ 255.</label>
-          Both is expressed by masc. nom. bái, acc. bans, dat. báim, neut. nom. acc. ba;
-          also by masc. nom. bajōþs, dat. bajōþum.
+          Both is expressed by masc. nom. <w>bái</w>, acc. <w>bans</w>, dat. <w>báim</w>, neut. nom. acc. <w>ba</w>;
+          also by masc. nom. <w>bajōþs</w>, dat. <w>bajōþum</w>.
         </p>
       </div>
 
       <div type="section" n="256" status="wip">
         <p>
           <label>§ 256.</label>
-          The only extant simple distributive numeral is tweihnái, two each, of which the fem. acc. tweihnōs, dat. tweihnáim, occur.
+          The only extant simple distributive numeral is <w>tweihnái</w>, two each, of which the fem. acc. <w>tweihnōs</w>, dat. <w>tweihnáim</w>, occur.
           Distributive numerals are expressed by prepositional or pronominal phrases:
           bi twans aíþþáu máist þrins, by twos or at most by threes;
           ana ƕarjanōh (§ 275) fimftiguns, by fifties in each (company);
@@ -858,18 +878,19 @@
         <p>
           <label>§ 257.</label>
           Multiplicatives are formed by adding the adj. falþ- to the cardinals.
-          They are áinfalþs, onefold, simple;
-          fidurfalþs, fourfold;
-          taíhuntaíhundfalþs, hundredfold;
-          managfalþs, manifold.
+          They are <w>áinfalþs</w>, onefold, simple;
+          <w>fidurfalþs</w>, fourfold;
+          <w>taíhuntaíhundfalþs</w>, hundredfold;
+          <w>managfalþs</w>, manifold.
         </p>
 
         <div type="note">
           <p>
-            Note.—Observe that instead of fidwōr we have fidur- in compounds;
-            other examples are: fidurdōgs (adj.), space of four days;
-            fidurragineis, tetrarchate;
-            <abbr>cp.</abbr> <lang>OE.</lang> fyðerfēte, fourfooted.
+            Note.—
+            Observe that instead of <w>fidwōr</w> we have fidur- in compounds;
+            other examples are: <w>fidurdōgs</w> (adj.), space of four days;
+            <w>fidurragineis</w>, tetrarchate;
+            <abbr>cp.</abbr> <lang>OE.</lang> <w>fyðerfēte</w>, fourfooted.
           </p>
         </div>
       </div>
@@ -877,7 +898,7 @@
       <div type="section" n="258" status="wip">
         <p>
           <label>§ 258.</label>
-          Numeral adverbs in answer to the question, how often? are expressed by numerals together with the dat. sing. and pl. of *sinþs, time (lit. a going):
+          Numeral adverbs in answer to the question, how often? are expressed by numerals together with the dat. sing. and pl. of <w>*sinþs</w>, time (lit. a going):
           áinamma sinþa, once;
           anþaramma sinþa, a second time;
           twáim sinþam, twice;

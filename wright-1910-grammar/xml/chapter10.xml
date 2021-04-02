@@ -751,77 +751,91 @@
       <div type="subsubchapter" n="1">
         <head>a. Masculines and Feminines.</head>
 
-        <div type="section" n="202" status="wip">
-          <label>§ 202.</label>
+        <div type="section" n="202">
+          <p>
+            <label>§ 202.</label>
+          </p>
 
           <table>
-            <row> <cell/>                 	<cell cols="2">Sing.</cell>                                         </row>
-            <row> <cell><grm>Nom.</grm></cell>       	<cell>sunus (masc.), son</cell> 	<cell>handus (fem.), hand</cell>  </row>
-            <row> <cell>Voc. Acc.</cell>  	<cell>sunu</cell>               	<cell>handu</cell>                </row>
-            <row> <cell><grm>Gen.</grm></cell>       	<cell>sunáus</cell>             	<cell>handáus</cell>              </row>
-            <row> <cell><grm>Dat.</grm></cell>       	<cell>sunáu</cell>              	<cell>handáu</cell>               </row>
-            <row> <cell/>                 	<cell cols="2">Plur.</cell>                                         </row>
-            <row> <cell><grm>Nom.</grm></cell>       	<cell>sunjus</cell>             	<cell>handjus</cell>              </row>
-            <row> <cell><grm>Acc.</grm></cell>       	<cell>sununs</cell>             	<cell>handuns</cell>              </row>
-            <row> <cell><grm>Gen.</grm></cell>       	<cell>suniwē</cell>             	<cell>handiwē</cell>              </row>
-            <row> <cell><grm>Dat.</grm></cell>       	<cell>sunum</cell>              	<cell>handum</cell>               </row>
+            <row> <cell/>                 	<cell cols="2"><grm>Sing.</grm></cell>                                         </row>
+            <row> <cell><grm>Nom.</grm></cell>       	<cell><w>sunus</w> (<grm>masc.</grm>), <gloss>son</gloss></cell> 	<cell><w>handus</w> (<grm>fem.</grm>), <gloss>hand</gloss></cell>  </row>
+            <row> <cell><grm>Voc. Acc.</grm></cell>  	<cell><w>sunu</w></cell>               	<cell><w>handu</w></cell>                </row>
+            <row> <cell><grm>Gen.</grm></cell>       	<cell><w>sunáus</w></cell>             	<cell><w>handáus</w></cell>              </row>
+            <row> <cell><grm>Dat.</grm></cell>       	<cell><w>sunáu</w></cell>              	<cell><w>handáu</w></cell>               </row>
+            <row> <cell/>                 	<cell cols="2"><grm>Plur.</grm></cell>                                         </row>
+            <row> <cell><grm>Nom.</grm></cell>       	<cell><w>sunjus</w></cell>             	<cell><w>handjus</w></cell>              </row>
+            <row> <cell><grm>Acc.</grm></cell>       	<cell><w>sununs</w></cell>             	<cell><w>handuns</w></cell>              </row>
+            <row> <cell><grm>Gen.</grm></cell>       	<cell><w>suniwē</w></cell>             	<cell><w>handiwē</w></cell>              </row>
+            <row> <cell><grm>Dat.</grm></cell>       	<cell><w>sunum</w></cell>              	<cell><w>handum</w></cell>               </row>
           </table>
 
           <div type="note">
             <p>
-              Note.—
-              The above are the regular endings, but in a few instances the singular áu- and u-endings have been confused by later scribes, e.g. nom. sunáus beside sunus, dat. sunu beside sunáu, voc. sunáu (frequently) beside sunu.
+              <label>Note.—</label>
+              The above are the regular endings, but in a few instances the singular <m>áu</m>- and <m>u</m>-endings have been confused by later scribes, <abbr>e.g.</abbr> <grm>nom.</grm> <w>sunáus</w> beside <w>sunus</w>, <grm>dat.</grm> <w>sunu</w> beside <w>sunáu</w>, <grm>voc.</grm> <w>sunáu</w> (frequently) beside <w>sunu</w>.
             </p>
           </div>
   
           <p>
-            The <lang>prim. Germ.</lang> forms of sunus were:
-            Sing. nom. *sunuz, acc. *sunun, voc. *sunu and *sunau (= <lang>Indg.</lang> -ou, <abbr>cp.</abbr> Lith. sūnaũ), gen. *sunauz (= <lang>Indg.</lang> -eũs, oũs, <abbr>cp.</abbr> Lith. sūnaũs), dat. *sunēu (originally loc.);
-            Pl. nom. *suniwiz (=<lang>Indg.</lang> -ewes, <abbr>cp.</abbr> <lang>Gr. Ionic</lang> πήχεες from *πήχεϝες, fore-arms);
-            acc. *sununz, gen. *suniwō̃n (= <lang>Indg.</lang> -ewō̃m, <abbr>cp.</abbr> <lang>Gr.</lang> πήχεων from πήχεϝων), dat. *sunumiz, from which the <lang>Gothic</lang> forms are all regularly developed except the -ē in the gen. plural, see § 179.
-            The fluctuation between sunu and sunáu in the voc. sing. may be due to the old double forms.
-            In the nom. pl. *suniwiz became *suniuz and then sunjus (§ 150 note).
+            The <lang>prim. Germ.</lang> forms of <w>sunus</w> were:
+            <grm>Sing.</grm>
+            <grm>nom.</grm> <w>*sunuz</w>,
+            <grm>acc.</grm> <w>*sunun</w>,
+            <grm>voc.</grm> <w>*sunu</w> and <w>*sunau</w> (= <lang>Indg.</lang> <m>-ou</m>, <abbr>cp.</abbr> <lang>Lith.</lang> <w>sūnaũ</w>),
+            <grm>gen.</grm> <w>*sunauz</w> (= <lang>Indg.</lang> <m>-eũs</m>, <m>oũs</m>, <abbr>cp.</abbr> <lang>Lith.</lang> <w>sūnaũs</w>),
+            <grm>dat.</grm> <w>*sunēu</w> (originally <grm>loc.</grm>);
+            <grm>Pl.</grm>
+            <grm>nom.</grm> <w>*suniwiz</w> (=<lang>Indg.</lang> <m>-ewes</m>, <abbr>cp.</abbr> <lang>Gr. Ionic</lang> <w>πήχεες</w> from <w>*πήχεϝες</w>, <gloss>fore-arms</gloss>);
+            <grm>acc.</grm> <w>*sununz</w>,
+            <grm>gen.</grm> <w>*suniwō̃n</w> (= <lang>Indg.</lang> <m>-ewō̃m</m>, <abbr>cp.</abbr> <lang>Gr.</lang> <w>πήχεων</w> from <w>πήχεϝων</w>),
+            <grm>dat.</grm> <w>*sunumiz</w>, from which the <lang>Gothic</lang> forms are all regularly developed except the <m>-ē</m> in the <grm>gen. plural</grm>, see <ref>§ 179</ref>.
+            
+            The fluctuation between <w>sunu</w> and <w>sunáu</w> in the <grm>voc. sing.</grm> may be due to the old double forms.
+
+            In the <grm>nom. pl.</grm> <w>*suniwiz</w> became <w>*suniuz</w> and then <w>sunjus</w> (<ref>§ 150 note</ref>).
           </p>
         </div>
 
-        <div type="section" n="203" status="wip">
+        <div type="section" n="203">
           <p>
             <label>§ 203.</label>
             Similarly are declined the following masculine nouns and a few others:
-            áirus, messenger;
-            asilus, ass;
-            dáuþus, death;
-            faírƕus, world;
-            fōtus, foot;
-            hūhrus, hunger;
-            haírus, sword;
-            hliftus, thief;
-            ibnassus, evenness;
-            kustus, test;
-            lipus, limb;
-            luftus, air;
-            lustus, desire;
-            magus,<pb n="95"/>boy;
-            sakkus, sackcloth;
-            sidus, custom;
-            skadus, shadow;
-            skildus, shield;
-            tunþus, tooth;
-            þaúrnus, thorn;
-            þiudinassus, kingdom;
-            wiþrus, lamb;
-            wulþus, glory;
-            wintrus, winter.
+
+            <w>áirus</w>, <gloss>messenger</gloss>;
+            <w>asilus</w>, <gloss>ass</gloss>;
+            <w>dáuþus</w>, <gloss>death</gloss>;
+            <w>faírƕus</w>, <gloss>world</gloss>;
+            <w>fōtus</w>, <gloss>foot</gloss>;
+            <w>hūhrus</w>, <gloss>hunger</gloss>;
+            <w>haírus</w>, <gloss>sword</gloss>;
+            <w>hliftus</w>, <gloss>thief</gloss>;
+            <w>ibnassus</w>, <gloss>evenness</gloss>;
+            <w>kustus</w>, <gloss>test</gloss>;
+            <w>lipus</w>, <gloss>limb</gloss>;
+            <w>luftus</w>, <gloss>air</gloss>;
+            <w>lustus</w>, <gloss>desire</gloss>;
+            <w>magus</w>,<pb n="95"/><gloss>boy</gloss>;
+            <w>sakkus</w>, <gloss>sackcloth</gloss>;
+            <w>sidus</w>, <gloss>custom</gloss>;
+            <w>skadus</w>, <gloss>shadow</gloss>;
+            <w>skildus</w>, <gloss>shield</gloss>;
+            <w>tunþus</w>, <gloss>tooth</gloss>;
+            <w>þaúrnus</w>, <gloss>thorn</gloss>;
+            <w>þiudinassus</w>, <gloss>kingdom</gloss>;
+            <w>wiþrus</w>, <gloss>lamb</gloss>;
+            <w>wulþus</w>, <gloss>glory</gloss>;
+            <w>wintrus</w>, <gloss>winter</gloss>.
           </p>
         </div>
 
-        <div type="section" n="204" status="wip">
+        <div type="section" n="204">
           <p>
             <label>§ 204.</label>
             Besides handus also the three feminine nouns
-            asilus, she-ass;
-            kinnus, cheek;
-            waddjus, wall.
+
+            <w>asilus</w>, <gloss>she-ass</gloss>;
+            <w>kinnus</w>, <gloss>cheek</gloss>;
+            <w>waddjus</w>, <gloss>wall</gloss>.
           </p>
         </div>
       </div>
@@ -829,31 +843,31 @@
       <div type="subsubchapter" n="2">
         <head>b. Neuters.</head>
 
-        <div type="section" n="205" status="wip">
+        <div type="section" n="205">
           <p>
             <label>§ 205.</label>
-            Of the neuter u-stems only a few traces are extant in <lang>Gothic</lang>.
-            No plural forms occur.
+            Of the <grm>neuter</grm> <c>u</c>-stems only a few traces are extant in <lang>Gothic</lang>.
+            No <grm>plural</grm> forms occur.
           </p>
 
           <table>
-            <row> <cell>Nom.	Acc.</cell> 	<cell>faíhu, cattle</cell>  </row>
-            <row> <cell><grm>Gen.</grm></cell>       	<cell>faíháus</cell>        </row>
-            <row> <cell><grm>Dat.</grm></cell>       	<cell>faíháu</cell>         </row>
+            <row> <cell><grm>Nom. Acc.</grm></cell> 	<cell><w>faíhu</w>, <gloss>cattle</gloss></cell>  </row>
+            <row> <cell><grm>Gen.</grm></cell>       	<cell><w>faíháus</w></cell>        </row>
+            <row> <cell><grm>Dat.</grm></cell>       	<cell><w>faíháu</w></cell>         </row>
           </table>
 
           <div type="note">
             <p>
-              Note.—
-              The gen. faíháus does not occur, but it can be inferred from filáus, the adverbial gen. of filu, much.
-              gáiru (nom. sing.), goad, and sihu (acc. sing.), victory, occur only once, and as glosses;
-              the latter is probably miswritten for sigu, which would then presuppose a masc. form *sigus = OHG. sigu, otherwise we should expect saíhu (§ 69).
-              The acc. form leiþu, strong drink, probably also belongs here, since it is neuter in all the other old <lang>Germanic</lang> languages.
+              <label>Note.—</label>
+              The <grm>gen.</grm> <w>faíháus</w> does not occur, but it can be inferred from <w>filáus</w>, the adverbial <grm>gen.</grm> of <w>filu</w>, <gloss>much</gloss>.
+              <w>gáiru</w> (<grm>nom. sing.</grm>), <gloss>goad</gloss>, and <w>sihu</w> (<grm>acc. sing.</grm>), <gloss>victory</gloss>, occur only once, and as glosses;
+              the latter is probably miswritten for <w>sigu</w>, which would then presuppose a <grm>masc.</grm> form <w>*sigus</w> = <lang>OHG.</lang> <w>sigu</w>, otherwise we should expect <w>saíhu</w> (<ref>§ 69</ref>).
+              The <grm>acc.</grm> form <w>leiþu</w>, <gloss>strong drink</gloss>, probably also belongs here, since it is neuter in all the other old <lang>Germanic</lang> languages.
               </p>
           </div>
           
           <p>
-            The nom. acc. ended in the parent language in -u which regularly remained in <lang>Gothic</lang> (§ 88).
+            The <grm>nom. acc.</grm> ended in the parent language in <m>-u</m> which regularly remained in <lang>Gothic</lang> (<ref>§ 88</ref>).
           </p>
         </div>
       </div>
@@ -863,144 +877,173 @@
   <div type="subchapter" n="2">
     <head>B. Weak Declension (n-stems).</head>
 
-    <div type="section" n="206" status="wip">
+    <div type="section" n="206">
       <p>
         <label>§ 206.</label>
-        In the parent language the nom. sing. ended partly in -ēn, -ōn, and partly in -ē̃, - ō̃.
+
+        In the parent language the <grm>nom. sing.</grm> ended partly in <m>-ēn</m>, <m>-ōn</m>, and partly in <m>-ē̃</m>, <m>-ō̃</m>.
         The reason for this difference is unknown.
         The various <lang>Indg.</lang> languages generalized one or other of the two forms in prehistoric times, as in
-        <lang>Gr.</lang> nom. ποιμήν, shepherd;
-        ἡγεμών, leader;
-        acc. ποιμένα, ἡγεμόνα, beside nom. <lang>Skr.</lang> rā́jā, king;
-        <lang>Lat.</lang> homo, man;
-        sermo, discourse;
-        acc. rā́jānam, hominem, sermōnem.
-        In <lang>prim. Germanic</lang> the two forms existed side by side, as in <lang>Goth.</lang> hana from -ēn, -ōn (§ 87, (1)), beside tuggō, haírtō from -ō̃ (§ 89).
-        In <lang>Goth.</lang> the -ō̃ became<pb n="96"/>restricted to the feminine and neuter, whereas in the West Germanic languages it became restricted to the masculine, as <lang>OE.</lang> guma, OS. gumo, OHG. gomo, man, from -ō̃, beside <lang>OE.</lang> tunge, OS. tunga, OHG. zunga, tongue;
-        <lang>OE.</lang> ēage, OS. ōga, OHG. ouga, eye, from -ōn.
+        <lang>Gr.</lang> <grm>nom.</grm> <w>ποιμήν</w>, <gloss>shepherd</gloss>;
+        <w>ἡγεμών</w>, <gloss>leader</gloss>;
+        <grm>acc.</grm> <w>ποιμένα</w>, <w>ἡγεμόνα</w>, beside <grm>nom.</grm> <lang>Skr.</lang> <w>rā́jā</w>, <gloss>king</gloss>;
+        <lang>Lat.</lang> <w>homo</w>, <gloss>man</gloss>;
+        <w>sermo</w>, <gloss>discourse</gloss>;
+        <grm>acc.</grm> <w>rā́jānam</w>, <w>hominem</w>, <w>sermōnem</w>.
+        In <lang>prim. Germanic</lang> the two forms existed side by side, as in <lang>Goth.</lang> <w>hana</w> from <m>-ēn</m>, <m>-ōn</m> (<ref>§ 87, (1)</ref>), beside <w>tuggō</w>, <w>haírtō</w> from <m>-ō̃</m> (<ref>§ 89</ref>).
+        In <lang>Goth.</lang> the <m>-ō̃</m> became<pb n="96"/>restricted to the feminine and neuter, whereas in the West Germanic languages it became restricted to the masculine, as <lang>OE.</lang> <w>guma</w>, <lang>OS.</lang> <w>gumo</w>, <lang>OHG.</lang> <w>gomo</w>, <gloss>man</gloss>, from <m>-ō̃</m>, beside <lang>OE.</lang> <w>tunge</w>, <lang>OS.</lang> <w>tunga</w>, <lang>OHG.</lang> <w>zunga</w>, <gloss>tongue</gloss>;
+        <lang>OE.</lang> <w>ēage</w>, <lang>OS.</lang> <w>ōga</w>, <lang>OHG.</lang> <w>ouga</w>, <gloss>eye</gloss>, from <m>-ōn</m>.
       </p>
 
       <p>
         In the inflected forms the stem-endings had originally the following phases of ablaut:
-        acc. sing. and nom. pl. -on-, loc. sing. -en-, gen. dat. sing. and acc. gen. pl. consonantal -n-, dat. and loc. pl. vocalic -n-.
+        <grm>acc. sing. and nom. pl.</grm> <m>-on-</m>,
+        <grm>loc. sing.</grm> <m>-en-</m>, 
+        <grm>gen. dat. sing. and acc. gen. pl.</grm> consonantal <m>-n-</m>,
+        <grm>dat. and loc. pl.</grm> vocalic <m>-n-</m>.
+
         These distinctions were not faithfully preserved in the historic period of any of the <lang>Indg.</lang> languages.
+
         Owing to levelling out in various directions the different stem-endings were extended to cases to which they did not originally belong.
-        Thus in <lang>Gothic</lang> the -an- in the nom. pl. hanans from <lang>prim. Germ.</lang> *xananiz was extended to the gen.
-        The old form is still found in ab-n-ē, of fathers;
-        aúhs-n-ē, of oxen;
-        man-n-ē, of men.
-        In tuggō the ō of the nom. sing. was extended to the other cases.
-        And similarly in <lang>OE.</lang> the -an- of the acc. sing. of guma, man;
-        tunge, tongue, was extended to the gen. and dat., so that all three cases became the same: guman, tungan.
+
+        Thus in <lang>Gothic</lang> the <m>-an-</m> in the <grm>nom. pl.</grm> <w>hanans</w> from <lang>prim. Germ.</lang> <w>*xananiz</w> was extended to the <grm>gen.</grm>
+
+        The old form is still found in <w>ab-n-ē</w>, <gloss>of fathers</gloss>;
+        <w>aúhs-n-ē</w>, <gloss>of oxen</gloss>;
+        <w>man-n-ē</w>, <gloss>of men</gloss>.
+
+        In <w>tuggō</w> the <m>ō</m> of the <grm>nom. sing.</grm> was extended to the other cases.
+
+        And similarly in <lang>OE.</lang> the <m>-an-</m> of the <grm>acc. sing.</grm> of <w>guma</w>, <gloss>man</gloss>;
+        <w>tunge</w>, <gloss>tongue</gloss>, was extended to the <grm>gen. and dat.</grm>, so that all three cases became the same: <w>guman</w>, <w>tungan</w>.
       </p>
 
       <p>
-        The masc. and fem. n-stems were originally declined alike, as in <lang>Latin</lang>, <lang>Greek</lang> and <lang>Sanskrit</lang>, but already in the prehistoric period of the <lang>Germanic</lang> languages they became differentiated in some of the cases by partly generalizing one or other of the forms.
-        Thus, as we have seen above, the nom. sing. originally ended in -ō̃ or -ōn in both genders, <lang>Gothic</lang> restricted -ō̃ to the feminine and -ōn to the masculine, but in the West Germanic languages the reverse took place.
-        In the feminine <lang>Gothic</lang> O.Icel. OS. and OHG. levelled out the original long vowel of the nom. sing. into the oblique cases, whereas <lang>OE.</lang> had the same forms as the masculine except in the nom. sing. tunge from <lang>prim. Germanic</lang> -ōn.
+        The <grm>masc. and fem.</grm> <c>n</c>-stems were originally declined alike, as in <lang>Latin</lang>, <lang>Greek</lang> and <lang>Sanskrit</lang>, but already in the prehistoric period of the <lang>Germanic</lang> languages they became differentiated in some of the cases by partly generalizing one or other of the forms.
+        Thus, as we have seen above, the <grm>nom. sing.</grm> originally ended in <m>-ō̃</m> or <m>-ōn</m> in both genders, <lang>Gothic</lang> restricted <m>-ō̃</m> to the feminine and <m>-ōn</m> to the masculine, but in the West Germanic languages the reverse took place.
+        In the feminine <lang>Gothic</lang> <lang>O.Icel.</lang> <lang>OS.</lang> and <lang>OHG.</lang> levelled out the original long vowel of the <grm>nom. sing.</grm> into the oblique cases, whereas <lang>OE.</lang> had the same forms as the masculine except in the <grm>nom. sing.</grm> <w>tunge</w> from <lang>prim. Germanic</lang> <m>-ōn</m>.
       </p>
 
       <p>
-        From a morphological point of view the n-stems should<pb n="97"/>be divided into -an, -jan, and -wan stems, but in <lang>Gothic</lang> as in the other <lang>Germanic</lang> languages all three classes were declined alike.
+        From a morphological point of view the <c>n</c>-stems should<pb n="97"/>be divided into <c>-an</c>, <c>-jan</c>, and <c>-wan</c> stems, but in <lang>Gothic</lang> as in the other <lang>Germanic</lang> languages all three classes were declined alike.
       </p>
     </div>
 
     <div type="subsubchapter" n="1">
       <head>a. Masculines.</head>
 
-      <div type="section" n="207" status="wip">
-        <label>§ 207.</label>
+      <div type="section" n="207">
+        <p>
+          <label>§ 207.</label>
+        </p>
 
         <table>
           <row> <cell/>           	<cell><grm>Sing.</grm></cell>      	<cell><grm>Plur.</grm></cell>  </row>
-          <row> <cell><grm>Nom.</grm></cell> 	<cell>hana, cock</cell> 	<cell>hanans</cell> </row>
-          <row> <cell><grm>Acc.</grm></cell> 	<cell>hanan</cell>      	<cell>hanans</cell> </row>
-          <row> <cell><grm>Gen.</grm></cell> 	<cell>hanins</cell>     	<cell>hananē</cell> </row>
-          <row> <cell><grm>Dat.</grm></cell> 	<cell>hanin</cell>      	<cell>hanam</cell>  </row>
+          <row> <cell><grm>Nom.</grm></cell> 	<cell><w>hana</w>, <gloss>cock</gloss></cell> 	<cell><w>hanans</w></cell> </row>
+          <row> <cell><grm>Acc.</grm></cell> 	<cell><w>hanan</w></cell>      	<cell><w>hanans</w></cell> </row>
+          <row> <cell><grm>Gen.</grm></cell> 	<cell><w>hanins</w></cell>     	<cell><w>hananē</w></cell> </row>
+          <row> <cell><grm>Dat.</grm></cell> 	<cell><w>hanin</w></cell>      	<cell><w>hanam</w></cell>  </row>
         </table>
 
         <p>
-          The <lang>prim. Germanic</lang> forms of hana were:
-          Sing. nom. *χanēn or -ōn (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμήν, shepherd; ἡγεμών, leader), acc. *χananun (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνα), gen. *χanenaz or *χaniniz (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμένος), dat. (originally loc.) *χanini (<abbr>cp.</abbr> <lang>Gr.</lang> ποιμένι);
-          Pl. nom. *xananiz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνες), acc. *χananunz older *χannunz (<abbr>cp.</abbr> <lang>Gr.</lang> ἡγεμόνας, κύνας = <lang>Indg.</lang> *kun-ns (§§ 53–4), dogs), gen. *χannō̃n (<abbr>cp.</abbr> <lang>Goth.</lang> aúhsn-ē, <lang>OE.</lang> oxn-a, of oxen, <lang>Gr.</lang> κυν-ῶν, of dogs), dat. *χanunmiz.
-          The <lang>Gothic</lang> cases of the sing. and the nom. pl. are regularly developed from the corresponding <lang>prim. Germanic</lang> forms.
-          The acc. pl. hanans is the nom. used for the accusative.
-          *xannō̃n would have become *hannō;
-          hananē had the second -an- from the nom. pl., and the -ē is of the same unknown origin as in dagē (§ 179).
-          The dat. pl. was formed direct from han- + am, the ending of the a-stems.
+          The <lang>prim. Germanic</lang> forms of <w>hana</w> were:
+
+          <grm>Sing.</grm>
+          <grm>nom.</grm> <w>*χanēn</w> or <m>-ōn</m> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ποιμήν</w>, <gloss>shepherd</gloss>; <w>ἡγεμών</w>, <gloss>leader</gloss>),
+          <grm>acc.</grm> <w>*χananun</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ἡγεμόνα</w>),
+          <grm>gen.</grm> <w>*χanenaz</w> or <w>*χaniniz</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ποιμένος</w>),
+          <grm>dat.</grm> (originally <grm>loc.</grm>) <w>*χanini</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ποιμένι</w>);
+          
+          <grm>Pl.</grm>
+          <grm>nom.</grm> <w>*xananiz</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ἡγεμόνες</w>),
+          <grm>acc.</grm> <w>*χananunz</w> older <w>*χannunz</w> (<abbr>cp.</abbr> <lang>Gr.</lang> <w>ἡγεμόνας</w>, <w>κύνας</w> = <lang>Indg.</lang> <w>*kun-ns</w> (<ref>§§ 53–4</ref>), <gloss>dogs</gloss>),
+          <grm>gen.</grm> <w>*χannō̃n</w> (<abbr>cp.</abbr> <lang>Goth.</lang> <w>aúhsn-ē</w>, <lang>OE.</lang> <w>oxn-a</w>, <gloss>of oxen</gloss>, <lang>Gr.</lang> <w>κυν-ῶν</w>, <gloss>of dogs</gloss>),
+          <grm>dat.</grm> <w>*χanunmiz</w>.
+          
+          The <lang>Gothic</lang> cases of the <grm>sing. and the nom. pl.</grm> are regularly developed from the corresponding <lang>prim. Germanic</lang> forms.
+
+          The <grm>acc. pl.</grm> <w>hanans</w> is the <grm>nom.</grm> used for the accusative.
+          <w>*xannō̃n</w> would have become <w>*hannō</w>;
+          <w>hananē</w> had the second <m>-an-</m> from the <grm>nom. pl.</grm>, and the <m>-ē</m> is of the same unknown origin as in <w>dagē</w> (<ref>§ 179</ref>).
+          The <grm>dat. pl.</grm> was formed direct from <m>han-</m> + <m>am</m>, the ending of the <c>a</c>-stems.
         </p>
       </div>
 
-      <div type="section" n="208" status="wip">
+      <div type="section" n="208">
         <p>
           <label>§ 208.</label>
-          Like hana are declined a great number of weak masculines;
+
+          Like <w>hana</w> are declined a great number of weak masculines;
           as
-          aha, mind;
-          ahma, spirit;
-          atta, father;
-          brunna, well, spring;
-          blōma, flower;
-          fana, bit of cloth;
-          galga, cross, gallows;
-          gajuka, companion;
-          garda, fold;
-          gataúra, tear, rent;
-          guma, man;
-          hiuhma, crowd;
-          hliuma, hearing;
-          liuta, hypocrite;
-          lukarnastaþa, candlestick;
-          magula, little boy;
-          malma, sand;
-          mēna, moon;
-          nōta, stern of a ship;
-          nuta, fisherman;
-          skula, debtor;
-          smakka, fig;
-          snaga, garment;
-          swaíhra, father-in-law;
-          staua, judge;
-          weiha, priest.
+          <w>aha</w>, <gloss>mind</gloss>;
+          <w>ahma</w>, <gloss>spirit</gloss>;
+          <w>atta</w>, <gloss>father</gloss>;
+          <w>brunna</w>, <gloss>well, spring</gloss>;
+          <w>blōma</w>, <gloss>flower</gloss>;
+          <w>fana</w>, <gloss>bit of cloth</gloss>;
+          <w>galga</w>, <gloss>cross, gallows</gloss>;
+          <w>gajuka</w>, <gloss>companion</gloss>;
+          <w>garda</w>, <gloss>fold</gloss>;
+          <w>gataúra</w>, <gloss>tear, rent</gloss>;
+          <w>guma</w>, <gloss>man</gloss>;
+          <w>hiuhma</w>, <gloss>crowd</gloss>;
+          <w>hliuma</w>, <gloss>hearing</gloss>;
+          <w>liuta</w>, <gloss>hypocrite</gloss>;
+          <w>lukarnastaþa</w>, <gloss>candlestick</gloss>;
+          <w>magula</w>, <gloss>little boy</gloss>;
+          <w>malma</w>, <gloss>sand</gloss>;
+          <w>mēna</w>, <gloss>moon</gloss>;
+          <w>nōta</w>, <gloss>stern of a ship</gloss>;
+          <w>nuta</w>, <gloss>fisherman</gloss>;
+          <w>skula</w>, <gloss>debtor</gloss>;
+          <w>smakka</w>, <gloss>fig</gloss>;
+          <w>snaga</w>, <gloss>garment</gloss>;
+          <w>swaíhra</w>, <gloss>father-in-law</gloss>;
+          <w>staua</w>, <gloss>judge</gloss>;
+          <w>weiha</w>, <gloss>priest</gloss>.
         </p>
         <pb n="98"/>
         <p>
-          arbi-numja, heir;
-          arbja, heir;
-          baúrgja, citizen;
-          bandja, prisoner;
-          faúra-gaggja, governor;
-          fiskja, fisher;
-          fráuja, master;
-          gasinþja, companion;
-          gudja, priest;
-          haúrnja, horn-blower;
-          nēƕundja, neighbour;
-          swiglja, piper;
-          timrja, carpenter;
-          wardja,guard;
-          wilja, will.
-          See § 153 note.
+          <w>arbi-numja</w>, <gloss>heir</gloss>;
+          <w>arbja</w>, <gloss>heir</gloss>;
+          <w>baúrgja</w>, <gloss>citizen</gloss>;
+          <w>bandja</w>, <gloss>prisoner</gloss>;
+          <w>faúra-gaggja</w>, <gloss>governor</gloss>;
+          <w>fiskja</w>, <gloss>fisher</gloss>;
+          <w>fráuja</w>, <gloss>master</gloss>;
+          <w>gasinþja</w>, <gloss>companion</gloss>;
+          <w>gudja</w>, <gloss>priest</gloss>;
+          <w>haúrnja</w>, <gloss>horn-blower</gloss>;
+          <w>nēƕundja</w>, <gloss>neighbour</gloss>;
+          <w>swiglja</w>, <gloss>piper</gloss>;
+          <w>timrja</w>, <gloss>carpenter</gloss>;
+          <w>wardja</w>, <gloss>guard</gloss>;
+          <w>wilja</w>, <gloss>will</gloss>.
+
+          See <ref>§ 153 note</ref>.
         </p>
 
         <p>
-          gawaúrstwa, fellow-worker;
-          skuggwa, mirror;
-          sparwa, sparrow.
+          <w>gawaúrstwa</w>, <gloss>fellow-worker</gloss>;
+          <w>skuggwa</w>, <gloss>mirror</gloss>;
+          <w>sparwa</w>, <gloss>sparrow</gloss>.
         </p>
 
         <div type="note">
           <p>
-            Note.—
-            aba, man, has in the gen. pl. abnē, dat pl. abnam;
-            and aúhsa, ox, has in the gen. pl. aúhsnē.
-            See § 206.
+            <label>Note.—</label>
+            <w>aba</w>, <gloss>man</gloss>, has in the <grm>gen. pl.</grm> <w>abnē</w>,
+            <grm>dat pl.</grm> <w>abnam</w>;
+            and <w>aúhsa</w>, <gloss>ox</gloss>, has in the <grm>gen. pl.</grm> <w>aúhsnē</w>.
+            See <ref>§ 206</ref>.
           </p>
         </div>
       </div>
 
       <div type="section" n="209">
-        <label>§ 209.</label>
+        <p>
+          <label>§ 209.</label>
+        </p>
 
         <table>
           <row> <cell/>           	          <cell><grm>Sing.</grm></cell>                 <cell><grm>Plur.</grm></cell>             </row>
