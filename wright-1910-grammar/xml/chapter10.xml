@@ -1069,147 +1069,184 @@
     <div type="subsubchapter" n="2">
       <head>b. Feminines.</head>
 
-      <div type="section" n="210" status="wip">
-        <label>§ 210.</label>
+      <div type="section" n="210">
+        <p>
+          <label>§ 210.</label>
+        </p>
 
         <table>
-          <row> <cell/>                 	<cell cols="2">Sing.</cell>                                   </row>
-          <row> <cell><grm>Nom.</grm></cell>       	<cell>tuggō, tongue</cell>  	<cell>managei, multitude</cell> </row>
-          <row> <cell><grm>Acc.</grm></cell>       	<cell>tuggōn</cell>         	<cell>managein</cell>           </row>
-          <row> <cell><grm>Gen.</grm></cell>       	<cell>tuggōns</cell>        	<cell>manageins</cell>          </row>
-          <row> <cell><grm>Dat.</grm></cell>       	<cell>tuggōn</cell>         	<cell>managein</cell>           </row>
+          <row> <cell/>                 	<cell cols="2"><grm>Sing.</grm></cell>                                   </row>
+          <row> <cell><grm>Nom.</grm></cell>       	<cell><w>tuggō</w>, <gloss>tongue</gloss></cell>  	<cell><w>managei</w>, <gloss>multitude</gloss></cell> </row>
+          <row> <cell><grm>Acc.</grm></cell>       	<cell><w>tuggōn</w></cell>         	<cell><w>managein</w></cell>           </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell><w>tuggōns</w></cell>        	<cell><w>manageins</w></cell>          </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell><w>tuggōn</w></cell>         	<cell><w>managein</w></cell>           </row>
           <pb n="99"/>
           <row> <cell/>                 	<cell cols="2">Plur.</cell>                                   </row>
-          <row> <cell>Nom.	Acc.</cell> 	<cell>tuggōns</cell>        	<cell>manageins</cell>          </row>
-          <row> <cell><grm>Gen.</grm></cell>       	<cell>tuggōnō</cell>        	<cell>manageinō</cell>          </row>
-          <row> <cell><grm>Dat.</grm></cell>       	<cell>tuggōm</cell>         	<cell>manageim</cell>           </row>
+          <row> <cell><grm>Nom. Acc.</grm></cell> 	<cell><w>tuggōns</w></cell>        	<cell><w>manageins</w></cell>          </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell><w>tuggōnō</w></cell>        	<cell><w>manageinō</w></cell>          </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell><w>tuggōm</w></cell>         	<cell><w>manageim</w></cell>           </row>
         </table>
 
         <p>
-          The fem. n-stems were originally declined like the masculine.
-          As has been pointed out in § 206 the -ō of the nom. tuggō was levelled out into the oblique cases just as in
-          <lang>Lat.</lang> sermo, discourse, acc. sermōnem, gen. sermōnis, dat. sermōnī, abl. sermōne;
-          Pl. nom. acc. sermōnēs, gen. sermōnum, dat. abl. sermōnibus.
-          The -ō in the gen. pl. regularly goes back to <lang>prim. Germanic</lang> -ō̃n (§ 87, (1)).
-          The dat. pl. was formed direct from tugg- + ōm, the ending of the ō-stems (§ 191).
+          The <grm>fem.</grm> <c>n</c>-stems were originally declined like the masculine.
+          
+          As has been pointed out in <ref>§ 206</ref> the <m>-ō</m> of the <grm>nom.</grm> <w>tuggō</w> was levelled out into the oblique cases just as in
+          <lang>Lat.</lang> <w>sermo</w>, <gloss>discourse</gloss>,
+          <grm>acc.</grm> <w>sermōnem</w>,
+          <grm>gen.</grm> <w>sermōnis</w>,
+          <grm>dat.</grm> <w>sermōnī</w>,
+          <grm>abl.</grm> <w>sermōne</w>;
+          <grm>Pl.</grm>
+          <grm>nom. acc.</grm> <w>sermōnēs</w>,
+          <grm>gen.</grm>
+          <w>sermōnum</w>,
+          <grm>dat. abl.</grm> <w>sermōnibus</w>.
+          
+          The <m>-ō</m> in the <grm>gen. pl.</grm> regularly goes back to <lang>prim. Germanic</lang> <m>-ō̃n</m> (<ref>§ 87, (1)</ref>).
+          The <grm>dat. pl.</grm> was formed direct from <m>tugg-</m> + <m>ōm</m>, the ending of the <c>ō</c>-stems (<ref>§ 191</ref>).
         </p>
 
         <p>
-          The īn-stems had -īn- in all forms of the sing. and pl. already in <lang>prim. Germanic</lang>, as
-          Sing. nom. *manaʒīn, acc. *manaʒīnun;
-          gen. *manaʒīnaz, or -iz, dat. *manaʒīni;
-          Pl. nom. *manaʒīniz, acc. *manaʒīnunz, gen. *manaʒīnō̃n, dat. *manaʒīnmiz, from which the <lang>Gothic</lang> forms, except the nom. sing. and acc. dat. plural, were regularly developed.
-          The regular nom. sing. would be *managi (§ 87, (1)).
-          managei was a new formation with -ei from the oblique cases.
-          The acc. pl. manageins is the nom. used for the accusative (<abbr>cp.</abbr> § 207).
-          The dat. pl. manageim was a new formation similar to hanam, tuggōm.
+          The <c>īn</c>-stems had <c>-īn-</c> in all forms of the <grm>sing. and pl.</grm> already in <lang>prim. Germanic</lang>, as
+
+          <grm>Sing.</grm>
+          <grm>nom.</grm> <w>*manaʒīn</w>,
+          <grm>acc.</grm> <w>*manaʒīnun</w>;
+          <grm>gen.</grm> <w>*manaʒīnaz</w>, or <m>-iz</m>,
+          <grm>dat.</grm> <w>*manaʒīni</w>;
+          <grm>Pl.</grm>
+          <grm>nom.</grm> <w>*manaʒīniz</w>,
+          <grm>acc.</grm> <w>*manaʒīnunz</w>,
+          <grm>gen.</grm> <w>*manaʒīnō̃n</w>,
+          <grm>dat.</grm> <w>*manaʒīnmiz</w>,
+          
+          from which the <lang>Gothic</lang> forms, except the <grm>nom. sing. and acc. dat. plural</grm>, were regularly developed.
+          
+          The regular <grm>nom. sing.</grm> would be <w>*managi</w> (<ref>§ 87, (1)</ref>).
+          
+          <w>managei</w> was a new formation with <m>-ei</m> from the oblique cases.
+          
+          The <grm>acc. pl.</grm> <w>manageins</w> is the <grm>nom.</grm> used for the <grm>accusative</grm> (<abbr>cp.</abbr> <ref>§ 207</ref>).
+          
+          The <grm>dat. pl.</grm> <w>manageim</w> was a new formation similar to <w>hanam</w>, <w>tuggōm</w>.
+          
           On the origin of this declension, see Brugmann’s Grundriss, vol. II (second ed.), pp. 312–18.
         </p>
       </div>
 
-      <div type="section" n="211" status="wip">
+      <div type="section" n="211">
         <p>
           <label>§ 211.</label>
-          Like tuggō are declined a large number of nouns, as
-          aglō, anguish;
-          azgō, ash;
-          brinnō, fever;
-          driusō, slope;
-          fullō, fulness;
-          gajukō, parable;
-          kalbō, calf;
-          mawilō, young maiden;
-          mizdō, reward;
-          qinō, woman;
-          staírnō, star;
-          swaíhrō, mother-in-law;
-          pāhō, clay;
-          peiƕō, thunder.
+
+          Like <w>tuggō</w> are declined a large number of nouns, as
+
+          <w>aglō</w>, <gloss>anguish</gloss>;
+          <w>azgō</w>, <gloss>ash</gloss>;
+          <w>brinnō</w>, <gloss>fever</gloss>;
+          <w>driusō</w>, <gloss>slope</gloss>;
+          <w>fullō</w>, <gloss>fulness</gloss>;
+          <w>gajukō</w>, <gloss>parable</gloss>;
+          <w>kalbō</w>, <gloss>calf</gloss>;
+          <w>mawilō</w>, <gloss>young maiden</gloss>;
+          <w>mizdō</w>, <gloss>reward</gloss>;
+          <w>qinō</w>, <gloss>woman</gloss>;
+          <w>staírnō</w>, <gloss>star</gloss>;
+          <w>swaíhrō</w>, <gloss>mother-in-law</gloss>;
+          <w>pāhō</w>, <gloss>clay</gloss>;
+          <w>peiƕō</w>, <gloss>thunder</gloss>.
         </p>
 
         <p>
-          arbjō, heiress;
-          brunjō, breast-plate;
-          gatimrjō, building;
-          hēþjō, chamber;
-          nipjō, female cousin;
-          rapjō, account;
-          sakjō, strife.
+          <w>arbjō</w>, <gloss>heiress</gloss>;
+          <w>brunjō</w>, <gloss>breast-plate</gloss>;
+          <w>gatimrjō</w>, <gloss>building</gloss>;
+          <w>hēþjō</w>, <gloss>chamber</gloss>;
+          <w>nipjō</w>, <gloss>female cousin</gloss>;
+          <w>rapjō</w>, <gloss>account</gloss>;
+          <w>sakjō</w>, <gloss>strife</gloss>.
         </p>
 
         <p>
-          gatwō, street;
-          ūhtwō, early morn;
-          wahtwō, watch.
+          <w>gatwō</w>, <gloss>street</gloss>;
+          <w>ūhtwō</w>, <gloss>early morn</gloss>;
+          <w>wahtwō</w>, <gloss>watch</gloss>.
         </p>
       </div>
       <pb n="100"/>
-      <div type="section" n="212" status="wip">
-        <label>§ 212.</label>
-        Like managei are declined a large number of nouns, most of which are formed from adjectives, as
-        agláitei, lasciviousness;
-        áiþei, mother;
-        áudagei, blessedness;
-        báitrei, bitterness;
-        balþei, boldness;
-        baírhtei, brightness;
-        bleiþei, mercy;
-        diupei, depth;
-        drugkanei, drunkenness;
-        frōdei, understanding;
-        gagudei, piety;
-        garaíhtei, righteousness;
-        háuhhaírtei, pride;
-        hlūtrei, purity;
-        kilþei, womb;
-        liutei, deceit;
-        marei, sea;
-        mikilei, greatness;
-        þramstei, locust;
-        þaúrstei, thirst.
+      <div type="section" n="212">
+        <p>
+          <label>§ 212.</label>
+
+          Like <w>managei</w> are declined a large number of nouns, most of which are formed from adjectives, as
+
+          <w>agláitei</w>, <gloss>lasciviousness</gloss>;
+          <w>áiþei</w>, <gloss>mother</gloss>;
+          <w>áudagei</w>, <gloss>blessedness</gloss>;
+          <w>báitrei</w>, <gloss>bitterness</gloss>;
+          <w>balþei</w>, <gloss>boldness</gloss>;
+          <w>baírhtei</w>, <gloss>brightness</gloss>;
+          <w>bleiþei</w>, <gloss>mercy</gloss>;
+          <w>diupei</w>, <gloss>depth</gloss>;
+          <w>drugkanei</w>, <gloss>drunkenness</gloss>;
+          <w>frōdei</w>, <gloss>understanding</gloss>;
+          <w>gagudei</w>, <gloss>piety</gloss>;
+          <w>garaíhtei</w>, <gloss>righteousness</gloss>;
+          <w>háuhhaírtei</w>, <gloss>pride</gloss>;
+          <w>hlūtrei</w>, <gloss>purity</gloss>;
+          <w>kilþei</w>, <gloss>womb</gloss>;
+          <w>liutei</w>, <gloss>deceit</gloss>;
+          <w>marei</w>, <gloss>sea</gloss>;
+          <w>mikilei</w>, <gloss>greatness</gloss>;
+          <w>þramstei</w>, <gloss>locust</gloss>;
+          <w>þaúrstei</w>, <gloss>thirst</gloss>.
+        </p>
       </div>
     </div>
 
     <div type="subsubchapter" n="3">
       <head>c. Neuters.</head>
 
-      <div type="section" n="213" status="wip">
-        <label>§ 213.</label>
+      <div type="section" n="213">
+        <p>
+          <label>§ 213.</label>
+        </p>
 
         <table>
           <row> <cell/>                 	<cell><grm>Sing.</grm></cell>          	<cell><grm>Plur.</grm></cell>    </row>
-          <row> <cell>Nom.	Acc.</cell> 	<cell>haírtō, heart</cell>  	<cell>haírtōna</cell> </row>
-          <row> <cell><grm>Gen.</grm></cell>       	<cell>haírtins</cell>       	<cell>haírtanē</cell> </row>
-          <row> <cell><grm>Dat.</grm></cell>       	<cell>haírtin</cell>        	<cell>haírtam</cell>  </row>
+          <row> <cell><grm>Nom. Acc.</grm></cell> 	<cell><w>haírtō</w>, <gloss>heart</gloss></cell>  	<cell><w>haírtōna</w></cell> </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell><w>haírtins</w></cell>       	<cell><w>haírtanē</w></cell> </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell><w>haírtin</w></cell>        	<cell><w>haírtam</w></cell>  </row>
         </table>
 
         <p>
-          The neuter n-stems had originally the same endings as the masc. and fem. except in the acc. sing. and nom. acc. plural.
-          Nom. acc. sing. haírtō from *xertō̃ (§ 206).
-          The nom. acc. pl. had -ōnə in the <lang>Indg.</lang> parent language.
-          This was changed in <lang>prim. Germanic</lang> into -ōnō with -ō from the neut. a-stems (§ 181).
-          -ōnō regularly became -ōna in <lang>Gothic</lang>.
-          The dat. pl. haírtam was formed in the same manner as hanam (§ 207).
+          The <grm>neuter</grm> <c>n</c>-stems had originally the same endings as the <grm>masc. and fem.</grm> except in the <grm>acc. sing. and nom. acc. plural</grm>.
+          <grm>Nom. acc. sing.</grm> <w>haírtō</w> from <w>*xertō̃</w> (<ref>§ 206</ref>).
+          The <grm>nom. acc. pl.</grm> had <m>-ōnə</m> in the <lang>Indg.</lang> parent language.
+          This was changed in <lang>prim. Germanic</lang> into <m>-ōnō</m> with <m>-ō</m> from the <grm>neut.</grm> <c>a</c>-stems (<grm>§ 181</grm>).
+          <m>-ōnō</m> regularly became <m>-ōna</m> in <lang>Gothic</lang>.
+          The <grm>dat. pl.</grm> <w>haírtam</w> was formed in the same manner as <w>hanam</w> (<ref>§ 207</ref>).
         </p>
       </div>
 
-      <div type="section" n="214" status="wip">
+      <div type="section" n="214">
         <p>
           <label>§ 214.</label>
-          Like haírtō are declined the following nouns:—
-          áugō, eye;
-          áusō, ear;
-          áugadaúrō, window;
-          barnilō, little child;
-          kaúrnō, corn;
-          sigljō, seal;
-          þaírkō, hole.
+
+          Like <w>haírtō</w> are declined the following nouns:—
+
+          <w>áugō</w>, <gloss>eye</gloss>;
+          <w>áusō</w>, <gloss>ear</gloss>;
+          <w>áugadaúrō</w>, <gloss>window</gloss>;
+          <w>barnilō</w>, <gloss>little child</gloss>;
+          <w>kaúrnō</w>, <gloss>corn</gloss>;
+          <w>sigljō</w>, <gloss>seal</gloss>;
+          <w>þaírkō</w>, <gloss>hole</gloss>.
         </p>
 
         <div type="note">
           <p>
-            Note.—
-            watō, water, has in the dat. pl. watnam, and namō, name, has in the nom. acc. pl. namna;
+            <label>Note.—</label>
+            <w>watō</w>, <gloss>water</gloss>, has in the <grm>dat. pl.</grm> <w>watnam</w>, and <w>namō</w>, <gloss>name</gloss>, has in the <grm>nom. acc. pl.</grm> <w>namna</w>;
             other plural cases of these two words are not extant.
           </p>
         </div>
@@ -1221,91 +1258,103 @@
     <head>C. Minor Declensions.</head>
 
     <div type="subsubchapter" n="1">
-      <head>1. Stems in -r.</head>
+      <head>1. Stems in <c>-r</c>.</head>
 
-      <div type="section" n="215" status="wip">
-        <label>§ 215.</label>
+      <div type="section" n="215">
+        <p>
+          <label>§ 215.</label>
+        </p>
 
         <table>
           <row> <cell/>            	<cell><grm>Sing.</grm></cell>            	<cell><grm>Plur.</grm></cell>    </row>
-          <row> <cell><grm>Nom.</grm></cell> 	<cell>brōþar, brother</cell>  	<cell>brōþrjus</cell> </row>
-          <row> <cell><grm>Acc.</grm></cell> 	<cell>brōþar</cell>           	<cell>brōþruns</cell> </row>
-          <row> <cell><grm>Gen.</grm></cell> 	<cell>brōþrs</cell>           	<cell>brōþrē</cell>   </row>
-          <row> <cell><grm>Dat.</grm></cell> 	<cell>brōþr</cell>            	<cell>brōþrum</cell>  </row>
+          <row> <cell><grm>Nom.</grm></cell> 	<cell><w>brōþar</w>, <gloss>brother</gloss></cell>  	<cell><w>brōþrjus</w></cell> </row>
+          <row> <cell><grm>Acc.</grm></cell> 	<cell><w>brōþar</w></cell>           	<cell><w>brōþruns</w></cell> </row>
+          <row> <cell><grm>Gen.</grm></cell> 	<cell><w>brōþrs</w></cell>           	<cell><w>brōþrē</w></cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell> 	<cell><w>brōþr</w></cell>            	<cell><w>brōþrum</w></cell>  </row>
         </table>
         <pb n="101"/>
         <p>
-          In the parent language the words for father, mother and daughter had in the sing. nom. -tēr, acc. loc. -ter-, voc. -ter, gen. dat. -tr- (with consonantal r), Pl. nom. -ter-, acc. -tr- (with consonantal r), dat. loc. -tr- (with vocalic r), <abbr>cp.</abbr> § 206.
-          The word for brother had sing. nom. -tōr or -tēr, and the word for sister -ōr (see § 147) with short -or- or loss of -o- in the other cases just as in -tēr, -ter-, -tr-.
-          In <lang>Goth.</lang> -e-, -o- regularly became -a- before the following -r- (<abbr>cp.</abbr> §§ 39 note, 106).
+          In the parent language the words for <gloss>father</gloss>, <gloss>mother</gloss> and <gloss>daughter</gloss> had in the <grm>sing.</grm> <grm>nom.</grm> <m>-tēr</m>, <grm>acc. loc.</grm> <m>-ter-</m>, <grm>voc.</grm> <m>-ter</m>, <grm>gen. dat.</grm> <m>-tr-</m> (with consonantal <c>r</c>), <grm>Pl.</grm> <grm>nom.</grm> <m>-ter-</m>, <grm>acc.</grm> <m>-tr-</m> (with consonantal <c>r</c>), <grm>dat. loc.</grm> <m>-tr-</m> (with vocalic <c>r</c>), <abbr>cp.</abbr> <ref>§ 206</ref>.
+
+          The word for <gloss>brother</gloss> had <grm>sing. nom.</grm> <m>-tōr</m> or <m>-tēr</m>, and the word for <gloss>sister</gloss> <m>-ōr</m> (see <ref>§ 147</ref>) with short <m>-or-</m> or loss of <m>-o-</m> in the other cases just as in <m>-tēr</m>, <m>-ter-</m>, <m>-tr-</m>.
+
+          In <lang>Goth.</lang> <c>-e-</c>, <c>-o-</c> regularly became <c>-a-</c> before the following <c>-r-</c> (<abbr>cp.</abbr> <ref>§§ 39 note, 106</ref>).
+
           The <lang>prim. Germ.</lang> forms of brōþar were:
-          Sing. nom. *ƀrōþōr, or -ēr (<abbr>cp.</abbr> <lang>Gr. Dor.</lang> φρᾱ́τωρ, φρᾱ́τηρ, member of a clan, πατήρ, father),
-          acc. *ƀrōþarun, or -erun (<abbr>cp.</abbr> φρᾱ́τορα, φρᾱ́τερα),
-          voc. *ƀrōþar, or -er (<abbr>cp.</abbr> φρᾱ́τορ, φρᾱ́τερ),
-          gen. *ƀrōþraz, or -iz (<abbr>cp.</abbr> πατρός, <lang>Lat.</lang> patris),
-          dat. *ƀrōþri (<abbr>cp.</abbr> πατρί);
-          Pl. nom. *brōþariz, or -iriz (<abbr>cp.</abbr> φρᾱ́τορες, πατέρες),
-          acc. *ƀrōþrunz,
-          gen. *ƀrōþrō̃n (<abbr>cp.</abbr> πατρῶν),
-          dat. *ƀrōþrumiz;
-          from which all the <lang>Gothic</lang> forms are regularly developed except the nom. sing. and the nom. and gen. plural.
-          The nom. sing. is the acc. or voc. used for the nominative.
-          The ending -ōr, -ēr would not have become -ar in <lang>Gothic</lang>, see § 89 note.
-          The nom. pl. was formed after the analogy of sunjus (§ 202) owing to the acc. and dat. pl. regularly falling together in both declensions.
-          On the -ē in brōþrē see § 179.
+          <grm>Sing.</grm>
+          <grm>nom.</grm> <w>*ƀrōþōr</w>, or <m>-ēr</m> (<abbr>cp.</abbr> <lang>Gr. Dor.</lang> <w>φρᾱ́τωρ</w>, <w>φρᾱ́τηρ</w>, <gloss>member of a clan</gloss>, <w>πατήρ</w>, <gloss>father</gloss>),
+          <grm>acc.</grm> <w>*ƀrōþarun</w>, or <m>-erun</m> (<abbr>cp.</abbr> <w>φρᾱ́τορα</w>, <w>φρᾱ́τερα</w>),
+          <grm>voc.</grm> <w>*ƀrōþar</w>, or <m>-er</m> (<abbr>cp.</abbr> <w>φρᾱ́τορ</w>, <w>φρᾱ́τερ</w>),
+          <grm>gen.</grm> <w>*ƀrōþraz</w>, or <m>-iz</m> (<abbr>cp.</abbr> <w>πατρός</w>, <lang>Lat.</lang> <w>patris</w>),
+          <grm>dat.</grm> <w>*ƀrōþri</w> (<abbr>cp.</abbr> <w>πατρί</w>);
+          <grm>Pl.</grm>
+          <grm>nom.</grm> <w>*brōþariz</w>, or <m>-iriz</m> (<abbr>cp.</abbr> <w>φρᾱ́τορες</w>, <w>πατέρες</w>),
+          <grm>acc.</grm> <w>*ƀrōþrunz</w>,
+          <grm>gen.</grm> <w>*ƀrōþrō̃n</w> (<abbr>cp.</abbr> <w>πατρῶν</w>),
+          <grm>dat.</grm> <w>*ƀrōþrumiz</w>;
+          from which all the <lang>Gothic</lang> forms are regularly developed except the <grm>nom. sing. and the nom. and gen. plural</grm>.
+          The <grm>nom. sing.</grm> is the <grm>acc.</grm> or <grm>voc.</grm> used for the nominative.
+          The ending <m>-ōr</m>, <m>-ēr</m> would not have become <m>-ar</m> in <lang>Gothic</lang>, see <ref>§ 89 note</ref>.
+          The <grm>nom. pl.</grm> was formed after the analogy of <w>sunjus</w> (<ref>§ 202</ref>) owing to the <grm>acc. and dat. pl.</grm> regularly falling together in both declensions.
+          On the <m>-ē</m> in <w>brōþrē</w> see <ref>§ 179</ref>.
         </p>
       </div>
 
-      <div type="section" n="216" status="wip">
+      <div type="section" n="216">
         <p>
           <label>§ 216.</label>
           In the same manner are declined:—
-          daúhtar, daughter;
-          swistar (§ 147), sister.
-          The word fadar, father, only occurs once, and that in the voc. or nom. sing. *mōdar, mother, does not occur at all, instead of which áiþei (§ 212) is used.
+          <w>daúhtar,</w> <gloss>daughter</gloss>;
+          <w>swistar</w> (<ref>§ 147</ref>), <gloss>sister</gloss>.
+
+          The word <w>fadar</w>, <gloss>father</gloss>, only occurs once, and that in the <grm>voc. or nom. sing.</grm> <w>*mōdar</w>, <gloss>mother</gloss>, does not occur at all, instead of which <w>áiþei</w> (<ref>§ 212</ref>) is used.
         </p>
       </div>
     </div>
 
     <div type="subsubchapter" n="2">
-      <head>2. Stems in -nd.</head>
+      <head>2. Stems in <c>-nd</c>.</head>
 
-      <div type="section" n="217" status="wip">
+      <div type="section" n="217">
         <p>
           <label>§ 217.</label>
-          The nouns of this declension are old present participles, like <lang>Lat.</lang> ferēns, bearing, gen. ferentis, and originally had the same case endings as the other consonantal stems.
+
+          The nouns of this declension are old present participles, like <lang>Lat.</lang> <w>ferēns</w>, <gloss>bearing</gloss>, <grm>gen.</grm> <w>ferentis</w>, and originally had the same case endings as the other consonantal stems.
+
           But in <lang>Gothic</lang> as in the other <lang>Germanic</lang> languages they underwent various new formations.
-          The<pb n="102"/>nom. sing. was a new formation with -d- from the inflected forms, <abbr>cp.</abbr> <lang>Lat.</lang> ferēns from *ferenss older *ferents (§ 138);
-          acc. frijōnd from *frijōndun, dat. frijōnd from *frijōndi;
-          nom. pl. frijōnds from *frijōndiz, which was also used for the accusative.
-          The gen. sing. and gen. dat. pl. were formed after the analogy of the a-stems (§ 179).
-          For the declension of the present participles in <lang>Gothic</lang>, see § 239.
+
+          The<pb n="102"/><grm>nom. sing.</grm> was a new formation with <c>-d-</c> from the inflected forms, <abbr>cp.</abbr> <lang>Lat.</lang> <w>ferēns</w> from <w>*ferenss</w> older <w>*ferents</w> (<ref>§ 138</ref>);
+          <grm>acc.</grm> <w>frijōnd</w> from <w>*frijōndun</w>, <grm>dat.</grm> <w>frijōnd</w> from <w>*frijōndi</w>;
+          <grm>nom. pl.</grm> <w>frijōnds</w> from <w>*frijōndiz</w>, which was also used for the accusative.
+          The <grm>gen. sing.</grm> and <grm>gen. dat. pl.</grm> were formed after the analogy of the <c>a</c>-stems (<ref>§ 179</ref>).
+          For the declension of the present participles in <lang>Gothic</lang>, see <ref>§ 239</ref>.
         </p>
 
         <table>
           <row> <cell/>                 	<cell><grm>Sing.</grm></cell>            	<cell><grm>Plur.</grm></cell>      </row>
-          <row> <cell><grm>Nom.</grm></cell>       	<cell>frijōnds, friend</cell> 	<cell>frijōnds</cell>   </row>
-          <row> <cell>Voc. Acc.</cell>  	<cell>frijōnd</cell>          	<cell>frijōnds</cell>   </row>
-          <row> <cell><grm>Gen.</grm></cell>       	<cell>frijōndis</cell>        	<cell>frijōndē</cell>   </row>
-          <row> <cell><grm>Dat.</grm></cell>       	<cell>frijōnd</cell>          	<cell>frijōndam</cell>  </row>
+          <row> <cell><grm>Nom.</grm></cell>       	<cell><w>frijōnds</w>, <gloss>friend</gloss></cell> 	<cell><w>frijōnds</w></cell>   </row>
+          <row> <cell><grm>Voc. Acc.</grm></cell>  	<cell><w>frijōnd</w></cell>          	<cell><w>frijōnds</w></cell>   </row>
+          <row> <cell><grm>Gen.</grm></cell>       	<cell><w>frijōndis</w></cell>        	<cell><w>frijōndē</w></cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell>       	<cell><w>frijōnd</w></cell>          	<cell><w>frijōndam</w></cell>  </row>
         </table>
       </div>
 
-      <div type="section" n="218" status="wip">
+      <div type="section" n="218">
         <p>
           <label>§ 218.</label>
+
           In like manner are inflected the extant forms of
-          allwaldands, the Almighty;
-          bisitands, neighbour;
-          dáupjands, baptizer;
-          fráujinōnds, ruler;
-          fijands, enemy;
-          fraweitands, avenger;
-          gibands, giver;
-          mērjands, proclaimer;
-          midumōnds, mediator;
-          nasjands, saviour;
-          talzjands, teacher.
+          <w>allwaldands</w>, <gloss>the Almighty</gloss>;
+          <w>bisitands</w>, <gloss>neighbour</gloss>;
+          <w>dáupjands</w>, <gloss>baptizer</gloss>;
+          <w>fráujinōnds</w>, <gloss>ruler</gloss>;
+          <w>fijands</w>, <gloss>enemy</gloss>;
+          <w>fraweitands</w>, <gloss>avenger</gloss>;
+          <w>gibands</w>, <gloss>giver</gloss>;
+          <w>mērjands</w>, <gloss>proclaimer</gloss>;
+          <w>midumōnds</w>, <gloss>mediator</gloss>;
+          <w>nasjands</w>, <gloss>saviour</gloss>;
+          <w>talzjands</w>, <gloss>teacher</gloss>.
         </p>
       </div>
     </div>
@@ -1313,12 +1362,34 @@
     <div type="subsubchapter" n="3">
       <head>3. Masculines.</head>
 
-      <div type="section" n="219" status="wip">
+      <div type="section" n="219">
         <p>
           <label>§ 219.</label>
-          Of the masculines belonging here we have only traces, as sing. nom. mēnōþs, month, gen. mēnōþs (or mēnōþis?), dat. mēnoþ, pl. nom. acc. mēnōþs, dat. mēnōþum;
-          sing. nom. reiks, ruler, gen. reikis, dat. reik, pl. nom. acc. reiks, gen. reikē, dat. reikam;
-          sing. nom. weitwōds, witness, acc. weitwōd, pl. nom. weitwōds, gen. weitwōdē.
+          Of the masculines belonging here we have only traces, as
+          
+          <grm>sing.</grm>
+          <grm>nom.</grm> <w>mēnōþs</w>, <gloss>month</gloss>,
+          <grm>gen.</grm> <w>mēnōþs</w> (or <w>mēnōþis</w>?),
+          <grm>dat.</grm> <w>mēnoþ</w>,
+          <grm>pl.</grm>
+          <grm>nom. acc.</grm> <w>mēnōþs</w>,
+          <grm>dat.</grm> <w>mēnōþum</w>;
+
+          <grm>sing.</grm>
+          <grm>nom.</grm> <w>reiks</w>, <gloss>ruler</gloss>,
+          <grm>gen.</grm> <w>reikis</w>,
+          <grm>dat.</grm> <w>reik</w>,
+          <grm>pl.</grm>
+          <grm>nom. acc.</grm> <w>reiks</w>,
+          <grm>gen.</grm> <w>reikē</w>,
+          <grm>dat.</grm> <w>reikam</w>;
+
+          <grm>sing.</grm>
+          <grm>nom.</grm> <w>weitwōds</w>, <gloss>witness</gloss>,
+          <grm>acc.</grm> <w>weitwōd</w>,
+          <grm>pl.</grm>
+          <grm>nom.</grm> <w>weitwōds</w>,
+          <grm>gen.</grm> <w>weitwōdē</w>.
         </p>
       </div>
     </div>
@@ -1326,46 +1397,60 @@
     <div type="subsubchapter" n="4">
       <head>4. Feminines.</head>
 
-      <div type="section" n="220" status="wip">
+      <div type="section" n="220">
         <label>§ 220.</label>
 
         <table>
-          <row> <cell/>           <cell><grm>Sing.</grm></cell>        <cell><grm>Plur.</grm></cell>    </row>
-          <row> <cell><grm>Nom.</grm></cell> <cell>baúrgs, city</cell> <cell>baúrgs</cell>   </row>
-          <row> <cell><grm>Acc.</grm></cell> <cell>baúrg</cell>        <cell>baúrgs</cell>   </row>
-          <row> <cell><grm>Gen.</grm></cell> 	<cell>baúrgs</cell>     <cell>baúrgē</cell>   </row>
-          <row> <cell><grm>Dat.</grm></cell> <cell>baúrg</cell>        <cell>baúrgim</cell>  </row>
+          <row> <cell/>           <cell><grm>Sing.</grm></cell>         <cell><grm>Plur.</grm></cell>    </row>
+          <row> <cell><grm>Nom.</grm></cell> <cell><w>baúrgs</w>, <gloss>city</gloss></cell>  <cell><w>baúrgs</w></cell>   </row>
+          <row> <cell><grm>Acc.</grm></cell> <cell><w>baúrg</w></cell>         <cell><w>baúrgs</w></cell>   </row>
+          <row> <cell><grm>Gen.</grm></cell> <cell><w>baúrgs</w></cell>        <cell><w>baúrgē</w></cell>   </row>
+          <row> <cell><grm>Dat.</grm></cell> <cell><w>baúrg</w></cell>         <cell><w>baúrgim</w></cell>  </row>
         </table>
         <pb n="103"/>
         <p>
-          The <lang>prim. Germ.</lang> forms of baúrgs were:
-          Sing. nom. *ƀurχs (§ 138), acc. *ƀurʒun, gen. *ƀurʒaz or -iz, dat. *ƀurʒi;
-          Pl. nom. *ƀurʒiz, acc. *ƀurʒunz, gen. *ƀurʒō̃n, dat. *ƀurʒumiz, from which are regularly developed the gen. dat. sing. and nom. plural (but see § 169).
-          Nom. sing. baúrgs for *baúrhs with g from the other cases.
-          The acc. pl. is the nom. used for the accusative.
-          The acc. sing. and gen. and dat. pl. were formed after the analogy of the i-stems (§ 198).
-          The regular forms would have been *baúrgu, *baúrgō, *baúrgum.
+          The <lang>prim. Germ.</lang> forms of <w>baúrgs</w> were:
+
+          <grm>Sing.</grm>
+          <grm>nom.</grm> <w>*ƀurχs</w> (<ref>§ 138</ref>),
+          <grm>acc.</grm> <w>*ƀurʒun</w>,
+          <grm>gen.</grm> <w>*ƀurʒaz</w> or <m>-iz</m>,
+          <grm>dat.</grm> <w>*ƀurʒi</w>;
+          <grm>Pl.</grm>
+          <grm>nom.</grm> <w>*ƀurʒiz</w>,
+          <grm>acc.</grm> <w>*ƀurʒunz</w>,
+          <grm>gen.</grm> <w>*ƀurʒō̃n</w>,
+          <grm>dat.</grm> <w>*ƀurʒumiz</w>,
+          from which are regularly developed the <grm>gen. dat. sing.</grm> and <grm>nom. plural</grm> (but see <ref>§ 169</ref>).
+          
+          <grm>Nom. sing.</grm> <w>baúrgs</w> for <w>*baúrhs</w> with <c>g</c> from the other cases.
+          
+          The <grm>acc. pl.</grm> is the <grm>nom.</grm> used for the accusative.
+          
+          The <grm>acc. sing.</grm> and <grm>gen. and dat. pl.</grm> were formed after the analogy of the <c>i</c>-stems (<ref>§ 198</ref>).
+          
+          The regular forms would have been <w>*baúrgu</w>, <w>*baúrgō</w>, <w>*baúrgum</w>.
         </p>
       </div>
 
-      <div type="section" n="221" status="wip">
+      <div type="section" n="221">
         <p>
           <label>§ 221.</label>
           In the same manner are declined:—
-          alhs, temple;
-          brusts, breast;
-          dulþs, feast;
-          miluks, milk;
-          mitaþs (gen. mitads), measure;
-          nahts, night, but dat. pl. nahtam, formed after the analogy of dagam (§ 179);
-          spaúrds, racecourse;
-          waíhts, thing.
+          <w>alhs</w>, <gloss>temple</gloss>;
+          <w>brusts</w>, <gloss>breast</gloss>;
+          <w>dulþs</w>, <gloss>feast</gloss>;
+          <w>miluks</w>, <gloss>milk</gloss>;
+          <w>mitaþs</w> (<grm>gen.</grm> <w>mitads</w>), <gloss>measure</gloss>;
+          <w>nahts</w>, <gloss>night</gloss>, but <grm>dat. pl.</grm> <w>nahtam</w>, formed after the analogy of <w>dagam</w> (<ref>§ 179</ref>);
+          <w>spaúrds</w>, <gloss>racecourse</gloss>;
+          <w>waíhts</w>, <gloss>thing</gloss>.
         </p>
 
         <div type="note">
           <p>
-            Note.—
-            dulþs and waíhts are also declined according to the i-declension (§ 198).
+            <label>Note.—</label>
+            <w>dulþs</w> and <w>waíhts</w> are also declined according to the <c>i</c>-declension (<ref>§ 198</ref>).
           </p>
         </div>
         </div>
@@ -1374,10 +1459,13 @@
     <div type="subsubchapter" n="5">
       <head>5. Neuters.</head>
 
-      <div type="section" n="222" status="wip">
+      <div type="section" n="222">
         <p>
           <label>§ 222.</label>
-          Sing. nom. acc. fōn, fire, gen. funins, dat. funin.
+          <grm>Sing.</grm>
+          <grm>nom. acc.</grm> <w>fōn</w>, <gloss>fire</gloss>,
+          <grm>gen.</grm> <w>funins</w>,
+          <grm>dat.</grm> <w>funin</w>.
           No plural forms occur.
         </p>
       </div>

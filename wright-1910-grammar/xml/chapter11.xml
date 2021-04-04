@@ -855,58 +855,70 @@
     <div type="subsubchapter" n="1">
       <head>3. Other Numerals.</head>
 
-      <div type="section" n="255" status="wip">
+      <div type="section" n="255">
         <p>
           <label>§ 255.</label>
-          Both is expressed by masc. nom. <w>bái</w>, acc. <w>bans</w>, dat. <w>báim</w>, neut. nom. acc. <w>ba</w>;
-          also by masc. nom. <w>bajōþs</w>, dat. <w>bajōþum</w>.
+          Both is expressed by
+          <grm>masc. nom.</grm> <w>bái</w>,
+          <grm>acc.</grm> <w>bans</w>,
+          <grm>dat.</grm> <w>báim</w>,
+          <grm>neut. nom. acc.</grm> <w>ba</w>;
+
+          also by
+          <grm>masc. nom.</grm> <w>bajōþs</w>,
+          <grm>dat.</grm> <w>bajōþum</w>.
         </p>
       </div>
 
-      <div type="section" n="256" status="wip">
+      <div type="section" n="256">
         <p>
           <label>§ 256.</label>
-          The only extant simple distributive numeral is <w>tweihnái</w>, two each, of which the fem. acc. <w>tweihnōs</w>, dat. <w>tweihnáim</w>, occur.
+
+          The only extant simple distributive numeral is <w>tweihnái</w>, <gloss>two each</gloss>, of which the
+          <grm>fem. acc.</grm> <w>tweihnōs</w>,
+          <grm>dat.</grm> <w>tweihnáim</w>, occur.
+
           Distributive numerals are expressed by prepositional or pronominal phrases:
-          bi twans aíþþáu máist þrins, by twos or at most by threes;
-          ana ƕarjanōh (§ 275) fimftiguns, by fifties in each (company);
-          insandida ins twans ƕanzuh (§ 275), he sent them forth two and two.
+          
+          <phr>bi twans aíþþáu máist þrins</phr>, <gloss>by twos or at most by threes</gloss>;
+          <phr>ana ƕarjanōh (<ref>§ 275</ref>) fimftiguns</phr>, <gloss>by fifties in each (company)</gloss>;
+          <phr>insandida ins twans ƕanzuh (<ref>§ 275</ref>)</phr>, <gloss>he sent them forth two and two</gloss>.
         </p>
       </div>
 
-      <div type="section" n="257" status="wip">
+      <div type="section" n="257">
         <p>
           <label>§ 257.</label>
-          Multiplicatives are formed by adding the adj. falþ- to the cardinals.
-          They are <w>áinfalþs</w>, onefold, simple;
-          <w>fidurfalþs</w>, fourfold;
-          <w>taíhuntaíhundfalþs</w>, hundredfold;
-          <w>managfalþs</w>, manifold.
+          Multiplicatives are formed by adding the <grm>adj.</grm> <m>falþ-</m> to the cardinals.
+          They are <w>áinfalþs</w>, <gloss>onefold, simple</gloss>;
+          <w>fidurfalþs</w>, <gloss>fourfold</gloss>;
+          <w>taíhuntaíhundfalþs</w>, <gloss>hundredfold</gloss>;
+          <w>managfalþs</w>, <gloss>manifold</gloss>.
         </p>
 
         <div type="note">
           <p>
-            Note.—
-            Observe that instead of <w>fidwōr</w> we have fidur- in compounds;
-            other examples are: <w>fidurdōgs</w> (adj.), space of four days;
-            <w>fidurragineis</w>, tetrarchate;
-            <abbr>cp.</abbr> <lang>OE.</lang> <w>fyðerfēte</w>, fourfooted.
+            <label>Note.—</label>
+            Observe that instead of <w>fidwōr</w> we have <m>fidur-</m> in compounds;
+            other examples are: <w>fidurdōgs</w> (<grm>adj.</grm>), <gloss>space of four days</gloss>;
+            <w>fidurragineis</w>, <gloss>tetrarchate</gloss>;
+            <abbr>cp.</abbr> <lang>OE.</lang> <w>fyðerfēte</w>, <gloss>fourfooted</gloss>.
           </p>
         </div>
       </div>
 
-      <div type="section" n="258" status="wip">
+      <div type="section" n="258">
         <p>
           <label>§ 258.</label>
-          Numeral adverbs in answer to the question, how often? are expressed by numerals together with the dat. sing. and pl. of <w>*sinþs</w>, time (lit. a going):
-          áinamma sinþa, once;
-          anþaramma sinþa, a second time;
-          twáim sinþam, twice;
-          þrim sinþam, thrice;
-          fimf sinþam, five times;
-          sibun sinþam, seven times;
-          <abbr>cp.</abbr> <lang>OE.</lang> ǣene sīða, once;
-          fīf sīðum, five times.
+          Numeral adverbs in answer to the question, <gloss>how often?</gloss> are expressed by numerals together with the <grm>dat. sing. and pl.</grm> of <w>*sinþs</w>, <gloss>time</gloss> (<abbr>lit.</abbr> <gloss>a going</gloss>):
+          <phr>áinamma sinþa</phr>, <gloss>once</gloss>;
+          <phr>anþaramma sinþa</phr>, <gloss>a second time</gloss>;
+          <phr>twáim sinþam</phr>, <gloss>twice</gloss>;
+          <phr>þrim sinþam</phr>, <gloss>thrice</gloss>;
+          <phr>fimf sinþam</phr>, <gloss>five times</gloss>;
+          <phr>sibun sinþam</phr>, <gloss>seven times</gloss>;
+          <abbr>cp.</abbr> <lang>OE.</lang> <phr>ǣene sīða</phr>, <gloss>once</gloss>;
+          <phr>fīf sīðum</phr>, <gloss>five times</gloss>.
         </p>
       </div>
     </div>
