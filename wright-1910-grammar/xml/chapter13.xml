@@ -827,34 +827,65 @@
       <div type="subsubsubchapter">
         <head>Class VII.</head>
       
-        <div type="section" n="311" status="wip">
+        <div type="section" n="311">
           <p>
             <label>§ 311.</label>
-            The perfect (<abbr>cp.</abbr> <ref>§ 292</ref>) was formed in the parent language partly with and partly without reduplication. The reason for this difference is unknown. Examples are: <lang>Skr.</lang> va-várta, I have turned, va-várttha, va-várta = <lang>Goth.</lang> warþ, warst, warþ; pl. va-vrtimá = <lang>Goth.</lang> waúrþum; <lang>Gr.</lang> λείπω, I leave, πέμπω, I send, pf. λέ-λοιπα, πέ-πομφα; δέ-δωκα, <lang>Lat.</lang> de-di, I have given; but <lang>Skr.</lang> vḗda, <lang>Gr.</lang> οἶδα, <lang>Goth.</lang> wáit, I know, lit. I have seen. Classes I to VI of strong verbs, and the preterite-presents, belong to the type of <lang>Skr.</lang> vḗda.
+            The <grm>perfect</grm> (<abbr>cp.</abbr> <ref>§ 292</ref>) was formed in the parent language partly with and partly without reduplication. The reason for this difference is unknown. 
+            
+            Examples are:
+            <lang>Skr.</lang> <w>va-várta</w>, <gloss>I have turned</gloss>, <w>va-várttha</w>, <w>va-várta</w> = <lang>Goth.</lang> <w>warþ</w>, <w>warst</w>, <w>warþ</w>; <grm>pl.</grm> <w>va-vrtimá</w> = <lang>Goth.</lang> <w>waúrþum</w>;
+            <lang>Gr.</lang> <w>λείπω</w>, <gloss>I leave</gloss>,
+            <w>πέμπω</w>, <gloss>I send</gloss>, <grm>pf.</grm> <w>λέ-λοιπα</w>, <w>πέ-πομφα</w>;
+            <w>δέ-δωκα</w>, <lang>Lat.</lang> <w>de-di</w>, <gloss>I have given</gloss>;
+            but <lang>Skr.</lang> <w>vḗda</w>, <lang>Gr.</lang> <w>οἶδα</w>, <lang>Goth.</lang> <w>wáit</w>, <gloss>I know</gloss>, <abbr>lit.</abbr> <gloss>I have seen</gloss>.
+            
+            Classes I to VI of strong verbs, and the preterite-presents, belong to the type of <lang>Skr.</lang> <w>vḗda</w>.
           </p>
           <p>
-            The reduplicated syllable originally contained the vowel e as in <lang>Greek</lang> λέ-λοιπα. In <lang>Gothic</lang> the vowel in the reduplicated syllable would regularly be i (<ref>§ 66</ref>), except in verbs beginning with r, h, ƕ, where the aí is quite regular (<ref>§ 67</ref>), but from forms like rēdan, háitan, ƕōpan, pret. raí-rōþ, haí-háit, ƕaí-ƕōp, the aí was extended to the reduplicated syllable of all verbs of this class.
+            The reduplicated syllable originally contained the vowel <c>e</c> as in <lang>Greek</lang> <w>λέ-λοιπα</w>.
+            
+            In <lang>Gothic</lang> the vowel in the reduplicated syllable would regularly be <c>i</c> (<ref>§ 66</ref>), except in verbs beginning with <c>r</c>, <c>h</c>, <c>ƕ</c>, where the <c>aí</c> is quite regular (<ref>§ 67</ref>), but from forms like <w>rēdan</w>, <w>háitan</w>, <w>ƕōpan</w>, <grm>pret.</grm> <w>raí-rōþ</w>, <w>haí-háit</w>, <w>ƕaí-ƕōp</w>, the <c>aí</c> was extended to the reduplicated syllable of all verbs of this class.
           </p>
           <p>
-            In the sing. the accent was on the stem and in the dual and plural originally on the ending with corresponding change of ablaut (<abbr>cp.</abbr> <ref>§§ 32, 122–5, 136</ref>). <lang>Sanskrit</lang> preserved this distinction more faithfully than any of the other <lang>Indg.</lang> languages. It was also preserved in the <lang>Germanic</lang> languages in the first five classes of strong verbs. In the sixth class the vowel of the sing. was levelled out into the dual and plural. This levelling also took place in division (b) of the seventh class in <lang>Gothic</lang>, and the stem of the present was extended to the past participle which originally had the same stem as the pret. plural, <abbr>cp.</abbr> bitum, bundum, pp. bitans, bundans; whereas in division (a) the stem of the present was extended to all parts of the verb.
+            In the <grm>sing.</grm> the accent was on the stem and in the dual and plural originally on the ending with corresponding change of ablaut (<abbr>cp.</abbr> <ref>§§ 32, 122–5, 136</ref>).
+            
+            <lang>Sanskrit</lang> preserved this distinction more faithfully than any of the other <lang>Indg.</lang> languages.
+            
+            It was also preserved in the <lang>Germanic</lang> languages in the first five classes of strong verbs.
+            
+            In the sixth class the vowel of the <grm>sing.</grm> was levelled out into the dual and plural.
+            
+            This levelling also took place in division (b) of the seventh class in <lang>Gothic</lang>, and the stem of the present was extended to the past participle which originally had the same stem as the <grm>pret. plural</grm>, <abbr>cp.</abbr> <w>bitum</w>, <w>bundum</w>, <grm>pp.</grm> <w>bitans</w>, <w>bundans</w>;
+            whereas in division (a) the stem of the present was extended to all parts of the verb.
           </p>
         </div>
       
         <pb n="147"/>
       
-        <div type="section" n="312" status="wip">
+        <div type="section" n="312">
           <p>
             <label>§ 312.</label>
-            The reduplicated verbs in <lang>Gothic</lang> are most conveniently divided into two classes:—(a) verbs which retain the same stem-vowel through all tenses, and form their preterite simply by reduplication, as háitan, to call; haíháit, haíháitum, háitans; (b) verbs which form their preterite by reduplication and ablaut combined. These verbs have the same stem-vowel in the pret. sing. and plural, and the stem-vowel of the past participle is the same as that of the present tense.
+            The reduplicated verbs in <lang>Gothic</lang> are most conveniently divided into two classes:—
+            <list>
+              <item>
+                (a) verbs which retain the same stem-vowel through all tenses, and form their preterite simply by reduplication, as <w>háitan</w>, <gloss>to call</gloss>; <w>haíháit</w>, <w>haíháitum</w>, <w>háitans</w>;
+              </item>
+              <item>
+                (b) verbs which form their preterite by reduplication and ablaut combined.
+                These verbs have the same stem-vowel in the <grm>pret. sing. and plural</grm>, and the stem-vowel of the past participle is the same as that of the present tense.
+              </item>
+            </list>
           </p>
       
           <div type="note">
             <p>
               <label>Note.—</label>
-              In verbs beginning with two consonants, only the first is repeated in the reduplicated syllable except in the combinations st, sk, as fráisan, to tempt, pret. faífráís; but ga-staldan, to possess, pret. ga-staístald; skáidan, to sever, pret. skaískáíþ.
+              In verbs beginning with two consonants, only the first is repeated in the reduplicated syllable except in the combinations <c>st</c>, <c>sk</c>, as <w>fráisan</w>, <gloss>to tempt</gloss>, <grm>pret.</grm> <w>faífráís</w>;
+              but <w>ga-staldan</w>, <gloss>to possess</gloss>, <grm>pret.</grm> <w>ga-staístald</w>;
+              <w>skáidan</w>, <gloss>to sever</gloss>, <grm>pret.</grm> <w>skaískáíþ</w>.
             </p>
             <p>
-              When the verb begins with a vowel, the reduplication consists in prefixing aí, as áukan, to add, pret. aíáuk.
+              When the verb begins with a vowel, the reduplication consists in prefixing <c>aí</c>, as <w>áukan</w>, <gloss>to add</gloss>, <grm>pret.</grm> <w>aíáuk</w>.
             </p>
           </div>
         </div>
@@ -862,10 +893,11 @@
         <div type="subsubchapter">  <!-- revisit type -->
           <head>Division (a).</head>
       
-          <div type="section" n="313" status="wip">
+          <div type="section" n="313">
             <p>
               <label>§ 313.</label>
-              Five sub-classes are to be distinguished according as the present stem contains:—a(ā), ái, ē, ō, áu.
+              Five sub-classes are to be distinguished according as the present stem contains:—
+              <c>a</c>(<c>ā</c>), <c>ái</c>, <c>ē</c>, <c>ō</c>, <c>áu</c>.
             </p>
         
             <table>
@@ -880,7 +912,13 @@
             <div type="note">
               <p>
                 <label>Note.—</label>
-                1. The following verbs, the preterites of which are not extant, also belong here: us-alþan, to grow old; blandan, to mix; ana-praggan, to oppress; saltan, to salt; waldan, to rule; gaggan, to go, pp. gaggans, the wanting pret. *gaígagg is supplied by the weak pret. iddja (<ref>§ 321</ref>).
+                1. The following verbs, the preterites of which are not extant, also belong here:
+                <w>us-alþan</w>, <gloss>to grow old</gloss>;
+                <w>blandan</w>, <gloss>to mix</gloss>;
+                <w>ana-praggan</w>, <gloss>to oppress</gloss>;
+                <w>saltan</w>, <gloss>to salt</gloss>;
+                <w>waldan</w>, <gloss>to rule</gloss>;
+                <w>gaggan</w>, <gloss>to go</gloss>, <grm>pp.</grm> <w>gaggans</w>, the wanting <grm>pret.</grm> <w>*gaígagg</w> is supplied by the weak <grm>pret.</grm> <w>iddja</w> (<ref>§ 321</ref>).
               </p>
             </div>
         
@@ -899,7 +937,7 @@
             <div type="note">
               <p>
                 <label>Note.—</label>
-                2. Here belongs also ga-þláihan, to cherish, comfort, the pret. of which is not extant.
+                2. Here belongs also <w>ga-þláihan</w>, <gloss>to cherish, comfort</gloss>, the <grm>pret.</grm> of which is not extant.
               </p>
             </div>
         
@@ -911,7 +949,7 @@
             <div type="note">
               <p>
                 <label>Note.—</label>
-                3. Here belongs also uf-blēsan, to blow up, puff up, which only occurs in the pres. pass. 3 pers. sing. and the pp.
+                3. Here belongs also <w>uf-blēsan</w>, <gloss>to blow up, puff up</gloss>, which only occurs in the <grm>pres. pass. 3 pers. sing.</grm> and the <grm>pp.</grm>
               </p>
             </div>
         
@@ -923,7 +961,11 @@
             <div type="note">
               <p>
                 <label>Note.—</label>
-                4. Here belong also the preterites faíflōkun, they bewailed, laílōun, they reviled, the presents of which *flōkan, *lauan are wanting; as also the verb blōtan, to worship, pret. wanting.
+                4. Here belong also the preterites
+                <w>faíflōkun</w>, <gloss>they bewailed</gloss>,
+                <w>laílōun</w>, <gloss>they reviled</gloss>,
+                the presents of which <w>*flōkan</w>, <w>*lauan</w> are wanting;
+                as also the verb <w>blōtan</w>, <gloss>to worship</gloss>, <grm>pret.</grm> wanting.
               </p>
             </div>
         
@@ -935,7 +977,7 @@
             <div type="note">
               <p>
                 <label>Note.—</label>
-                5. Here belong also hláupan, to leap; stáutan, to smite, which only occur in the present.
+                5. Here belong also <w>hláupan</w>, <gloss>to leap</gloss>; <w>stáutan</w>, <gloss>to smite</gloss>, which only occur in the present.
               </p>
             </div>
           </div>
@@ -944,7 +986,7 @@
         <div type="subsubchapter">  <!-- revisit type -->
           <head>Division (b).</head>
       
-          <div type="section" n="314" status="wip">
+          <div type="section" n="314">
             <p>
               <label>§ 314.</label>
               The verbs of this division belong to the seventh ablaut-series (<ref>§ 124</ref>).
@@ -965,7 +1007,9 @@
             <div type="note">
               <p>
                 <label>Note.—</label>
-                Of waian only the pres. part. masc. dat. sing. (waiandin), and the pret. 3 pers. pl. occur. The 2 pers. sing. pret. of saian is saísōset, with the ending -st, instead of -t, from verbs like last, where -st was regular, see <ref>§ 138</ref>.
+                Of <w>waian</w> only the <grm>pres. part. masc. dat. sing.</grm> (<w>waiandin</w>), and the <grm>pret. 3 pers. pl.</grm> occur.
+                
+                The <grm>2 pers. sing. pret.</grm> of <w>saian</w> is <w>saísōset</w>, with the ending <m>-st</m>, instead of <m>-t</m>, from verbs like <w>last</w>, where <m>-st</m> was regular, see <ref>§ 138</ref>.
               </p>
             </div>
           </div>
@@ -979,18 +1023,34 @@
   <div type="subchapter">
     <head>B. Weak Verbs.</head>
 
-    <div type="section" n="315" status="wip">
+    <div type="section" n="315">
       <p>
         <label>§ 315.</label>
-        The weak verbs, which for the most part are derivative or denominative, are divided in <lang>Gothic</lang> into four classes according as the infinitives end in -jan, pret. -ida, (-ta); -ōn, pret. -ōda; -an, pret. -áida; -nan, pret. -nōda The weak preterite is a special <lang>Germanic</lang> formation, and many points connected with its origin are still uncertain. Some scholars are inclined to regard it as a periphrastic formation which was originally confined to denominative verbs, and then at a later period became extended to primary verbs as well. The <lang>Gothic</lang> endings of the singular:—-da, -dēs, -da would thus represent an old aorist formed from the root dhē-, put, place (<lang>Gr.</lang> τί-θη-μι), which stands in ablaut relation to <lang>OE.</lang> <lang>OS.</lang> dōn, <lang>OHG.</lang> tuon, to do, as <lang>Indg.</lang> *dhṓm, (*dhḗm), *dhḗs, dhḗt, <lang>prim. Germanic</lang> *đōn, (*đǣn), *đǣs, đǣ = <lang>Goth.</lang> -da, -dēs, -da. But it is also probable that the dental in the pret. sing. stands in close relationship to the dental of the past participle, where the -þs = <lang>prim. Germanic</lang> -đás, <lang>Gr.</lang> -τός. In <lang>Gothic</lang> the old preterite (perfect) of dōn has been preserved in the pret. dual and plural, as -dēd-u, -dēd-uts; pl. -dēd-um, -dēd-uþ, -dēd-un (with the same personal endings as in the pret. of strong verbs, <ref>§ 292</ref>) = <lang>OHG.</lang> tāt-um, (-un), tāt-ut, tāt-un (<lang>OS.</lang> dād-un), the pret. plural of tuon.
+        The weak verbs, which for the most part are derivative or denominative, are divided in <lang>Gothic</lang> into four classes according as the infinitives end in
+        <m>-jan</m>, <grm>pret.</grm> <m>-ida</m>, (<m>-ta</m>);
+        <m>-ōn</m>, <grm>pret.</grm> <m>-ōda</m>;
+        <m>-an</m>, <grm>pret.</grm> <m>-áida</m>;
+        <m>-nan</m>, <grm>pret.</grm> <m>-nōda</m>.
+        
+        The weak preterite is a special <lang>Germanic</lang> formation, and many points connected with its origin are still uncertain.
+        
+        Some scholars are inclined to regard it as a periphrastic formation which was originally confined to denominative verbs, and then at a later period became extended to primary verbs as well.
+        
+        The <lang>Gothic</lang> endings of the singular:—
+        <m>-da</m>, <m>-dēs</m>, <m>-da</m> would thus represent an old aorist formed from the root <m>dhē-</m>, <gloss>put, place</gloss> (<lang>Gr.</lang> <w>τί-θη-μι</w>), which stands in ablaut relation to <lang>OE.</lang> <lang>OS.</lang> <w>dōn</w>, <lang>OHG.</lang> <w>tuon</w>, <gloss>to do</gloss>, as <lang>Indg.</lang> <w>*dhṓm</w>, (<w>*dhḗm</w>), <w>*dhḗs</w>, <w>dhḗt</w>, <lang>prim. Germanic</lang> <w>*đōn</w>, (<w>*đǣn</w>), <w>*đǣs</w>, <w>đǣ</w> = <lang>Goth.</lang> <m>-da</m>, <m>-dēs</m>, <m>-da</m>.
+        
+        But it is also probable that the dental in the <grm>pret. sing.</grm> stands in close relationship to the dental of the past participle, where the <m>-þs</m> = <lang>prim. Germanic</lang> <m>-đás</m>, <lang>Gr.</lang> <m>-τός</m>. In <lang>Gothic</lang> the old preterite (perfect) of <m>dōn</m> has been preserved in the <grm>pret. dual and plural</grm>, as <w>-dēd-u</w>, <w>-dēd-uts</w>;
+        <grm>pl.</grm> <w>-dēd-um</w>, <w>-dēd-uþ</w>, <w>-dēd-un</w> (with the same personal endings as in the <grm>pret.</grm> of strong verbs, <ref>§ 292</ref>) = <lang>OHG.</lang> <w>tāt-um</w>, (<m>-un</m>), <w>tāt-ut</w>, <w>tāt-un</w> (<lang>OS.</lang> <w>dād-un</w>), the <grm>pret. plural</grm> of <w>tuon</w>.
       </p>
   
       <div type="note">
         <p>
           <label>Note.—</label>
-          Many points concerning the inflexion of weak verbs in the oldest periods of the <lang>Germanic</lang> languages have never been satisfactorily explained. For a summary and discussion of the various explanations which have been suggested by scholars, the student should consult: Brugmann’s Kurze
+          Many points concerning the inflexion of weak verbs in the oldest periods of the <lang>Germanic</lang> languages have never been satisfactorily explained.
+          
+          For a summary and discussion of the various explanations which have been suggested by scholars, the student should consult: Brugmann’s Kurze
           <pb n="150"/>
-          vergleichende Grammatik der indogermanischen Sprachen; Streitberg’s Urgermanische Grammatik; and Kluge’s ‘Vorgeschichte der altgermanischen Dialekte’ in Paul’s Grundriss der germanischen Philologie, vol. I.
+          vergleichende Grammatik der indogermanischen Sprachen; Streitberg’s Urgermanische Grammatik; and Kluge’s ‘Vorgeschichte der altgermanischen Dialekte’ in Paul’s Grundriss der germanischen Philologie, vol. I.  <!-- markup -->
         </p>
       </div>
     </div>
@@ -1137,23 +1197,45 @@
         </div>
       </div>
     
-      <div type="section" n="318" status="wip">
+      <div type="section" n="318">
         <p>
           <label>§ 318.</label>
-          Like nasjan are conjugated the following and many other verbs: arjan, to plough; gatamjan, to tame; hazjan, to praise; huljan, to hide; kukjan, to kiss; lagjan, to lay; matjan, to eat; natjan, to wet; satjan, to set; þragjan, to run; waljan, to choose; warjan, to forbid; wasjan, to clothe.
+          Like <w>nasjan</w> are conjugated the following and many other verbs:
+          <w>arjan</w>, <gloss>to plough</gloss>;
+          <w>gatamjan</w>, <gloss>to tame</gloss>;
+          <w>hazjan</w>, <gloss>to praise</gloss>;
+          <w>huljan</w>, <gloss>to hide</gloss>;
+          <w>kukjan</w>, <gloss>to kiss</gloss>;
+          <w>lagjan</w>, <gloss>to lay</gloss>;
+          <w>matjan</w>, <gloss>to eat</gloss>;
+          <w>natjan</w>, <gloss>to wet</gloss>;
+          <w>satjan</w>, <gloss>to set</gloss>;
+          <w>þragjan</w>, <gloss>to run</gloss>;
+          <w>waljan</w>, <gloss>to choose</gloss>;
+          <w>warjan</w>, <gloss>to forbid</gloss>;
+          <w>wasjan</w>, <gloss>to clothe</gloss>.
         </p>
       </div>
     
       <div type="section" n="319" status="wip">
         <p>
           <label>§ 319.</label>
-          Like stōjan are conjugated the following verbs which change iu, áu back to iw, aw before a following vowel (<ref>§ 150</ref>): ana-niujan, to renew; ga-qiujan, to give life to; siujan, to sew; *stráujan (pret. strawida), to strew; táujan, to do.
+          Like stōjan are conjugated the following verbs which change iu, áu back to iw, aw before a following vowel (<ref>§ 150</ref>):
+          ana-niujan, to renew;
+          ga-qiujan, to give life to;
+          siujan, to sew;
+          *stráujan (pret. strawida), to strew;
+          táujan, to do.
         </p>
     
         <div type="note">
           <p>
             <label>Note.—</label>
-            Here would also belong *af-mōjan, to fatigue, *af-dōjan, to fatigue, but of these two verbs only the nom. pl. masc. of the pp. occurs once, af-mauidái, af-dauidái, <abbr>cp.</abbr> <ref>§ 80</ref>.
+            Here would also belong
+            *af-mōjan, to fatigue,
+            *af-dōjan, to fatigue,
+            but of these two verbs only the nom. pl. masc. of the pp. occurs once,
+            af-mauidái, af-dauidái, <abbr>cp.</abbr> <ref>§ 80</ref>.
           </p>
         </div>
       </div>
