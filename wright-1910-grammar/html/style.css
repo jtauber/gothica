@@ -69,6 +69,10 @@ aside nav ol li {
 aside nav ol li.no-number {
   list-style: none;
 }
+aside nav ol li.part {
+  margin-top: 16pt;
+  font-size: 12pt;
+}
 body.chapter-intro #chapter-intro-link,
 body.chapter-1 #chapter-1-link,
 body.chapter-2 #chapter-2-link,
