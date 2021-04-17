@@ -296,7 +296,8 @@ div.float-list-item {
 }
 
 /* page breaks */
-span.pb > span {
+span.pb > a {
+  text-decoration: none;
   font-size: 10pt;
   color: var(--page-number-color);
   position: absolute;
@@ -305,8 +306,11 @@ span.pb > span {
   font-style: normal;
   font-weight: normal;
 }
-span.pb > span::before {
+span.pb > a::before {
   content: 'p';
+}
+span.pb > a:hover {
+  text-decoration: underline;
 }
 
 /* for scripture */
