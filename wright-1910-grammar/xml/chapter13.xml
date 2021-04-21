@@ -1217,80 +1217,83 @@
         </p>
       </div>
     
-      <div type="section" n="319" status="wip">
+      <div type="section" n="319">
         <p>
           <label>§ 319.</label>
-          Like stōjan are conjugated the following verbs which change iu, áu back to iw, aw before a following vowel (<ref>§ 150</ref>):
-          ana-niujan, to renew;
-          ga-qiujan, to give life to;
-          siujan, to sew;
-          *stráujan (pret. strawida), to strew;
-          táujan, to do.
+          Like <w>stōjan</w> are conjugated the following verbs which change <c>iu</c>, <c>áu</c> back to <c>iw</c>, <c>aw</c> before a following vowel (<ref>§ 150</ref>):
+          <w>ana-niujan</w>, <gloss>to renew</gloss>;
+          <w>ga-qiujan</w>, <gloss>to give life to</gloss>;
+          <w>siujan</w>, <gloss>to sew</gloss>;
+          <w>*stráujan</w> (<grm>pret.</grm> <w>strawida</w>), <gloss>to strew</gloss>;
+          <w>táujan</w>, <gloss>to do</gloss>.
         </p>
     
         <div type="note">
           <p>
             <label>Note.—</label>
             Here would also belong
-            *af-mōjan, to fatigue,
-            *af-dōjan, to fatigue,
-            but of these two verbs only the nom. pl. masc. of the pp. occurs once,
-            af-mauidái, af-dauidái, <abbr>cp.</abbr> <ref>§ 80</ref>.
+            <w>*af-mōjan</w>, <gloss>to fatigue</gloss>,
+            <w>*af-dōjan</w>, <gloss>to fatigue</gloss>,
+            but of these two verbs only the <grm>nom. pl. masc. of the pp.</grm> occurs once,
+            <w>af-mauidái</w>, <w>af-dauidái</w>, <abbr>cp.</abbr> <ref>§ 80</ref>.
           </p>
         </div>
       </div>
     
-      <div type="section" n="320" status="wip">
+      <div type="section" n="320">
         <p>
           <label>§ 320.</label>
-          Like sōkjan are conjugated the following and a great many others:
-          and-bahtjan, to serve;
-          áugjan, to show;
-          dáiljan, to deal out;
-          dáupjan, to baptize;
-          dáuþjan,<pb n="153"/>to put to death;
-          dōmjan, to judge;
-          dragkjan, to give to drink;
-          dráibjan, to trouble;
-          faúrhtjan, to fear;
-          fōdjan, to feed;
-          fra-wardjan, to destroy;
-          ga-brannjan, to burn;
-          ga-láubjan, to believe;
-          ga-mōtjan, to meet;
-          gáumjan, to perceive;
-          glitmunjan, to shine;
-          gōljan, to greet;
-          háiljan, to heal;
-          háusjan, to hear;
-          hnáiwjan, to abase;
-          hráinjan, to make clean;
-          huggrjan, to hunger;
-          láisjan, to teach;
-          láistjan, to follow;
-          liuhtjan, to give light;
-          máidjan, to falsify;
-          maúrþrjan, to murder;
-          mēljan, to write;
-          mērjan, to preach, proclaim;
-          mikiljan, to magnify;
-          namnjan, to name;
-          ōgjan, to terrify;
-          ráisjan, to raise;
-          rōdjan, to speak;
-          sipōnjan, to be a disciple;
-          sniumjan, to hasten;
-          swōgatjan, to sigh;
-          þaúrsjan, to thirst;
-          wandjan, to turn;
-          wēnjan, to hope.
+          Like <w>sōkjan</w> are conjugated the following and a great many others:
+          <w>and-bahtjan</w>, <gloss>to serve</gloss>;
+          <w>áugjan</w>, <gloss>to show</gloss>;
+          <w>dáiljan</w>, <gloss>to deal out</gloss>;
+          <w>dáupjan</w>, <gloss>to baptize</gloss>;
+          <w>dáuþjan</w>,<pb n="153"/><gloss>to put to death</gloss>;
+          <w>dōmjan</w>, <gloss>to judge</gloss>;
+          <w>dragkjan</w>, <gloss>to give to drink</gloss>;
+          <w>dráibjan</w>, <gloss>to trouble</gloss>;
+          <w>faúrhtjan</w>, <gloss>to fear</gloss>;
+          <w>fōdjan</w>, <gloss>to feed</gloss>;
+          <w>fra-wardjan</w>, <gloss>to destroy</gloss>;
+          <w>ga-brannjan</w>, <gloss>to burn</gloss>;
+          <w>ga-láubjan</w>, <gloss>to believe</gloss>;
+          <w>ga-mōtjan</w>, <gloss>to meet</gloss>;
+          <w>gáumjan</w>, <gloss>to perceive</gloss>;
+          <w>glitmunjan</w>, <gloss>to shine</gloss>;
+          <w>gōljan</w>, <gloss>to greet</gloss>;
+          <w>háiljan</w>, <gloss>to heal</gloss>;
+          <w>háusjan</w>, <gloss>to hear</gloss>;
+          <w>hnáiwjan</w>, <gloss>to abase</gloss>;
+          <w>hráinjan</w>, <gloss>to make clean</gloss>;
+          <w>huggrjan</w>, <gloss>to hunger</gloss>;
+          <w>láisjan</w>, <gloss>to teach</gloss>;
+          <w>láistjan</w>, <gloss>to follow</gloss>;
+          <w>liuhtjan</w>, <gloss>to give light</gloss>;
+          <w>máidjan</w>, <gloss>to falsify</gloss>;
+          <w>maúrþrjan</w>, <gloss>to murder</gloss>;
+          <w>mēljan</w>, <gloss>to write</gloss>;
+          <w>mērjan</w>, <gloss>to preach, proclaim</gloss>;
+          <w>mikiljan</w>, <gloss>to magnify</gloss>;
+          <w>namnjan</w>, <gloss>to name</gloss>;
+          <w>ōgjan</w>, <gloss>to terrify</gloss>;
+          <w>ráisjan</w>, <gloss>to raise</gloss>;
+          <w>rōdjan</w>, <gloss>to speak</gloss>;
+          <w>sipōnjan</w>, <gloss>to be a disciple</gloss>;
+          <w>sniumjan</w>, <gloss>to hasten</gloss>;
+          <w>swōgatjan</w>, <gloss>to sigh</gloss>;
+          <w>þaúrsjan</w>, <gloss>to thirst</gloss>;
+          <w>wandjan</w>, <gloss>to turn</gloss>;
+          <w>wēnjan</w>, <gloss>to hope</gloss>.
         </p>
       </div>
     
-      <div type="section" n="321" status="wip">
+      <div type="section" n="321">
         <p>
           <label>§ 321.</label>
-          A certain number of verbs belonging to Class I formed their pret. and past participle already in <lang>prim. Germanic</lang> without the medial vowel -i-, <abbr>cp.</abbr> pret. <lang>Goth.</lang> þāhta, <lang>O.Icel.</lang> þātta, <lang>OE.</lang> þōhte, <lang>OS.</lang> thāhta, <lang>OHG.</lang> dāhta; pp. <lang>Goth.</lang> þāhts, <lang>OE.</lang> geþōht, <lang>OHG.</lang> gidāht. The following <lang>Gothic</lang> verbs belong to this type except the pp. káupatiþs. See <ref>§ 340</ref>.
+          A certain number of verbs belonging to Class I formed their <grm>pret.</grm> and <grm>past participle</grm> already in <lang>prim. Germanic</lang> without the medial vowel <c>-i-</c>, <abbr>cp.</abbr> <grm>pret.</grm> <lang>Goth.</lang> <w>þāhta</w>, <lang>O.Icel.</lang> <w>þātta</w>, <lang>OE.</lang> <w>þōhte</w>, <lang>OS.</lang> <w>thāhta</w>, <lang>OHG.</lang> <w>dāhta</w>;
+          <grm>pp.</grm> <lang>Goth.</lang> <w>þāhts</w>, <lang>OE.</lang> <w>geþōht</w>, <lang>OHG.</lang> <w>gidāht</w>.
+          The following <lang>Gothic</lang> verbs belong to this type except the <grm>pp.</grm> <w>káupatiþs</w>.
+          See <ref>§ 340</ref>.
         </p>
     
         <table>
@@ -1310,17 +1313,27 @@
             <item n="1">
               <p>
                 <label>Note.—</label>
-                1. On the consonant changes in the pret. forms (except iddja), see <ref>§ 138</ref>. On the vowel-lengthening in brāhta, þāhta, see <ref>§ 59</ref>, and þūhta, <ref>§ 62</ref>. The pp. þāhts, þūhts occur only in compound adjectives, anda-þāhts, cautious, vigilant; háuh-þūhts, high-minded.
+                1.
+                On the consonant changes in the <grm>pret.</grm> forms (except <w>iddja</w>), see <ref>§ 138</ref>.
+                On the vowel-lengthening in <w>brāhta</w>, <w>þāhta</w>, see <ref>§ 59</ref>, and <w>þūhta</w>, <ref>§ 62</ref>.
+                The <grm>pp.</grm> <w>þāhts</w>, <w>þūhts</w> occur only in compound adjectives, <w>anda-þāhts</w>, <gloss>cautious, vigilant</gloss>; <w>háuh-þūhts</w>, <gloss>high-minded</gloss>.
               </p>
             </item>
             <item n="2">
               <p>
-                2. gaggan (<ref>§ 313, note 1</ref>) is properly a reduplicated verb, the<pb n="154"/>pret. of which, gaígagg, has been lost. The extant forms of iddja (<ref>§ 156</ref>) are inflected like nasida (<ref>§ 317</ref>); in one instance a weak pret. gaggida also occurs.
+                2.
+                <w>gaggan</w> (<ref>§ 313, note 1</ref>) is properly a reduplicated verb, the<pb n="154"/><grm>pret.</grm> of which, <w>gaígagg</w>, has been lost.
+                The extant forms of <w>iddja</w> (<ref>§ 156</ref>) are inflected like <w>nasida</w> (<ref>§ 317</ref>);
+                in one instance a weak <grm>pret.</grm> <w>gaggida</w> also occurs.
               </p>
             </item>
             <item n="3">
               <p>
-                3. The present briggan is a strong verb of the third class (<ref>§ 303</ref>). The regular weak present *braggjan (= <lang>OE.</lang> breng(e)an, <lang>OS.</lang> brengian) has been lost. Cp. also <lang>OHG.</lang> bringan, pret. brāhta, beside the rare strong form brang.
+                3.
+                The present <w>briggan</w> is a strong verb of the third class (<ref>§ 303</ref>).
+                The regular weak present <w>*braggjan</w> (= <lang>OE.</lang> <w>breng(e)an</w>, <lang>OS.</lang> <w>brengian</w>) has been lost.
+                <abbr>Cp.</abbr> also <lang>OHG.</lang> <w>bringan</w>,
+                <grm>pret.</grm> <w>brāhta</w>, beside the rare strong form <w>brang</w>.
               </p>
             </item>
           </list>
@@ -1330,18 +1343,39 @@
       <div type="subsubsubchapter">
         <head>General Remarks on the Verbs of Class I.</head>
     
-        <div type="section" n="322" status="wip">
+        <div type="section" n="322">
           <p>
             <label>§ 322.</label>
-            The first class of weak verbs contains partly causative and partly denominative verbs as in the other <lang>Indg.</lang> languages, as <lang>Skr.</lang> bhāráyāmi (<lang>Gr.</lang> φορέω), I cause to bear; <lang>Skr.</lang> vartáyāmi (<lang>Goth.</lang> fra-wardja), I cause to turn; <lang>Goth.</lang> nasjan, to save, ráisjan, to raise, beside <lang>Skr.</lang> bhárāmi, <lang>Gr.</lang> φέρω, I bear; <lang>Skr.</lang> vártāmi, I turn, <lang>Goth.</lang> waírþa, I become; ga-nisan, to be saved; ur-reisan, to arise. <lang>Gr.</lang> δακρύω, I weep, ὀνομαίνω, I name; <lang>Goth.</lang> dáiljan, to deal out; háiljan, to heal; namnjan, to name; beside <lang>Gr.</lang> δάκρυ, tear; ὄνομα, name; <lang>Goth.</lang> dáils, portion; háils, whole; namō, name.
+            The first class of weak verbs contains partly causative and partly denominative verbs as in the other <lang>Indg.</lang> languages, as <lang>Skr.</lang> <w>bhāráyāmi</w> (<lang>Gr.</lang> <w>φορέω</w>), <gloss>I cause to bear</gloss>;
+            <lang>Skr.</lang> <w>vartáyāmi</w> (<lang>Goth.</lang> <w>fra-wardja</w>), <gloss>I cause to turn</gloss>;
+            <lang>Goth.</lang> <w>nasjan</w>, <gloss>to save</gloss>, <w>ráisjan</w>, <gloss>to raise</gloss>, beside <lang>Skr.</lang> <w>bhárāmi</w>, <lang>Gr.</lang> <w>φέρω</w>, <gloss>I bear</gloss>;
+            <lang>Skr.</lang> <w>vártāmi</w>, <gloss>I turn</gloss>, <lang>Goth.</lang> <w>waírþa</w>, <gloss>I become</gloss>;
+            <w>ga-nisan</w>, <gloss>to be saved</gloss>;
+            <w>ur-reisan</w>, <gloss>to arise</gloss>.
+            
+            <lang>Gr.</lang> <w>δακρύω</w>, <gloss>I weep</gloss>, <w>ὀνομαίνω</w>, <gloss>I name</gloss>;
+            <lang>Goth.</lang> <w>dáiljan</w>, <gloss>to deal out</gloss>;
+            <w>háiljan</w>, <gloss>to heal</gloss>;
+            <w>namnjan</w>, <gloss>to name</gloss>;
+            beside <lang>Gr.</lang> <w>δάκρυ</w>, <gloss>tear</gloss>;
+            <w>ὄνομα</w>, <gloss>name</gloss>;
+            <lang>Goth.</lang> <w>dáils</w>, <gloss>portion</gloss>;
+            <w>háils</w>, <gloss>whole</gloss>;
+            <w>namō</w>, <gloss>name</gloss>.
           </p>
       
           <p>
-            Irrespectively of the nature of the stems of the nouns and adjectives from which denominative verbs were formed, the two kinds of verbs had come to have the same inflexional endings already in <lang>prim. Germanic</lang>. In the parent language the endings of the pres. sing. and pl. of the causative verbs were: Sing. -éjō, -éjesi, -éjeti; -éjomes, (-mos), -éjete, -éjonti. Thus—
+            Irrespectively of the nature of the stems of the nouns and adjectives from which denominative verbs were formed, the two kinds of verbs had come to have the same inflexional endings already in <lang>prim. Germanic</lang>.
+            
+            In the parent language the endings of the <grm>pres. sing. and pl.</grm> of the causative verbs were:
+            <grm>Sing.</grm> <m>-éjō</m>, <m>-éjesi</m>, <m>-éjeti</m>;
+            <m>-éjomes</m>, (<m>-mos</m>), <m>-éjete</m>, <m>-éjonti</m>.
+            
+            Thus—
           </p>
       
           <table>
-            <row> <cell><lang>Indg.</lang></cell>	            <cell>Prim. Germ.</cell>        </row>
+            <row> <cell><lang>Indg.</lang></cell> <cell>Prim. Germ.</cell>        </row>
             <row> <cell><w>*noséjō</w></cell>     <cell><w>*nazijō</w></cell>     </row>
             <row> <cell><w>*noséjesi</w></cell>   <cell><w>*nazijizi</w></cell>   </row>
             <row> <cell><w>*noséjeti</w></cell>   <cell><w>*nazijiđi</w></cell>   </row>
@@ -1353,10 +1387,17 @@
           <pb n="155"/>
       
           <p>
-            The -ij- = <lang>Indg.</lang> -ej- regularly became j before guttural vowels, whence <lang>Goth.</lang> nasja, sōkja; nasjam, nasjand, nasjands, nasjan, <abbr>&amp;c.</abbr>, see <ref>§§ 152, (3), 157</ref>. The combination -iji- regularly became -ī- after long closed stem-syllables and after unaccented syllables, but -ji- in other cases (<ref>§ 153</ref>), whence <lang>Goth.</lang> sōkeis, sōkeiþ, beside nasjis, nasjiþ. On the imperative forms nasei, sōkei, see <ref>§ 154</ref>.
+            The <c>-ij-</c> = <lang>Indg.</lang> <c>-ej-</c> regularly became <c>j</c> before guttural vowels, whence <lang>Goth.</lang> <w>nasja</w>, <w>sōkja</w>;
+            <w>nasjam</w>, <w>nasjand</w>, <w>nasjands</w>, <w>nasjan</w>, <abbr>&amp;c.</abbr>, see <ref>§§ 152, (3), 157</ref>. The combination <c>-iji-</c> regularly became <c>-ī-</c> after long closed stem-syllables and after unaccented syllables, but <c>-ji-</c> in other cases (<ref>§ 153</ref>), whence <lang>Goth.</lang> <w>sōkeis</w>, <w>sōkeiþ</w>, beside <w>nasjis</w>, <w>nasjiþ</w>.
+            
+            On the imperative forms <w>nasei</w>, <w>sōkei</w>, see <ref>§ 154</ref>.
           </p>
           <p>
-            Apart from the forms with -ei-, -ei, and the indic. pret. sing. all forms of the finite verb have the same endings as the corresponding tenses and moods of the strong verbs (<ref>§§ 287–97</ref>). On the indic. pret. singular, see <ref>§ 315</ref>. Past participle nasiþs, sōkiþs, <lang>prim. Germanic</lang> *naziđaz, *sōkiđaz, <lang>Indg.</lang> -itós.
+            Apart from the forms with <c>-ei-</c>, <c>-ei</c>, and the <grm>indic. pret. sing.</grm> all forms of the finite verb have the same endings as the corresponding tenses and moods of the strong verbs (<ref>§§ 287–97</ref>).
+            
+            On the <grm>indic. pret. singular</grm>, see <ref>§ 315</ref>.
+            
+            <grm>Past participle</grm> <w>nasiþs</w>, <w>sōkiþs</w>, <lang>prim. Germanic</lang> <w>*naziđaz</w>, <w>*sōkiđaz</w>, <lang>Indg.</lang> <m>-itós</m>.
           </p>
         </div>
       </div>
