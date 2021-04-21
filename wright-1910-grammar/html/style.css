@@ -194,6 +194,13 @@ p {
   color: var(--bold-ink-color);
   margin-right: 0.5em;
 }
+.section-label > a {
+  color: inherit;
+  text-decoration: none;
+}
+.section-label > a:hover {
+  text-decoration: underline;
+}
 .item-label {
   margin-right: 0.5em;
 }
