@@ -126,7 +126,7 @@
           <head>Present.</head>
   
           <table>
-            <row> <cell cols="2"/>                            <cell cols="2">Indic.</cell>                           <cell cols="2">Subj.</cell>                              </row>
+            <row> <cell cols="2"/>                            <cell cols="2"><grm>Indic.</grm></cell>                           <cell cols="2"><grm>Subj.</grm></cell>                              </row>
             <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nima</w></cell>   <cell><w>háita</w></cell>   <cell><w>nimáu</w></cell>   <cell><w>háitáu</w></cell>   </row>
             <row>                             <cell>2.</cell> <cell><w>nimis</w></cell>  <cell><w>háitis</w></cell>  <cell><w>nimáis</w></cell>  <cell><w>háitáis</w></cell>  </row>
             <row>                             <cell>3.</cell> <cell><w>nimiþ</w></cell>  <cell><w>háitiþ</w></cell>  <cell><w>nimái</w></cell>   <cell><w>háitái</w></cell>   </row>
@@ -138,7 +138,7 @@
           </table>
   
           <table>
-            <row> <cell cols="2"/>                            <cell cols="2">Imperative.</cell>                           </row>
+            <row> <cell cols="2"/>                            <cell cols="2"><grm>Imperative.</grm></cell>                           </row>
             <row> <cell rows="2">Sing.</cell> <cell>2.</cell> <cell><w>nim</w></cell>       <cell><w>háit</w></cell>      </row>
             <row>                             <cell>3.</cell> <cell><w>nimadáu</w></cell>   <cell><w>háitadáu</w></cell>  </row>
             <row> <cell>Dual</cell>           <cell>2.</cell> <cell><w>nimats</w></cell>    <cell><w>háitats</w></cell>   </row>
@@ -163,7 +163,7 @@
           <head>Preterite.</head>
   
           <table>
-            <row> <cell cols="2"/>                            <cell cols="2">Indic.</cell>                                <cell cols="2">Subj.</cell></row>
+            <row> <cell cols="2"/>                            <cell cols="2"><grm>Indic.</grm></cell>                                <cell cols="2"><grm>Subj.</grm></cell></row>
             <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nam</w></cell>     <cell><w>haíháit</w></cell>     <cell><w>nēmjáu</w></cell>  <cell><w>haíháitjáu</w></cell>  </row>
             <row>                             <cell>2.</cell> <cell><w>namt</w></cell>    <cell><w>haíháist</w></cell>    <cell><w>nēmeis</w></cell>  <cell><w>haíháiteis</w></cell>  </row>
             <row>                             <cell>3.</cell> <cell><w>nam</w></cell>     <cell><w>haíháit</w></cell>     <cell><w>nēmi</w></cell>    <cell><w>haíháiti</w></cell>    </row>
@@ -189,7 +189,7 @@
           <head>Present.</head>
   
           <table>
-            <row> <cell cols="2"/>                                  <cell cols="2">Indic.</cell>                  <cell cols="2">Subj.</cell>                   </row>
+            <row> <cell cols="2"/>                                  <cell cols="2"><grm>Indic.</grm></cell>                  <cell cols="2"><grm>Subj.</grm></cell>                   </row>
             <row> <cell rows="3">Sing.</cell> <cell>1.</cell>       <cell><w>nimada</w></cell>  <cell><w>háitada</w></cell>   <cell><w>nimáidáu</w></cell>  <cell><w>háitáidáu</w></cell>   </row>
             <row>                             <cell>2.</cell>       <cell><w>nimaza</w></cell>  <cell><w>háitaza</w></cell>   <cell><w>nimáizáu</w></cell>  <cell><w>háitáizáu</w></cell>   </row>
             <row>                             <cell>3.</cell>       <cell><w>nimada</w></cell>  <cell><w>háitada</w></cell>   <cell><w>nimáidáu</w></cell>  <cell><w>háitáidáu</w></cell>   </row>
@@ -1085,7 +1085,7 @@
             <head>Present.</head>
           
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Indicative.</cell>                                                         </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Indicative.</grm></cell>                                                         </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nasja</w></cell>     <cell><w>stōja</w></cell>     <cell><w>sōkja</w></cell>     </row>
               <row>                             <cell>2.</cell> <cell><w>nasjis</w></cell>    <cell><w>stōjis</w></cell>    <cell><w>sōkeis</w></cell>    </row>
               <row>                             <cell>3.</cell> <cell><w>nasjiþ</w></cell>    <cell><w>stōjiþ</w></cell>    <cell><w>sōkeiþ</w></cell>    </row>
@@ -1097,7 +1097,7 @@
             </table>
             
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Subjunctive.</cell>                                                        </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Subjunctive.</grm></cell>                                                        </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nasjáu</w></cell>    <cell><w>stōjáu</w></cell>    <cell><w>sōkjáu</w></cell>    </row>
               <row>                             <cell>2.</cell> <cell><w>nasjáis</w></cell>   <cell><w>stōjáis</w></cell>   <cell><w>sōkjáis</w></cell>   </row>
               <row>                             <cell>3.</cell> <cell><w>nasjái</w></cell>    <cell><w>stōjái</w></cell>    <cell><w>sōkjái</w></cell>    </row>
@@ -1109,7 +1109,7 @@
             </table>
             <pb n="151"/>
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Imperative.</cell>                                                         </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Imperative.</grm></cell>                                                         </row>
               <row> <cell rows="2">Sing.</cell> <cell>2.</cell> <cell><w>nasei</w></cell>     <cell><w>*stauei</w></cell>   <cell><w>sōkei</w></cell>     </row>
               <row>                             <cell>3.</cell> <cell><w>nasjadáu</w></cell>  <cell><w>stōjadáu</w></cell>  <cell><w>sōkjadáu</w></cell>  </row>
               <row> <cell>Dual</cell>           <cell>2.</cell> <cell><w>nasjats</w></cell>   <cell><w>stōjats</w></cell>   <cell><w>sōkjats</w></cell>   </row>
@@ -1133,7 +1133,7 @@
             <head>Preterite.</head>
           
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Indicative.</cell>                                                                 </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Indicative.</grm></cell>                                                                 </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nasida</w></cell>      <cell><w>stauida</w></cell>       <cell><w>sōkida</w></cell>      </row>
               <row>                             <cell>2.</cell> <cell><w>nasidēs</w></cell>     <cell><w>stauidēs</w></cell>      <cell><w>sōkidēs</w></cell>     </row>
               <row>                             <cell>3.</cell> <cell><w>nasida</w></cell>      <cell><w>stauida</w></cell>       <cell><w>sōkida</w></cell>      </row>
@@ -1145,7 +1145,7 @@
             </table>
             
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Subjunctive.</cell>                                                                </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Subjunctive.</grm></cell>                                                                </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nasidēdjáu</w></cell>  <cell><w>stauidēdjáu</w></cell>   <cell><w>sōkidēdjáu</w></cell>  </row>
               <row>                             <cell>2.</cell> <cell><w>nasidēdeis</w></cell>  <cell><w>stauidēdeis</w></cell>   <cell><w>sōkidēdeis</w></cell>  </row>
               <row>                             <cell>3.</cell> <cell><w>nasidēdi</w></cell>    <cell><w>stauidēdi</w></cell>     <cell><w>sōkidēdi</w></cell>    </row>
@@ -1172,7 +1172,7 @@
             <head>Present.</head>
           
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Indicative.</cell>                                                               </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Indicative.</grm></cell>                                                               </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nasjada</w></cell>     <cell><w>stōjada</w></cell>     <cell><w>sōkjada</w></cell>     </row>
               <row>                             <cell>2.</cell> <cell><w>nasjaza</w></cell>     <cell><w>stōjaza</w></cell>     <cell><w>sōkjaza</w></cell>     </row>
               <row>                             <cell>3.</cell> <cell><w>nasjada</w></cell>     <cell><w>stōjada</w></cell>     <cell><w>sōkjada</w></cell>     </row>
@@ -1180,7 +1180,7 @@
             </table>
         
             <table>
-              <row> <cell cols="2"/>                            <cell cols="3">Subjunctive.</cell>                                                              </row>
+              <row> <cell cols="2"/>                            <cell cols="3"><grm>Subjunctive.</grm></cell>                                                              </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>nasjáidáu</w></cell>   <cell><w>stōjáidáu</w></cell>   <cell><w>sōkjáidáu</w></cell>   </row>
               <row>                             <cell>2.</cell> <cell><w>nasjáizáu</w></cell>   <cell><w>stōjáizáu</w></cell>   <cell><w>sōkjáizáu</w></cell>   </row>
               <row>                             <cell>3.</cell> <cell><w>nasjáidáu</w></cell>   <cell><w>stōjáidáu</w></cell>   <cell><w>sōkjáidáu</w></cell>   </row>
@@ -1407,8 +1407,10 @@
     <div type="subsubchapter">
       <head>2. Second Weak Conjugation.</head>
   
-      <div type="section" n="323" status="wip">
-        <label>§ 323.</label>
+      <div type="section" n="323">
+        <p>
+          <label>§ 323.</label>
+        </p>
 
         <div type="subsection">
           <head>a. Active.</head>
@@ -1417,7 +1419,7 @@
             <head>Present.</head>
           
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>                                 <cell>Subj.</cell>          <cell>Imperative.</cell>      </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                                 <cell><grm>Subj.</grm></cell>          <cell><grm>Imperative.</grm></cell>      </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>salbō</w>, <gloss>I anoint</gloss></cell>  <cell><w>salbō</w></cell>   <cell><w>—</w></cell>         </row>
               <row>                             <cell>2.</cell> <cell><w>salbōs</w></cell>                          <cell><w>salbōs</w></cell>  <cell><w>salbō</w></cell>     </row>
               <row>                             <cell>3.</cell> <cell><w>salbōþ</w></cell>                          <cell><w>salbō</w></cell>   <cell><w>salbōdáu</w></cell>  </row>
@@ -1429,7 +1431,7 @@
             </table>
         
             <table>
-              <row> <cell><grm>Infin.</grm></cell>         <cell>Participle.</cell>      </row>
+              <row> <cell><grm>Infin.</grm></cell>         <cell><grm>Participle.</grm></cell>      </row>
               <row> <cell><w>salbōn</w></cell>  <cell><w>salbōnds</w></cell>  </row>
             </table>
           </div>
@@ -1438,7 +1440,7 @@
             <head>Preterite.</head>
           
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>                       <cell>Subj.</cell>                              </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                       <cell><grm>Subj.</grm></cell>                              </row>
               <row> <cell rows="2">Sing.</cell> <cell>1.</cell>	<cell><w>salbōda</w></cell>	              <cell><w>salbōdēdjáu</w></cell>                 </row>
               <row>                             <cell>2</cell>	<cell><w>salbōdēs</w></cell>  	              <cell><w>salbōdēdeis</w></cell>                 </row>
               <row> <cell cols="2"/>                            <cell>[<abbr>&amp;c.</abbr> like <w>nasida</w>]</cell>	<cell>[<abbr>&amp;c.</abbr> like <w>nasi-dēdjáu</w>]</cell>  </row>
@@ -1461,7 +1463,7 @@
             <head>Present.</head>
           
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>          <cell>Subj.</cell>           </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>          <cell><grm>Subj.</grm></cell>           </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>salbōda</w></cell>  <cell><w>salbōdáu</w></cell> </row>
               <row>                             <cell>2.</cell> <cell><w>salbōza</w></cell>  <cell><w>salbōzáu</w></cell> </row>
               <row>                             <cell>3.</cell> <cell><w>salbōda</w></cell>  <cell><w>salbōdáu</w></cell> </row>
@@ -1472,31 +1474,98 @@
     
       </div>
     
-      <div type="section" n="324" status="wip">
+      <div type="section" n="324">
         <p>
           <label>§ 324.</label>
-          The second class of verbs is denominative and originally belonged partly to the athematic and partly to the thematic conjugation (<ref>§ 280</ref>). The first pers. sing. of the former ended in -āmi and of the latter in -ājō. The ā became -ō in the <lang>prim. Germanic</lang> period (<ref>§ 42</ref>). In <lang>Gothic</lang> the -ō became extended to all forms of the verb. The <lang>Gothic</lang> and <lang>OHG.</lang> pres. indic. belongs to the athematic conjugation and <lang>OE.</lang> partly to the one and partly to the other. The <lang>prim. Germanic</lang> forms corresponding to the <lang>Gothic</lang> and <lang>OHG.</lang> were: Sing. *salҌō-mi, *salҌō-zi, *salҌo-đi; dual *salҌō-(w)iz, *salҌō-điz; Pl. *salҌō-miz, *salҌō-di, *salҌō-ndi; from which the corresponding <lang>Gothic</lang> forms were regularly developed except salbōts (on which see <ref>§§ 287, 292</ref>) and the first pers. singular which would have become *salbōm as in <lang>OHG.</lang> The form salbō presents difficulties. It was probably a new formation with -a from the other classes of weak verbs and then *salba became salbō with ō from the other forms of the present. The cause of the new formation was doubtless due to the fact that the first pers. sing. and pl. would otherwise have been alike.
+          The second class of verbs is denominative and originally belonged partly to the athematic and partly to the thematic conjugation (<ref>§ 280</ref>).
+          
+          The <grm>first pers. sing.</grm> of the former ended in <m>-āmi</m> and of the latter in <m>-ājō</m>.
+          
+          The <c>ā</c> became <c>-ō</c> in the <lang>prim. Germanic</lang> period (<ref>§ 42</ref>).
+          
+          In <lang>Gothic</lang> the <c>-ō</c> became extended to all forms of the verb.
+          
+          The <lang>Gothic</lang> and <lang>OHG.</lang> <grm>pres. indic.</grm> belongs to the athematic conjugation and <lang>OE.</lang> partly to the one and partly to the other.
+          
+          The <lang>prim. Germanic</lang> forms corresponding to the <lang>Gothic</lang> and <lang>OHG.</lang> were:
+          
+          <grm>Sing.</grm> <w>*salҌō-mi</w>, <w>*salҌō-zi</w>, <w>*salҌo-đi</w>;
+          <grm>dual</grm> <w>*salҌō-(w)iz</w>, <w>*salҌō-điz</w>;
+          <grm>Pl.</grm> <w>*salҌō-miz</w>, <w>*salҌō-di</w>, <w>*salҌō-ndi</w>;
+          
+          from which the corresponding <lang>Gothic</lang> forms were regularly developed except <w>salbōts</w> (on which see <ref>§§ 287, 292</ref>) and the <grm>first pers. singular</grm> which would have become <w>*salbōm</w> as in <lang>OHG.</lang>
+          
+          The form <w>salbō</w> presents difficulties.
+          
+          It was probably a new formation with <c>-a</c> from the other classes of weak verbs and then <w>*salba</w> became <w>salbō</w> with <c>ō</c> from the other forms of the present.
+          
+          The cause of the new formation was doubtless due to the fact that the <grm>first pers. sing. and pl.</grm> would otherwise have been alike.
         </p>
         <p>
-          The pres. subjunctive is an old conjunctive (not optative as in Class I) and corresponds to the pres. subjunctive forms in the <lang>OHG.</lang> Franconian dialect: salbo, salbōs(t), salbo; salbōm, salbōt, salbōn. The <lang>prim. Germanic</lang> forms were: Sing. *salҌō-m, *salҌō-z, *salҌō (<lang>Indg.</lang> -t); dual *salbō-wǣ, *salҌō-diz; Pl. *salҌō-mǣ, *salҌō-đi, *salҌō-n (<lang>Indg.</lang> -nt). In <lang>Goth.</lang> the first and third pers. sing. would regularly be *salba. The -ō in salbō was
+          The <grm>pres. subjunctive</grm> is an old <grm>conjunctive</grm> (not <grm>optative</grm> as in Class I) and corresponds to the <grm>pres. subjunctive</grm> forms in the <lang>OHG. Franconian dialect</lang>:
+          <w>salbo</w>, <w>salbōs(t)</w>, <w>salbo</w>;
+          <w>salbōm</w>, <w>salbōt</w>, <w>salbōn</w>.
+          
+          The <lang>prim. Germanic</lang> forms were:
+          <grm>Sing.</grm> <w>*salҌō-m</w>, <w>*salҌō-z</w>, <w>*salҌō</w> (<lang>Indg.</lang> <c>-t</c>);
+          <grm>dual</grm> <w>*salbō-wǣ</w>, <w>*salҌō-diz</w>;
+          <grm>Pl.</grm> <w>*salҌō-mǣ</w>, <w>*salҌō-đi</w>, <w>*salҌō-n</w> (<lang>Indg.</lang> <c>-nt</c>).
+          
+          In <lang>Goth.</lang> the <grm>first and third pers. sing.</grm> would regularly be <w>*salba</w>.
+          
+          The <c>-ō</c> in <w>salbō</w> was
           <pb n="157"/>
-          due to levelling out the ō of the other forms. On salbōts see <ref>§§ 287, 292</ref>. The -a in salbōna was from the first pers. plural as in all the other classes of verbs.
+          due to levelling out the <w>ō</w> of the other forms.
+          
+          On <w>salbōts</w> see <ref>§§ 287, 292</ref>.
+          
+          The <c>-a</c> in <w>salbōna</w> was from the <grm>first pers. plural</grm> as in all the other classes of verbs.
         </p>
         <p>
-          The regular form of the imperative second pers. singular would be *salba (with -a from older -ō = <lang>Indg.</lang> -ǎ, <abbr>cp.</abbr> <lang>Gr. Doric</lang> τῑ́μᾱ, honour thou; <lang>Lat.</lang> amā, love thou), but here again the ō in the other forms was levelled out. The other forms of the imperative have the same endings as in Class I (<ref>§ 317</ref>).
+          The regular form of the <grm>imperative second pers. singular</grm> would be <w>*salba</w> (with <c>-a</c> from older <c>-ō</c> = <lang>Indg.</lang> <c>-ǎ</c>, <abbr>cp.</abbr> <lang>Gr. Doric</lang> <w>τῑ́μᾱ</w>, <gloss>honour thou</gloss>;
+          <lang>Lat.</lang> <w>amā</w>, <gloss>love thou</gloss>), but here again the <c>ō</c> in the other forms was levelled out.
+          
+          The other forms of the <grm>imperative</grm> have the same endings as in Class I (<ref>§ 317</ref>).
         </p>
         <p>
-          The pret. Indic. and subjunctive and the passive have the same endings as in Class I.
+          The <grm>pret. indic. and subjunctive</grm> and the <grm>passive</grm> have the same endings as in Class I.
         </p>
         <p>
-          Past participle salbōþs from <lang>prim. Germanic</lang> salҌōđás, <lang>Indg.</lang> -atós (<lang>Gr. Doric</lang> -ᾱτός, <lang>Lat.</lang> -ātus).
+          <grm>Past participle</grm> <w>salbōþs</w> from <lang>prim. Germanic</lang> <w>salҌōđás</w>, <lang>Indg.</lang> <m>-atós</m> (<lang>Gr. Doric</lang> <m>-ᾱτός</m>, <lang>Lat.</lang> <m>-ātus</m>).
         </p>
       </div>
     
-      <div type="section" n="325" status="wip">
+      <div type="section" n="325">
         <p>
           <label>§ 325.</label>
-          Like salbōn are conjugated the following and several others: áihtrōn, to beg for; áirinōn, to be a messenger; awiliudōn, to thank; dwalmōn, to be foolish; faginōn, to rejoice; fiskōn, to fish; fráujinōn, to be lord or king; frijōn, to love; gáunōn, to lament; ga-leikōn, to liken; hatizōn, to hate; hōlōn, to treat with violence; ƕrarbōn, to go about; idreigōn, to repent; karōn, to care for; káupōn, to traffic; laþōn, to invite; lustōn, to desire; mitōn, to consider; reikinōn, to rule; sidōn, to practise; skalkinōn, to serve; spillōn, to narrate; sunjōn, to justify; swiglōn, to pipe; ufar-munnōn, to forget.
+          Like <w>salbōn</w> are conjugated the following and several others:
+          
+          <w>áihtrōn</w>, <gloss>to beg for</gloss>;
+          <w>áirinōn</w>, <gloss>to be a messenger</gloss>;
+          <w>awiliudōn</w>, <gloss>to thank</gloss>;
+          <w>dwalmōn</w>, <gloss>to be foolish</gloss>;
+          <w>faginōn</w>, <gloss>to rejoice</gloss>;
+          <w>fiskōn</w>, <gloss>to fish</gloss>;
+          <w>fráujinōn</w>, <gloss>to be lord or king</gloss>;
+          <w>frijōn</w>, <gloss>to love</gloss>;
+          <w>gáunōn</w>, <gloss>to lament</gloss>;
+          <w>ga-leikōn</w>, <gloss>to liken</gloss>;
+          <w>hatizōn</w>, <gloss>to hate</gloss>;
+          <w>hōlōn</w>, <gloss>to treat with violence</gloss>;
+          <w>ƕrarbōn</w>, <gloss>to go about</gloss>;
+          <w>idreigōn</w>, <gloss>to repent</gloss>;
+          <w>karōn</w>, <gloss>to care for</gloss>;
+          <w>káupōn</w>, <gloss>to traffic</gloss>;
+          <w>laþōn</w>, <gloss>to invite</gloss>;
+          <w>lustōn</w>, <gloss>to desire</gloss>;
+          <w>mitōn</w>, <gloss>to consider</gloss>;
+          <w>reikinōn</w>, <gloss>to rule</gloss>;
+          <w>sidōn</w>, <gloss>to practise</gloss>;
+          <w>skalkinōn</w>, <gloss>to serve</gloss>;
+          <w>spillōn</w>, <gloss>to narrate</gloss>;
+          <w>sunjōn</w>, <gloss>to justify</gloss>;
+          <w>swiglōn</w>, <gloss>to pipe</gloss>;
+          <w>ufar-munnōn</w>, <gloss>to forget</gloss>.
         </p>
       </div>
     </div>
@@ -1504,8 +1573,10 @@
     <div type="subsubchapter">
       <head>3. Third Weak Conjugation</head>
   
-      <div type="section" n="326" status="wip">
-        <label>§ 326.</label>
+      <div type="section" n="326">
+        <p>
+          <label>§ 326.</label>
+        </p>
     
         <div type="subsection">
           <head>a. Active.</head>
@@ -1514,7 +1585,7 @@
             <head>Present.</head>
       
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>                             <cell>Subj.</cell>          <cell>Imperative.</cell>      </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                             <cell><grm>Subj.</grm></cell>          <cell><grm>Imperative.</grm></cell>      </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>haba</w>, <gloss>I have</gloss></cell> <cell><w>habáu</w></cell>   <cell><w>—</w></cell>         </row>
               <row>                             <cell>2.</cell> <cell><w>habáis</w></cell>                      <cell><w>habáis</w></cell>  <cell><w>habái</w></cell>     </row>
               <row>                             <cell>3.</cell> <cell><w>habáiþ</w></cell>                      <cell><w>habái</w></cell>   <cell><w>habadáu</w></cell>   </row>
@@ -1537,7 +1608,7 @@
             <head>Preterite.</head>
       
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>                       <cell>Subj.</cell>                             </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                       <cell><grm>Subj.</grm></cell>                             </row>
               <row> <cell rows="2">Sing.</cell> <cell>1.</cell>	<cell><w>habáida</w></cell>	              <cell><w>habáidēdjáu</w></cell>                </row>
               <row>                             <cell>2</cell>	<cell><w>habáidēs</w></cell>  	          <cell><w>habáidēdeis</w></cell>                </row>
               <row> <cell cols="2"/>                            <cell>[<abbr>&amp;c.</abbr> like <w>nasida</w>]</cell>	<cell>[<abbr>&amp;c.</abbr> like <w>nasidēdjáu</w>]</cell>  </row>
@@ -1557,7 +1628,7 @@
             <head>Present.</head>
       
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>         <cell>Subj.</cell>            </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>         <cell><grm>Subj.</grm></cell>            </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>habada</w></cell>  <cell><w>habáidáu</w></cell>  </row>
               <row>                             <cell>2.</cell> <cell><w>habaza</w></cell>  <cell><w>habáizáu</w></cell>  </row>
               <row>                             <cell>3.</cell> <cell><w>habada</w></cell>  <cell><w>habáidáu</w></cell>  </row>
@@ -1620,7 +1691,7 @@
           <head>Present.</head>
     
           <table>
-            <row> <cell cols="2"/>                            <cell>Indic.</cell>                                       <cell>Subj.</cell>            <cell>Imperative.</cell>        </row>
+            <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                                       <cell><grm>Subj.</grm></cell>            <cell><grm>Imperative.</grm></cell>        </row>
             <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>fullna</w>, <gloss>I become full</gloss></cell>  <cell><w>fullnáu</w></cell>   <cell><w>—</w></cell>           </row>
             <row>                             <cell>2.</cell> <cell><w>fullnis</w></cell>                               <cell><w>fullnáis</w></cell>  <cell><w>fulln</w></cell>       </row>
             <row>                             <cell>3.</cell> <cell><w>fullniþ</w></cell>                               <cell><w>fullnái</w></cell>   <cell><w>fullnadáu</w></cell>   </row>
@@ -1826,7 +1897,7 @@
             <head>Present.</head>
       
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>                         <cell>Subj.</cell>   </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                         <cell><grm>Subj.</grm></cell>   </row>
               <row> <cell rows="3">Sing.</cell> <cell>1.</cell> <cell><w>im</w>, <gloss>I am</gloss></cell> <cell><w>sijáu</w></cell> </row>
               <row>                             <cell>2.</cell> <cell><w>is</w></cell>                      <cell><w>sijáis</w></cell> </row>
               <row>                             <cell>3.</cell> <cell><w>ist</w></cell>                     <cell><w>sijái</w></cell> </row>
@@ -1846,7 +1917,7 @@
             <head>Preterite.</head>
       
             <table>
-              <row> <cell cols="2"/>                            <cell>Indic.</cell>                       <cell>Subj.</cell>                             </row>
+              <row> <cell cols="2"/>                            <cell><grm>Indic.</grm></cell>                       <cell><grm>Subj.</grm></cell>                             </row>
               <row> <cell rows="2">Sing.</cell> <cell>1.</cell>	<cell><w>was</w></cell>	              <cell><w>wēsjáu</w></cell>                </row>
               <row>                             <cell>2</cell>	<cell><w>wast</w></cell>  	          <cell><w>wēseis</w></cell>                </row>
               <row> <cell cols="2"/>                            <cell>[<abbr>&amp;c.</abbr> like <w>nam</w>, <ref>§ 286</ref>]</cell>	<cell>[<abbr>&amp;c.</abbr> like <w>nḗmjáu</w>]</cell>  </row>
@@ -1914,7 +1985,7 @@
             <head>Preterite.</head>
       
             <table>
-              <row> <cell cols="2"/> <cell>Indic.</cell> <cell>Subj.</cell> </row>
+              <row> <cell cols="2"/> <cell><grm>Indic.</grm></cell> <cell><grm>Subj.</grm></cell> </row>
               <row> <cell>Sing.</cell> <cell>1.</cell> <cell><w>wilda</w></cell> <cell><w>wildēdjáu</w></cell> </row>
               <row> <cell cols="3">[<abbr>&amp;c.</abbr> like <w>nasida</w>, <ref>§ 317</ref>]</cell>	<cell>[<abbr>&amp;c.</abbr> like <w>nasidēdjáu</w>]</cell> </row>
             </table>
