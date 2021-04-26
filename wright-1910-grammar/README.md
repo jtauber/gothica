@@ -39,10 +39,10 @@ But once this is done, not only can I produce a nice HTML version:
 | VII     | [xml](xml/chapter07.xml) • [html](html/chapter07.html) | level 2 done        |
 | VIII    | [xml](xml/chapter08.xml) • [html](html/chapter08.html) | level 2 done        |
 | IX      | [xml](xml/chapter09.xml) • [html](html/chapter09.html) | level 2 done        |
-| X       | [xml](xml/chapter10.xml) • [html](html/chapter10.html) | level 2 in-progress |
-| XI      | [xml](xml/chapter11.xml) • [html](html/chapter11.html) | level 2 in-progress |
+| X       | [xml](xml/chapter10.xml) • [html](html/chapter10.html) | level 2 done        |
+| XI      | [xml](xml/chapter11.xml) • [html](html/chapter11.html) | level 2 done        |
 | XII     | [xml](xml/chapter12.xml) • [html](html/chapter12.html) | level 2 done        |
-| XIII    | [xml](xml/chapter13.xml) • [html](html/chapter13.html) | level 2 in-progress |
+| XIII    | [xml](xml/chapter13.xml) • [html](html/chapter13.html) | level 2 done        |
 | XIV     | [xml](xml/chapter14.xml) • [html](html/chapter14.html) | level 2 done        |
 | XV      | [xml](xml/chapter15.xml) • [html](html/chapter15.html) | level 2 in-progress |
 | XVI     | [xml](xml/chapter16.xml) • [html](html/chapter16.html) | level 2 done        |
@@ -55,7 +55,7 @@ But once this is done, not only can I produce a nice HTML version:
 | ulfilas                  | [xml](xml/ulfilas.xml) • [html](html/ulfilas.html)                             | initial markup done |
 | matthew                  | [xml](xml/matthew.xml) • [html](html/matthew.html)                             | initial markup done |
 | mark                     | [xml](xml/mark.xml) • [html](html/mark.html)                                   | initial markup done |
-| luke                     | [xml](xml/luke.xml) • [html](html/luke.html)                                    | initial markup done |
+| luke                     | [xml](xml/luke.xml) • [html](html/luke.html)                                   | initial markup done |
 | john                     | [xml](xml/john.xml) • [html](html/john.html)                                   | initial markup done |
 | timothy                  | [xml](xml/timothy.xml) • [html](html/timothy.html)                             | initial markup done |
 | glossary                 |                                                                                | in progress         |
