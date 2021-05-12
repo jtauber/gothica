@@ -780,69 +780,87 @@
   <div type="subchapter">
     <head>Suffixes.</head>
 
-    <div type="section" n="392" status="wip">
+    <div type="section" n="392">
       <p>
         <label>§ 392.</label>
-        -aga-
-        (<lang>OE.</lang> -ig, <lang>OHG.</lang> -ag, <lang>prim. Germanic</lang> -aʒá-, <lang>Indg.</lang> -oqó-, <abbr>cp.</abbr> <lang>Skr.</lang> -aká-, as
-        áudags, blessed;
-        grēdags, greedy;
-        mōdags, angry;
-        un-hunslags, without offering;
-        wulþags, glorious.
+        <m>-aga-</m>
+        (<lang>OE.</lang> <m>-ig</m>, <lang>OHG.</lang> <m>-ag</m>, <lang>prim. Germanic</lang> <m>-aʒá-</m>, <lang>Indg.</lang> <m>-oqó-</m>, <abbr>cp.</abbr> <lang>Skr.</lang> <m>-aká-</m>, as
+
+        <w>áudags</w>, <gloss>blessed</gloss>;
+        <w>grēdags</w>, <gloss>greedy</gloss>;
+        <w>mōdags</w>, <gloss>angry</gloss>;
+        <w>un-hunslags</w>, <gloss>without offering</gloss>;
+        <w>wulþags</w>, <gloss>glorious</gloss>.
       </p>
     </div>
 
-    <div type="section" n="393" status="wip">
+    <div type="section" n="393">
       <p>
         <label>§ 393.</label>
-        -aha-
-        (<lang>prim. Germanic</lang> -áxa-, <lang>Indg.</lang> -óqo-, <abbr>cp.</abbr> <lang>Skr.</lang> -áka-, the same suffix as the above with difference of accent), as
-        áinaha (weak decl), only;
-        niu-klahs, under age;
-        stáinahs, stony;
-        un-barnahs, childless;
-        waúrdahs, verbal; and similarly baírgahei, hill country, from *baírgahs; brōþrahans, brethren, from *brōþrahs.
+        <m>-aha-</m>
+        (<lang>prim. Germanic</lang> <m>-áxa-</m>, <lang>Indg.</lang> <m>-óqo-</m>, <abbr>cp.</abbr> <lang>Skr.</lang> <m>-áka-</m>, the same suffix as the above with difference of accent), as
+
+        <w>áinaha</w> (weak decl), <gloss>only</gloss>;
+        <w>niu-klahs</w>, <gloss>under age</gloss>;
+        <w>stáinahs</w>, <gloss>stony</gloss>;
+        <w>un-barnahs</w>, <gloss>childless</gloss>;
+        <w>waúrdahs</w>, <gloss>verbal</gloss>;
+        and similarly <w>baírgahei</w>, <gloss>hill country</gloss>, from <w>*baírgahs</w>;
+        <w>brōþrahans</w>, <gloss>brethren</gloss>, from <w>*brōþrahs</w>.
       </p>
     </div>
 
-    <div type="section" n="394" status="wip">
+    <div type="section" n="394">
       <p>
         <label>§ 394.</label>
-        -eiga-
-        (<lang>OE.</lang> -ig, <lang>OHG.</lang> -ī̌g, <lang>prim. Germanic</lang> -īʒá-, <lang>Indg.</lang> *-īqó-, <abbr>cp.</abbr> <lang>Skr.</lang> -īká-), as anda-nēmeigs, holding fast;<pb n="178"/>ansteigs, gracious; hrōþeigs, victorious; láiseigs, apt to teach; listeigs, cunning; mahteigs, mighty; sineigs, old; þiuþeigs, good; us-beisneigs, long-suffering; waúrst-weigs, effective.
+        <m>-eiga-</m>
+        (<lang>OE.</lang> <m>-ig</m>, <lang>OHG.</lang> <m>-ī̌g</m>, <lang>prim. Germanic</lang> <m>-īʒá-</m>, <lang>Indg.</lang> <m>*-īqó-</m>, <abbr>cp.</abbr> <lang>Skr.</lang> <m>-īká-</m>), as
+        
+        <w>anda-nēmeigs</w>, <gloss>holding fast</gloss>;
+        <pb n="178"/>
+        <w>ansteigs</w>, <gloss>gracious</gloss>;
+        <w>hrōþeigs</w>, <gloss>victorious</gloss>;
+        <w>láiseigs</w>, <gloss>apt to teach</gloss>;
+        <w>listeigs</w>, <gloss>cunning</gloss>;
+        <w>mahteigs</w>, <gloss>mighty</gloss>;
+        <w>sineigs</w>, <gloss>old</gloss>;
+        <w>þiuþeigs</w>, <gloss>good</gloss>;
+        <w>us-beisneigs</w>, <gloss>long-suffering</gloss>;
+        <w>waúrst-weigs</w>, <gloss>effective</gloss>.
       </p>
     </div>
 
-    <div type="section" n="395" status="wip">
+    <div type="section" n="395">
       <p>
         <label>§ 395.</label>
-        -eina-
-        (<lang>OE.</lang> -en, <lang>OHG.</lang> -īn, <lang>prim. Germanic</lang> -īna-, = <lang>Lat.</lang> -īnu-s), used in forming adjectives denoting the material of which a thing is made, as
-        aírþeins, earthen;
-        áiweins, eternal;
-        barizeins, of barley;
-        filleins, leathern;
-        gulþeins, golden;
-        gumeins, male, qineins, female;
-        stáineins, of stone;
-        þaúrneins, thorny;
-        triweins, wooden.
+        <m>-eina-</m>
+        (<lang>OE.</lang> <m>-en</m>, <lang>OHG.</lang> <m>-īn</m>, <lang>prim. Germanic</lang> <m>-īna-</m>, = <lang>Lat.</lang> <m>-īnu-s</m>), used in forming adjectives denoting the material of which a thing is made, as
+
+        <w>aírþeins</w>, <gloss>earthen</gloss>;
+        <w>áiweins</w>, <gloss>eternal</gloss>;
+        <w>barizeins</w>, <gloss>of barley</gloss>;
+        <w>filleins</w>, <gloss>leathern</gloss>;
+        <w>gulþeins</w>, <gloss>golden</gloss>;
+        <w>gumeins</w>, <gloss>male</gloss>, <w>qineins</w>, <gloss>female</gloss>;
+        <w>stáineins</w>, <gloss>of stone</gloss>;
+        <w>þaúrneins</w>, <gloss>thorny</gloss>;
+        <w>triweins</w>, <gloss>wooden</gloss>.
       </p>
     </div>
 
-    <div type="section" n="396" status="wip">
+    <div type="section" n="396">
       <p>
         <label>§ 396.</label>
-        -iska-
-        (<lang>OE.</lang> -isc, <lang>OHG.</lang> -isc, -isk, <lang>Lat.</lang> -iscu-s, Gk. -ισκο-ς), generally connoting the quality of the object denoted by the simplex, as
-        barnisks, childish;
-        funisks, fiery;
-        gudisks, godly;
-        mannisks, human;
-        *þiudisks, whence þiudiskō, after the manner of Gentiles;
-        iudaíwisks, Jewish, formed from Iudaíus, Jew;
-        háiþiwisks, wild, with w from iudaíwisks.
+        <m>-iska-</m>
+        (<lang>OE.</lang> <m>-isc</m>, <lang>OHG.</lang> <m>-isc</m>, <m>-isk</m>, <lang>Lat.</lang> <m>-iscu-s</m>, <lang>Gk.</lang> <m>-ισκο-ς</m>), generally connoting the quality of the object denoted by the simplex, as
+
+        <w>barnisks</w>, <gloss>childish</gloss>;
+        <w>funisks</w>, <gloss>fiery</gloss>;
+        <w>gudisks</w>, <gloss>godly</gloss>;
+        <w>mannisks</w>, <gloss>human</gloss>;
+        <w>*þiudisks</w>, whence <w>þiudiskō</w>, <gloss>after the manner of Gentiles</gloss>;
+        <w>iudaíwisks</w>, <gloss>Jewish</gloss>, formed from <w>Iudaíus</w>, <gloss>Jew</gloss>;
+        <w>háiþiwisks</w>, <gloss>wild</gloss>, with <c>w</c> from <w>iudaíwisks</w>.
       </p>
     </div>
   </div>
