@@ -31,7 +31,7 @@
       <p>
         <label>§ 260.</label>
       </p>
-      <div>
+      <div type="subsubsubchapter">
         <head>First Person.</head>
 
         <table>
@@ -43,7 +43,7 @@
         </table>
       </div>
 
-      <div>
+      <div type="subsubsubchapter">
         <head>Second Person.</head>
 
         <table>
@@ -54,7 +54,7 @@
         </table>
       </div>  
 
-      <div>
+      <div type="subsubsubchapter">
         <head>Third Person.</head>
 
         <table>
