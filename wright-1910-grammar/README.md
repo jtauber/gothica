@@ -44,7 +44,7 @@ But once this is done, not only can I produce a nice HTML version:
 | XII     | [xml](xml/chapter12.xml) • [html](html/chapter12.html) | level 2 done        |
 | XIII    | [xml](xml/chapter13.xml) • [html](html/chapter13.html) | level 2 done        |
 | XIV     | [xml](xml/chapter14.xml) • [html](html/chapter14.html) | level 2 done        |
-| XV      | [xml](xml/chapter15.xml) • [html](html/chapter15.html) | level 2 in-progress |
+| XV      | [xml](xml/chapter15.xml) • [html](html/chapter15.html) | level 2 done        |
 | XVI     | [xml](xml/chapter16.xml) • [html](html/chapter16.html) | level 2 done        |
 
 ## Status of Other Parts
