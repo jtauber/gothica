@@ -450,7 +450,7 @@
         <w>wiþra-waírþs</w>, <gloss>opposite</gloss>.
       </p>
     </div>
-  </div> 
+  </div>
 
   <div type="subchapter">
     <head>Suffixes.</head>
@@ -628,9 +628,9 @@
       </p>
       <p>
         The final vowel of the first element generally remained in the pure <c>a</c>-stems, but there are many exceptions which it is difficult to account for.
-        
+
         Examples are:
-        
+
         <w>áiƕa-tundi</w>, <gloss>thornbush</gloss>;
         <w>áina-baúr</w>, <gloss>first-born</gloss>;
         <w>áiza-smiþa</w>, <gloss>coppersmith</gloss>;
@@ -722,7 +722,7 @@
         <w>nahta-mats</w>, <gloss>supper</gloss>, formed on analogy with the <c>a</c>-stems.
       </p>
     </div>
-  </div> 
+  </div>
 
   <div type="subchapter">
     <head>Adjectives.</head>
@@ -732,13 +732,13 @@
         <label>§ 390.</label>
 
         Adjectives, like nouns, may be conveniently divided into three classes:
-        
+
         simple,
         derivative, and
         compound.
-        
+
         Examples of simple adjectives are:
-        
+
         <w>áins</w>, <gloss>one</gloss>;
         <w>alls</w>, <gloss>all</gloss>;
         <w>baírhts</w>, <gloss>bright</gloss>;
@@ -775,7 +775,7 @@
         <w>us-kunþs</w>, <gloss>well known</gloss>.
       </p>
     </div>
-  </div> 
+  </div>
 
   <div type="subchapter">
     <head>Suffixes.</head>
@@ -815,7 +815,7 @@
         <label>§ 394.</label>
         <m>-eiga-</m>
         (<lang>OE.</lang> <m>-ig</m>, <lang>OHG.</lang> <m>-ī̌g</m>, <lang>prim. Germanic</lang> <m>-īʒá-</m>, <lang>Indg.</lang> <m>*-īqó-</m>, <abbr>cp.</abbr> <lang>Skr.</lang> <m>-īká-</m>), as
-        
+
         <w>anda-nēmeigs</w>, <gloss>holding fast</gloss>;
         <pb n="178"/>
         <w>ansteigs</w>, <gloss>gracious</gloss>;
@@ -975,9 +975,9 @@
         <label>§ 401.</label>
 
         Compound verbs are formed from simple verbs, nouns, and adjectives, by means of various prefixes.
-        
+
         See below.
-        
+
         On the accentuation of the prefixes in verbs see <ref>§§ 33–4</ref>.
       </p>
     </div>
@@ -986,290 +986,295 @@
   <div type="subchapter">
     <head>Prefixes.</head>
 
-    <div type="section" n="402" status="wip">
+    <div type="section" n="402">
       <p>
         <label>§ 402.</label>
-        af-
+        <m>af-</m>
         (<ref>§ 355</ref>), as
-        af-áikan, to deny;
-        af-dáuþjan, to kill;
-        af-gaggan, to go away;
-        af-lētan, to dismiss;
-        af-máitan, to cut off;
-        af-slahan, to kill;
-        af-tiuhan, to draw away.
+        <w>af-áikan</w>, <gloss>to deny</gloss>;
+        <w>af-dáuþjan</w>, <gloss>to kill</gloss>;
+        <w>af-gaggan</w>, <gloss>to go away</gloss>;
+        <w>af-lētan</w>, <gloss>to dismiss</gloss>;
+        <w>af-máitan</w>, <gloss>to cut off</gloss>;
+        <w>af-slahan</w>, <gloss>to kill</gloss>;
+        <w>af-tiuhan</w>, <gloss>to draw away</gloss>.
       </p>
     </div>
     <pb n="180"/>
-    <div type="section" n="403" status="wip">
+    <div type="section" n="403">
       <p>
         <label>§ 403.</label>
-        afar-
+        <m>afar-</m>
         (<ref>§ 356</ref>), as
-        afar-gaggan, to follow;
-        afar-láistjan, to follow after.
+        <w>afar-gaggan</w>, <gloss>to follow</gloss>;
+        <w>afar-láistjan</w>, <gloss>to follow after</gloss>.
       </p>
     </div>
 
-    <div type="section" n="404" status="wip">
+    <div type="section" n="404">
       <p>
         <label>§ 404.</label>
-        ana-
+        <m>ana-</m>
         (<ref>§ 357</ref>), as
-        ana-áukan, to add to;
-        ana-biud-an, to command;
-        ana-háitan, to call on;
-        ana-hneiwan, to stop down;
-        ana-lagjan, to lay on;
-        ana-stōdjan, to begin.
+        <w>ana-áukan</w>, <gloss>to add to</gloss>;
+        <w>ana-biud-an</w>, <gloss>to command</gloss>;
+        <w>ana-háitan</w>, <gloss>to call on</gloss>;
+        <w>ana-hneiwan</w>, <gloss>to stop down</gloss>;
+        <w>ana-lagjan</w>, <gloss>to lay on</gloss>;
+        <w>ana-stōdjan</w>, <gloss>to begin</gloss>.
       </p>
     </div>
 
-    <div type="section" n="405" status="wip">
+    <div type="section" n="405">
       <p>
         <label>§ 405.</label>
-        and-
+        <m>and-</m>
         (<ref>§ 358</ref>), as
-        and-bindan, to unbind;
-        and-hafjan, to answer;
-        and-huljan, to uncover;
-        and-niman, to receive;
-        and-sakan, to dispute;
-        and-standan, to withstand.
+        <w>and-bindan</w>, <gloss>to unbind</gloss>;
+        <w>and-hafjan</w>, <gloss>to answer</gloss>;
+        <w>and-huljan</w>, <gloss>to uncover</gloss>;
+        <w>and-niman</w>, <gloss>to receive</gloss>;
+        <w>and-sakan</w>, <gloss>to dispute</gloss>;
+        <w>and-standan</w>, <gloss>to withstand</gloss>.
       </p>
     </div>
 
-    <div type="section" n="406" status="wip">
+    <div type="section" n="406">
       <p>
         <label>§ 406.</label>
-        at-
+        <m>at-</m>
         (<ref>§ 359</ref>), as
-        at-áugjan, to show;
-        at-giban, to give up;
-        at-hafjan, to take down;
-        at-lagjan, to lay on;
-        at-saíƕan, to take heed;
-        at-tēkan, to touch;
-        at-waírpan, to cast down;
-        at-wōpjan, to call.
+        <w>at-áugjan</w>, <gloss>to show</gloss>;
+        <w>at-giban</w>, <gloss>to give up</gloss>;
+        <w>at-hafjan</w>, <gloss>to take down</gloss>;
+        <w>at-lagjan</w>, <gloss>to lay on</gloss>;
+        <w>at-saíƕan</w>, <gloss>to take heed</gloss>;
+        <w>at-tēkan</w>, <gloss>to touch</gloss>;
+        <w>at-waírpan</w>, <gloss>to cast down</gloss>;
+        <w>at-wōpjan</w>, <gloss>to call</gloss>.
       </p>
     </div>
 
-    <div type="section" n="407" status="wip">
+    <div type="section" n="407">
       <p>
         <label>§ 407.</label>
-        bi-
+        <m>bi-</m>
         (<ref>§ 360</ref>), as
-        bi-áukan, to add to;
-        bi-gitan, to find;
-        bi-leiban, to remain;
-        bi-rinnan, to run about;
-        bi-sitan, to sit about;
-        bi-swaran, to adjure.
+        <w>bi-áukan</w>, <gloss>to add to</gloss>;
+        <w>bi-gitan</w>, <gloss>to find</gloss>;
+        <w>bi-leiban</w>, <gloss>to remain</gloss>;
+        <w>bi-rinnan</w>, <gloss>to run about</gloss>;
+        <w>bi-sitan</w>, <gloss>to sit about</gloss>;
+        <w>bi-swaran</w>, <gloss>to adjure</gloss>.
       </p>
     </div>
 
-    <div type="section" n="408" status="wip">
+    <div type="section" n="408">
       <p>
         <label>§ 408.</label>
-        dis-
+        <m>dis-</m>
         (<ref>§ 361</ref>), as
-        dis-dáiljan, to share;
-        dis-sitan, to settle upon;
-        dis-tahan, to waste;
-        dis-taíran, to tear asunder;
-        dis-wilwan, to plunder.
+        <w>dis-dáiljan</w>, <gloss>to share</gloss>;
+        <w>dis-sitan</w>, <gloss>to settle upon</gloss>;
+        <w>dis-tahan</w>, <gloss>to waste</gloss>;
+        <w>dis-taíran</w>, <gloss>to tear asunder</gloss>;
+        <w>dis-wilwan</w>, <gloss>to plunder</gloss>.
       </p>
     </div>
 
-    <div type="section" n="409" status="wip">
+    <div type="section" n="409">
       <p>
         <label>§ 409.</label>
-        -du-
+        <m>-du-</m>
         (of unknown origin), as
-        du-at-gaggan, to go to;
-        du-ginnan, to begin;
-        du-rinnan, to run to;
-        du-stōdjan, to begin.
+        <w>du-at-gaggan</w>, <gloss>to go to</gloss>;
+        <w>du-ginnan</w>, <gloss>to begin</gloss>;
+        <w>du-rinnan</w>, <gloss>to run to</gloss>;
+        <w>du-stōdjan</w>, <gloss>to begin</gloss>.
       </p>
     </div>
 
-    <div type="section" n="410" status="wip">
+    <div type="section" n="410">
       <p>
         <label>§ 410.</label>
-        faúr-
+        <m>faúr-</m>
         (<ref>§ 363</ref>), as
-        faúr-biudan, to forbid;
-        faúr-gaggan, to pass by;
-        faúr-qiþan, to excuse;
-        faúr-sniwan, to hasten before.
+        <w>faúr-biudan</w>, <gloss>to forbid</gloss>;
+        <w>faúr-gaggan</w>, <gloss>to pass by</gloss>;
+        <w>faúr-qiþan</w>, <gloss>to excuse</gloss>;
+        <w>faúr-sniwan</w>, <gloss>to hasten before</gloss>.
       </p>
     </div>
 
-    <div type="section" n="411" status="wip">
+    <div type="section" n="411">
       <p>
         <label>§ 411.</label>
-        faúra-
+        <m>faúra-</m>
         (<ref>§ 364</ref>), as
-        faúra-gaggan, to go before;
-        faúra-gateihan, to inform beforehand;
-        faúra-standan, to govern.
+        <w>faúra-gaggan</w>, to <gloss>go before</gloss>;
+        <w>faúra-gateihan</w>, <gloss>to inform beforehand</gloss>;
+        <w>faúra-standan</w>, <gloss>to govern</gloss>.
       </p>
     </div>
 
-    <div type="section" n="412" status="wip">
+    <div type="section" n="412">
       <p>
         <label>§ 412.</label>
-        fra-
+        <m>fra-</m>
         (<ref>§ 365</ref>), as
-        fra-giban, to give;
-        fra-itan, to devour;
-        fra-lētan, to liberate;
-        fra-liusan, to lose;
-        fra-niman, to receive;
-        fra-qistjan, to destroy;
-        fra-wardjan, to destroy.
+        <w>fra-giban</w>, <gloss>to give</gloss>;
+        <w>fra-itan</w>, <gloss>to devour</gloss>;
+        <w>fra-lētan</w>, <gloss>to liberate</gloss>;
+        <w>fra-liusan</w>, <gloss>to lose</gloss>;
+        <w>fra-niman</w>, <gloss>to receive</gloss>;
+        <w>fra-qistjan</w>, <gloss>to destroy</gloss>;
+        <w>fra-wardjan</w>, <gloss>to destroy</gloss>.
       </p>
     </div>
 
-    <div type="section" n="413" status="wip">
+    <div type="section" n="413">
       <p>
         <label>§ 413.</label>
-        ga-
+        <m>ga-</m>
         (originally added to verbs to impart to them a perfective meaning, see <ref>§ 367</ref>), as
-        ga-baíran, to bring<pb n="181"/>forth;
-        ga-bindan, to bind;
-        ga-dáiljan, to divide;
-        ga-fāhan, to seize;
-        ga-fulljan, to fill;
-        ga-háitan, to call together;
-        ga-kiusan, to approve;
-        ga-láubjan, to believe;
-        ga-lisan, to gather together;
-        ga-nasjan, to save;
-        ga-rinnan, to hasten together;
-        ga-taíran, to destroy;
-        ga-wandjan, to turn round.
+        <w>ga-baíran</w>, <gloss>to bring<pb n="181"/>forth</gloss>;
+        <w>ga-bindan</w>, <gloss>to bind</gloss>;
+        <w>ga-dáiljan</w>, <gloss>to divide</gloss>;
+        <w>ga-fāhan</w>, <gloss>to seize</gloss>;
+        <w>ga-fulljan</w>, <gloss>to fill</gloss>;
+        <w>ga-háitan</w>, <gloss>to call together</gloss>;
+        <w>ga-kiusan</w>, <gloss>to approve</gloss>;
+        <w>ga-láubjan</w>, <gloss>to believe</gloss>;
+        <w>ga-lisan</w>, <gloss>to gather together</gloss>;
+        <w>ga-nasjan</w>, <gloss>to save</gloss>;
+        <w>ga-rinnan</w>, <gloss>to hasten together</gloss>;
+        <w>ga-taíran</w>, <gloss>to destroy</gloss>;
+        <w>ga-wandjan</w>, <gloss>to turn round</gloss>.
       </p>
     </div>
 
-    <div type="section" n="414" status="wip">
+    <div type="section" n="414">
       <p>
         <label>§ 414.</label>
-        hinder-
+        <m>hinder-</m>
         (<ref>§ 368</ref>), only in
-        hindar-leiþan, to go behind.
+        <w>hindar-leiþan</w>, <gloss>to go behind</gloss>.
       </p>
     </div>
 
-    <div type="section" n="415" status="wip">
+    <div type="section" n="415">
       <p>
         <label>§ 415.</label>
-        in-
+        <m>in-</m>
         (<ref>§ 370</ref>), as
-        in-brannjan, to put in the fire;
-        in-saian, to sow in;
-        in-saíƕan, to look at;
-        in-sandjan, to send forth;
-        in-widan, to reject.
+        <w>in-brannjan</w>, <gloss>to put in the fire</gloss>;
+        <w>in-saian</w>, <gloss>to sow in</gloss>;
+        <w>in-saíƕan</w>, <gloss>to look at</gloss>;
+        <w>in-sandjan</w>, <gloss>to send forth</gloss>;
+        <w>in-widan</w>, <gloss>to reject</gloss>.
       </p>
     </div>
 
-    <div type="section" n="416" status="wip">
+    <div type="section" n="416">
       <p>
         <label>§ 416.</label>
-        twis-
-        (<lang>OE.</lang> twi-, <lang>OHG.</lang> zwi-, <lang>Lat.</lang> bi-, <lang>Gr.</lang> δι- from *δϝι-, two), denoting separation, only in
-        twis-standan, to depart from one.
+        <m>twis-</m>
+        (<lang>OE.</lang> <m>twi-</m>, <lang>OHG.</lang> <m>zwi-</m>, <lang>Lat.</lang> <m>bi-</m>, <lang>Gr.</lang> <m>δι-</m> from <m>*δϝι-</m>, <gloss>two</gloss>), denoting separation, only in
+        <w>twis-standan</w>, <gloss>to depart from one</gloss>.
       </p>
     </div>
 
-    <div type="section" n="417" status="wip">
+    <div type="section" n="417">
       <p>
         <label>§ 417.</label>
-        uf-
+        <m>uf-</m>
         (<ref>§ 374</ref>), as
-        uf-blēsan, to blow up;
-        uf-brikan, to reject;
-        uf-dáupjan, to baptize;
-        uf-háusjan, to submit;
-        uf-kunnan, to recognize;
-        uf-ligan, to lie under.
+        <w>uf-blēsan</w>, <gloss>to blow up</gloss>;
+        <w>uf-brikan</w>, <gloss>to reject</gloss>;
+        <w>uf-dáupjan</w>, <gloss>to baptize</gloss>;
+        <w>uf-háusjan</w>, <gloss>to submit</gloss>;
+        <w>uf-kunnan</w>, <gloss>to recognize</gloss>;
+        <w>uf-ligan</w>, <gloss>to lie under</gloss>.
       </p>
     </div>
 
-    <div type="section" n="418" status="wip">
+    <div type="section" n="418">
       <p>
         <label>§ 418.</label>
-        tuz-
-        (<lang>OE.</lang> tor-, <lang>Gr.</lang> δυς-), only in
-        tuz-wērjan, to doubt.
+        <m>tuz-</m>
+        (<lang>OE.</lang> <m>tor-</m>, <lang>Gr.</lang> <m>δυς-</m>),
+        only in
+        <w>tuz-wērjan</w>, <gloss>to doubt</gloss>.
       </p>
     </div>
 
-    <div type="section" n="419" status="wip">
+    <div type="section" n="419">
       <p>
         <label>§ 419.</label>
-        þaírh-
-        (<lang>OE.</lang> þurh, <lang>OHG.</lang> durh, through), as þaírh-baíran, to carry through; paírh-gaggan, to go through; þaírh-saíƕan, to see through; þaírh-wisan, to remain.
+        <m>þaírh-</m>
+        (<lang>OE.</lang> <w>þurh</w>, <lang>OHG.</lang> <w>durh</w>, <gloss>through</gloss>), as
+        <w>þaírh-baíran</w>, <gloss>to carry through</gloss>;
+        <w>paírh-gaggan</w>, <gloss>to go through</gloss>;
+        <w>þaírh-saíƕan</w>, <gloss>to see through</gloss>;
+        <w>þaírh-wisan</w>, <gloss>to remain</gloss>.
       </p>
     </div>
 
-    <div type="section" n="420" status="wip">
+    <div type="section" n="420">
       <p>
         <label>§ 420.</label>
-        ufar-
+        <m>ufar-</m>
         (<ref>§ 375</ref>), as
-        ufar-gaggan, to transgress;
-        ufar-mēljan, to write over;
-        ufar-munnōn, to forget;
-        ufar-skadwjan, to overshadow;
-        ufar-steigan, to mount up.
+        <w>ufar-gaggan</w>, <gloss>to transgress</gloss>;
+        <w>ufar-mēljan</w>, <gloss>to write over</gloss>;
+        <w>ufar-munnōn</w>, <gloss>to forget</gloss>;
+        <w>ufar-skadwjan</w>, <gloss>to overshadow</gloss>;
+        <w>ufar-steigan</w>, <gloss>to mount up</gloss>.
       </p>
     </div>
 
-    <div type="section" n="421" status="wip">
+    <div type="section" n="421">
       <p>
         <label>§ 421.</label>
-        und-
-        (<lang>OE.</lang> oþ-, <lang>OHG.</lang> unt-, up to), as
-        und-greipan, to seize;
-        und-rēdan, to grant;
-        und-rinnan, to run to one.
+        <m>und-</m>
+        (<lang>OE.</lang> <m>oþ-</m>, <lang>OHG.</lang> <m>unt-</m>, <gloss>up to</gloss>), as
+        <w>und-greipan</w>, <gloss>to seize</gloss>;
+        <w>und-rēdan</w>, <gloss>to grant</gloss>;
+        <w>und-rinnan</w>, <gloss>to run to one</gloss>.
       </p>
       <p>
-        unþa-
-        (<lang>OE.</lang> ūþ-, <lang>OHG.</lang> int-, from, away), only in
-        unþa-þliuhan = <lang>OHG.</lang> int-fliohan, to escape.
+        <m>unþa-</m>
+        (<lang>OE.</lang> <m>ūþ-</m>, <lang>OHG.</lang> <m>int-</m>, <gloss>from, away</gloss>), only in
+        <w>unþa-þliuhan</w> = <lang>OHG.</lang> <w>int-fliohan</w>, <gloss>to escape</gloss>.
       </p>
     </div>
 
-    <div type="section" n="422" status="wip">
+    <div type="section" n="422">
       <p>
         <label>§ 422.</label>
-        us-
+        <m>us-</m>
         (<ref>§ 377</ref>), as
-        us-anan, to expire;
-        us-beidan, to await;
-        us-dreiban, to drive out;
-        us-giban, to give out;
-        us-kiusan, to choose out;
-        us-láubjan, to permit;
-        us-qiþan, to proclaim;
-        us-tiuhan, to lead out.
-        ur-ráisjan, to rouse up;
-        ur-reisan, to arise;
-        ur-rinnan, to proceed.
-        See § 175 note 3.
+        <w>us-anan</w>, <gloss>to expire</gloss>;
+        <w>us-beidan</w>, <gloss>to await</gloss>;
+        <w>us-dreiban</w>, <gloss>to drive out</gloss>;
+        <w>us-giban</w>, <gloss>to give out</gloss>;
+        <w>us-kiusan</w>, <gloss>to choose out</gloss>;
+        <w>us-láubjan</w>, <gloss>to permit</gloss>;
+        <w>us-qiþan</w>, <gloss>to proclaim</gloss>;
+        <w>us-tiuhan</w>, <gloss>to lead out</gloss>.
+        <w>ur-ráisjan</w>, <gloss>to rouse up</gloss>;
+        <w>ur-reisan</w>, <gloss>to arise</gloss>;
+        <w>ur-rinnan</w>, <gloss>to proceed</gloss>.
+        See <ref>§ 175 note 3</ref>.
       </p>
     </div>
 
-    <div type="section" n="423" status="wip">
+    <div type="section" n="423">
       <p>
         <label>§ 423.</label>
-        wiþra-
+        <m>wiþra-</m>
         (<ref>§ 378</ref>), only in
-        wiþra-gaggan, wiþra-ga-mōtjan, to go to meet.
+        <w>wiþra-gaggan</w>, <w>wiþra-ga-mōtjan</w>, <gloss>to go to meet</gloss>.
       </p>
     </div>
   </div>
@@ -1279,32 +1284,32 @@
   <div type="subchapter">
     <head>Suffixes.</head>
 
-    <div type="section" n="424" status="wip">
+    <div type="section" n="424">
       <p>
         <label>§ 424.</label>
-        -atjan
-        (<lang>OE.</lang> -ettan, <lang>OHG.</lang> -azzen, <abbr>cp.</abbr> § 381), used in forming intensitive verbs, as
-        laúhatjan, to lighten;
-        káupatjan, to buffet;
-        swōgatjan, to sigh, groan.
+        <m>-atjan</m>
+        (<lang>OE.</lang> <m>-ettan</m>, <lang>OHG.</lang> <m>-azzen</m>, <abbr>cp.</abbr> <ref>§ 381</ref>), used in forming intensitive verbs, as
+        <w>laúhatjan</w>, <gloss>to lighten</gloss>;
+        <w>káupatjan</w>, <gloss>to buffet</gloss>;
+        <w>swōgatjan</w>, <gloss>to sigh, groan</gloss>.
       </p>
     </div>
 
-    <div type="section" n="425" status="wip">
+    <div type="section" n="425">
       <p>
         <label>§ 425.</label>
-        -inōn
-        (with -in- from verbs like gudjinōn, to be a priest, formed from the stem gudjin-, nom. gudja, priest; ga-áiginōn, to take possession of, from áigin, property), and similarly
-        fráujinōn, to rule over;
-        raginōn, to be governor.
-        The -in- then came to be extended to verbs like
-        skalkinōn, to serve, from skalks, servant;
+        <m>-inōn</m>
+        (with <m>-in-</m> from verbs like <w>gudjinōn</w>, <gloss>to be a priest</gloss>, formed from the stem <m>gudjin-</m>, <grm>nom.</grm> <w>gudja</w>, <gloss>priest</gloss>; <w>ga-áiginōn</w>, <gloss>to take possession of</gloss>, from <w>áigin</w>, <gloss>property</gloss>), and similarly
+        <w>fráujinōn</w>, <gloss>to rule over</gloss>;
+        <w>raginōn</w>, <gloss>to be governor</gloss>.
+        The <m>-in-</m> then came to be extended to verbs like
+        <w>skalkinōn</w>, <gloss>to serve</gloss>, from <w>skalks</w>, <gloss>servant</gloss>;
         and similarly
-        draúhtinōn, to wage war;
-        faginōn, to rejoice;
-        hōrinōn, to commit adultery;
-        lēkinōn, to heal;
-        reikinōn, to govern.
+        <w>draúhtinōn</w>, <gloss>to wage war</gloss>;
+        <w>faginōn</w>, <gloss>to rejoice</gloss>;
+        <w>hōrinōn</w>, <gloss>to commit adultery</gloss>;
+        <w>lēkinōn</w>, <gloss>to heal</gloss>;
+        <w>reikinōn</w>, <gloss>to govern</gloss>.
       </p>
     </div>
   </div>
